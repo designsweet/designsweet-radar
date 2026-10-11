@@ -1,273 +1,269 @@
 [
   {
-    "id": "t3_1x2tg74",
-    "subreddit": "SideProject",
-    "title": "Built a crowdsourced Toyota delivery tracker and prep guide for Canada. Roast my UX and layout.",
-    "author": "/u/DanRubin76",
-    "url": "https://www.reddit.com/r/SideProject/comments/1x2tg74/built_a_crowdsourced_toyota_delivery_tracker_and/",
-    "updated": "2026-10-10T23:43:44+00:00",
-    "body": "Toyota allocation wait times in Canada are a mess, so I built toyotawaits.ca to give buyers real crowdsourced timelines by province and trim instead of salesperson estimates.\n Built on Next.js 16 and Supabase with Tailwind. Beyond the live wait medians, we added a delivery prep and accessory guide that breaks down realistic DIY mods to help buyers avoid four figure dealer add-on packages.\n Looking for an honest audit on a few specific things:\n 1. First impression: Do you immediately grasp what the site does and how to filter the models within five seconds?\n 2. The Delivery Prep section: How does the hierarchy feel on mobile with the video walkthroughs and external link disclosures?\n 3. Trust factor: Does this feel like an authentic community utility, or does anything trigger skepticism?\n Do not hold back on performance, copy clarity, or design polish. Thanks in advance!\n &#32; submitted by &#32; /u/DanRubin76 \n &#32;",
-    "score": 15.5,
-    "ageHours": 2.6,
-    "hits": [
-      "roast my",
-      "ux",
-      "design",
-      "first impression"
-    ],
-    "draft": {
-      "why": "OP is asking for exactly the kind of hands-on UX audit a product designer can give, with three specific questions to answer.",
-      "options": [
-        "With crowdsourced data, the trust question hinges on sample size. Show the count of reports behind every median ('based on 47 reports from Ontario') right next to the number, because a bare median with no n reads like a made-up salesperson estimate, which is the exact thing you're replacing.",
-        "What does the filtering flow look like before a user has picked a model? The 5-second test usually fails on empty states, so if the first thing people see is a generic landing rather than a model picker, that's your biggest fix. Curious how many submissions you're sitting on per trim right now."
-      ]
-    }
-  },
-  {
-    "id": "t3_1x2gc45",
-    "subreddit": "UXDesign",
-    "title": "How to be more creative with UI design?",
-    "author": "/u/Winter-Fish8452",
-    "url": "https://www.reddit.com/r/UXDesign/comments/1x2gc45/how_to_be_more_creative_with_ui_design/",
-    "updated": "2026-10-10T14:13:44+00:00",
-    "body": "First, I know UI design takes a lot of practice. With that said, how do I become more inventive, creative, experimental with UI design?\n I don’t want to get too specific but the gist of the feedback I got from work recently was that they wanted to see more visual design from me. I think the problem is that I get too stuck in patterns that already exist and am too dependent on following the existing design system. I think my team wants to see more creative stuff from me, even if it isn’t practical.\n Has anyone encountered this? I think I just feel stuck and am not sure what they mean when “more visual.”\n I asked a senior designer but I didn’t get a clear answer.\n I have always developed a habit of copying things online which I think isn’t helping me develop my own sense of style and design. I’m a bit of a neurodivergent doofus so it might be obvious to y’all but I need explicit direction lol. I have always struggled with the creative process, especially when it comes to visual design.\n I am very junior designer on a very senior team and really need to impress them.\n &#32; submitted by &#32; /u/Winter-Fish8452 \n &#32;",
-    "score": 13.2,
-    "ageHours": 12.1,
-    "hits": [
-      "feedback",
-      "ui",
-      "design",
-      "design system",
-      "designer"
-    ],
-    "draft": {
-      "why": "Junior designer got vague feedback ('more visual') and needs concrete, usable direction rather than generic advice.",
-      "options": [
-        "Copying is fine, but copy the decision, not the pixels. Next time you find a design you like, write down why it works (the contrast, the spacing, the one weird choice), then apply that same decision to your own layout with your product's constraints. Do that 20 times and you'll start generating your own variations instead of reaching for the design system defaults.",
-        "Before changing how you work, I'd get that feedback translated. Ask your lead: 'Can you show me two examples of past work, mine vs. what you'd consider more visual?' Vague feedback like that usually means something specific to them (typography, color risk, layout tension), and you can spin your wheels for months guessing wrong."
-      ]
-    }
-  },
-  {
-    "id": "t3_1x2pylj",
+    "id": "t3_1x31lxz",
     "subreddit": "design_critiques",
-    "title": "I need feedback for my notebook design pls :)",
-    "author": "/u/Charming-Jaguar8521",
-    "url": "https://www.reddit.com/r/design_critiques/comments/1x2pylj/i_need_feedback_for_my_notebook_design_pls/",
-    "updated": "2026-10-10T21:00:40+00:00",
-    "body": "I&#39;ve been trying to develop a collectable butterfly notebook brand for a while, this is one of my designs (this is the front of the notebook, the other wing is at the back of the notebook and the body of the butterfly is on the spine). I was hoping to sell these for around £24.99 What do u think reddit people?\n Feedback would be much appreciated :)\n &#32; submitted by &#32; /u/Charming-Jaguar8521 \n &#32;",
-    "score": 12.5,
-    "ageHours": 5.3,
+    "title": "Looking for artist feedback to help us choose a postcard design (~1min survey)",
+    "author": "/u/RetailBiz",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1x31lxz/looking_for_artist_feedback_to_help_us_choose_a/",
+    "updated": "2026-10-11T07:10:49+00:00",
+    "body": "We&#39;re independent artists deciding between two illustrations to use on a postcard / greeting card. Which watercolor STYLE speaks to you more? Your honest feedback shapes the final design. Takes &lt;1 minutes .\n Survey: https://forms.gle/34dxvm3PsLVRxnNY9 \n Thank you!\n &#32; submitted by &#32; /u/RetailBiz \n &#32;",
+    "score": 12.6,
+    "ageHours": 5.1,
     "hits": [
       "feedback",
       "design"
     ],
     "draft": {
-      "why": "Early-stage product designer asking for feedback on a clever wrap-around cover concept, easy to add real value.",
+      "why": "Post is a survey link rather than a real critique request, so a helpful reply should push them toward getting useful feedback here directly.",
       "options": [
-        "The wrap-around concept (wings on front and back, body on the spine) is the strongest thing here, so make sure the design still reads as a butterfly when only the front cover is visible, since that's how it'll appear in product photos and on shelves. At £24.99 you're competing with premium stationery brands, so the print finish and paper quality need to justify it as much as the artwork.",
-        "What does the front cover look like on its own, without the back wing? Most buyers will first see it flat in a listing photo, and if the single wing looks odd in isolation it could hurt conversions even though the full concept is lovely."
+        "You'll get way better signal if you post both images directly in the thread instead of a form link. Most people here won't click out to a survey, but they'll happily compare two images in-line and tell you why one works.",
+        "Quick question that matters more than which style wins: who's buying the card? The right pick for a gift-shop tourist audience is often the opposite of what artists prefer, so without knowing the buyer, survey votes can steer you wrong."
       ]
     }
   },
   {
-    "id": "t3_1x2qgff",
+    "id": "t3_1x36dj7",
     "subreddit": "SideProject",
-    "title": "I'm building a tool that explains confusing bills, leases and official letters line by line. Looking for feedback before launch",
-    "author": "/u/vabene78",
-    "url": "https://www.reddit.com/r/SideProject/comments/1x2qgff/im_building_a_tool_that_explains_confusing_bills/",
-    "updated": "2026-10-10T21:22:09+00:00",
-    "body": "Hi all. I keep running into documents I have to act on but only half understand: a medical bill that doesn&#39;t match the insurer&#39;s statement, a lease clause about &quot;joint and several liability&quot;, an IRS or CRA letter with a deadline.\n So I&#39;m building EasyToDecode ( https://easytodecode.com ). You upload a document (photo, scan or PDF), and it tells you:\n - what the document is and what matters most;\n - what looks unusual or is missing;\n - what to do next.\n Each point is quoted from the exact line it comes from, so you can check it yourself instead of trusting a summary.\n Where it is now: not live yet. There&#39;s a waitlist, and the homepage has interactive\n examples on made-up documents, quotes, and an error log)\n so you can see how a result looks. There are also 100+ free guides, no sign-up\n needed, such as how to read , how to dispute a security\n deposit deduction, and what an IRS CP2000 notice means.\n What I&#39;d love feedback on:\n Which documents would you actually use this for?\n Does &quot;every finding quotes the line it comes from&quot; make you trust it more than a chatbot answer?\n Is anything on the page confusing or off-putting?\n &#32; submitted by &#32; /u/vabene78 \n &#32;",
-    "score": 11.6,
-    "ageHours": 5,
+    "title": "RenewalOS, a simple tool to avoid unwanted SaaS renewals",
+    "author": "/u/Willing-Novel6708",
+    "url": "https://www.reddit.com/r/SideProject/comments/1x36dj7/renewalos_a_simple_tool_to_avoid_unwanted_saas/",
+    "updated": "2026-10-11T11:57:32+00:00",
+    "body": "Hi r/startups ,\n I’ve just shipped **RenewalOS**, a SaaS built with Next.js 15, Supabase, and Resend that helps freelancers and small agencies keep track of contract renewal deadlines and cancel‑by windows.\n **Problem** \n Most SaaS contracts have a *notice period* (e.g. “cancel 30 days before renewal”). When the renewal date hits, the card is charged automatically and the notice window is already closed, leaving teams stuck paying for another year.\n **Solution** \n - Users input the **renewal date** and the optional **cancel‑by date**. \n - The platform calculates the *real* deadline and sends **email alerts** (7 d, 3 d, 1 d before the deadline). \n - No bank‑card or email‑inbox access – just a clean UI where you manually add renewals. \n - Free tier covers up to 5 renewals; paid tiers add unlimited renewals, team seats, CSV import/export, and file attachments.\n **Tech** \n - Front‑end: Next.js 15 App Router + Server Actions. \n - DB &amp; Auth: Supabase with Row‑Level Security and stored procedures for plan enforcement. \n - Email: Resend with verified domain.\n - Hosting: Netlify, CI via GitHub Actions.\n **Feedback I’d love** \n **Onboarding** – Is the “Add renewal” wizard intuitive? \n **Dashboard** – Does the layout make the most‑important dates obvious? \n **Pricing model** – Does a free tier + clear tiered limits feel fair? (I’m open to revisiting it.) \n **Any missing features** – e.g., multi‑workspace, reporting, mobile‑first design.\n I’ll leave the live link in the **comment** i",
+    "score": 9.5,
+    "ageHours": 0.3,
     "hits": [
       "feedback",
-      "looks",
-      "confusing"
+      "onboarding",
+      "ui",
+      "design",
+      "dashboard"
     ],
     "draft": {
-      "why": "Founder asking for pre-launch feedback with a specific, answerable trust question, good fit for a practitioner angle on document-heavy UX.",
+      "why": "Solid ship post asking for specific feedback, good spot to give a practitioner's take on the product's core mechanic.",
       "options": [
-        "The line-quoting is your strongest feature, so make it impossible to miss: show the source line highlighted next to each finding, not just quoted underneath. That's what separates you from ChatGPT, where the answer is fluent but unverifiable. Also be careful with the word 'unusual or missing' on things like leases, since flagging a missing clause sounds like legal advice and you'll want clear framing that it's a prompt to check, not a verdict.",
-        "Who's your first target user, immigrants dealing with unfamiliar official letters, or people disputing medical bills? The answer changes your homepage a lot: a medical bill disputer wants 'fight this charge' energy, while a lease reader wants calm explanation. Right now the product sounds like it's for everyone, which usually means the landing page converts no one."
+        "The 7/3/1 day email cadence is backwards for the problem you're solving. If the cancel-by date matters, most people need the alert 30+ days out so they can decide whether to renew at all, not scramble the day before. In my experience the first alert should land at least one full billing-decision cycle early, then the shorter ones as follow-ups.",
+        "Manual entry is the right call for trust, but it's also your biggest churn risk: people add renewals once, then forget to keep the list updated. How are you planning to prompt users to re-confirm entries that haven't been touched in months?"
       ]
     }
   },
   {
-    "id": "t3_1x2modw",
-    "subreddit": "design_critiques",
-    "title": "Lumo digital wallet concept — is the balance / Safe Pocket hierarchy clear?",
-    "author": "/u/Defiant_Name5654",
-    "url": "https://www.reddit.com/r/design_critiques/comments/1x2modw/lumo_digital_wallet_concept_is_the_balance_safe/",
-    "updated": "2026-10-10T18:40:59+00:00",
-    "body": "I designed Lumo, a digital wallet concept in Figma, and would appreciate a critique of the UI and how I present the case study. This is a design project, not an app available to download.\n It brings together transfers, split expenses, QR payments, spending insights and Safe Pocket for money set aside. One decision was to separate money set aside from everyday spending, while keeping the available balance and payment actions prominent on a dark interface.\n Does the home screen make that distinction clear at a glance, or does Safe Pocket compete with the main payment actions? I would also value feedback on whether the case study explains the problem and design choices clearly enough before showing the finished screens.\n Full case study: https://www.behance.net/gallery/256925177/Lumo-Digital-Wallet-App-UIUX-Case-Study \n Thanks for taking a look — specific changes you would make to the hierarchy or presentation would really help.\n &#32; submitted by &#32; /u/Defiant_Name5654 \n &#32;",
-    "score": 10.5,
-    "ageHours": 7.7,
+    "id": "t3_1x2zfpt",
+    "subreddit": "UXDesign",
+    "title": "Breaking into UX/early career: job hunting, how-tos/education/work review — 10/11/26",
+    "author": "/u/AutoModerator",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1x2zfpt/breaking_into_uxearly_career_job_hunting/",
+    "updated": "2026-10-11T05:00:37+00:00",
+    "body": "This is a career questions thread intended for people interested in starting work in UX, or for designers with less than three years of formal freelance/professional experience. \n Please use this thread to ask questions about breaking into the field, choosing educational programs, changing career tracks, and other entry-level topics.\n If you are **not currently working in UX**, use this thread to ask questions about:\n Getting an internship or your first job in UX Transitioning to UX if you have a degree or work experience in another field Choosing educational opportunities, including bootcamps, certifications, undergraduate and graduate degree programs Finding and interviewing for internships and your first job in the field Navigating relationships at your first job, including working with other people, gaining domain experience, and imposter syndrome Portfolio reviews, particularly for case studies of speculative redesigns produced only for your portfolio When asking for feedback, please be as detailed as possible by \n Providing context Being specific about what you want feedback on, and Stating what kind of feedback you are NOT looking for If you&#39;d like your resume/portfolio to remain anonymous, be sure to remove personal information like:\n Your name, phone number, email address, external links Names of employers and institutions you&#39;ve attended. Hosting your resume on Google Drive, Dropbox, Box, etc. links may unintentionally reveal your personal information, so we",
+    "score": 7.8,
+    "ageHours": 7.3,
     "hits": [
       "feedback",
+      "ux"
+    ],
+    "draft": {
+      "why": "This is the recurring weekly megathread prompt, not an actual question, so there's nothing specific to answer; only generic value-adds fit.",
+      "options": [
+        "If you're posting a case study here for review, lead with the problem and the constraint, not the final screens. Most junior portfolios I see bury the one decision that actually shows how you think under process screenshots.",
+        "One thing that helped people I've mentored: pick the single project where you made a real tradeoff call and ask reviewers only about that. Blanket 'any feedback?' requests on portfolios almost always get shallow answers."
+      ]
+    }
+  },
+  {
+    "id": "t3_1x32id4",
+    "subreddit": "design_critiques",
+    "title": "Just finished a clients website for SPOT. I want some feedback if the concept is understandable and if you like it of course. I won’t say anything just need raw feedback. Link below! Thx!",
+    "author": "/u/Routine-Syllabub-238",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1x32id4/just_finished_a_clients_website_for_spot_i_want/",
+    "updated": "2026-10-11T08:06:03+00:00",
+    "body": "www.getspot.live \n &#32; submitted by &#32; /u/Routine-Syllabub-238 \n &#32;",
+    "score": 7.3,
+    "ageHours": 4.2,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Designer asking for raw first-impression feedback on a client site; the most useful reply addresses how to actually test whether a concept reads without explanation.",
+      "options": [
+        "The fact that you're withholding any explanation is actually the right instinct, but Reddit comments are a slow way to test this. Show it to 5 people who've never seen it, give them 10 seconds, and ask them what SPOT does and who it's for. If more than one hesitates, the hero section is doing too little.",
+        "Honest question since you want raw feedback: when you say 'concept is understandable,' do you mean the product itself (what SPOT does) or the design direction? Those need different fixes, and from the URL alone I can't tell which one you're worried about."
+      ]
+    }
+  },
+  {
+    "id": "t3_1x32axp",
+    "subreddit": "UXDesign",
+    "title": "`motif` - free, multiplayer, non-destructive UI/vector graphics editor",
+    "author": "/u/kekland322",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1x32axp/motif_free_multiplayer_nondestructive_uivector/",
+    "updated": "2026-10-11T07:53:42+00:00",
+    "body": "Hey guys!\n Excited to share an alpha build of motif - an open-source vector graphics and UI design editor. Compared to traditional vector graphics software, motif is more of a blend of non-destructive CAD techniques and the power of Blender&#39;s Geometry Nodes, while offering the simplicity of apps like Figma.\n The core idea revolves around thinking about design as a &quot;program&quot;, where each step we execute a statement. Those can be things like creating a rectangle, cutting an edge at a point, joining vertices, etc - and executing all of the statements results in the final output graphic. This allows you have things like non-destructive editing, full document creation history, and branching (in the future).\n It&#39;s currently still very much work-in-progress - currently in alpha state, and I&#39;m adding new features and polishing up existing stuff every day. Currently I&#39;m working on adding prefabs - an alternative to Figma&#39;s components.\n As a part of the alpha test, I&#39;ve hosted a free-for-all server where you can try out the multiplayer! Check it out at: https://motif.kz \n There&#39;s probably still a bunch of bugs in the code, so I&#39;d love it if you could try it out and let me know how it feels, what can be improved, or if there&#39;s any idea that you had that was missing from Figma, Illustrator, or other software.\n The end goal is to provide a free singleplayer and self-hostable multiplayer experience, and to cover pretty much everything that&#39;s",
+    "score": 6.2,
+    "ageHours": 4.4,
+    "hits": [
       "ui",
       "design",
       "figma"
     ],
     "draft": {
-      "why": "Designer asking a focused hierarchy question on a portfolio piece, which is exactly the kind of critique thread worth engaging.",
+      "why": "An open-source Figma alternative posting to r/UXDesign will get honest practitioner feedback, and Ryan can offer genuinely useful UX perspective on the statement-based editing model.",
       "options": [
-        "The general rule for this kind of screen: one number owns the top. If Safe Pocket and available balance are sized anywhere close to equal, the eye splits and neither reads first. I'd make available balance clearly dominant and demote Safe Pocket to a secondary card or row item, since moving money into it is a deliberate action, not a daily one.",
-        "Quick question: in your testing or your own use, do people need to see Safe Pocket's amount every time they open the app, or just know it exists? If it's the second one, you can collapse it into a single line item and free up space for the payment actions to breathe."
+        "The statement-list model is powerful but it'll live or die on how forgiving it feels. In my experience designers won't touch a history panel they have to understand, so make sure editing a step mid-list shows a live preview of what breaks downstream rather than failing silently.",
+        "Genuine question: when someone edits a statement in the middle of the history, how do you handle conflicts with later steps that depend on the old geometry? That interaction is the make-or-break moment for this whole approach, and it's where I'd focus your alpha testing."
       ]
     }
   },
   {
-    "id": "t3_1x2943y",
-    "subreddit": "design_critiques",
-    "title": "Ventec medical website redesign concept: does this feel clear and trustworthy?",
-    "author": "/u/QuackDB",
-    "url": "https://www.reddit.com/r/design_critiques/comments/1x2943y/ventec_medical_website_redesign_concept_does_this/",
-    "updated": "2026-10-10T07:30:13+00:00",
-    "body": "I made an independent website redesign concept for Ventec Life Systems and its VOCSN product. This is a portfolio concept, not an official Ventec website or a commissioned client project.\n The direction uses a dark background, a large product headline, photography of the device being built, and a short row of key details. The fuller page separates the therapy overview, clinical information and contact options.\n I&#39;d like a second opinion on a few things:\n Does the dark visual direction feel appropriate for a medical device company, or does it make the information harder to approach?\n Is it clear what the product is and where a visitor should go next? I&#39;m particularly interested in the headline, text sizes and balance between the photo and copy.\n What would you change before including this in a portfolio?\n I&#39;m also trying to turn work like this into paid website redesign projects. For designers who&#39;ve made that transition, what helped you get a serious client conversation: a concise case study, a small paid audit, agency partnerships, or something else?\n I&#39;d appreciate honest feedback on both the design and how to present the work. Brand and product imagery belong to their respective owners.\n https://preview.redd.it/pfwhbqf7gluh1.png?width=4000&amp;format=png&amp;auto=webp&amp;s=892bb2ccf22b711e51ba6b1d79d3e556e8554e1c \n &#32; submitted by &#32; /u/QuackDB \n &#32;",
-    "score": 10.1,
-    "ageHours": 18.8,
+    "id": "t3_1x353yl",
+    "subreddit": "SideProject",
+    "title": "I got tired of Omegle clones charging for basic features, so I built my own free alternative (with live chat translation & country filters)",
+    "author": "/u/Carl0s_620",
+    "url": "https://www.reddit.com/r/SideProject/comments/1x353yl/i_got_tired_of_omegle_clones_charging_for_basic/",
+    "updated": "2026-10-11T10:45:30+00:00",
+    "body": "Hey everyone, \n Ever since Omegle shut down, I’ve been trying out a bunch of random chat platforms, and honestly, the monetization trend drove me crazy. Almost every decent alternative either locks country filters behind a ridiculous subscription or makes you pay just to communicate properly with people who speak a different language. \n So I decided to build my own alternative over the past few months. \n A few things I focused on: \n Free Country Matching: You can filter regions without hitting a paywall. \n Built-in Real-Time Chat Translation: If you get matched with someone who speaks Spanish, French, Arabic, etc., you can actually understand each other in text chat without having to open Google Translate in another tab. \n Video &amp; Text: Supports both standard video calls and quick text chats. \n No Sign-ups: Jump straight in through the browser, no accounts or spammy downloads. \n It’s still very much a work in progress, and since it’s a solo project, I really need fresh eyes on it. \n I’d love it if a few of you could hop on, test the matching speed, check out the UI (especially on mobile), and just roast it honestly. What feels broken? What’s missing? Any feedback on connection stability or UX would mean a lot. \n Thanks! \n &#32; submitted by &#32; /u/Carl0s_620 \n &#32;",
+    "score": 5.9,
+    "ageHours": 1.5,
     "hits": [
       "feedback",
-      "design",
-      "redesign"
+      "ux",
+      "ui"
     ],
     "draft": {
-      "why": "Post has two concrete asks, design critique plus turning concept work into paid clients, which fits a practitioner's experience.",
+      "why": "Founder actively wants UX roasting on a live solo product, so specific, actionable feedback will land well.",
       "options": [
-        "On the dark direction: it can work for medical, but trust in this space usually comes from restraint and readability, not drama. I'd test your body copy and clinical info sections on the dark background especially, since dense specs and study data tend to feel heavier and less scannable there. If the therapy and clinical pages go light while the hero stays dark, that contrast actually reinforces the premium-product, serious-science split.",
-        "For turning concepts into paid work, what got me real client conversations was writing the case study around the problem and decisions, not the visuals. Something like 'Ventec's current site buries what VOCSN does, here's how I'd fix the hierarchy' shows thinking founders can buy. A screenshot alone reads as a style exercise, so before it goes in the portfolio I'd add 3 to 4 sentences on what was broken and why you changed it."
+        "One thing I'd check first on mobile: how do you end or skip a match? On these apps that button needs to be reachable with your thumb and work in one tap, because people hit it constantly. If it's buried or has a confirm dialog, that's your biggest friction point.",
+        "How are you handling moderation with no sign-ups? Random video chat lives or dies on that, and since you have no accounts to ban, I'd genuinely love to know your approach before judging the UX."
       ]
     }
   },
   {
-    "id": "t3_1x2w0qv",
+    "id": "t3_1x35jjk",
+    "subreddit": "SideProject",
+    "title": "Title: So You Think You Know Yourself? A playful self-reflection quiz.",
+    "author": "/u/ibddevine",
+    "url": "https://www.reddit.com/r/SideProject/comments/1x35jjk/title_so_you_think_you_know_yourself_a_playful/",
+    "updated": "2026-10-11T11:10:45+00:00",
+    "body": "I’m testing a free personality quiz and would love your feedback. Try it out, then let me know what felt accurate, off-base, or confusing. \n https://so-you-think-you-know-yourself.dpdevine.chatgpt.site/ \n &#32; submitted by &#32; /u/ibddevine \n &#32;",
+    "score": 5.6,
+    "ageHours": 1.1,
+    "hits": [
+      "feedback",
+      "confusing"
+    ],
+    "draft": {
+      "why": "OP wants concrete feedback on a quiz, which is easy to give genuinely and usefully.",
+      "options": [
+        "One thing that makes these quizzes feel accurate is writing results that are specific enough to be slightly wrong for some people. If every outcome feels like it fits everyone, test it by reading a friend's result and checking if it could also describe you.",
+        "How many questions is it, and are you scoring against a model like Big Five or just vibes? That changes what feedback is actually useful to you."
+      ]
+    }
+  },
+  {
+    "id": "t3_1x2zfq1",
+    "subreddit": "UXDesign",
+    "title": "Experienced job hunting, portfolio/case study/resume questions and review — 10/11/26",
+    "author": "/u/AutoModerator",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1x2zfq1/experienced_job_hunting_portfoliocase_studyresume/",
+    "updated": "2026-10-11T05:00:38+00:00",
+    "body": "This is a career questions thread intended for Designers with three or more years of professional experience, working at least at their second full time job in the field. \n If you are early career (looking for or working at your first full-time role), your comment will be removed and redirected to the the correct thread: \n Please use this thread to:\n Discuss and ask questions about the job market and difficulties with job searching Ask for advice on interviewing, whiteboard exercises, and negotiating job offers Vent about career fulfillment or leaving the UX field Give and ask for feedback on portfolio and case study reviews of actual projects produced at work (Requests for feedback on work-in-progress, provided enough context is provided, will still be allowed in the main feed.)\n When asking for feedback, please be as detailed as possible by \n Providing context Being specific about what you want feedback on, and Stating what kind of feedback you are NOT looking for If you&#39;d like your resume/portfolio to remain anonymous, be sure to remove personal information including:\n Your name, phone number, email address, external links Names of employers and institutions you&#39;ve attended. Hosting your resume on Google Drive, Dropbox, Box, etc. links may unintentionally reveal your personal information, so we suggest posting your resume to an account with no identifying information, like Imgur. This thread is posted each Sunday at midnight EST.\n &#32; submitted by &#32; /u/AutoMo",
+    "score": 5.5,
+    "ageHours": 7.3,
+    "hits": [
+      "feedback",
+      "ux"
+    ],
+    "draft": {
+      "why": "Weekly megathread where experienced designers ask for portfolio feedback, so a practical tip on what actually gets useful reviews is relevant.",
+      "options": [
+        "If you're posting a case study here, the fastest way to get real feedback is to show one decision you made and what you traded off, not the full polished narrative. Reviewers can react to a specific fork in the road, they can't react to 'here's my process start to finish.'",
+        "One thing I've noticed reviewing portfolios: most senior designers bury the outcome. Put the result (metric, launch, what changed for the team) in the first two lines of the case study, then explain how you got there."
+      ]
+    }
+  },
+  {
+    "id": "t3_1x2xwg5",
     "subreddit": "SaaS",
-    "title": "Onboarding and engaging new users",
-    "author": "/u/Sea-Yard-148",
-    "url": "https://www.reddit.com/r/SaaS/comments/1x2w0qv/onboarding_and_engaging_new_users/",
-    "updated": "2026-10-11T01:54:20+00:00",
-    "body": "Hi Everyone,\n I am a new Saas creator with absolutely zero tech background. I have 200 new users, 4 paid after launching in August. Which I know is small, but I am just excited to have users at this point 🤣.\n I am operating a Saas which has a good following on social media, decent potential, but I am noticing a lot of people who sign up for a free trial and never come back. \n I have a welcome email, email verification, a “nudge email”, trial reminders at 3,5, and 7 days. I also have a feedback survey, and a win back which offers 3 more days of a trial for users who were not engaged during the trial. \n The ones who do use it after onboarding seem engaged, and even try to get multiple free trials. I’ve gotten feedback via socials that it’s a great product. But it’s getting people to experience it or remain engaged after signing up that I am struggling with. \n I believe my weak point is onboarding. It’s just a tour through the app not having them use the core product first. I am between product fruit and userpilot and I am revamping the onboarding to engage users. \n Anything else I am missing? Also is there a better on boarding system anyone else uses? \n Thank you in advance for helping a first timer. Appreciate any and all insight. \n &#32; submitted by &#32; /u/Sea-Yard-148 \n &#32;",
-    "score": 10,
-    "ageHours": 0.4,
+    "title": "Thoughts on a simple staff rota manager I'm building?",
+    "author": "/u/AdvertisingLivid3201",
+    "url": "https://www.reddit.com/r/SaaS/comments/1x2xwg5/thoughts_on_a_simple_staff_rota_manager_im/",
+    "updated": "2026-10-11T03:34:50+00:00",
+    "body": "Hi,\n I&#39;ve not really posted on reddit before but I thought this community would be able to help me.\n I&#39;m currently working on a website for small businesses to manage their work shifts/rotas simply. Here&#39;s 1 photo I have so far of what I&#39;m working with for my MVP. It shows how a rota would be laid out and editable.\n I know this idea may not be unique, so i was looking for advice from others.\n Is this a product I could realistically get people to use? I would eventually like to profit from this if possible but I&#39;d prioritise quality and a strong user based first. If that does occur, at what point would it product become worth paying for?\n What frustrates you (if applicable) when dealing with rotas and timetables?\n What are differentiating features i could add in the future? I have some in mind such as storing employee time off requests and generating timetables using data.\n I&#39;d appreciate any feedback or any advice whatsoever, and am open to conversations. Thanks for reading!\n &#32; submitted by &#32; /u/AdvertisingLivid3201 \n &#32;",
+    "score": 5.4,
+    "ageHours": 8.7,
     "hits": [
       "feedback",
-      "onboarding",
-      "sign up"
+      "mvp"
     ],
     "draft": {
-      "why": "First-time founder with real users and a clearly self-diagnosed problem (tour-based onboarding), which makes specific advice land well.",
+      "why": "Early-stage builder asking for honest feedback on a crowded space; a practitioner's take on differentiation and willingness to pay is genuinely useful here.",
       "options": [
-        "You're right that the tour is the problem. Nobody remembers a walkthrough of 10 features they haven't needed yet. Pick the single action that delivers the core value of your product, and make the signup flow drop them straight into doing that before anything else. In my experience, getting users to one 'oh nice' moment in the first session does more than any email sequence.",
-        "The tool choice matters less than knowing where people drop off. Do you have any data on how far non-converting trial users actually get inside the app before they leave? If most quit before touching the core feature, that's onboarding. If they use it once and bounce, that's a product or pricing problem and a new onboarding tool won't fix it."
+        "Rota tools live or die on the employee side, not the manager's grid. The thing that actually gets small businesses to pay is shift swaps and availability requests handled in the app, so managers stop coordinating over WhatsApp. I'd build that before touching auto-generation, which sounds nice but is a trap until you deeply understand one industry's constraints.",
+        "Who's the specific first customer you have in mind, like cafés, care homes, or retail? The answer changes everything, because a care home needs compliance and hours tracking while a café just needs a fast swap flow. Picking one niche first is usually what makes this kind of product winnable against the big incumbents."
       ]
     }
   },
   {
-    "id": "t3_1x2ua3e",
-    "subreddit": "design_critiques",
-    "title": "Ai website feedback",
-    "author": "/u/Ok-Actuary-1349",
-    "url": "https://www.reddit.com/r/design_critiques/comments/1x2ua3e/ai_website_feedback/",
-    "updated": "2026-10-11T00:24:17+00:00",
-    "body": "&#32; submitted by &#32; /u/Ok-Actuary-1349 \n &#32;",
-    "score": 7.7,
-    "ageHours": 1.9,
-    "hits": [
-      "feedback"
-    ],
-    "draft": {
-      "why": "Post has no body content, so a clarifying question is the only useful move here.",
-      "options": [
-        "Your post seems to have come through empty, there's no link or image to look at. Can you drop the URL or a screenshot?",
-        "Happy to give feedback but nothing got attached to your post. Share the link and tell me what you're most unsure about (layout, copy, colors) so I can focus on that."
-      ]
-    }
-  },
-  {
-    "id": "t3_1x2vwww",
+    "id": "t3_1x31vpk",
     "subreddit": "SaaS",
-    "title": "Your honest feedback and help guys !",
-    "author": "/u/Appropriate-Tax7692",
-    "url": "https://www.reddit.com/r/SaaS/comments/1x2vwww/your_honest_feedback_and_help_guys/",
-    "updated": "2026-10-11T01:48:43+00:00",
-    "body": "Hello founders 🤘 (thanks for your time)\n I feel stuck after 3 years that our 5 persons company make 30/40k € a month and never achieve to go up more than that.\n We got 200 clients so far.\n We do 300/400 cold calls a week, 25% closing rate so 5/6 new clients a month while 50% stay with us 6 months.\n We don’t have inbound, 10* of referrals, mostly of our acquisition is outbound.\n our margin are never less than 40% but the company need 12-15k monthly to run (we tried so bad to reduce, we cannot without alternating the quality of output and the way to scale and we pay ourselves 2k € a month with my co-founder)\n We are 2 sales founder (I took the technical part because I have a technical background)\n 🤓I have the gut feeling that we need to break something, change something\n deep (I tell you more at the end because I don’t want to influence you) \n I would love and be grateful to have your honest opinion and feedback ! (I might post in another community as well)\n Here the big picture : \n We are B2B hyper custom database agency mostly on the French market, we have 3 offers :\n - Managed classic data production (backed by our software)\n - SDR’s outsourcing (only for the money)\n - Consulting for high custom database production (here is where the value is the most seen and our difference is the most obvious)\n And Now we want to become a SAAS company (turn our internal tech and expertise accumulated so far)\n Our moves so far to try to scale :\n - We move our company to Singapore and ours",
-    "score": 7.5,
-    "ageHours": 0.5,
+    "title": "I emailed 20 users who left. One replied, I rebuilt the offer around it, and 8 hours after relaunch I got my first annual sub.",
+    "author": "/u/Glad_Cantaloupe_6739",
+    "url": "https://www.reddit.com/r/SaaS/comments/1x31vpk/i_emailed_20_users_who_left_one_replied_i_rebuilt/",
+    "updated": "2026-10-11T07:27:31+00:00",
+    "body": "Solo founder, Montreal. For months my app had 80 signups and nobody paying. I relaunched this weekend, and 8 hours later the first annual subscription came in. I&#39;m not claiming one sale proves anything. Here&#39;s what I changed and what didn&#39;t work.\n A subscription as the only option, a signup wall before any value, and a &quot;premium&quot; redesign that looked better but read less clearly.\n What I did: emailed 20 people who signed up and left. One replied, and said price was the blocker. So I added a pay-per-use option, a 7-day trial with no card, and a free check that needs no account.\n Launch day, the first real upload failed. The tool refuses to quote anything you didn&#39;t say, and it misquoted twice. Fixed the same day.\n Within a day of relaunching, the first annual subscription came in. One sale isn&#39;t traction and I don&#39;t know yet which change mattered. I&#39;m counting the funnel step by step.\n Happy to share what I changed and what I&#39;d skip. Ask me anything.\n &#32; submitted by &#32; /u/Glad_Cantaloupe_6739 \n &#32;",
+    "score": 4.7,
+    "ageHours": 4.8,
     "hits": [
-      "feedback"
+      "redesign",
+      "signups"
     ],
     "draft": {
-      "why": "Founder with real numbers and a genuine scaling plateau, so a reply with actual math adds value.",
+      "why": "Founder did the unglamorous thing (emailed churned users, rebuilt pricing) and is being honest that one sale isn't proof. Good thread for a practitioner comment.",
       "options": [
-        "Your math problem isn't acquisition, it's the 50% of clients leaving by month 6. At 5-6 new clients a month you're basically replacing churn, so fixing retention by even 15 points grows revenue without a single extra cold call. I'd dig into why clients leave at that mark before touching SaaS, because the same leak will sink the product too.",
-        "Which of the three offers has the best retention and margin, and what happens if you kill the other two? Running managed services, SDR outsourcing, and consulting at the same time with a 5-person team usually means none of them get good enough to scale, and the SaaS pivot will add a fourth thing competing for the same hours."
+        "The pay-per-use option is probably doing more work than you think, not because people use it long term but because it reframes the annual price as the smart choice. If your funnel data shows annual buyers touched the pay-per-use page first, that's your answer for which change mattered.",
+        "Curious about the one reply out of 20. Did you email them as a plain text personal note or something that looked like a survey? In my experience the response rate difference between those two is huge, and it's worth knowing before you do round two."
       ]
     }
   },
   {
-    "id": "t3_1x1x3ib",
-    "subreddit": "design_critiques",
-    "title": "Looking for design feedback on my student court booking app, especially the map and mobile flow",
-    "author": "/u/Fr5sty",
-    "url": "https://www.reddit.com/r/design_critiques/comments/1x1x3ib/looking_for_design_feedback_on_my_student_court/",
-    "updated": "2026-10-09T21:09:21+00:00",
-    "body": "Hey everyone, I&#39;m working on CourtCall with a teammate for our entrepreneurship class and could use some design feedback. It&#39;s a browser app for finding sports courts and fields on a map and going through a demo booking.\n Here&#39;s the site: https://courtcall-software-swfl.fr5sty.chatgpt.site/ \n I was going for a clean, simple feel, but I want to know if that actually comes across or if I&#39;ve made things harder to find. The intended user is someone trying to quickly find a place to play with friends, often from their phone.\n A few things I&#39;d really appreciate a second opinion on: is it clear what to do when you first land? Do the court listings, map bubbles, and individual playing areas work together clearly? Are the filters and booking buttons easy to spot? Does anything feel cramped, oversized, or hard to read on mobile?\n We first tried an AI booking conversation, but feedback pushed us toward letting people choose directly. I used ChatGPT to help build this version, so I&#39;m especially interested in where the design needs more thought instead of just looking finished.\n The courts are real locations in Southwest Florida, but availability and reservations are simulated for class. No real booking or charge happens. You can browse without an account; saving a demo booking asks for ChatGPT sign-in. Even feedback just on the landing page or map would help. Thanks for taking a look!\n &#32; submitted by &#32; /u/Fr5sty \n &#32;",
-    "score": 7.5,
-    "ageHours": 29.2,
+    "id": "t3_1x35z8m",
+    "subreddit": "ProductManagement",
+    "title": "How to practice the KPI tree?",
+    "author": "/u/Severe-Dig-9327",
+    "url": "https://www.reddit.com/r/ProductManagement/comments/1x35z8m/how_to_practice_the_kpi_tree/",
+    "updated": "2026-10-11T11:35:20+00:00",
+    "body": "I am trying to transit into product management and I see that trying to design and build KPI trees is tricky interesting and essential. Do we have any website with practice questions or answers that help us deep dive, learn by practicing and getting feedback?\n &#32; submitted by &#32; /u/Severe-Dig-9327 \n &#32;",
+    "score": 4.5,
+    "ageHours": 0.7,
     "hits": [
       "feedback",
-      "landing page",
       "design"
     ],
     "draft": {
-      "why": "Student project with clear, answerable questions and a stated mobile-first user, so concrete UX feedback will actually land.",
+      "why": "Career-switcher asking for KPI tree practice resources; a practitioner can give one concrete practice method better than a website.",
       "options": [
-        "For a 'find a court fast on my phone' flow, the map should be the hero with one obvious action per bubble: tap court, see name, price, and a single Book button. If listings, bubbles, and detail views each present info in a different layout, unify them so the same court looks identical everywhere.",
-        "When someone lands, what's the very first thing you want them to tap: the map, the filters, or a search bar? Whichever it is, everything else on that first screen should visually step back so the answer is obvious within two seconds."
+        "I wouldn't hunt for a question bank. Pick a product you use daily, set one north star metric, and decompose it into drivers until every leaf is something a team could actually move this quarter. Then show it to a PM friend or post it here and ask people to poke holes, the critique is where the learning happens.",
+        "What trips you up more: choosing the right top metric, or breaking it down into driver metrics without double counting? The practice approach is pretty different for each, so worth knowing which muscle you're trying to build."
       ]
     }
   },
   {
-    "id": "t3_1x2mn9a",
-    "subreddit": "microsaas",
-    "title": "How do you guys monitor landing page downtime before wasting ad spend?",
-    "author": "/u/InspireSphere520",
-    "url": "https://www.reddit.com/r/microsaas/comments/1x2mn9a/how_do_you_guys_monitor_landing_page_downtime/",
-    "updated": "2026-10-10T18:39:41+00:00",
-    "body": "Hey everyone, \n I recently had a nightmare scenario where a Facebook campaign spent $300 on a broken checkout link before we noticed it. Our current &quot;strategy&quot; is basically manual checking or waiting for a client to complain. \n How are agencies and freelancers handling this? Are you using specific uptime monitors that integrate well with ad alerts, or do you just check manually throughout the day? \n Thinking about building a lightweight tool specifically for media buyers that pings Slack/WhatsApp the second a destination URL goes down or returns a 404, but wanted to see if there&#39;s already a standard standard solution I missed. \n &#32; submitted by &#32; /u/InspireSphere520 \n &#32;",
-    "score": 5.9,
-    "ageHours": 7.7,
+    "id": "t3_1x31xe0",
+    "subreddit": "UXDesign",
+    "title": "Advice for dealing with chronic stress right now?",
+    "author": "/u/Puzzleheaded_Gas_982",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1x31xe0/advice_for_dealing_with_chronic_stress_right_now/",
+    "updated": "2026-10-11T07:30:22+00:00",
+    "body": "This kind of broad but I&#39;m looking for some advice from people with a better mindset than me.\n I&#39;ve pivoted careers many times and 5 years ago I used the last of my savings to study UX Design and almost broke myself trying to get a job in tech. I&#39;m based in Europe so the salary isn&#39;t very high just about the average national salary. \n 5 year later my having physical signs of stress from the rollercoaster that is everything involved in the industry right now, every time I sign into work it&#39;s something new I have to learn or something extra I have to do because the roles keep changing. \n I&#39;m so afraid of losing my job that I keep trying to learn, do and know everything. I really care too much about trying to control my future that I&#39;m making myself ill.\n Has anyone any positive advice for dealing with this in a better way than I am? \n &#32; submitted by &#32; /u/Puzzleheaded_Gas_982 \n &#32;",
+    "score": 4.1,
+    "ageHours": 4.8,
     "hits": [
-      "landing page"
+      "ux",
+      "design"
     ],
     "draft": {
-      "why": "Real pain point with a clear story, and OP is asking whether existing solutions cover it before building, which invites a concrete answer.",
+      "why": "A burned-out designer asking for real coping strategies, which fits Ryan's practitioner experience and lets him share something grounded rather than generic self-care advice.",
       "options": [
-        "UptimeRobot or Better Stack already do this for a few bucks a month and can ping Slack within a minute of a 404 or timeout. The gap worth exploring isn't detection, it's tying the alert to the ad platform so spend pauses automatically, since by the time someone reads a Slack message the budget is still burning.",
-        "Quick question on scope: was the $300 loss because the site was fully down, or because the checkout flow broke while the page still loaded fine? A simple uptime ping catches the first, but broken checkout links usually need a synthetic check that actually clicks through, which is a very different tool to build."
-      ]
-    }
-  },
-  {
-    "id": "t3_1x2mpqy",
-    "subreddit": "indiehackers",
-    "title": "Looking for 5 founders who sell to SaaS companies to test a prospect-research tool I built",
-    "author": "/u/fsa317",
-    "url": "https://www.reddit.com/r/indiehackers/comments/1x2mpqy/looking_for_5_founders_who_sell_to_saas_companies/",
-    "updated": "2026-10-10T18:42:35+00:00",
-    "body": "I built BuyerCue and I&#39;m looking for honest feedback from five founders who sell software to SaaS companies (SEO, AI-search visibility, analytics, onboarding…).\n You describe what you sell. It lists SaaS companies that have paid for a directory or launch-board placement, with the source and date for each signal. You keep or reject them, then tell me where it falls short. Each listing provides easy contact info (emails, social media accounts) and even a cut and paste AI prompt to help refine your approach to reaching out. \n About 20 min, self-guided, plus 2 optional minutes of questions. \n No call, no recording, nothing to buy. \n Comment or DM &quot;in&quot; and I&#39;ll send the guide.\n &#32; submitted by &#32; /u/fsa317 \n &#32;",
-    "score": 5.3,
-    "ageHours": 7.6,
-    "hits": [
-      "feedback",
-      "onboarding"
-    ],
-    "draft": {
-      "why": "Founder asking for beta testers; Ryan can give practitioner feedback on the prospecting signal logic, which fits his B2B SaaS lane.",
-      "options": [
-        "The paid directory placement signal feels weak as a buying trigger, since that spend is usually a one-off growth experiment, not proof they're shopping for adjacent tools. I'd weight recent hires or job posts in the relevant function much higher, those correlate way better with active budgets in my experience.",
-        "How fresh are the signals? A directory payment from 8 months ago is a dead lead, so if the date filter can't cut to the last 30 to 60 days, the list quality will tank fast for the founders testing it."
+        "The fear of losing your job is what's actually making you worse at your job, because nobody learns well in survival mode. Pick one thing per quarter to get genuinely good at and let the rest be 'good enough for now'. Employers replace generalists the fastest anyway.",
+        "Quick check: are the role changes coming from your company, or are you absorbing extra work nobody actually asked for? In my experience a lot of this stress is self-imposed scope creep, and the fix is asking your manager directly what 'doing well' looks like in writing."
       ]
     }
   }
