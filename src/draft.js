@@ -20,7 +20,7 @@ async function callModel(draft, userText) {
   const model = draft.models[draft.provider];
   const apiKey = process.env[key];
   const isAnthropic = draft.provider === 'anthropic';
-  const res = await fetch(url, {
+  const request = () => fetch(url, {
     method: 'POST',
     headers: isAnthropic
       ? { 'x-api-key': apiKey, 'anthropic-version': '2023-06-01', 'content-type': 'application/json' }
@@ -32,6 +32,12 @@ async function callModel(draft, userText) {
         : { model, max_tokens: 2000, reasoning_effort: 'low', messages: [{ role: 'system', content: instructions() }, { role: 'user', content: userText }] },
     ),
   });
+  // New Kimi accounts are limited to 3 requests/min, so wait out 429s and retry.
+  let res = await request();
+  for (let attempt = 0; res.status === 429 && attempt < 5; attempt++) {
+    await new Promise((r) => setTimeout(r, 21000));
+    res = await request();
+  }
   if (!res.ok) throw new Error(`${draft.provider} API ${res.status}: ${(await res.text()).slice(0, 200)}`);
   const data = await res.json();
   return isAnthropic
