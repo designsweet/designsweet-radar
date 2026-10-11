@@ -1,0 +1,99 @@
+{
+  "maxPostAgeHours": 30,
+  "digestSize": 12,
+  "subreddits": [
+    {
+      "name": "SaaS",
+      "weight": 1.0
+    },
+    {
+      "name": "startups",
+      "weight": 0.9
+    },
+    {
+      "name": "indiehackers",
+      "weight": 1.0
+    },
+    {
+      "name": "SideProject",
+      "weight": 0.9
+    },
+    {
+      "name": "Entrepreneur",
+      "weight": 0.7
+    },
+    {
+      "name": "UXDesign",
+      "weight": 1.0
+    },
+    {
+      "name": "web_design",
+      "weight": 0.8
+    },
+    {
+      "name": "design_critiques",
+      "weight": 1.2
+    },
+    {
+      "name": "ProductManagement",
+      "weight": 0.8
+    },
+    {
+      "name": "microsaas",
+      "weight": 0.9
+    }
+  ],
+  "keywords": {
+    "feedback": 3,
+    "roast my": 4,
+    "landing page": 3,
+    "onboarding": 3,
+    "pricing page": 3,
+    "conversion": 2,
+    "activation": 2,
+    "churn": 2,
+    "ux": 2,
+    "ui": 1.5,
+    "design": 1.5,
+    "redesign": 3,
+    "mvp": 2,
+    "dashboard": 1.5,
+    "design system": 3,
+    "figma": 2,
+    "looks": 1,
+    "users drop": 3,
+    "sign up": 1,
+    "signups": 2,
+    "bounce": 2,
+    "confusing": 2,
+    "designer": 1.5,
+    "first impression": 3
+  },
+  "blockPhrases": [
+    "[for hire]",
+    "for hire",
+    "i will design",
+    "dm me for",
+    "hiring",
+    "affiliate",
+    "giveaway",
+    "promote your",
+    "self promotion",
+    "share your startup",
+    "megathread",
+    "looking for testers",
+    "free to start",
+    "just launched",
+    "launching today",
+    "check out my",
+    "i built a",
+    "use code "
+  ],
+  "draft": {
+    "provider": "kimi",
+    "models": {
+      "kimi": "kimi-k3",
+      "anthropic": "claude-sonnet-5-5"
+    }
+  }
+}

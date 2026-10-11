@@ -1,0 +1,203 @@
+[
+  {
+    "id": "t3_1x1kcyx",
+    "subreddit": "SaaS",
+    "title": "Looking for feedback on my landing page",
+    "author": "/u/trainerdrive",
+    "url": "https://www.reddit.com/r/SaaS/comments/1x1kcyx/looking_for_feedback_on_my_landing_page/",
+    "updated": "2026-10-09T12:42:40+00:00",
+    "body": "Software for personal trainers to manage their clients end to end. Includes unlimited free intake forms. \n Thanks\n &#32; submitted by &#32; /u/trainerdrive \n &#32;",
+    "score": 14.5,
+    "ageHours": 3.5,
+    "hits": [
+      "feedback",
+      "landing page"
+    ],
+    "draft": {
+      "why": "Founder asking for landing page feedback in a feedback-friendly sub; easy to give one concrete conversion fix.",
+      "options": [
+        "Your headline leads with a feature (unlimited free intake forms) instead of the outcome. Trainers don't buy intake forms, they buy back the hours they lose chasing clients over text and spreadsheets, so put that pain up top and demote forms to a supporting bullet.",
+        "Who's the page actually aimed at: solo trainers just starting out, or trainers with 20+ clients drowning in admin? The copy reads different depending on which one, and right now 'end to end' is too vague for either to feel like it's for them."
+      ]
+    }
+  },
+  {
+    "id": "t3_1x1mxes",
+    "subreddit": "design_critiques",
+    "title": "Critique request: is the visual hierarchy on my freelancer landing page too busy?",
+    "author": "/u/sharkgil",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1x1mxes/critique_request_is_the_visual_hierarchy_on_my/",
+    "updated": "2026-10-09T14:31:39+00:00",
+    "body": "I&#39;m the developer of Tasda and would appreciate a design critique of this page: https://tasda.com/en/solutions/ai-for-freelancers/ \n The intended reading order is: understand the portfolio use case, see an example, then decide whether to try creating a representative. I&#39;m unsure whether the hero, cards and primary button compete for attention.\n Three design questions:\n Which element catches your eye first, and does it help explain the page?\n Where would you reduce content or add breathing room on mobile?\n Does the primary button suggest the next step clearly, or would you change its placement or label?\n This is my commercial project, with limited starter credits and paid continued usage. I&#39;m asking for design criticism, not a signup or purchase. AI helped prepare this request; the page and the design decisions are mine.\n &#32; submitted by &#32; /u/sharkgil \n &#32;",
+    "score": 11.3,
+    "ageHours": 1.7,
+    "hits": [
+      "landing page",
+      "design"
+    ],
+    "draft": {
+      "why": "The asker has a clear reading order in mind and three answerable questions, so a focused reply can be genuinely useful.",
+      "options": [
+        "The test I'd run: your eye should land on the hero headline first, and it should state the outcome (\"show your work to clients in one page\"), not the category (\"AI for freelancers\"). If the primary button competes with the cards, demote the cards visually with lighter borders and let the button be the only saturated color on the page.",
+        "What does the button actually say right now, and where does it sit on mobile relative to the example section? If it's above the example, most visitors haven't seen the proof yet, so I'd repeat the same CTA once after the example block and keep the label action-specific like \"Create my portfolio\" rather than \"Try it\" or \"Get started.\""
+      ]
+    }
+  },
+  {
+    "id": "t3_1x0vhnw",
+    "subreddit": "design_critiques",
+    "title": "Feedback on UI Design",
+    "author": "/u/Quick_Notice9346",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1x0vhnw/feedback_on_ui_design/",
+    "updated": "2026-10-08T16:27:50+00:00",
+    "body": "Hello,\n This is a website for IELTS prep and evaluations. I wanted to get some thoughts and suggestions regarding the UI of the website.\n https://bandtutor.ai \n &#32; submitted by &#32; /u/Quick_Notice9346 \n &#32;",
+    "score": 9.6,
+    "ageHours": 23.8,
+    "hits": [
+      "feedback",
+      "ui",
+      "design"
+    ],
+    "draft": {
+      "why": "Designer asking for UI feedback but gives no link access or screenshots in the post itself, so a sharp question plus one common fix for edtech landing pages is the right move.",
+      "options": [
+        "I can't open the link from here, so quick question: what's the single action you want a first-time visitor to take? For test prep sites it's usually 'start a free evaluation' and everything on the hero should point at that one button. If you've got two or three competing CTAs up top, that's usually the first thing to fix.",
+        "Happy to take a look, but could you share a screenshot of the homepage and one inner page? Links rot and I want to critique what you actually see. Also, who's the primary user: students self-studying, or tutors evaluating students? The UI priorities differ a lot between those two."
+      ]
+    }
+  },
+  {
+    "id": "t3_1x1l7l4",
+    "subreddit": "SaaS",
+    "title": "Which webinar would you attend based on ux ui?",
+    "author": "/u/No_Brilliant_2940",
+    "url": "https://www.reddit.com/r/SaaS/comments/1x1l7l4/which_webinar_would_you_attend_based_on_ux_ui/",
+    "updated": "2026-10-09T13:21:06+00:00",
+    "body": "Keep in mind everything is a place holder including the photo. \n &#32; submitted by &#32; /u/No_Brilliant_2940 \n &#32;",
+    "score": 7.3,
+    "ageHours": 2.9,
+    "hits": [
+      "ux",
+      "ui"
+    ]
+  },
+  {
+    "id": "t3_1x1ns57",
+    "subreddit": "SideProject",
+    "title": "Parents or Grandparents struggle with booking Uber/Rapido rides? I am trying to solve this",
+    "author": "/u/the-yushiki",
+    "url": "https://www.reddit.com/r/SideProject/comments/1x1ns57/parents_or_grandparents_struggle_with_booking/",
+    "updated": "2026-10-09T15:05:45+00:00",
+    "body": "Hello everyone!\n I&#39;ve been working on a side project called Ride Saathi, and wanted to get some feedback before spending more time building it.\n The idea came from my parents constantly asking me to book Uber/Rapido rides for them. So I thought, why not build a voice assistant that helps people book rides just by talking in their native language (Hindi, Telugu, Marathi, etc.)?\n I&#39;ve built an early MVP that my friends and family have liked so far, but I&#39;d love to hear what others think.\n The app lets users choose destinations through conversation, and family members can set up frequently visited places like home, doctor, temple, etc., to make things easier.\n I&#39;ve attached a video of V0 (the initial prototype) and UI screenshots of both V0 and V1, which I&#39;m currently building.\n One limitation is that Uber/Ola haven&#39;t provided direct booking API access yet, so the app currently opens Uber with the selected destination, where users complete the booking.\n My main question is: Do your parents or grandparents also struggle with booking rides? Would something like this actually be useful, or are existing apps already good enough?\n If you&#39;d like to try the MVP, I&#39;d be happy to share it. You can also join the waitlist for V1 here:\n Ride Saathi Waitlist \n Would love some honest feedback, including criticism. Thanks!\n &#32; submitted by &#32; /u/the-yushiki \n &#32;",
+    "score": 7.3,
+    "ageHours": 1.2,
+    "hits": [
+      "feedback",
+      "ui",
+      "mvp"
+    ]
+  },
+  {
+    "id": "t3_1x1nh7n",
+    "subreddit": "microsaas",
+    "title": "A plain-text box still left three onboarding questions unanswered",
+    "author": "/u/antx4reddit",
+    "url": "https://www.reddit.com/r/microsaas/comments/1x1nh7n/a_plaintext_box_still_left_three_onboarding/",
+    "updated": "2026-10-09T14:54:11+00:00",
+    "body": "I&#39;m building RecallCheck, a browser tool for checking exact phrases in text. Our own product review exposed an onboarding gap: replacing JSON with a plain-text box still left the visitor to figure out what to paste, what to check, and what a failed result meant.\n We changed three parts of the entry flow:\n Name the input sources. A note, summary, or assembled prompt that you can see and control is a usable starting point. Hidden model memory isn&#39;t.\n Demonstrate the requirement in the format the visitor must enter. Under &quot;What should be gone?&quot;, the example is &quot;I live in London.&quot;, not an instruction like &quot;remove my old location&quot;. A separate optional field checks wording that should remain.\n Show a failure and its next step. The worked example contains both an old and a current sentence. Visitors can load a corrected example and compare the results with the same rules, then try their own text. They can also skip the example.\n For another input-heavy tool, I&#39;d review the entry screen with three questions: Can someone identify the material to bring? Can they copy the shape of the example requirement? Can they name the action to take after a failure?\n These changes came from reviewing our own product. We haven&#39;t yet verified an external user completing their own case, so there&#39;s no conversion improvement to report. Matching is literal, including case and punctuation; it doesn&#39;t judge meaning.\n The flow is at https://recallcheck.i",
+    "score": 7.2,
+    "ageHours": 1.3,
+    "hits": [
+      "onboarding",
+      "conversion"
+    ]
+  },
+  {
+    "id": "t3_1x1ntlk",
+    "subreddit": "SideProject",
+    "title": "Chosa - An app to track house projects and ask DIY questions (looking for honest feedback)",
+    "author": "/u/CoffeeDome",
+    "url": "https://www.reddit.com/r/SideProject/comments/1x1ntlk/chosa_an_app_to_track_house_projects_and_ask_diy/",
+    "updated": "2026-10-09T15:07:19+00:00",
+    "body": "Built an app to track my house projects + answer DIY questions. Looking for honest feedback\n Solo dev and homeowner here. My half-finished projects (drywall patch, re-caulking the tub, the AC tune-up I forget every year) were scattered across sticky notes and my head, so I built Chosa to keep them in one place.\n It tracks projects, recurring chores, costs, and a shopping list, and has an AI helper for DIY questions. Free on iPhone and Android: https://chosa.app \n Two questions for anyone who tries it:\n Was it clear what to do right after signing up?\n What would make you keep using it?\n Thanks, and happy to answer anything about the build (React Native/Expo + tRPC).\n &#32; submitted by &#32; /u/CoffeeDome \n &#32;",
+    "score": 6.8,
+    "ageHours": 1.1,
+    "hits": [
+      "feedback"
+    ]
+  },
+  {
+    "id": "t3_1x1nffw",
+    "subreddit": "SideProject",
+    "title": "I made my first Linux distro/reskin FilzaOS v1.0.9. Looking for honest feedback, suggestions and learning resources",
+    "author": "/u/AsharPeshimam",
+    "url": "https://www.reddit.com/r/SideProject/comments/1x1nffw/i_made_my_first_linux_distroreskin_filzaos_v109/",
+    "updated": "2026-10-09T14:52:07+00:00",
+    "body": "Hi everyone,\n I&#39;ve been working on my first Linux customization project, called FilzaOS , and I&#39;ve just published an early public build.I built this for someone special they like the colour purple that explains the purple color hahaa.\n I&#39;m a student learning software development and Linux, and this is very much a learning project. I wanted to take Ubuntu 24.04 and start shaping it into an environment with its own identity, including custom branding, a purple visual theme, wallpapers, terminal styling, boot branding, and a collection of custom command-line tools.\n To be completely transparent, FilzaOS is currently an early-stage Ubuntu-based remix/reskin. It still relies on Ubuntu&#39;s underlying system, kernel, and core components. It isn&#39;t a new operating system built from scratch, and there is plenty left to do.\n Links \n GitHub and source code: https://github.com/Peshimam-Ashar-Mohammed/Filza-OS ISO download: https://sourceforge.net/projects/filzaos/files/v1.0.9/FilzaOS-v1.0.9.iso/download I&#39;d really appreciate help from people who are more experienced with Linux, distro development, system customization, and open-source projects.\n If you decide to try it, please use a virtual machine such as VMware or VirtualBox. This release is intended for live-session/VM testing; it is not an installation-ready release for a physical computer. Please don&#39;t replace your daily operating system with it.\n I&#39;m especially interested in hearing:\n Does the overall v",
+    "score": 6.8,
+    "ageHours": 1.4,
+    "hits": [
+      "feedback"
+    ]
+  },
+  {
+    "id": "t3_1x1hcta",
+    "subreddit": "web_design",
+    "title": "Feedback Thread",
+    "author": "/u/AutoModerator",
+    "url": "https://www.reddit.com/r/web_design/comments/1x1hcta/feedback_thread/",
+    "updated": "2026-10-09T10:00:49+00:00",
+    "body": "Our weekly thread is the place to solicit feedback for your creations. Requests for critiques or feedback outside of this thread are against our community guidelines. Additionally, please be sure that you&#39;re posting in good-faith. Attempting to circumvent self-promotion or commercial solicitation guidelines will result in a ban. \n Feedback Requestors Please use the following format:\n URL : \n Purpose : \n Technologies Used : \n Feedback Requested : (e.g. general, usability, code review, or specific element) \n Comments :\n Post your site along with your stack and technologies used and receive feedback from the community. Please refrain from just posting a link and instead give us a bit of a background about your creation.\n Feel free to request general feedback or specify feedback in a certain area like user experience, usability, design, or code review.\n Feedback Providers Please post constructive feedback. Simply saying, &quot;That&#39;s good&quot; or &quot;That&#39;s bad&quot; is useless feedback. Explain why. Consider providing concrete feedback about the problem rather than the solution. Saying, &quot;get rid of red buttons&quot; doesn&#39;t explain the problem. Saying &quot;your site&#39;s success message being red makes me think it&#39;s an error&quot; provides the problem. From there, suggest solutions. Be specific. Vague feedback rarely helps. Again, focus on why. Always be respectful Template Markup **URL**: **Purpose**: **Technologies Used**: **Feedback Requested**: ",
+    "score": 6.8,
+    "ageHours": 6.2,
+    "hits": [
+      "feedback",
+      "design"
+    ]
+  },
+  {
+    "id": "t3_1x1dfbr",
+    "subreddit": "design_critiques",
+    "title": "pls review my portfolio",
+    "author": "/u/DealerExtension3994",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1x1dfbr/pls_review_my_portfolio/",
+    "updated": "2026-10-09T05:51:30+00:00",
+    "body": "Hey guys, I’ve been working on my design portfolio for a while and I’m finally at the point where I feel like it’s ready to show people.\n I’m mainly interested in branding and visual identity, and I’m hoping to start applying for work soon.\n Would really appreciate some honest feedback on it. I’m mostly wondering if the work feels strong enough yet, whether the portfolio is too generic, and if there’s anything that immediately stands out as something I should fix.\n Feel free to be harsh lol, I’d rather hear what’s actually wrong with it than just “looks good”.\n &#32; submitted by &#32; /u/DealerExtension3994 \n &#32;",
+    "score": 6.8,
+    "ageHours": 10.4,
+    "hits": [
+      "feedback",
+      "design",
+      "looks"
+    ]
+  },
+  {
+    "id": "t3_1x1jpne",
+    "subreddit": "SaaS",
+    "title": "Critique my new artsy landing page!",
+    "author": "/u/JannVanDam",
+    "url": "https://www.reddit.com/r/SaaS/comments/1x1jpne/critique_my_new_artsy_landing_page/",
+    "updated": "2026-10-09T12:10:58+00:00",
+    "body": "Trying to speak to creatives in social media and marketing who haven&#39;t yet adopted much AI due to complexity and loss of control... surprisingly large group, surprisingly unreceptive to messaging (I wonder why!)\n Made with Opus 5.5 and a few open source models (guess which)\n See here: https://rivermark.ai \n EDIT: I didn&#39;t expect anyone to sign up - sorry to all who signed up and got a Closed Beta screen - I&#39;m approving yall one by one and will send each and everyone an email when I approve you\n &#32; submitted by &#32; /u/JannVanDam \n &#32;",
+    "score": 6.7,
+    "ageHours": 4.1,
+    "hits": [
+      "landing page",
+      "sign up"
+    ]
+  },
+  {
+    "id": "t3_1x1navl",
+    "subreddit": "UXDesign",
+    "title": "i would like your feedback",
+    "author": "/u/Low-Insurance-3678",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1x1navl/i_would_like_your_feedback/",
+    "updated": "2026-10-09T14:46:54+00:00",
+    "body": "&#32; submitted by &#32; /u/Low-Insurance-3678 \n &#32;",
+    "score": 6.4,
+    "ageHours": 1.5,
+    "hits": [
+      "feedback"
+    ]
+  }
+]

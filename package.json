@@ -1,0 +1,11 @@
+{
+  "name": "designsweet-radar",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Daily scan of Reddit for posts worth a helpful reply",
+  "scripts": {
+    "scan": "node --env-file-if-exists=.env src/index.js",
+    "scan:dry": "node --env-file-if-exists=.env src/index.js --dry --no-draft --no-slack"
+  }
+}
