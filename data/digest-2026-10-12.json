@@ -1,0 +1,265 @@
+[
+  {
+    "id": "t3_1x3yuh2",
+    "subreddit": "design_critiques",
+    "title": "I'd like to get some feedback on my app's design and promo video",
+    "author": "/u/Lofiry_",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1x3yuh2/id_like_to_get_some_feedback_on_my_apps_design/",
+    "updated": "2026-10-12T10:59:48+00:00",
+    "body": "Hey r/design_critiques !\n I made an app for MacBooks and uploaded my first promo video to YouTube.\n https://www.youtube.com/watch?v=8sYsfNterDg \n lucidcore.app \n I really wanted to make the design feel light and airy, with everything following a consistent visual style. I really liked neumorphic shapes and buttons, so I decided to go with that approach.\n This is my first commercial project, and actually my first project in general, so I&#39;d really love to get some feedback specifically on the visual aspects of the app.\n &#32; submitted by &#32; /u/Lofiry_ \n &#32;",
+    "score": 13.5,
+    "ageHours": 1.4,
+    "hits": [
+      "feedback",
+      "design"
+    ],
+    "draft": {
+      "why": "First-time designer asking for visual feedback on a neumorphic Mac app, a style with well-known usability pitfalls worth flagging.",
+      "options": [
+        "Neumorphism looks clean in screenshots but falls apart in daily use because the low-contrast buttons and controls become hard to distinguish, especially in bright environments or for anyone with vision issues. I'd bump up the contrast on your interactive elements so they read as clickable at a glance, not just as part of the surface.",
+        "One thing I can't tell from the post: does the app pass basic contrast checks (WCAG AA) on the neumorphic buttons and text? That's usually the first casualty of this style, and it's a hard sell commercially if users can't tell what's interactive."
+      ]
+    }
+  },
+  {
+    "id": "t3_1x3y06x",
+    "subreddit": "SideProject",
+    "title": "Yesterday r/roastmystartup tore apart my landing page (fair). Fixed the worst of it — here's v2, roast it again?",
+    "author": "/u/carvenski870",
+    "url": "https://www.reddit.com/r/SideProject/comments/1x3y06x/yesterday_rroastmystartup_tore_apart_my_landing/",
+    "updated": "2026-10-12T10:09:25+00:00",
+    "body": "Hey r/SideProject — building in public, warts and all.\n Yesterday I posted my landing page on r/roastmystartup and got exactly what I asked for: 3 comments, zero mercy, all three pointing at real problems:\n My data method is a proxy. I query the official APIs of each AI engine — that&#39;s a sample, not exactly what a user sees inside the ChatGPT app. Fair, and now stated plainly in the FAQ. I wrote &quot;FAQ schema&quot; like it&#39;s 2021. Google killed FAQ rich results in 2023. The real point is structured Q&amp;A that AI engines can cite — rewriting that section today. One scan is noise. Variance across runs is real, so the product reports mention rates across multiple runs with prompts public. No black-box scores. (I replied to all three as OP, honestly — happy to link the thread.)\n The page: https://mentionmap.tech — MentionMap, a $15/mo tracker for whether ChatGPT / Claude / Gemini / Perplexity mention your brand. Built for bloggers and small sites; enterprise tools charge $99+ and don&#39;t care about this segment.\n What I&#39;m validating before writing a line of product code: 50 waitlist emails in 2 weeks (clock started Saturday). Daily honest updates, pass or fail.\n Update: the roast thread already turned two readers into waitlist signups — brutal honesty seems to convert.\n Roast v2: is the value prop clear now? As a blogger, would you leave an email?\n &#32; submitted by &#32; /u/carvenski870 \n &#32;",
+    "score": 9,
+    "ageHours": 2.2,
+    "hits": [
+      "landing page",
+      "signups"
+    ],
+    "draft": {
+      "why": "Founder is iterating publicly and asking specifically whether the value prop reads clearly, which is squarely a design/copy question worth a concrete answer.",
+      "options": [
+        "The fixes you listed are good, but the honest version of your method is also your best differentiator: 'we query the APIs, prompts are public, no black-box scores.' I'd move that up from the FAQ into the hero subtext, because transparency is the thing $99 tools don't lead with.",
+        "Quick question before judging clarity: what does a blogger actually do with a low mention rate? If the page doesn't show one concrete next step after 'you're not being mentioned,' the value prop ends at anxiety instead of action."
+      ]
+    }
+  },
+  {
+    "id": "t3_1x3sok6",
+    "subreddit": "microsaas",
+    "title": "Looking for feedback survey SaaS where can send to our users via FB Messenger",
+    "author": "/u/EquipmentOk5137",
+    "url": "https://www.reddit.com/r/microsaas/comments/1x3sok6/looking_for_feedback_survey_saas_where_can_send/",
+    "updated": "2026-10-12T04:40:35+00:00",
+    "body": "We have a CRM that operates via FB messenger. So users are connected to us via it. We would like to ask them if they had issues or something or survey if they enjoyed the onboarding experience. What is the best SaaS for this? It would be an automatic thing we can operate and send to users (automatically) when they use the platform or have been inactive for aw hile. \n &#32; submitted by &#32; /u/EquipmentOk5137 \n &#32;",
+    "score": 8.9,
+    "ageHours": 7.7,
+    "hits": [
+      "feedback",
+      "onboarding"
+    ],
+    "draft": {
+      "why": "Specific tooling question with a clear constraint (FB Messenger delivery, automated triggers) that a practitioner can answer with real names and a gotcha.",
+      "options": [
+        "ManyChat or Chatfuel can do this inside Messenger itself, triggering a quick survey flow after signup or after X days of inactivity, which beats sending users to an external form. One gotcha: Meta's 24 hour messaging window means you can't freely message inactive users, so for re-engagement you'll need a sponsored message or an email fallback.",
+        "Do you actually need the survey inside Messenger, or would a Messenger message with a one-question link work? If a link is fine, tools like Delighted or Refiner can handle the automation and you just trigger the send from your CRM's webhook."
+      ]
+    }
+  },
+  {
+    "id": "t3_1x3yj23",
+    "subreddit": "SaaS",
+    "title": "Has anyone had success with setting up a web funnel for a mobile app?",
+    "author": "/u/FromBiotoDev",
+    "url": "https://www.reddit.com/r/SaaS/comments/1x3yj23/has_anyone_had_success_with_setting_up_a_web/",
+    "updated": "2026-10-12T10:41:08+00:00",
+    "body": "Basically the title\n I’ve got a lot of traffic coming from my landing page but I think I’m losing some where I think I could capture it in the web app flow and prompt them to download after onboarding from there or something??\n I’m getting about 200-300 clicks daily, and I’m seeing actual subscriptions come through to the mobile app but it’s small, but definitely a pattern \n &#32; submitted by &#32; /u/FromBiotoDev \n &#32;",
+    "score": 7.5,
+    "ageHours": 1.7,
+    "hits": [
+      "landing page",
+      "onboarding"
+    ],
+    "draft": {
+      "why": "Common SaaS growth problem with real traction signals (200-300 daily clicks, some conversions), so a specific funnel fix is genuinely useful.",
+      "options": [
+        "The pattern that works well is moving the paywall to the web: let people sign up and pay in the browser (Stripe web checkout), then deep link them into the app already subscribed. You skip the app store's cut and the install-dropoff before purchase, and you can measure the whole funnel instead of losing visibility at the store redirect.",
+        "Where exactly are you losing them right now, between landing page and store listing, or between install and subscribe? The fix is pretty different depending on which one, so I'd check your store listing conversion rate before rebuilding the flow."
+      ]
+    }
+  },
+  {
+    "id": "t3_1x3y9hp",
+    "subreddit": "SaaS",
+    "title": "Codebase wiki written from knowledge graph, appreciate feedback!",
+    "author": "/u/Apart-Employment-592",
+    "url": "https://www.reddit.com/r/SaaS/comments/1x3y9hp/codebase_wiki_written_from_knowledge_graph/",
+    "updated": "2026-10-12T10:24:52+00:00",
+    "body": "Hi everyone, \n I&#39;m Alessandro and I&#39;ve been building doc0, which turns a codebase into a wiki that stays in sync as the code changes. Before going further, I want to know whether the output is actually good, so I generated wikis for a few open-source projects and I&#39;m asking feedback on the actual quality of the output.\n **How it differs from pasting a repo into an LLM** \n The usual failure mode of AI-generated docs is confidently describing call paths that don&#39;t exist. doc0 is built around not doing that: \n - It parses the repo with tree-sitter into a graph of functions, calls, and imports. A call only becomes an edge when the code proves it: same scope, an import, the same package, or a typed receiver. Anything it can&#39;t prove is stored as unresolved, not guessed. \n - Pages are written from that graph. A page about a flow gets real call paths from it. Every function and class a page mentions is checked against the graph, and a page with too many misses gets rewritten. \n - Quoted code is copied from the cited lines and linked to the commit the page was written from. - On push, only the pages your change touches get rewritten.\n I&#39;ve been working on this for a while and I&#39;m looking for honest feedback.\n Here you can find the generated wikis:\n doc0.dev/explore \n I&#39;d love to hear your thoughts!\n Thanks!\n &#32; submitted by &#32; /u/Apart-Employment-592 \n &#32;",
+    "score": 7.5,
+    "ageHours": 2,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Founder asking for genuine feedback on a real artifact, good chance to give a designer's read on the output quality bar.",
+      "options": [
+        "The graph-grounding is the right call, but the wiki's quality will live or die on the entry experience: when a new dev lands on a page, do they get the 'where do I start' path or a wall of generated flow pages? In my experience, a hand-curated 'start here' page layered on top of generated content is what makes auto-docs actually usable.",
+        "Sharp question: how do the wikis handle the 'why' behind code? A graph can prove what calls what, but design decisions, invariants, and 'don't touch this without X' context usually only exist in PR discussions and commit messages. That gap is where most generated docs fall flat for real onboarding."
+      ]
+    }
+  },
+  {
+    "id": "t3_1x3r4fi",
+    "subreddit": "SaaS",
+    "title": "5 lessons from adding AI to a SaaS onboarding flow (learned by breaking things)",
+    "author": "/u/Yz31LL",
+    "url": "https://www.reddit.com/r/SaaS/comments/1x3r4fi/5_lessons_from_adding_ai_to_a_saas_onboarding/",
+    "updated": "2026-10-12T03:14:38+00:00",
+    "body": "Onboarding is where most SaaS products lose people. For the past few months I’ve been building an AI layer for the SaaS I work on, so users can describe their history or drop in photos instead of filling out forms. Here’s what I learned.\n 1. Fewer flows beat more features \n I merged three separate flows into one experience and deleted over 20k lines of code. Less to maintain, and users only learn it once.\n 2. Speed is an activation metric \n The first reply used to take 2m18s. Showing replies instantly and running searches in the background cut it to about 48s. Two minutes of silence is where people leave.\n 3. The most expensive model isn’t the best one \n The app was silently running a premium model and one reply took 105s. A faster, cheaper model fixed most of it. Check your AI cost per user.\n 4. Never let AI touch customer data without approval \n The AI once saved 9 entries to someone’s profile without review. Now it only creates drafts, and saving is always a button the user clicks.\n 5. Your AI will claim it did things it didn’t \n It would say “added that” when nothing was added. Now the server checks every reply against what actually happened.\n Biggest takeaway\n Let AI remove effort, not control.\n Question for founders: Where do you draw the line between what your AI does automatically and what needs user approval?\n &#32; submitted by &#32; /u/Yz31LL \n &#32;",
+    "score": 6.8,
+    "ageHours": 9.1,
+    "hits": [
+      "onboarding",
+      "activation"
+    ],
+    "draft": {
+      "why": "Detailed practitioner post with concrete numbers, good fit for a designer's take on the trust/control angle.",
+      "options": [
+        "Point 4 is the one I'd underline twice. In my experience, draft-then-approve is the only AI pattern users actually trust after the first surprise, and the approval click is barely friction compared to the churn from one 'wait, what did it just do?' moment. The server-side verification in point 5 is smart too, since confident wrongness destroys trust faster than slowness ever will.",
+        "Curious about the 48s number: did you test whether users perceived it as fast because of the instant first reply, or because of the total time? I've found perceived speed matters more than actual speed in onboarding, so if the streaming reply is doing the heavy lifting, you might get away with slower background processing than you think."
+      ]
+    }
+  },
+  {
+    "id": "t3_1x3kouc",
+    "subreddit": "microsaas",
+    "title": "Live SaaS for a niche audience, several signups but no paying customers yet. What would you try next?",
+    "author": "/u/no_body_12345",
+    "url": "https://www.reddit.com/r/microsaas/comments/1x3kouc/live_saas_for_a_niche_audience_several_signups/",
+    "updated": "2026-10-11T21:56:33+00:00",
+    "body": "I’m a solo founder, working on this alongside a day job. I’ve built and launched a SaaS for a small professional niche in the UK. It’s live in production with working billing, and a handful of people have signed up for the free trial. Nobody has paid yet.\n What I’ve tried so far: \n Asking people in the niche what their biggest time sinks are, in Facebook groups Following up with the people who replied A Facebook page and a LinkedIn page Cold emails to small businesses in the niche, which I’m only just starting What I’m seeing: \n People are willing to talk about their problems, but very few actually start the trial Of those who do sign up, some log in once and never come back What I’d like opinions on: \n At this stage, would you spend time on more outreach, or on fixing onboarding so trial users see value faster? Is a 30-day free trial too long for a small-business buyer? Would you shorten it, or ask for a card upfront? How did you get your first 5 paying customers? What worked, and what was a waste of time? Is it worth targeting larger customers (businesses with several staff) first, or should I keep going after individuals? Happy to share more detail if it helps. Thanks in advance.\n &#32; submitted by &#32; /u/no_body_12345 \n &#32;",
+    "score": 6.6,
+    "ageHours": 14.4,
+    "hits": [
+      "onboarding",
+      "sign up",
+      "signups"
+    ],
+    "draft": {
+      "why": "Detailed, honest post with real numbers and clear questions, so a specific answer can genuinely help.",
+      "options": [
+        "The log in once and never come back pattern is your answer: fix onboarding before more outreach. More traffic into a leaky bucket just wastes the niche. Watch what a trial user does in the first session (or ask one directly), find the first moment they get something useful, and cut everything before it. In my experience with B2B products, if someone can't hit that moment in the first 10 minutes, no trial length will save them.",
+        "One thing that jumps out: people in the Facebook groups will talk about problems but won't start trials, which usually means the pain is real but not urgent, or the pitch isn't connecting to the pain in their words. Before tweaking billing, take the exact phrases those people used to describe their time sinks and put them on your landing page and trial welcome screen. What are those people actually saying the problem costs them per week, time or money?"
+      ]
+    }
+  },
+  {
+    "id": "t3_1x3yjxm",
+    "subreddit": "SideProject",
+    "title": "My side project: a 14 MB Git client that opens in under 5 seconds and never asks you to log in",
+    "author": "/u/DMorais92",
+    "url": "https://www.reddit.com/r/SideProject/comments/1x3yjxm/my_side_project_a_14_mb_git_client_that_opens_in/",
+    "updated": "2026-10-12T10:42:37+00:00",
+    "body": "I&#39;ve been building this for a while and v0.9.0 just shipped, so it feels like time to show it.\n The itch: my Git client was about a gigabyte on disk and took almost 40 seconds to open. Every time I wanted to fix a typo there was a loading screen and sometimes a login. It drove me a bit mad.\n What I made: gitmoire, a native desktop Git client for macOS, Windows and Linux. It started as a hard fork of an MIT project (angkorGit), with Git running on Rust and libgit2.\n 14 MB download, opens in under 5 seconds on my machine No account, no telemetry Commit graph, conflict resolver, worktrees, line-level staging, PRs for GitHub/GitLab/Bitbucket Optional AI that uses your own Claude Code/Codex/Gemini CLI or local Ollama (off until you turn it on) A built-in terminal and a headless CLI called gitmo for SSH boxes 15 themes, because I couldn&#39;t help myself Business side: it&#39;s free. No paid tier right now. I build it under my little studio, Dark Magic Studios.\n Honest rough edges: the builds aren&#39;t notarized/signed by Apple or Microsoft yet, so you&#39;ll get a scary dialog once. The source isn&#39;t public.\n I&#39;d really appreciate feedback on the landing page (does it explain the thing?) and on the app if you try it: https://gitmoire.dev \n &#32; submitted by &#32; /u/DMorais92 \n &#32;",
+    "score": 5.4,
+    "ageHours": 1.7,
+    "hits": [
+      "feedback",
+      "landing page"
+    ],
+    "draft": {
+      "why": "Maker explicitly asks for landing page feedback, which is squarely a design critique opportunity.",
+      "options": [
+        "The speed and size are your whole pitch, so put the proof above the fold: a side-by-side of '1 GB, 40s, login wall' vs '14 MB, 5s, no account' does more than any feature list. I'd also lead with the unsigned-build warning near the download button, since that scary dialog is the moment most people will bounce.",
+        "Who's the person you picture switching to this? Someone who's already fine with SourceTree or the CLI won't move for a smaller binary, but the 'fix a typo without a loading screen' crowd might. That answer should shape whether the landing page leads with speed or with the feature set."
+      ]
+    }
+  },
+  {
+    "id": "t3_1x3ymi9",
+    "subreddit": "microsaas",
+    "title": "AI made building a SaaS easy. now why is getting 1 customer harder than building the whole thing 💀",
+    "author": "/u/fasildar55",
+    "url": "https://www.reddit.com/r/microsaas/comments/1x3ymi9/ai_made_building_a_saas_easy_now_why_is_getting_1/",
+    "updated": "2026-10-12T10:46:53+00:00",
+    "body": "bro you can literally build a working SaaS in a weekend now with AI\n landing page? done\n dashboard? done\n payments? done\n then you launch it and realize absolutely nobody cares 😭\n spent weeks thinking about features, fixing bugs, making the UI look good and then it hits you... i have no idea how to get people to actually use this thing lol\n starting to feel like coding was never the hardest part of building a SaaS\n anyone here actually managed to get their first 10 paying users without running ads? what worked for you?\n &#32; submitted by &#32; /u/fasildar55 \n &#32;",
+    "score": 5.4,
+    "ageHours": 1.6,
+    "hits": [
+      "landing page",
+      "ui",
+      "dashboard"
+    ],
+    "draft": {
+      "why": "Founder hit the classic build-vs-distribution wall and is asking exactly what worked, so a concrete channel tactic lands well.",
+      "options": [
+        "The thing that worked for me was picking one niche community where my target users already complain about the problem and being useful there for weeks before ever mentioning the product. First 10 users came almost entirely from DM conversations, not the landing page.",
+        "Quick question that changes the answer: who is this for, specifically? If you can name 5 real people with this problem right now, go talk to them directly and skip marketing entirely. If you can't, that's the actual blocker, not distribution tactics."
+      ]
+    }
+  },
+  {
+    "id": "t3_1x3bxm3",
+    "subreddit": "design_critiques",
+    "title": "Can you please give me something honest feedback on my website?",
+    "author": "/u/One_Marionberry5649",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1x3bxm3/can_you_please_give_me_something_honest_feedback/",
+    "updated": "2026-10-11T16:03:59+00:00",
+    "body": "&#32; submitted by &#32; /u/One_Marionberry5649 \n &#32;",
+    "score": 4.6,
+    "ageHours": 20.3,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Someone asking for a website critique but the post has no link or screenshots, so the most useful move is a sharp clarifying question.",
+      "options": [
+        "Happy to take a look, but I don't see a link or screenshots in the post. Can you share the URL so the feedback is about your actual site and not a guess?",
+        "Nothing to critique yet since there's no link attached. Drop the URL plus one line on who the site is for, and I can give you something specific instead of generic impressions."
+      ]
+    }
+  },
+  {
+    "id": "t3_1x3os6v",
+    "subreddit": "microsaas",
+    "title": "A lost receipt is a different onboarding problem from a messy receipt folder",
+    "author": "/u/Wrong_Election189",
+    "url": "https://www.reddit.com/r/microsaas/comments/1x3os6v/a_lost_receipt_is_a_different_onboarding_problem/",
+    "updated": "2026-10-12T01:13:12+00:00",
+    "body": "I build CleverNote. This week I replied to someone who thought losing a receipt meant they could no longer get their controller repaired under warranty.\n I asked whether the purchase was online or in a shop, then suggested checking order history or asking the shop for a replacement receipt. I haven’t heard back, so I don’t know whether that helped.\n It made me question the starting point of a document app. A demo usually begins with a receipt ready to upload. This person needed to find out whether they could get a copy at all.\n That’s a different first step from organizing a messy folder. I’d want to understand where the document might still exist before asking someone to import it.\n For founders working on document tools: how do you handle onboarding when someone arrives with a missing document and nothing to upload yet?\n &#32; submitted by &#32; /u/Wrong_Election189 \n &#32;",
+    "score": 4.3,
+    "ageHours": 11.2,
+    "hits": [
+      "onboarding"
+    ],
+    "draft": {
+      "why": "OP raises a genuinely under-discussed onboarding edge case: users who arrive with nothing to upload yet, and is asking founders how they handle it.",
+      "options": [
+        "Treat the missing document as a state, not an exception. If someone says 'I lost my receipt,' the app should pivot to a guided recovery flow: where did you buy it, online or in store, then a checklist of places a copy might exist (email search terms, retailer account, bank statement match). That's real value before a single file is uploaded, and it earns the right to ask for the upload later.",
+        "Worth testing whether recovery is even your app's job or just a pre-onboarding moment. One sharp question: when that user comes back with a found receipt, do they need your app at all, or was 'help me find it' the entire job to be done? The answer changes whether you build a recovery feature or a one-off concierge touch."
+      ]
+    }
+  },
+  {
+    "id": "t3_1x3ulf0",
+    "subreddit": "SaaS",
+    "title": "We analyzed 200 B2B client contracts with AI. Here are the 4 most toxic clauses agency founders sign unread.",
+    "author": "/u/CoolNectarine7325",
+    "url": "https://www.reddit.com/r/SaaS/comments/1x3ulf0/we_analyzed_200_b2b_client_contracts_with_ai_here/",
+    "updated": "2026-10-12T06:33:33+00:00",
+    "body": "Over the last few months, we built an AI tool to audit legal agreements ( ContractGuard AI ). \n We tested it on over 200 standard contracts from enterprise vendors and clients. Almost 70% of contracts contain at least one dangerous trap: \n 1. Uncapped Indemnification: Standard liability is capped at 12 months fees, but indemnity is quietly uncapped. If a dispute happens, you pay their full legal defense. 2. Broad Work-For-Hire: Contracts that take ownership of your agency&#39;s pre-existing boilerplate, starter kits, and internal UI libraries. 3. Evergreen 60-Day Renewal Trap: Auto-renews for 12 months unless cancelled in a tiny 30-day window. \n We built ContractGuard AI so anyone can drag-and-drop a contract and get a 1-100 Risk Score + flagged toxic clauses with redlines in 5 seconds. \n ( I wrote a small script/tool that checks for these clauses automatically. If anyone wants to test their contract, drop a comment below and I&#39;ll DM or share the link.&quot; ) \n Roast it or give feedback!\n &#32; submitted by &#32; /u/CoolNectarine7325 \n &#32;",
+    "score": 4.1,
+    "ageHours": 5.8,
+    "hits": [
+      "feedback",
+      "ui"
+    ],
+    "draft": {
+      "why": "Self-promo heavy post, but the 5-second drag-and-drop risk score is a real UX problem worth engaging: trust and accuracy disclosure for legal tooling.",
+      "options": [
+        "The 5-second scan is a strong hook, but for legal stuff speed works against you as a trust signal. I'd show a sample annotated contract and a confidence/explanation per flag right on the landing page, because founders will not hand a real client contract to a tool that feels like a magic black box.",
+        "What's your plan for when the tool misses a clause and someone signs a bad contract anyway? That edge case shapes the whole product design, and how you handle it in the UI (disclaimers vs human review upsell) matters more than the risk score itself."
+      ]
+    }
+  }
+]
