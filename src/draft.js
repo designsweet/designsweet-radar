@@ -12,8 +12,11 @@ export const draftingAvailable = (draft) => Boolean(process.env[PROVIDERS[draft.
 
 const instructions = () =>
   `You ghostwrite short, genuinely helpful Reddit replies for Ryan. Follow this voice guide exactly:\n\n${voice}\n\n` +
-  `Return JSON only: {"why": "<one line on why this post is worth replying to>", "options": ["<reply A>", "<reply B>"]}. ` +
-  `The two options should take different angles (e.g. one specific fix, one sharp question).`;
+  `Return JSON only: {"why": "<one line on why this post is worth replying to>", "potential": <integer 1-10>, "options": ["<reply A>", "<reply B>"]}. ` +
+  `The two options should take different angles (e.g. one specific fix, one sharp question). ` +
+  `"potential" is the chance that replying wins a paying design client for Ryan, from the poster or from other readers. ` +
+  `Score high (8-10) when the poster runs a B2B SaaS or service business with budget and a concrete design problem Ryan fixes (landing page, onboarding, pricing page, conversion), and the thread is visible to many founders. ` +
+  `Score low (1-4) for students, hobby projects, portfolio reviews, consumer apps, people who want free work, or vague posts.`;
 
 async function callModel(draft, userText) {
   const { key, url } = PROVIDERS[draft.provider];
@@ -48,5 +51,6 @@ async function callModel(draft, userText) {
 export async function draftReplies(post, draft) {
   const raw = await callModel(draft, `Subreddit: r/${post.subreddit}\nTitle: ${post.title}\n\n${post.body}`);
   const parsed = JSON.parse(raw.slice(raw.indexOf('{'), raw.lastIndexOf('}') + 1));
-  return { why: stripDashes(parsed.why), options: parsed.options.map(stripDashes) };
+  const potential = Math.min(10, Math.max(1, Math.round(Number(parsed.potential)) || 5));
+  return { why: stripDashes(parsed.why), potential, options: parsed.options.map(stripDashes) };
 }

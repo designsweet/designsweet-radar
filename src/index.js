@@ -20,7 +20,7 @@ errors.forEach((e) => console.warn('  warning:', e));
 
 const ranked = posts
   .filter((p) => !seen.has(p.id))
-  .map((p) => scorePost(p, config))
+  .map((p) => scorePost({ platform: 'reddit', ...p }, config))
   .filter(Boolean)
   .sort((a, b) => b.score - a.score)
   .slice(0, config.digestSize);
@@ -32,8 +32,12 @@ if (!noDraft) {
   }
 }
 
+// Group by platform (config order), then highest customer potential first; keyword score breaks ties.
+const platformRank = (p) => { const i = config.platforms.indexOf(p.platform); return i < 0 ? 99 : i; };
+ranked.sort((a, b) => platformRank(a) - platformRank(b) || (b.draft?.potential ?? 0) - (a.draft?.potential ?? 0) || b.score - a.score);
+
 for (const p of ranked) {
-  console.log(`\n[${p.score}] r/${p.subreddit} · ${p.ageHours}h · ${p.title}\n  ${p.url}\n  matched: ${p.hits.join(', ')}`);
+  console.log(`\n[${p.draft ? `potential ${p.draft.potential}/10 · ` : ''}score ${p.score}] ${p.platform} r/${p.subreddit} · ${p.ageHours}h · ${p.title}\n  ${p.url}\n  matched: ${p.hits.join(', ')}`);
   if (p.draft) {
     console.log(`  why: ${p.draft.why}`);
     p.draft.options.forEach((o, i) => console.log(`  ${'AB'[i]}: ${o}`));

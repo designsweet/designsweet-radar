@@ -1,4 +1,9 @@
 {
+  "platforms": [
+    "reddit",
+    "producthunt",
+    "indiehackers"
+  ],
   "maxPostAgeHours": 30,
   "digestSize": 12,
   "subreddits": [

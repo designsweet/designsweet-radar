@@ -1,9 +1,17 @@
+import { platformLabel, sourceLabel } from './platforms.js';
+
 export async function postDigest(webhook, items) {
   const blocks = [
-    { type: 'header', text: { type: 'plain_text', text: `Reddit radar: ${items.length} posts worth a reply` } },
+    { type: 'header', text: { type: 'plain_text', text: `Radar: ${items.length} posts worth a reply` } },
   ];
+  let platform;
   for (const p of items) {
-    let text = `*<${p.url}|${p.title.slice(0, 120)}>*\nr/${p.subreddit} · ${p.ageHours}h old · score ${p.score}`;
+    if (p.platform !== platform) {
+      platform = p.platform;
+      blocks.push({ type: 'header', text: { type: 'plain_text', text: platformLabel(platform || 'reddit') } });
+    }
+    const potential = p.draft ? `potential ${p.draft.potential}/10 · ` : '';
+    let text = `*<${p.url}|${p.title.slice(0, 120)}>*\n${potential}${sourceLabel(p)} · ${p.ageHours}h old`;
     if (p.draft) {
       text += `\n_${p.draft.why}_`;
       p.draft.options.forEach((o, i) => { text += `\n*${'AB'[i]}:* ${o}`; });
