@@ -1,6 +1,7 @@
 import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 import { fetchAll } from './reddit.js';
-import { scorePost } from './score.js';
+import { scorePost, scoreLaunch } from './score.js';
+import { fetchProductHunt } from './producthunt.js';
 import { draftReplies, draftingAvailable } from './draft.js';
 import { postDigest } from './slack.js';
 import { buildDashboard } from './dashboard.js';
@@ -24,6 +25,21 @@ const ranked = posts
   .filter(Boolean)
   .sort((a, b) => b.score - a.score)
   .slice(0, config.digestSize);
+
+if (config.producthunt?.enabled) {
+  try {
+    const launches = (await fetchProductHunt())
+      .filter((p) => !seen.has(p.id))
+      .map((p) => scoreLaunch(p, config.producthunt))
+      .filter(Boolean)
+      .sort((a, b) => b.score - a.score)
+      .slice(0, config.producthunt.digestSize);
+    console.log(`Product Hunt: ${launches.length} launches worth a look.`);
+    ranked.push(...launches);
+  } catch (err) {
+    console.warn('  warning:', err.message);
+  }
+}
 
 if (!noDraft) {
   for (const p of ranked) {

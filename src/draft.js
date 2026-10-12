@@ -11,8 +11,9 @@ const PROVIDERS = {
 export const draftingAvailable = (draft) => Boolean(process.env[PROVIDERS[draft.provider]?.key]);
 
 const instructions = () =>
-  `You ghostwrite short, genuinely helpful Reddit replies for Ryan. Follow this voice guide exactly:\n\n${voice}\n\n` +
+  `You ghostwrite short, genuinely helpful replies for Ryan (Reddit replies, or comments on Product Hunt launches). Follow this voice guide exactly:\n\n${voice}\n\n` +
   `Return JSON only: {"why": "<one line on why this post is worth replying to>", "potential": <integer 1-10>, "options": ["<reply A>", "<reply B>"]}. ` +
+  `For Product Hunt you only see the product name and tagline, never the product itself, so do not invent observations about its design: write a warm launch-day comment that asks one sharp question about who it is for or what the first-time experience is, and make the second option a hypothesis about positioning clearly framed as a question. ` +
   `The two options should take different angles (e.g. one specific fix, one sharp question). ` +
   `"potential" is the chance that replying wins a paying design client for Ryan, from the poster or from other readers. ` +
   `Score high (8-10) when the poster runs a B2B SaaS or service business with budget and a concrete design problem Ryan fixes (landing page, onboarding, pricing page, conversion), and the thread is visible to many founders. ` +
@@ -49,7 +50,7 @@ async function callModel(draft, userText) {
 }
 
 export async function draftReplies(post, draft) {
-  const raw = await callModel(draft, `Subreddit: r/${post.subreddit}\nTitle: ${post.title}\n\n${post.body}`);
+  const raw = await callModel(draft, `${post.platform === 'producthunt' ? 'Product Hunt launch' : `Subreddit: r/${post.subreddit}`}\nTitle: ${post.title}\n\n${post.body}`);
   const parsed = JSON.parse(raw.slice(raw.indexOf('{'), raw.lastIndexOf('}') + 1));
   const potential = Math.min(10, Math.max(1, Math.round(Number(parsed.potential)) || 5));
   return { why: stripDashes(parsed.why), potential, options: parsed.options.map(stripDashes) };

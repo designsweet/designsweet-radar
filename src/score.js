@@ -27,3 +27,16 @@ export function scorePost(post, config) {
   const score = Math.min(kw, 14) * (0.4 + 0.6 * recency) * asks * substance * sub;
   return { ...post, score: Math.round(score * 10) / 10, ageHours: Math.round(age * 10) / 10, hits };
 }
+
+// Product Hunt launches have no "feedback please" wording, so score the tagline for B2B-product signals instead.
+export function scoreLaunch(post, cfg) {
+  const age = hoursOld(post.updated);
+  if (!(age >= 0) || age > cfg.maxPostAgeHours) return null;
+  const text = `${post.title} ${post.body}`.toLowerCase();
+  if (cfg.blockWords.some((w) => text.includes(w))) return null;
+  const hits = Object.keys(cfg.keywords).filter((w) => text.includes(w));
+  if (!hits.length) return null;
+  const kw = hits.reduce((n, w) => n + cfg.keywords[w], 0);
+  const recency = Math.max(0.3, 1 - age / cfg.maxPostAgeHours);
+  return { ...post, score: Math.round(Math.min(kw, 10) * recency * 10) / 10, ageHours: Math.round(age * 10) / 10, hits };
+}
