@@ -5,6 +5,7 @@ import { fetchProductHunt } from './producthunt.js';
 import { draftReplies, draftingAvailable } from './draft.js';
 import { postDigest } from './slack.js';
 import { buildDashboard } from './dashboard.js';
+import { buildSearchLinks } from './links.js';
 
 const config = JSON.parse(readFileSync(new URL('../config.json', import.meta.url), 'utf8'));
 const dataDir = new URL('../data/', import.meta.url);
@@ -62,7 +63,7 @@ for (const p of ranked) {
 if (!ranked.length) console.log('Nothing new worth replying to right now.');
 
 if (!noSlack && ranked.length) {
-  await postDigest(process.env.SLACK_WEBHOOK_URL, ranked);
+  await postDigest(process.env.SLACK_WEBHOOK_URL, ranked, buildSearchLinks(config.searchLinks));
   console.log('\nPosted digest to Slack.');
 }
 
@@ -71,4 +72,4 @@ if (dry) process.exit(0); // dry runs don't mark posts as seen
 ranked.forEach((p) => seen.add(p.id));
 writeFileSync(seenPath, JSON.stringify([...seen].slice(-2000)));
 writeFileSync(new URL(`digest-${new Date().toISOString().slice(0, 10)}.json`, dataDir), JSON.stringify(ranked, null, 2));
-buildDashboard(dataDir);
+buildDashboard(dataDir, buildSearchLinks(config.searchLinks));

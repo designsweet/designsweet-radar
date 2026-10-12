@@ -1,6 +1,6 @@
 import { platformLabel, sourceLabel } from './platforms.js';
 
-export async function postDigest(webhook, items) {
+export async function postDigest(webhook, items, searchLinks = []) {
   const blocks = [
     { type: 'header', text: { type: 'plain_text', text: `Radar: ${items.length} posts worth a reply` } },
   ];
@@ -17,6 +17,11 @@ export async function postDigest(webhook, items) {
       p.draft.options.forEach((o, i) => { text += `\n*${'AB'[i]}:* ${o}`; });
     }
     blocks.push({ type: 'divider' }, { type: 'section', text: { type: 'mrkdwn', text } });
+  }
+  if (searchLinks.length) {
+    blocks.push({ type: 'divider' }, { type: 'header', text: { type: 'plain_text', text: 'Manual scan: tap to search' } });
+    const text = searchLinks.map((g) => `*${g.label}*\n${g.links.map((l) => `<${l.url}|${l.label}>`).join('  ·  ')}`).join('\n');
+    blocks.push({ type: 'section', text: { type: 'mrkdwn', text } });
   }
   // Slack allows 50 blocks per message; digestSize keeps us well under.
   const res = await fetch(webhook, {

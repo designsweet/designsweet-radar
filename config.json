@@ -154,5 +154,25 @@
       "recipe",
       "dating"
     ]
-  }
+  },
+  "searchLinks": [
+    {
+      "label": "Landing page feedback",
+      "x": "(\"landing page\" OR \"pricing page\") (feedback OR roast OR thoughts OR review) (SaaS OR startup OR founder)",
+      "linkedin": "landing page feedback SaaS",
+      "indiehackers": "\"landing page\" feedback"
+    },
+    {
+      "label": "Onboarding / conversion help",
+      "x": "(onboarding OR \"sign ups\" OR conversion) (feedback OR advice OR \"what am i doing wrong\") (SaaS OR startup)",
+      "linkedin": "onboarding conversion advice SaaS founder",
+      "indiehackers": "onboarding conversion feedback"
+    },
+    {
+      "label": "Roast my design",
+      "x": "(\"roast my\" OR \"honest feedback\") (design OR UI OR UX OR website) (SaaS OR startup OR app)",
+      "linkedin": "roast my design SaaS",
+      "indiehackers": "\"roast my\" design"
+    }
+  ]
 }
