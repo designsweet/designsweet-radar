@@ -1,0 +1,315 @@
+[
+  {
+    "platform": "reddit",
+    "id": "t3_1x4i4ip",
+    "subreddit": "design_critiques",
+    "title": "been staring at my landing page too long to judge it anymore, does the hero make sense?",
+    "author": "/u/BrandBnk",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1x4i4ip/been_staring_at_my_landing_page_too_long_to_judge/",
+    "updated": "2026-10-13T00:08:39+00:00",
+    "body": "Built this for a product I’m launching soon. It helps freelancers and agencies spot brands that are about to spend money on creative work. I’ve been staring at it too long to judge it anymore. Does the hero make sense? Anything that looks off? is it appealing? Anything that makes it feel less idk, trustworthy? brandbnk.com \n &#32; submitted by &#32; /u/BrandBnk \n &#32;",
+    "score": 8.2,
+    "ageHours": 12.2,
+    "hits": [
+      "landing page",
+      "looks"
+    ],
+    "draft": {
+      "why": "Founder launching a B2B SaaS asking directly for landing page hero feedback, which is exactly the conversion problem Ryan fixes.",
+      "potential": 7,
+      "options": [
+        "The most common hero problem I see at this stage: the headline says what the product is but not what changes for the user. 'Spot brands about to spend on creative work' is a feature, the payoff is more like 'stop cold pitching and get in front of buyers who already have budget.' Lead with the outcome, put the mechanism in the subhead.",
+        "I can't load the page from here, so one question that usually decides whether a hero works: in the first 5 seconds, can a freelancer tell who it's for, what they get, and what to do next? If any of those three takes scrolling, that's your problem."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x4flho",
+    "subreddit": "design_critiques",
+    "title": "My app UI is chopped and I don't know why - looking for harsh feedback",
+    "author": "/u/New_Advertising_4361",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1x4flho/my_app_ui_is_chopped_and_i_dont_know_why_looking/",
+    "updated": "2026-10-12T22:13:33+00:00",
+    "body": "This app is basically Strava mixed with clash of clans, so each small hex is land to capture and upgrade, and there&#39;s a fog of war mechanic as the user travels/captures land.\n Would love some harsh feedback on what seems wrong with the UI as well as suggestions on how to improve it - I know it looks chopped but I&#39;m not exactly sure how to improve it\n Thank you!\n &#32; submitted by &#32; /u/New_Advertising_4361 \n &#32;",
+    "score": 11.1,
+    "ageHours": 14.1,
+    "hits": [
+      "feedback",
+      "ui",
+      "looks"
+    ],
+    "draft": {
+      "why": "Designer hobbyist asking for UI feedback on a consumer gamified-fitness app; good practice for a specific critique but unlikely to be a paying B2B client.",
+      "potential": 3,
+      "options": [
+        "The biggest issue is the hex grid fighting the map underneath it. Hexes need strong borders and flat, semi-opaque fills so the grid reads as one system; right now the map detail bleeds through and everything looks noisy. I'd also pick one accent color for 'captured by me' and mute everything else, since right now nothing tells my eye where to look first.",
+        "Quick question before diving into visuals: what's the one action you want a returning user to take in the first 3 seconds, see new land to capture or check their upgrades? Once that's clear, the fix is mostly hierarchy: make that element the highest-contrast thing on screen and push fog of war and empty hexes visually into the background."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x4umwa",
+    "subreddit": "SideProject",
+    "title": "Kept - an accountability partner on WhatsApp that holds you to one promise for 30 days",
+    "author": "/u/Zyz256",
+    "url": "https://www.reddit.com/r/SideProject/comments/1x4umwa/kept_an_accountability_partner_on_whatsapp_that/",
+    "updated": "2026-10-13T11:56:19+00:00",
+    "body": "I&#39;m the founder, so this is my own project.\n I have a graveyard of habit apps on my phone. Every one of them worked until the day I stopped opening it, which was usually day four. The app never noticed. So I built the opposite: something that lives where I already am and notices when I go quiet.\n Kept is a WhatsApp chat. You tell it one thing you keep saying you&#39;ll do and why it matters. Setup is five questions. For 30 days it holds you to that one thing.\n What it does differently:\n - One promise, not a dashboard of twelve habits.\n - No app to install and nothing to open. It messages you.\n - You choose how hard it pushes, from warm to a proper roast.\n - It never forces a schedule. If you say &quot;anytime&quot;, it respects that.\n - Silence is not counted as failure. It holds you to the promise, not to replying.\n - It backs off completely if you mention injury, illness or distress.\n Under the hood a rules engine decides what situation you are in (on pace, slipping, gone quiet) and the AI only chooses the words. That keeps it from inventing numbers about your progress.\n Honest status: it is running with a small group of testers and the public WhatsApp number is not live yet, so the site is a waitlist for now: https://www.keptmyself.com \n What I would love feedback on:\n Does &quot;one promise for 30 days&quot; sound focused or too limiting?\n Would you trust a WhatsApp chat with this, or do you want an app?\n Is the landing page clear about what it is within five seconds?",
+    "score": 6.8,
+    "ageHours": 0.4,
+    "hits": [
+      "feedback",
+      "landing page",
+      "dashboard"
+    ],
+    "draft": {
+      "why": "Founder asking for landing page and positioning feedback, but it's a consumer accountability app, not B2B SaaS, so low client odds.",
+      "potential": 3,
+      "options": [
+        "The 'silence is not failure' rule is your sharpest differentiator, but the post buries it mid-list. I'd lead the landing page with it: every competitor guilt-trips you for going quiet, yours explicitly doesn't. That answers the 5-second clarity test better than any tagline about promises.",
+        "Honest question on scope: what happens on day 31? If the promise worked, users either re-up on the same thing or pick a new one, and that transition is where I'd expect churn. Curious if the 30-day frame is a feature or just the MVP boundary."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x4ls3h",
+    "subreddit": "design_critiques",
+    "title": "Looking for honest UI/UX and design feedback on our website before launch",
+    "author": "/u/SussyBungusidk",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1x4ls3h/looking_for_honest_uiux_and_design_feedback_on/",
+    "updated": "2026-10-13T03:08:42+00:00",
+    "body": "Hey everyone!\n A friend and I have been working on MonkeyDevs , a project that started as a fun two-person development project and has gradually turned into a small startup.\n We&#39;re getting ready to launch publicly, but before we do, we&#39;d really appreciate some honest design criticism from people who know more about UI/UX and web design.\n The website is built around browser games that we&#39;ve developed ourselves. We&#39;ve put a lot of work into getting everything running, but we&#39;re not sure if the design and overall user experience are where they need to be yet.\n I&#39;d especially appreciate feedback on: \n The overall visual design, colours, typography, and consistency The layout and spacing of different elements Navigation and how easy it is to find and play games The user experience, especially anything that feels confusing or unintuitive How the website looks on different screen sizes, particularly mobile Anything that looks amateurish, outdated, cluttered, or out of place Feel free to be as critical as you want. We&#39;re not looking for compliments just for the sake of it — we&#39;d genuinely like to know what looks bad, what doesn&#39;t work, and what we should prioritize fixing before launch.\n Website: https://monkeydevs.com \n Thanks in advance to anyone who takes the time to look through it. Any constructive criticism would be greatly appreciated!\n &#32; submitted by &#32; /u/SussyBungusidk \n &#32;",
+    "score": 17.8,
+    "ageHours": 9.2,
+    "hits": [
+      "feedback",
+      "ux",
+      "ui",
+      "design",
+      "looks",
+      "confusing"
+    ],
+    "draft": {
+      "why": "Consumer browser-games site from a two-person hobby project asking for free critique, no budget signals, low client odds.",
+      "potential": 2,
+      "options": [
+        "The biggest conversion lever on a games site is time-to-first-game, so audit how many clicks and scrolls it takes from landing to actually playing. Cut anything between the visitor and the play button, and make the game cards do the selling with real screenshots instead of decorative graphics.",
+        "Are you optimizing for first-time visitors or returning players? Those need different homepages: newcomers need one clear featured game and a play button, regulars need a 'continue playing' row and categories. Picking one as the default view will fix most of your clutter problems."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x49yqv",
+    "subreddit": "design_critiques",
+    "title": "Feedback wanted on a T-shirt design featuring my own Adriatic coast photography",
+    "author": "/u/Kristijan_photos",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1x49yqv/feedback_wanted_on_a_tshirt_design_featuring_my/",
+    "updated": "2026-10-12T18:35:39+00:00",
+    "body": "Hi everyone!\n I’m a photographer from Croatia, and I’m experimenting with turning some of my own photographs of the Adriatic coast into T-shirt and hoodie designs.\n This is one of my first mockups, and I’d appreciate some honest constructive criticism.\n ● Does the photograph work well as a clothing design?\n ● Is the placement and size of the print right?\n ● Would you change anything about the composition or presentation?\n I’m still experimenting with different styles, so I’d love to hear what could be improved. Thanks!\n &#32; submitted by &#32; /u/Kristijan_photos \n &#32;",
+    "score": 8.9,
+    "ageHours": 17.7,
+    "hits": [
+      "feedback",
+      "design"
+    ],
+    "draft": {
+      "why": "Hobby photographer asking for feedback on a T-shirt mockup, far from Ryan's B2B SaaS client base.",
+      "potential": 2,
+      "options": [
+        "One thing that kills photo prints on shirts is full-bleed rectangles, they read as a souvenir shop shirt. Try cropping into a tighter detail of the coast or masking the photo into an organic shape, it instantly feels more like a designed tee.",
+        "What's the actual shirt color and print method? A photo that looks great on a white mockup can fall apart in DTG on dark fabric, so placement advice depends a lot on that."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x4iev1",
+    "subreddit": "UXDesign",
+    "title": "How do you get into UX Design?",
+    "author": "/u/Normal-Bed3203",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1x4iev1/how_do_you_get_into_ux_design/",
+    "updated": "2026-10-13T00:22:32+00:00",
+    "body": "Like waht did you take in high school and college and what do you actually do?\n Obviously these could all be googled but I want to hear it form people especailly since im super interestd in getting into UX and UI Design myself I want to know how YOU got into it and how its going\n &#32; submitted by &#32; /u/Normal-Bed3203 \n &#32;",
+    "score": 8.4,
+    "ageHours": 12,
+    "hits": [
+      "ux",
+      "ui",
+      "design"
+    ],
+    "draft": {
+      "why": "Aspiring designer asking how to break in; genuine question but the poster is a student with no budget and no design problem to solve.",
+      "potential": 2,
+      "options": [
+        "I got in through graphic design, then moved into product work once I realized I cared more about how flows worked than how screens looked. Day to day it's less 'designing pretty UI' and more talking to users, mapping journeys, and defending decisions to engineers. If you want a head start, redesign one real app's onboarding and write up why each choice exists.",
+        "College matters less than you'd think. Most working UXers I know came from psych, graphic design, or totally unrelated fields, and got hired on a portfolio of 2-3 strong case studies. What are you more drawn to so far, the research side or the visual side? That answer changes what you should practice first."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x4tenx",
+    "subreddit": "UXDesign",
+    "title": "What would make you shortlist me for a senior product design role?",
+    "author": "/u/NecessaryExchange661",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1x4tenx/what_would_make_you_shortlist_me_for_a_senior/",
+    "updated": "2026-10-13T10:49:53+00:00",
+    "body": "I’m a product designer with 19 years of experience. Agencies as a UX consultant, startups as a product designer, and big companies like GitLab, Qantas and Vodafone. At GitLab I shipped a feature that grew adoption by 33%, and I wrote some of the production code myself.\n I’ve been interviewing since June after a company-wide layoff. I’ve applied to around 50 roles, got into a good number of interviews, and I keep hearing “we went with someone else.” I’ve reworked my portfolio and my stories. I still can’t see what’s missing.\n So I’m asking you directly. If you hire designers, what would make you put me on the shortlist? And if you have a minute, tell me what you see in my portfolio that holds me back.\n alexfracazo.com \n If you know a team that needs a senior product designer or design engineer in Australia, I’d love an intro. \n Thanks for reading.\n &#32; submitted by &#32; /u/NecessaryExchange661 \n &#32;",
+    "score": 8.1,
+    "ageHours": 1.5,
+    "hits": [
+      "ux",
+      "design",
+      "designer"
+    ],
+    "draft": {
+      "why": "Senior designer struggling in interviews, not a buyer of design services, but a thoughtful reply can build goodwill in a hiring-heavy subreddit.",
+      "potential": 2,
+      "options": [
+        "One thing that stands out: your intro leads with 19 years and company logos, but the GitLab 33% adoption story is your actual differentiator, especially the part where you wrote production code. I'd open every interview story with the problem and the metric, and cut the brand names to a single line. 'We went with someone else' at the final stage usually means the story felt generic, not that the work was weak.",
+        "Quick question: are the rejections coming after portfolio reviews or after final-round interviews? That changes the diagnosis completely. Portfolio rejections are usually a storytelling problem, final-round rejections at 19 years of experience are more often a level or comp mismatch, or you reading as a generalist when they wanted a specialist. Knowing which one it is tells you what to fix."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x4txhv",
+    "subreddit": "design_critiques",
+    "title": "Looking for feedback on AtlasDraw, a Windows whiteboard I'm building for sketches and diagrams",
+    "author": "/u/CreakyHat2018",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1x4txhv/looking_for_feedback_on_atlasdraw_a_windows/",
+    "updated": "2026-10-13T11:18:08+00:00",
+    "body": "&#32; submitted by &#32; /u/CreakyHat2018 \n &#32;",
+    "score": 7.7,
+    "ageHours": 1,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Solo Windows whiteboard side project, no B2B budget signal, but a concrete design topic worth a light reply.",
+      "potential": 2,
+      "options": [
+        "Hard to give real feedback from a description alone. Can you share a screenshot of the canvas with the toolbar and panels visible? That's where whiteboard tools live or die, and the details of how you handle tool switching and zoom matter more than the feature list.",
+        "Before feedback on pixels, the sharper question is positioning: why would someone pick AtlasDraw over Excalidraw or draw.io, which are free and cross-platform? If your answer is speed or a specific sketching style, that should drive every design decision, from defaults to the empty-canvas state."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x4updq",
+    "subreddit": "SideProject",
+    "title": "Launched a free, browser cricket game with invite your friend mode too! Would love your feedback",
+    "author": "/u/Inevitable_Buddy1869",
+    "url": "https://www.reddit.com/r/SideProject/comments/1x4updq/launched_a_free_browser_cricket_game_with_invite/",
+    "updated": "2026-10-13T11:59:59+00:00",
+    "body": "Hi everyone,\n I have always dreamt of making my own cricket game. Today, I launched a browser-based cricket game named Super Slog . It is brand new, and totally free, and I would really LOVE feedback from cricket nerds!\n Features:\n Single player, as well as multiplayer mode: play with your friends, with no account signup needed, on both desktop and mobile! Three types of camera views (face the incoming delivery, or see it like in a TV, or choose the aerial spider cam) Customised commentary based on game updates, and different types of shots (sweeps, scoops and more) I would really appreciate all your feedback, which will help me to continue improving this game. Play it here! \n &#32; submitted by &#32; /u/Inevitable_Buddy1869 \n &#32;",
+    "score": 6.8,
+    "ageHours": 0.3,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Passion side project seeking feedback, but it's a free consumer game with no business or design budget behind it.",
+      "potential": 2,
+      "options": [
+        "The no-signup multiplayer is your biggest hook, so I'd put that front and center before the camera views. One friction point to check: how many taps does it take from opening the link to facing your first ball? Every extra step there loses casual players.",
+        "What does a first-time player see in the first 10 seconds? With browser games, most people bounce before they figure out the controls, so a quick 'tap to swing' style onboarding moment usually does more for retention than any new feature."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x4tpst",
+    "subreddit": "SideProject",
+    "title": "I've been building a top-down Roblox arena shooter and could use mobile feedback",
+    "author": "/u/SirTalic",
+    "url": "https://www.reddit.com/r/SideProject/comments/1x4tpst/ive_been_building_a_topdown_roblox_arena_shooter/",
+    "updated": "2026-10-13T11:06:16+00:00",
+    "body": "I&#39;m working on Blox Arena, a top-down arena shooter on Roblox. It has Free For All, Elimination, Blitz and Team Battle. I&#39;ve been tweaking the mobile layout and controls, and I&#39;m trying to get a sense of whether the HUD still eats too much of the screen on an actual phone. If you try it, let me know what feels off: https://www.roblox.com/games/115619319863734/Blox-Arena \n &#32; submitted by &#32; /u/SirTalic \n &#32;",
+    "score": 6.8,
+    "ageHours": 1.2,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Solo Roblox hobby dev asking for mobile HUD feedback; generous design help possible but no paying client angle.",
+      "potential": 2,
+      "options": [
+        "The biggest mobile HUD mistake I see is anchoring buttons to screen corners instead of thumb zones. On a phone, your fire and jump controls should sit inside the arc your thumb naturally makes, which usually means pulling them 10-15% in from the edges and slightly up from the bottom.",
+        "Quick test you can run yourself: screenshot a round on your phone, then measure what percentage of the visible arena the HUD covers. If it's over about 25%, trim. Which element are you most unsure about, the joystick or the action buttons?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x4tgiq",
+    "subreddit": "SideProject",
+    "title": "Boring stuff and less boring stuff, i need your feedback",
+    "author": "/u/Intelligent-Love182",
+    "url": "https://www.reddit.com/r/SideProject/comments/1x4tgiq/boring_stuff_and_less_boring_stuff_i_need_your/",
+    "updated": "2026-10-13T10:52:39+00:00",
+    "body": "Hello,\n I&#39;m a solo developer from Denmark, and I&#39;ve been building Elvryn for a while now...\n Once again, a new notesapp... but on steroids or what????\n Thats what i wanna find out. Im looking for beta testers 👀👀\n So Elvryn offers 3 boring main features:\n Document editor\n Canvas\n Whiteboard / Knowledge graph\n but it also implies some pretty convenient and cool features, which makes the product a little lessssss boring:\n Local encryption for your files\n Access everything through slash commands inside the editor\n Shortcuts to everything\n 27 MB, built with Rust/tauri - so very light and smooth handling\n Calculator directly integrated in the text Plot your calculations\n Tabs\n Version history\n BYOK AI\n and a lot more...\n I&#39;ve spent really many hours building this So i really hope i got your attention and you want to test it out.\n See links in comments\n I dont have the funds to make a windows code-signed-certification, so when downloading - a Windows SmartScreen warning will show up.\n I ran it through virustotal, so you take their word for it as well. \n &#32; submitted by &#32; /u/Intelligent-Love182 \n &#32;",
+    "score": 6.8,
+    "ageHours": 1.5,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Solo dev consumer notes app with no budget, but a reply on positioning could still help and the thread gets founder eyes.",
+      "potential": 2,
+      "options": [
+        "The feature list is impressive engineering, but it reads as a spec sheet, not a reason to switch. I'd lead with one story, like 'your encrypted notes, canvas, and whiteboard in one 27MB app,' and bury the rest. Beta testers convert on a promise, not on a bullet list.",
+        "What's the one thing Elvryn does that Obsidian or Notion flat out can't? If you can't answer in a sentence, that's the thing to figure out before recruiting testers, because it's also the headline of your landing page."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x4ngkw",
+    "subreddit": "design_critiques",
+    "title": "Feedback needed",
+    "author": "/u/Hefty_Surprise7341",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1x4ngkw/feedback_needed/",
+    "updated": "2026-10-13T04:38:36+00:00",
+    "body": "&#32; submitted by &#32; /u/Hefty_Surprise7341 \n &#32;",
+    "score": 6.7,
+    "ageHours": 7.7,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Empty post with no link or details, nothing to critique, and r/design_critiques skews toward free feedback seekers rather than paying B2B clients.",
+      "potential": 2,
+      "options": [
+        "Happy to take a look, but the post came through empty. What are you building and who is it for? That context changes the feedback a lot.",
+        "No link or image on my end. If you repost with the actual design plus one line on the goal (signups, sales, portfolio), you'll get much more useful critique."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1278066",
+    "platform": "producthunt",
+    "title": "Muse Wonder",
+    "author": "Rohan Chaubey",
+    "url": "https://www.producthunt.com/products/meta-ai",
+    "updated": "2026-10-12T09:59:33-07:00",
+    "body": "Meta’s most capable models for personal agents",
+    "score": 1.1,
+    "ageHours": 19.4,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "Big launch with visibility, but it's Meta, so near-zero chance of a design client from the poster.",
+      "potential": 2,
+      "options": [
+        "Congrats on the launch! Curious who you picture as the first power user here: is this for people already deep in Meta's ecosystem, or someone setting up a personal agent for the very first time?",
+        "Big launch, congrats! My read is the positioning hinges on whether 'personal agent' means assistant or something closer to a second brain. Which one are you anchoring the first-run experience around?"
+      ]
+    }
+  }
+]
