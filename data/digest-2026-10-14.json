@@ -1,0 +1,415 @@
+[
+  {
+    "platform": "reddit",
+    "id": "t3_1x5nr12",
+    "subreddit": "SaaS",
+    "title": "The 10-point landing page audit that explains why your SaaS traffic isn't converting",
+    "author": "/u/ConsiderationAny8897",
+    "url": "https://www.reddit.com/r/SaaS/comments/1x5nr12/the_10point_landing_page_audit_that_explains_why/",
+    "updated": "2026-10-14T10:31:40+00:00",
+    "body": "Most SaaS landing pages lose visitors in the first 10 seconds. Here&#39;s the checklist I use to find out why.\n I&#39;ve reviewed a few hundred early-stage SaaS sites now, and the same handful of problems show up over and over. None of them are about design taste or &quot;branding.&quot; They&#39;re about clarity and friction. If you&#39;re getting traffic but not signups, run this list before you touch anything else.\n The headline describes the product, not the outcome. &quot;AI-powered workflow automation platform&quot; tells me nothing. &quot;Cut your weekly reporting time from 6 hours to 20 minutes&quot; tells me everything.\n The subheadline repeats the headline. A good subheadline answers who it&#39;s for, what it replaces, and what happens next.\n There&#39;s no visible product until 3 scrolls down. Screenshots beat illustrations. Real UI beats abstract shapes.\n The primary CTA is &quot;Learn more.&quot; Try action plus outcome: &quot;Start free - no card.&quot; One primary action per page.\n Social proof is a logo wall with no recognizable names. If you don&#39;t have big logos yet, use numbers or a single specific quote.\n The FAQ is buried and pricing is a maze. Put the two objections people actually have on the homepage. Make pricing scannable in 15 seconds.\n There&#39;s no reason to act today. Not fake urgency - just a clear next step with a low cost.\n The page has 6 competing CTAs. Pick the one that matches your traffic source and make the rest secondary.\n It&#39;s n",
+    "score": 11,
+    "ageHours": 2,
+    "hits": [
+      "landing page",
+      "ui",
+      "design",
+      "signups"
+    ],
+    "draft": {
+      "why": "High-visibility r/SaaS thread on landing page conversion, exactly Ryan's niche, read by B2B SaaS founders with this exact problem.",
+      "potential": 8,
+      "options": [
+        "Solid list. The one I'd push hardest is #3: in audits I run, swapping the hero illustration for an actual product screenshot above the fold is the single change that moves demo signups most consistently. Founders resist it because the UI 'isn't pretty yet', but visitors trust real UI way more than polished abstract art.",
+        "Good checklist, but #7 is where I'd add a caveat: 'a reason to act today' fails when the traffic isn't ready to act at all. If most of your visitors are problem-aware but not solution-aware, the fix isn't a better CTA, it's a page that sells the category before the product. Are you auditing mostly bottom-of-funnel pages or cold traffic pages?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x5pa45",
+    "subreddit": "SideProject",
+    "title": "built a health AI that hands you to a real doctor when it actually matters. free to try, roast away",
+    "author": "/u/Void_x7600",
+    "url": "https://www.reddit.com/r/SideProject/comments/1x5pa45/built_a_health_ai_that_hands_you_to_a_real_doctor/",
+    "updated": "2026-10-14T11:57:43+00:00",
+    "body": "been building August for about 3 years. started as a free health companion, you chat about symptoms, it remembers your history, reads your lab reports, normal stuff.\n then we hit the wall every health AI hits: advice is worthless the moment someone actually needs treatment. “sounds like a UTI, see a doctor” cool, with what appointment? so we spent most of this year becoming an actual healthcare service. real board certified doctors join the same chat, licensed in all 50 states, prescription goes to your pharmacy. the compliance grind (HIPAA, SOC 2, legitscript) was easily the hardest thing i&#39;ve shipped.\n how it works now: AI chat is free, anywhere in the world. if you need the doctor layer thats US only, $39 one off, or $29/month membership that includes your first visit and $19 visits after. no controlled substances, not for emergencies, the AI will literally tell you to go to an ER instead of paying us.\n site: meetaugust.ai \n what id love roasted: the onboarding (too long? confusing?), whether the AI-to-doctor handoff feels trustworthy or gimmicky, and the pricing page, does the membership math read as a deal or a trick. brutal is fine, thats why im here\n &#32; submitted by &#32; /u/Void_x7600 \n &#32;",
+    "score": 9,
+    "ageHours": 0.6,
+    "hits": [
+      "onboarding",
+      "pricing page",
+      "confusing"
+    ],
+    "draft": {
+      "why": "Founder of a consumer health product asking for a UX roast of onboarding, handoff trust, and pricing page, all squarely Ryan's territory, with clear budget behind a 3-year compliance-heavy build.",
+      "potential": 7,
+      "options": [
+        "The AI-to-doctor handoff is the whole product, so treat that moment like a checkout page, not a chat message. Show the doctor's name, photo, license state, and expected wait time inline before the user commits, because 'a doctor joins the chat' with no face reads as gimmicky even when it isn't.",
+        "On pricing: $39 one-off vs $29/month with first visit included makes the one-off look like a trap, which is probably why you're getting 'trick' vibes. Either drop the one-off or price the membership above it so the math doesn't punish people who don't want a subscription."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x59cuy",
+    "subreddit": "microsaas",
+    "title": "I'll give feedback on 10 SaaS landing pages!",
+    "author": "/u/ScarnevalRock8",
+    "url": "https://www.reddit.com/r/microsaas/comments/1x59cuy/ill_give_feedback_on_10_saas_landing_pages/",
+    "updated": "2026-10-13T21:30:07+00:00",
+    "body": "This is targeted at people who used AI to build their website and are worried it looks like slop. \n By the end of day today I&#39;ll give my honest feedback as I scroll through your SaaS landing page. I&#39;ll explain what my initial impressions are, what my thought process is as I scroll through each section, what&#39;s confusing, what&#39;s enticing, and if I think it looks clean or like vibe coded slop.\n I&#39;ll also try to explain honestly why I wouldn&#39;t buy or sign up.\n The rule is: don&#39;t tell me ahead of time what the product is or does. If the landing page doesn&#39;t explain it well enough, that&#39;s something you need to fix.\n I can only do 10 so sadly if you&#39;re not in the first 10 links maybe someone else can give their thoughts! \n About me: first time founder, b2b, I use ai tools for code, learning seo and sales\n And if you appreciate my feedback, please consider leaving your own feedback on my SaaS, but you don&#39;t have to: https://www.easyppp.com/ \n &#32; submitted by &#32; /u/ScarnevalRock8 \n &#32;",
+    "score": 10.5,
+    "ageHours": 15,
+    "hits": [
+      "feedback",
+      "landing page",
+      "looks",
+      "sign up",
+      "confusing"
+    ],
+    "draft": {
+      "why": "Thread will be full of B2B SaaS founders actively worried about their landing pages, exactly Ryan's audience, even if the poster himself is a first-timer.",
+      "potential": 6,
+      "options": [
+        "Your 'don't tell me what it does' rule is the right instinct, and I'd push it further: give each page about 5 seconds on the hero before scrolling. Most founders bury the actual product under a clever headline, and the above-the-fold test is where AI-built pages fail hardest since they all default to the same vague 'supercharge your workflow' copy.",
+        "One thing worth adding to your feedback: whether the page shows the product itself or just describes it. In my experience the single biggest tell of a vibe-coded site is zero real screenshots, and founders consistently underestimate how much trust an actual UI screenshot builds over another animated gradient."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x5lqbl",
+    "subreddit": "indiehackers",
+    "title": "Free ways to get backlinks, traffic and honest feedback for your product, built by a solo founder",
+    "author": "/u/Competitive_Tune_590",
+    "url": "https://www.reddit.com/r/indiehackers/comments/1x5lqbl/free_ways_to_get_backlinks_traffic_and_honest/",
+    "updated": "2026-10-14T08:22:09+00:00",
+    "body": "Hey folks,\n I made a few free tools for founders, figured some of you might get use out of them, they are part of my launchpact product:\n - Get backlinks without outreach or paying for them (Backlink Network): \n Give one link to a founder in your niche, and the next founder in line links to you. We write the sentence or article, so it takes minutes, not weeks of cold emails. No direct swaps, links come from sites at or near your authority, and every link is re-checked at day 7, 30 and 90. If yours gets pulled, you get a replacement first.\n - Get visitors who actually chose to click (Traffic Exchange via Ad slots): \n Put a small card on your site, and every click it sends to another founder earns you credits that put your product on their sites. Real clicks only, no autosurf, bot checks on everything. You get 50 free credits to start, enough for a first batch of visitors before you host anything.\n - Find out why people aren&#39;t signing up (Feedback Exchange): \n Founders review your landing page: a real first impression, &quot;would I use this, and why not,&quot; and answers to your own questions. Harsh-but-honest feedback can&#39;t be rejected, only lazy feedback can. It&#39;s the stuff friends are too polite to say. Catch: you need a Product Hunt launch listed on LaunchPact (free).\n - Get a permanent DR50+ backlink (Startup Directory): \n A free indexed page on launchpact.io (DR 52 on Ahrefs) with a dofollow link to your site. Catch: the free tier asks you to add our badge t",
+    "score": 14.3,
+    "ageHours": 4.2,
+    "hits": [
+      "feedback",
+      "landing page",
+      "first impression"
+    ],
+    "draft": {
+      "why": "Solo founder building exchange tools for founders; could become a client later but post isn't asking for design help, so mostly a chance to be visible to other founders in the thread.",
+      "potential": 4,
+      "options": [
+        "The feedback exchange is the strongest piece here, because 'friends are too polite' is the actual pain. One thing that will make or break it: how you qualify reviewers, since founders rushing to earn credits give shallow reviews. A short paid tier where reviewers are vetted would be worth more than more volume.",
+        "How do you stop the traffic exchange from becoming a low-intent loop, where everyone clicks to earn credits but nobody converts? That's where every traffic exchange I've seen dies, so if you've cracked click quality that's the thing to lead with."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x5o6oh",
+    "subreddit": "SideProject",
+    "title": "I’m building Nivora, a social music app where friends can listen together. Looking for honest feedback.",
+    "author": "/u/DreamIllustrious",
+    "url": "https://www.reddit.com/r/SideProject/comments/1x5o6oh/im_building_nivora_a_social_music_app_where/",
+    "updated": "2026-10-14T10:57:57+00:00",
+    "body": "Hey everyone! I’m building Nivora, an iPhone music app focused on discovering, sharing, and enjoying music with friends.\n The feature I’m most excited about is Pulse: shared listening sessions where friends can listen to the same track together in real time. The idea is to make sharing music feel more like actually spending time together.\n Alongside Pulse, you can search for songs, create playlists, save favourites, and see what your friends are listening to.\n Nivora is currently in a free iOS beta through TestFlight. I’d love some feedback from people outside my own circle, both on the app and on whether the concept feels useful.\n Try the beta: https://testflight.apple.com/join/BCsWqj48 \n Website and screenshots: https://nivoramusic.app \n If you have 15–20 minutes, I’d especially appreciate hearing:\n • Is it clear how to get started?\n • Does playback work reliably when you lock your screen?\n • Is joining a Pulse session straightforward?\n • What feels slow, confusing, or unnecessary?\n • Would you use shared listening with your friends?\n You can send bug reports through TestFlight or leave feedback here. If you’re testing alone and want to try Pulse, leave a comment and we can arrange a session.\n It’s still a work in progress, so honest criticism is welcome. What would make a social music app worth coming back to for you?\n &#32; submitted by &#32; /u/DreamIllustrious \n &#32;",
+    "score": 9,
+    "ageHours": 1.6,
+    "hits": [
+      "feedback",
+      "confusing"
+    ],
+    "draft": {
+      "why": "Consumer social music app in beta, no B2B budget, but the onboarding/activation problem is a legit design conversation.",
+      "potential": 3,
+      "options": [
+        "The hard part with shared listening isn't the real-time tech, it's the empty room problem: a friend opens Pulse, nobody's there, and they never come back. I'd design the whole first-run experience around one guaranteed shared session (prompt them to invite one specific friend before they can do anything else), not around features.",
+        "The concept lives or dies on what happens when a friend taps your invite link without the app installed. What does that flow look like right now, and how many steps until they're actually hearing the song?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x5nssh",
+    "subreddit": "SideProject",
+    "title": "SEOVision robots.txt tester — feedback on making crawl rules easier to understand",
+    "author": "/u/Stiven_TrafficLab",
+    "url": "https://www.reddit.com/r/SideProject/comments/1x5nssh/seovision_robotstxt_tester_feedback_on_making/",
+    "updated": "2026-10-14T10:34:44+00:00",
+    "body": "Disclosure: I’m working on SEOVision. This post was prepared with AI assistance.\n We have a free robots.txt tester that lets you paste rules, choose a crawler and check which rule allows or blocks a path.\n One small example from our basic checks: with Disallow: /admin/, /admin/settings is blocked but /admin is allowed. Adding Allow: /admin/help permits /admin/help and /admin/help/faq. That trailing slash is easy to miss.\n Tool: https://seovision.info/tools/robots-txt-tester \n It tests the text you paste; it doesn’t fetch a live site or prove that a page is indexed.\n I’d appreciate feedback from people maintaining small websites: are the explanations clear enough, and which confusing rule would you want an example for?\n &#32; submitted by &#32; /u/Stiven_TrafficLab \n &#32;",
+    "score": 9,
+    "ageHours": 1.9,
+    "hits": [
+      "feedback",
+      "confusing"
+    ],
+    "draft": {
+      "why": "Founder asking for UX feedback on a free tool; some chance they're a builder with budget, but SideProject free-tool threads skew low-intent.",
+      "potential": 3,
+      "options": [
+        "The trailing slash example is exactly the kind of thing people get wrong, so lean into that: show the specific line that matched next to each result, not just allowed/blocked. In my experience the confusion isn't the rule itself, it's not knowing which rule won.",
+        "One thing that trips people up more than trailing slashes is rule precedence when Allow and Disallow lengths conflict. Do you have an example for that, and does the tester explain why the longer match wins?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x5mjye",
+    "subreddit": "SaaS",
+    "title": "Feedback wanted: Testing a $100 lifetime access tier for an automated financial analysis tool (Capnote)",
+    "author": "/u/Double-Mushroom-6944",
+    "url": "https://www.reddit.com/r/SaaS/comments/1x5mjye/feedback_wanted_testing_a_100_lifetime_access/",
+    "updated": "2026-10-14T09:16:53+00:00",
+    "body": "Hey everyone,\n I’m currently a student interning over at Finvar, a Fintech company, helping out with some growth and outreach initiatives for Capnote (our AI-powered financial research platform).\n We&#39;ve been looking closely at how independent and newer investors tackle company and market research. Usually, you&#39;re stuck manually pulling financial statements/reports, mapping industry value chains, scrambling and piecing together information across social media, or paying heavy monthly subscriptions for enterprise-grade tools that don&#39;t quite fit individual budgets. Capnote solves that problem by aggregating all relevant information to your portfolio in one place for your stress-free perusal (Company value chains, watchlists, portfolio value tracking, notifications when markets fluctuate, peer comparisons, a feed that keeps you updated on recent events that could potentially impact your investments, etc.) And recently, AI-driven features have been added to streamline this process further, although after testing it myself there is still admittedly work to be done in that area. Regard it as a work-in-progress with the AI tools (The devs are working hard on them though, don&#39;t worry.)\n To lower the barrier and make Capnote more accessible for those who are interested, the marketing team is experimenting with an early-bird $100 lifetime access tier instead of the usual recurring subscription model. As a nice bonus, there&#39;s also a free trial with no credit card or ",
+    "score": 7.3,
+    "ageHours": 3.2,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Poster is a student intern promoting a consumer investing tool, but the lifetime pricing question is a real one and the thread is visible in r/SaaS.",
+      "potential": 3,
+      "options": [
+        "Lifetime deals on a data-heavy product are risky because your costs (APIs, market data feeds) recur forever while revenue doesn't. I'd cap the $100 tier hard, like first 200 users, and frame it as founding-member pricing so you get urgency without unlimited liability.",
+        "One thing to test before the pricing: does the free trial actually get someone to a connected portfolio and first insight in one session? For a tool like this, activation on that first aha moment will matter way more to conversion than whether the paid tier is $100 lifetime or $10 a month. What does your trial-to-paid look like so far?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x5pfgm",
+    "subreddit": "SideProject",
+    "title": "I drive rideshare, so I built the nav app I wanted on long shifts (iOS, free)",
+    "author": "/u/Live_Signal_256",
+    "url": "https://www.reddit.com/r/SideProject/comments/1x5pfgm/i_drive_rideshare_so_i_built_the_nav_app_i_wanted/",
+    "updated": "2026-10-14T12:04:49+00:00",
+    "body": "I drive Uber and Lyft around Boston and Providence. After enough 10-hour days I started building the app I wished I had. That became Berth, which is now live on the App Store.\n What it does:\n - CarPlay turn-by-turn, built for people who drive for a living, not just commuting\n - Break reminders that wait until you&#39;re between trips instead of interrupting one\n - A multi-stop route planner. It started when I spent a summer driving a landscaping truck with 10 stops a day.\n - Sofia, a voice copilot. You can ask &quot;where should I wait?&quot; or &quot;add a gas stop&quot; hands-free.\n The next update is in Apple review now. It adds Siri shortcuts that work while another app is on screen, Spanish voice support, and &quot;where to wait&quot; suggestions that factor in events, flights and how many drivers are already nearby.\n Stack, for the curious: SwiftUI + SwiftData, CarPlay, App Intents for Siri, and Supabase for the bits that sync.\n Free download, and Pro is optional: https://apps.apple.com/us/app/id6760940557 \n I&#39;d love feedback, especially on onboarding and anything confusing. I&#39;m one person, so I read every comment.\n &#32; submitted by &#32; /u/Live_Signal_256 \n &#32;",
+    "score": 7.2,
+    "ageHours": 0.4,
+    "hits": [
+      "feedback",
+      "onboarding",
+      "confusing"
+    ],
+    "draft": {
+      "why": "Solo dev consumer app asking for onboarding feedback, some practice value but unlikely client with budget.",
+      "potential": 3,
+      "options": [
+        "For onboarding, don't walk drivers through every feature up front. Get them to one CarPlay trip fast, then introduce Sofia and the route planner the first time each becomes relevant. Feature tours get skipped, but a prompt the first time they're idle between rides actually lands.",
+        "Curious how you handle first-launch permissions, since CarPlay, location, and Siri each need their own prompt. Do you ask everything up front or wait until the moment each feature needs it? That sequencing usually makes or breaks activation for utility apps."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x52h33",
+    "subreddit": "UXDesign",
+    "title": "[Case Study Critique & Career Advice] iOS Movie App Redesign (Movie Nerd) – Need Feedback on Info Hierarchy, UX Tools, Terminology & Industry Reality",
+    "author": "/u/Embarrassed_Dot_7449",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1x52h33/case_study_critique_career_advice_ios_movie_app/",
+    "updated": "2026-10-13T17:10:52+00:00",
+    "body": "Hi everyone!\n I’m finalizing a 9-slide UX audit &amp; redesign case study for an iOS app called &quot;Movie Nerd&quot;. My main focus was on restructuring the information architecture (IA), improving the Movie Details view hierarchy, and aligning navigation with iOS HIG standards.\n I’d really appreciate your raw, honest critique on the presentation itself, but I also have a few broader questions about tools, terminology, and industry standards.\n 📱1. Case Study &amp; Information Hierarchy (Be Brutally Honest!)\n Information Hierarchy &amp; Content Layout: Is the way I structure and &quot;sort&quot; information on the slides clean and digestible for a senior designer or reviewer? What should I cut, rearrange, or highlight better?\n Design Rationale: Do the UX arguments (e.g., splitting Library vs. Watchlist, moving the Watchlist CTA below the summary) feel well-reasoned and professional?\n 2. UX Tools &amp; Workflow Questions\n Which applications are best for creating presentation decks and UX case studies? I’ve been using standard presentation tools, but I’d love to know what tools industry professionals actually use to build high-impact portfolio presentations (Figma, Notion, Pitch, Slides, Illustrator, etc.)?\n 3. Industry Terminology &amp; Key Vocabulary\n Where can I find a good glossary or list of UX/Product key terms? When writing reports and case studies, I sometimes struggle to find the exact corporate/senior wording for UX phenomena, product metrics, and spatial patterns (",
+    "score": 11,
+    "ageHours": 19.3,
+    "hits": [
+      "feedback",
+      "ux",
+      "design",
+      "redesign",
+      "figma",
+      "designer"
+    ],
+    "draft": {
+      "why": "Junior designer polishing a portfolio case study, so not a client, but a decent thread to give sharp, practical feedback that other readers might notice.",
+      "potential": 2,
+      "options": [
+        "The strongest thing you can do with a 9-slide audit is cut it to the problem, the one decision that mattered, and the before/after. Reviewers skim for judgment, not process, so lead with why splitting Library vs. Watchlist was right (they answer different user questions: what do I own vs. what do I want to watch) rather than walking through every change.",
+        "On tools: almost every hiring manager I've worked with prefers a Figma file or a simple webpage over a deck, because they can zoom, scroll at their own pace, and see your file hygiene. If you want senior-sounding vocabulary, read Nielsen Norman Group articles and copy the terms they use to describe the exact patterns you're redesigning."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x5hybd",
+    "subreddit": "SaaS",
+    "title": "I spent 5 months building a free website with 250+ browser tools. Would love some feedback!",
+    "author": "/u/AffectionateTap1339",
+    "url": "https://www.reddit.com/r/SaaS/comments/1x5hybd/i_spent_5_months_building_a_free_website_with_250/",
+    "updated": "2026-10-14T04:25:46+00:00",
+    "body": "Hey everyone!\n I&#39;m a solo developer from Egypt, and I&#39;ve spent around 5 months building a project called Phoenix Tools.\n I wanted to create one place for useful browser tools without requiring users to sign up, pay subscriptions, or deal with ads.\n It now includes 250+ tools for PDFs, images, development, conversions, SEO, and everyday tasks.\n I also built a multi-tool workspace, some ready-made workflows, and offline support for selected tools.\n Everything is free.\n I&#39;m still working on improving it, and I&#39;d genuinely appreciate some feedback from other developers and users.\n What would you improve? Is there a tool you think is missing?\n Website: https://phoenixtools.online/ \n &#32; submitted by &#32; /u/AffectionateTap1339 \n &#32;",
+    "score": 7.6,
+    "ageHours": 8.1,
+    "hits": [
+      "feedback",
+      "sign up"
+    ],
+    "draft": {
+      "why": "Solo dev with a free consumer toolset, no budget and no B2B angle, but the 250-tools discovery problem is a real design thread worth a reply.",
+      "potential": 2,
+      "options": [
+        "With 250+ tools, the biggest UX risk is that nobody finds the one tool they came for. In my experience a strong search plus 6 to 8 curated categories on the homepage beats a full directory listing, and your most-used tools (PDF merge, image compress) deserve prime placement above the fold.",
+        "How are you planning to keep this sustainable? Free with no ads or signup is a great hook, but hosting PDF and image processing gets expensive at scale. Worth thinking about now, because the answer will shape design decisions later, like whether you add a Pro tier or usage limits."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x5pl2p",
+    "subreddit": "SideProject",
+    "title": "I got tired of using 6 different apps for one trip so we built this",
+    "author": "/u/Thesoulfindingal",
+    "url": "https://www.reddit.com/r/SideProject/comments/1x5pl2p/i_got_tired_of_using_6_different_apps_for_one/",
+    "updated": "2026-10-14T12:12:36+00:00",
+    "body": "Hello!\n i’m the ui designer at rift (it used to be called soar)\n so we built an app that keeps all of your travel and planning in one place and in the most convinent way possible, mostly for younger travellers who plan everything on their phone: rift.co\n what our app does:\n ~ one of the straongest flight search engine to find the cheapest flight \n ~ explore shows a map of cheap flights from where you are\n ~ group trip: when you have a bunch of friends flying from diffirent cities and need the closest arrival time for all \n ~ iMessage booking and assistance: you can text sky, our assistant, on imessage to search flights, check bookings and get updates\n ~ stays: shows you a clean map with all the stays nearby \n ~ auto-fare drop recovery: fare recovery watches your price after you book and claims eligible drops for you (usually as airline credit, not cash)\n all these with no added booking fees\n atlas (one of our coolest feature) finds hidden city fares\n sometimes a ticket through your city to somewhere further is cheaper, so you book that one and get off at the connection\n an example of the kind of thing it can find (this one’s from our site):\n miami → newark\n $239 normal ticket vs $114 with atlas\n we’re still adding a lot, so i’d love feedback from people who book flights often:\n what’s confusing? what would make this more useful? would you actually switch to it? and what can we add, and especially how is the UI lol\n please check out RiftCo and tell me how was your experience\n ",
+    "score": 7.2,
+    "ageHours": 0.3,
+    "hits": [
+      "feedback",
+      "ui",
+      "confusing",
+      "designer"
+    ],
+    "draft": {
+      "why": "Founder-designer asking for UI feedback, but it's a consumer travel app with no clear B2B budget, so client potential is low.",
+      "potential": 2,
+      "options": [
+        "The iMessage assistant is your most differentiated feature and it's buried fourth in the list. I'd lead the landing page with 'text us to book your flight' and let the flight search be the supporting act, since every travel app claims cheapest fares and nobody believes it.",
+        "How are you handling the hidden city ticketing risk in the UI? If a first-time user books an atlas fare, checks a bag, and it goes to the final destination, that's a brutal first experience. Curious whether you gate it with warnings or only show it to carry-on only searches."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x5ntvo",
+    "subreddit": "SideProject",
+    "title": "My icon set got roasted on Reddit, so I spent the week fixing it",
+    "author": "/u/brightlyColossal",
+    "url": "https://www.reddit.com/r/SideProject/comments/1x5ntvo/my_icon_set_got_roasted_on_reddit_so_i_spent_the/",
+    "updated": "2026-10-14T10:36:27+00:00",
+    "body": "I’m building Matita, free pencil-style icons for websites (React, SVG, Figma). Posted it on Reddit last week and people found stuff I never noticed. My printer icon apparently looks like a guy standing there. The pencil version looked like watercolour. Fair.\n So this week: printer redrawn, a new pencil style, circles that don’t all close the same way, and 27 new icons, 200 in total now.\n It’s MIT, no signup, you just copy the icon you want. Feedback very welcome, it’s the best part of posting here.\n https://matita.dev \n &#32; submitted by &#32; /u/brightlyColossal \n &#32;",
+    "score": 6.8,
+    "ageHours": 1.9,
+    "hits": [
+      "feedback",
+      "figma",
+      "looks"
+    ],
+    "draft": {
+      "why": "Maker iterating on feedback, but it's a free icon set side project with no budget and no design-for-hire angle.",
+      "potential": 2,
+      "options": [
+        "Redrawing based on specific criticism is the right loop, but watch for the trap of fixing icons one by one instead of defining the rule that was broken. If the printer read as a person, your metaphor threshold is probably too loose across the whole set, worth auditing all 200 against that, not just the ones people flagged.",
+        "Curious how you're keeping consistency at 200 icons, do you have written rules for stroke endings and corner radius, or is it by eye? By-eye sets tend to drift as they grow, and that's usually what people are reacting to when they can't name the problem."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1279741",
+    "platform": "producthunt",
+    "title": "WriterzRoom",
+    "author": "Jason Robinson",
+    "url": "https://www.producthunt.com/products/writerzroom",
+    "updated": "2026-10-13T21:35:22-07:00",
+    "body": "Governed multi-agent AI content for regulated industries",
+    "score": 0.9,
+    "ageHours": 7.9,
+    "hits": [
+      "content"
+    ],
+    "draft": {
+      "why": "B2B SaaS launch targeting regulated industries, a market with real budgets, and the founder and commenters skew toward buyers Ryan works with.",
+      "potential": 7,
+      "options": [
+        "Congrats on the launch. Curious who you're aiming at first: compliance teams writing the content themselves, or marketing teams that keep getting blocked by legal review? The first-run experience probably needs to be very different for each.",
+        "My guess is the word \"governed\" does more work here than \"multi-agent\" for buyers in regulated industries, since auditability is the actual pain. Are you positioning it that way, or leading with the AI angle?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1279161",
+    "platform": "producthunt",
+    "title": "Blade",
+    "author": "Ashley Hocking",
+    "url": "https://www.producthunt.com/products/blade-4",
+    "updated": "2026-10-13T08:07:27-07:00",
+    "body": "Find your first customers hiding in your inbox",
+    "score": 2.8,
+    "ageHours": 21.4,
+    "hits": [
+      "customers",
+      "customer"
+    ],
+    "draft": {
+      "why": "Launch-day comment on a founder tool that mines email for leads; founders who build sales tooling often need design help and PH threads get founder eyeballs.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch, Blade! Curious about the first-time experience: when someone connects their inbox, what's the first thing they see that makes them go \"oh, these are actual leads I missed\"? That moment seems like it would make or break activation.",
+        "Happy launch day! Positioning question: are you going after founders doing their own sales, or sales teams? \"Customers hiding in your inbox\" feels strongest for solo founders who never set up a CRM, so wondering if that's the wedge."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1278154",
+    "platform": "producthunt",
+    "title": "daily.dev",
+    "author": "fmerian",
+    "url": "https://www.producthunt.com/products/daily-dev",
+    "updated": "2026-10-12T11:30:13-07:00",
+    "body": "Where agents discover what's next",
+    "score": 0.6,
+    "ageHours": 42,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "Launch-day comment on a visible PH post from a dev-tool company with real budget, though it's more B2D than classic B2B SaaS.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch. Curious who you see as the first power users here: developers keeping up with AI tooling, or the agents themselves doing the discovery? The answer changes a lot about what the first-run experience should look like.",
+        "Big launch, congrats. The tagline makes me wonder if you're positioning this as a feed for agents rather than for devs reading about agents. Is that a deliberate bet on agent-first discovery, or is the human audience still the main one for now?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1278698",
+    "platform": "producthunt",
+    "title": "AdAnt 2.0",
+    "author": "Justin Jincaid",
+    "url": "https://www.producthunt.com/products/adant-ai",
+    "updated": "2026-10-13T00:51:30-07:00",
+    "body": "Muse for Social Media Marketing",
+    "score": 1.2,
+    "ageHours": 28.7,
+    "hits": [
+      "marketing"
+    ],
+    "draft": {
+      "why": "PH launch for a social media marketing AI tool; audience skews indie/consumer, but some SaaS founders watching, and a thoughtful comment can open a design conversation with the maker.",
+      "potential": 3,
+      "options": [
+        "Congrats on the launch! Who's the person you built this for first: a solo founder doing their own marketing, or an agency juggling multiple client accounts? The answer changes a lot about what the first-run experience should feel like.",
+        "Congrats on launching 2.0! Curious how you're positioning this: is AdAnt more like a creative copilot that helps you make the content, or a strategist that tells you what to make? I've found tools land very differently depending on which promise leads."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1279402",
+    "platform": "producthunt",
+    "title": "Hindsight 1.0 + Memlake",
+    "author": "Chris Bartholomew",
+    "url": "https://www.producthunt.com/products/vectorize",
+    "updated": "2026-10-13T11:51:23-07:00",
+    "body": "Open source memory for AI agents to learn from experience",
+    "score": 1.1,
+    "ageHours": 17.7,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "Open source dev tool for AI agents; audience is engineers, not design buyers, so client potential is low.",
+      "potential": 3,
+      "options": [
+        "Congrats on the launch! Curious who you picture reaching for this first: teams already running agents in production who hit a memory wall, or devs still prototyping? The answer probably changes how you should onboard people.",
+        "Happy launch day! My guess is 'open source memory layer' appeals to infra-minded devs but the bigger pull is the 'learns from experience' outcome for agent builders. Are you leading with the infrastructure angle or the outcome on the landing page?"
+      ]
+    }
+  }
+]
