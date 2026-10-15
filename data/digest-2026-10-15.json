@@ -1,0 +1,406 @@
+[
+  {
+    "platform": "reddit",
+    "id": "t3_1x6a4fe",
+    "subreddit": "microsaas",
+    "title": "18 trial users, 0 paying customers. Roast my SaaS",
+    "author": "/u/lacartrad",
+    "url": "https://www.reddit.com/r/microsaas/comments/1x6a4fe/18_trial_users_0_paying_customers_roast_my_saas/",
+    "updated": "2026-10-15T02:31:54+00:00",
+    "body": "I&#39;ve been running https://leadfast.vip since September 9, and I haven&#39;t found my first paying customer yet.\n You enter your product website, and it finds live Reddit posts where someone describes a problem your product could solve. It sends you alerts so you can decide whether to join the conversation. It doesn&#39;t post or message anyone. The promise is alerts are fast.\n My funnel after 5 weeks:\n 217 visitors → 18 signups → 18 completed onboarding → 0 checkouts \n I did everything Claude tells you to do so I emailed trial users who didn&#39;t continue to understand why. To my surprise 2 replied with different reasons.\n One found the alerts useful, but didn&#39;t want another subscription:\n “It genuinely helped me find relevant leads… I don&#39;t want to add another ongoing subscription to my plate right now.”\n The other received over 50 alerts but hadn&#39;t found fit enough opportunities. They were also concerned about recommending their app in communities with strict self-promotion rules:\n “it feels like spam and I stopped it from my dashboard.”\n Since many of you build products and use Reddit to find customers I&#39;d appreciate your take on what is LeadFast missing for it to feel worth paying $19/month for? What would you change or investigate first?\n &#32; submitted by &#32; /u/lacartrad \n &#32;",
+    "score": 13.1,
+    "ageHours": 10,
+    "hits": [
+      "roast my",
+      "onboarding",
+      "dashboard",
+      "signups"
+    ],
+    "draft": {
+      "why": "Founder with a live SaaS, real funnel data, and a conversion/pricing problem Ryan could help fix.",
+      "potential": 7,
+      "options": [
+        "Your second user's quote is the real signal: 50 alerts with no fit means the problem is alert quality, not price. Before touching pricing, let users tighten targeting with negative keywords and subreddit filters, and show a match score so the first 10 alerts feel hand-picked instead of noisy.",
+        "One-time pricing might fit this product better than subscription. The user who said 'no more subscriptions' but found real value is telling you they'd pay $49 once for a credits pack of alerts. Have you tested a pay-per-alert or lifetime deal against the $19/month?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x6fc1u",
+    "subreddit": "UXDesign",
+    "title": "What approach do you use to make trust tangible in journey maps in case stakeholders are obsessed with speed?",
+    "author": "/u/Cx-design-thinker",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1x6fc1u/what_approach_do_you_use_to_make_trust_tangible/",
+    "updated": "2026-10-15T07:34:36+00:00",
+    "body": "The problem that I&#39;m experiencing:\n Within my work with clients, stakeholders place an enormous amount of importance on speed and conversion, wanting to lower clicks and making it faster. The main user problem that we uncovered through research is lack of trust, not speed. Users are hesitant, double check. They drop off because they don&#39;t trust, not because the experience takes too long.\n Whenever I attempt to bring trust into the journey map, trust feels intangible when compared to something that can be measured, such as speed.\n What I&#39;ve already tried:\n I&#39;ve included a lane for Trust signals and anxieties as well as Emotions, yet it gets ignored within reviews.\n I&#39;ve attempted to link trust touchpoints to UI components including reassuring copy, proof points and clear pricing within our vision wheel.\n I&#39;ve scoured the subreddit. I&#39;ve read some threads about journey mapping - yet they all revolve around emotion or pain points, rather than the issue of trust.\n My question to you:\n If any of you are working on things like trust, confidence, or security on your maps - how are you documenting these in a way that they actually affect the design process and the conversations between stakeholders? Do\n &#32; submitted by &#32; /u/Cx-design-thinker \n &#32;",
+    "score": 5.9,
+    "ageHours": 4.9,
+    "hits": [
+      "conversion",
+      "ui",
+      "design"
+    ],
+    "draft": {
+      "why": "Experienced UX designer working with stakeholders on trust vs speed tradeoffs; good peer visibility and the answer showcases Ryan's conversion expertise without pitching.",
+      "potential": 4,
+      "options": [
+        "Make trust measurable the same way speed is. Instrument hesitation signals like field re-entries, back-button use before checkout, and time hovering over pricing, then put those numbers in the journey map next to your trust lane. Stakeholders ignore feelings but they can't ignore a step where users reread the same section three times.",
+        "Reframe it as a risk question instead of a UX question: what does a 2-second faster flow gain if 30% of users bail at the pricing step because something feels off? In my experience the trust conversation only lands when you attach it to the conversion metric they already worship, not a new lane they can scroll past."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x6imj0",
+    "subreddit": "SideProject",
+    "title": "I'm building a 3D smart home dashboard. Early feedback made me rethink who it's actually for.",
+    "author": "/u/xrths",
+    "url": "https://www.reddit.com/r/SideProject/comments/1x6imj0/im_building_a_3d_smart_home_dashboard_early/",
+    "updated": "2026-10-15T10:59:39+00:00",
+    "body": "I&#39;m working on Apartment, a way to see your home in 3D and find devices by their physical location.\n My mum and sister already find smart home controls confusing. That has made me think more about whether finding a device by its location could be easier than remembering its name in an app.\n After sharing an earlier version on r/HomeKit , people made a fair point: good automation should usually happen without opening a dashboard. I agree. The narrower problem I&#39;m exploring is what happens when someone does need to check or change something manually. Could a familiar view of the room help?\n This video shows the interface I&#39;m building, with simulated device states and energy readings. The HomeView shots illustrate how I imagine a widget could look; they aren&#39;t a confirmed native integration. The compatibility badges show the integrations I&#39;m targeting, not a shipping release.\n The hard part is making setup simple enough that the 3D view is worth the effort. Would you set up a floor plan for this, or would a few clearly named buttons work better?\n I&#39;m the developer. Project and early-access list: https://meetapartment.com \n &#32; submitted by &#32; /u/xrths \n &#32;",
+    "score": 12.4,
+    "ageHours": 1.5,
+    "hits": [
+      "feedback",
+      "dashboard",
+      "confusing"
+    ],
+    "draft": {
+      "why": "A thoughtful builder wrestling with a real UX tradeoff (setup cost vs spatial model), but a consumer hobby project with no client budget.",
+      "potential": 3,
+      "options": [
+        "The setup cost is the whole game here. If I have to draw my floor plan before I see any value, most people bounce. What if the first win comes from one room? Let someone place 3 devices in a rough rectangle and feel the magic, then invite them to map the rest once they're bought in.",
+        "Honest question: for your mum, is the problem finding the device, or knowing which of four identical 'Living room lamp' entries is the right one? If it's the naming problem, a photo of the room with tappable hotspots might get you 90% of the value with almost none of the 3D setup effort."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x5ufu2",
+    "subreddit": "design_critiques",
+    "title": "Please give feedback on my web scraper’s landing page and playground usefulness",
+    "author": "/u/GCSurvivor",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1x5ufu2/please_give_feedback_on_my_web_scrapers_landing/",
+    "updated": "2026-10-14T15:35:44+00:00",
+    "body": "Hi everyone,\n I built the website for Markdownee, an open-source tool that extracts web content as Markdown, (or HTML or text). I would appreciate a feedback/critique of the GUI, specially from someone seeing it for the first time.\n Website: https://www.markdownee.com/ \n The homepage puts the interactive playground before the longer product explanation. There are also separate Crawl, Fetch, Export and Purge sections/tabs, plus options for previewing results or generating commands and library code.\n Id like to ask:\n Does the first screen make it clear what the tool does? Are the labels Crawl, Fetch and Export understandable to a new user? Is the amount of information comfortable to scan on desktop and mobile, or is it overcrowded, are there any mobile problems? any other GUI problems/chances to improve in general, what you would simplify or rearrange. etc... Thanks\n &#32; submitted by &#32; /u/GCSurvivor \n &#32;",
+    "score": 10.7,
+    "ageHours": 20.9,
+    "hits": [
+      "feedback",
+      "landing page"
+    ],
+    "draft": {
+      "why": "Founder with a live landing page asking for UX critique; dev-tool open source, so low client odds, but a concrete conversion question Ryan can answer well.",
+      "potential": 3,
+      "options": [
+        "Putting the playground first is the right call, but four top-level tabs (Crawl, Fetch, Export, Purge) reads like your API structure, not a user's mental model. New visitors only need two questions answered: what goes in, what comes out. I'd collapse Purge into a settings area and rename the others around intent, like 'Get one page' vs 'Crawl a site', so first-timers aren't decoding verbs.",
+        "Playground-first works when the demo succeeds on the first try, so the big risk is an empty input with no suggested URL. Pre-fill it with a real example and show the Markdown output instantly, then the explanation below becomes confirmation instead of a sales pitch. What's the default state a brand new visitor sees right now?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x6k4zg",
+    "subreddit": "SideProject",
+    "title": "got back into collecting and made my own app to bring back the fun part of it, looking for feedback",
+    "author": "/u/coocoochimps",
+    "url": "https://www.reddit.com/r/SideProject/comments/1x6k4zg/got_back_into_collecting_and_made_my_own_app_to/",
+    "updated": "2026-10-15T12:19:56+00:00",
+    "body": "so i started collecting again this year and honestly forgot how fun it is. opening packs, filling binders, finally getting that one card u been looking for, trading with people.\n i tried the usual apps and they&#39;re great for tracking prices, but i wanted something that feels more like the collecting and trading part. so i made my own. its about filling binders, finishing sets, ur wishlist, and trading with other people in the app instead of going back and forth in DMs. prices are still there but kept to the minimum.\n its still early and rough in some places, so im really looking for feedback. what u like, what u dont, what&#39;s confusing, what&#39;s broken, what u wish it had. honest is good, i can take it lol\n [holoquest.app]( https://holoquest.app ) if u wanna try it\n first 100 people who sign up get a founding badge on their profile :)\n there&#39;s a feedback button in the app or just comment here, i&#39;ll read everything :) \n &#32; submitted by &#32; /u/coocoochimps \n &#32;",
+    "score": 10.1,
+    "ageHours": 0.2,
+    "hits": [
+      "feedback",
+      "sign up",
+      "confusing"
+    ],
+    "draft": {
+      "why": "Founder actively seeking design feedback, but it's a consumer hobby app with no clear budget for B2B SaaS design work.",
+      "potential": 3,
+      "options": [
+        "Trading in-app instead of DMs is the right bet, so make that flow the star of your onboarding. Most collectors will try one trade and decide to stay or leave based on how smooth the offer and accept flow feels, so obsess over that before adding more tracking features.",
+        "What's the first thing a new user does after signing up? If it's an empty binder and no suggested set to start, you'll lose people fast, so consider seeding a starter goal like 'finish your first 10-card set' to give them a quick win."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x6hou6",
+    "subreddit": "SideProject",
+    "title": "Wishes - an online birthday card you send as one link. Looking for honest feedback",
+    "author": "/u/No_Insurance3257",
+    "url": "https://www.reddit.com/r/SideProject/comments/1x6hou6/wishes_an_online_birthday_card_you_send_as_one/",
+    "updated": "2026-10-15T10:04:40+00:00",
+    "body": "Hi all. I made Wishes ( https://wishes.feco.pro/?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=r_sideproject ) and I&#39;d like some outside eyes on it before I spend more time on it.\n The idea is small. Instead of a &quot;happy birthday!!&quot; text, you write a message, pick a look, and send one link. They open it on their phone, tap to open the surprise, and get your message with confetti. They don&#39;t need an account or an app.\n What&#39;s in it right now:\n Free: one card a month with your message, confetti and a shareable link Paid cards can add a voice recording, up to 5 photos, background music, a scratch-to-reveal message, and scheduled delivery so it goes live on the actual day $0.99 for a single card with everything, or $1.99 / $3.99 a month if you send a lot of them Here&#39;s what the person receiving it sees, no signup needed: https://wishes.feco.pro/b?name=Sam&amp;age=30&amp;message=Happy%20birthday%20from%20the%20demo&amp;utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=r_sideproject \n Stack is Next.js, Postgres with Prisma, NextAuth (Google) and Stripe, running on my own server.\n Three things I&#39;d really like opinions on:\n You have to sign in with Google before making a card. Is that enough to make you close the tab? The pricing page has five tiers. I think that&#39;s too many. Which would you cut? Would you actually send one of these to a friend, or does it feel like a gimmick? I&#39;ll be in the comments for the next few hours.\n &#32;",
+    "score": 10,
+    "ageHours": 2.4,
+    "hits": [
+      "feedback",
+      "pricing page"
+    ],
+    "draft": {
+      "why": "Poster asked specific product questions (sign-in friction, pricing tiers) and is engaged in comments, but it's a consumer side project, not a B2B client opportunity.",
+      "potential": 3,
+      "options": [
+        "Five tiers is too many when the product does one small thing. I'd cut it to two: the free card and one $0.99 paid card with everything. The monthly subscriptions add cognitive load for something most people buy a handful of times a year, and if someone does send a lot, they'll figure out single purchases or you add a bundle later.",
+        "The Google sign-in before making a card is the bigger risk to me. People decide if this is fun in about 10 seconds, and an auth wall kills that. Let them build the whole card first, then ask for sign-in at the moment they hit 'get link', when they've already invested effort and want the output."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x6f7jk",
+    "subreddit": "design_critiques",
+    "title": "Hey everyone! I’d love some honest feedback on my website.",
+    "author": "/u/Outis_codes",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1x6f7jk/hey_everyone_id_love_some_honest_feedback_on_my/",
+    "updated": "2026-10-15T07:26:18+00:00",
+    "body": "&#32; submitted by &#32; /u/Outis_codes \n &#32;",
+    "score": 7.1,
+    "ageHours": 5.1,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Website feedback request with no visible link or context, likely a hobby or early-stage project rather than a funded B2B SaaS.",
+      "potential": 2,
+      "options": [
+        "The link didn't come through on my end, so there's not much to react to yet. When you repost, add a sentence on what the site is supposed to do and who it is for, since design feedback is pretty useless without knowing the goal.",
+        "Happy to give real feedback, but what's the one action you want a visitor to take on this site? That answer changes everything about what to critique first."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x5qiuc",
+    "subreddit": "design_critiques",
+    "title": "Built a new portfolio site! Would love your thoughts and feedback 🚀",
+    "author": "/u/ksingh1083",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1x5qiuc/built_a_new_portfolio_site_would_love_your/",
+    "updated": "2026-10-14T12:57:17+00:00",
+    "body": "Hey everyone! 👋\n I&#39;ve been working on putting together my personal portfolio ( karnailsingh.vercel.app ) to showcase some of the MERN stack, Python, and AI projects I&#39;ve built recently.\n I wanted to keep it clean and smooth, so feel free to check it out when you have a second! I&#39;d love to hear any thoughts, feedback, or suggestions you might have on the design or performance.\n Thanks!\n &#32; submitted by &#32; /u/ksingh1083 \n &#32;",
+    "score": 6.1,
+    "ageHours": 23.6,
+    "hits": [
+      "feedback",
+      "design"
+    ],
+    "draft": {
+      "why": "Portfolio review from a developer, not a B2B SaaS founder with budget; low client potential but a quick specific critique fits the sub.",
+      "potential": 2,
+      "options": [
+        "Without a link screenshot I can't see it, but the most common issue on dev portfolios is project cards that describe the stack instead of the problem solved. Lead each project with one sentence on what it does and for whom, then list tech underneath in smaller type.",
+        "One thing worth checking: put your strongest project first and give it a live demo link right on the card, not buried behind a detail page. Most visitors decide in 10 seconds, and recruiters rarely click twice."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x6jkri",
+    "subreddit": "SideProject",
+    "title": "Would you use a free capsule wardrobe service for men who travel for work?",
+    "author": "/u/Neat-Childhood-6010",
+    "url": "https://www.reddit.com/r/SideProject/comments/1x6jkri/would_you_use_a_free_capsule_wardrobe_service_for/",
+    "updated": "2026-10-15T11:51:50+00:00",
+    "body": "No boxes, no subscription, and I don’t sell anything. Some shop links may earn a small commission, which I say up front.\n I’m doing the first 20 by hand: https://wearefourfold.com \n I’d really like honest feedback:\n Would you fill in the form? What would stop you signing up? Does “four modes” make sense straight away, or is it confusing? &#32; submitted by &#32; /u/Neat-Childhood-6010 \n &#32;",
+    "score": 5.6,
+    "ageHours": 0.6,
+    "hits": [
+      "feedback",
+      "confusing"
+    ],
+    "draft": {
+      "why": "Founder asking for honest feedback on a service concept and its naming, easy to give a specific UX observation, but it's a consumer side project with no revenue so client potential is low.",
+      "potential": 2,
+      "options": [
+        "The affiliate disclosure up front is actually a trust win, but 'four modes' means nothing to a first-time visitor. Rename the modes after the trip itself, like 'client week' or 'conference', so people self-select in two seconds instead of decoding your framework.",
+        "What stops me signing up is the form itself: before I type anything, I want to see one finished example capsule so I know what I get back. Do you have a sample output you could show on the page?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x5xkdj",
+    "subreddit": "UXDesign",
+    "title": "If AI agents become the interface, what are we actually designing for?",
+    "author": "/u/outoftheforge",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1x5xkdj/if_ai_agents_become_the_interface_what_are_we/",
+    "updated": "2026-10-14T17:33:19+00:00",
+    "body": "I’ve been working in UI/UX design for around 16 years, and lately I’ve been thinking quite a bit about where all of this might be heading.\n Not just how AI changes our workflows in Figma, but what happens to the interfaces we’re designing in the first place.\n We’re already seeing early examples of generative UI. ChatGPT can create small, functional interfaces directly within a conversation. Calculators, interactive charts, selection controls, and so on.\n Now imagine taking that a few steps further.\n Instead of opening a railway company’s website to book a ticket, I ask my personal AI agent to find a connection. It gathers information from different providers and generates an interface tailored to my needs. Maybe I make the final decision myself. Maybe the agent handles the entire booking.\n The interesting part is that I might never interact with the railway company’s actual interface.\n And this is where I think things get interesting for UX design.\n Today, companies invest heavily in their own digital experiences. Their websites, applications, design systems, interaction patterns, and brand identities are all part of how they differentiate themselves.\n But what happens when the primary interface belongs to the user’s AI agent rather than the company providing the service?\n I’ve also been experimenting with building interfaces on top of existing systems and data sources. That already makes me question how tightly the experience really needs to be coupled to the underlying appl",
+    "score": 5.6,
+    "ageHours": 19,
+    "hits": [
+      "ux",
+      "ui",
+      "design",
+      "figma"
+    ],
+    "draft": {
+      "why": "Interesting strategic discussion, but it's a designer audience, not founders with budget, so client potential is low.",
+      "potential": 2,
+      "options": [
+        "The design work doesn't disappear, it shifts to the data layer. When agents mediate booking, what matters is whether the railway's API returns clean schedules, prices, and error states, so UX starts looking like API design plus edge case copy, not screens. I've seen this already with aggregators: the companies that win are the ones whose data is easiest to present well.",
+        "Honest question: is this actually different from what happened with Google Flights or comparison sites? Users already stopped visiting airline interfaces for discovery years ago, and airlines still invest in their own UX for loyalty and upsell. Maybe the agent era just accelerates that split between commodity transactions and branded experiences worth keeping in-house."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x6k3vv",
+    "subreddit": "SideProject",
+    "title": "I'm building DreamTune Labs to give AI side projects one shared balance across models and tools",
+    "author": "/u/legendpizzasenpai",
+    "url": "https://www.reddit.com/r/SideProject/comments/1x6k3vv/im_building_dreamtune_labs_to_give_ai_side/",
+    "updated": "2026-10-15T12:18:25+00:00",
+    "body": "If your side project uses a text model, web search and image generation, you can end up funding three different accounts before you know whether the idea is worth pursuing.\n That&#39;s the problem I&#39;m working on with DreamTune Labs. The goal is one balance across supported AI services, with a shared view of usage and costs. The scope also includes GPU compute, with SDK, CLI and MCP interfaces for connecting applications and agents.\n The part I want feedback on is whether that convenience is valuable enough to change how you build. Going directly to each provider gives you fewer dependencies; using a shared service makes billing simpler but adds another company you have to trust.\n It&#39;s early. The SDK currently installs from a source checkout, so onboarding still has friction. The unused-credit marketplace mentioned on the site is planned. Pricing currently includes a 10% fee when adding credit, plus each service&#39;s usage costs.\n I&#39;d love feedback from people building small AI products: which services would you want together first, and what would make the first five minutes useful enough for you to come back?\n I&#39;m the builder. Website: https://dreamtunelabs.com \n Developer docs: https://dreamtunelabs.com/docs/ \n &#32; submitted by &#32; /u/legendpizzasenpai \n &#32;",
+    "score": 5.4,
+    "ageHours": 0.2,
+    "hits": [
+      "feedback",
+      "onboarding"
+    ],
+    "draft": {
+      "why": "Builder asking specific onboarding and pricing feedback, but it's a developer billing tool with no design problem Ryan fixes and a fee-laden pre-revenue project.",
+      "potential": 2,
+      "options": [
+        "The 10% top-up fee is the thing that would stop me before the trust question even comes up. Side projects live on tiny budgets, so a tax on every dollar added makes the convenience math hard, especially when OpenRouter-style pass-through pricing exists. I'd consider making the fee part of usage instead of the deposit.",
+        "Honest answer on the first five minutes: show me a single working call to two different services with one key, and a running cost total, before you ask me to install anything from a source checkout. Which services are you seeing people actually combine most often, is it text plus image or something else?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x6h2o0",
+    "subreddit": "design_critiques",
+    "title": "Need feedback on my fashion illustrations!",
+    "author": "/u/meimei__321",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1x6h2o0/need_feedback_on_my_fashion_illustrations/",
+    "updated": "2026-10-15T09:26:11+00:00",
+    "body": "&#32; submitted by &#32; /u/meimei__321 \n &#32;",
+    "score": 7.5,
+    "ageHours": 3.1,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Personal portfolio feedback for fashion illustrations, not a B2B SaaS design problem Ryan fixes.",
+      "potential": 1,
+      "options": [
+        "Hard to give useful feedback without seeing your goal. Are these for client commissions, a job application, or social growth? The right critique changes a lot depending on the audience.",
+        "One thing that helps any illustration portfolio: show 3 to 5 pieces in a consistent style instead of a wide range. Clients hire for a look, not versatility, and a tight set reads as more professional."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1280174",
+    "platform": "producthunt",
+    "title": "Chatway MCP",
+    "author": "Gal Dubinski ",
+    "url": "https://www.producthunt.com/products/chatway",
+    "updated": "2026-10-14T04:30:36-07:00",
+    "body": "Let ChatGPT & Claude answer customer support tickets via MCP",
+    "score": 1.3,
+    "ageHours": 25,
+    "hits": [
+      "customer"
+    ],
+    "draft": {
+      "why": "Founder launching a B2B support tool on PH; support tooling buyers are SaaS companies, and the poster may need design help as the product matures.",
+      "potential": 6,
+      "options": [
+        "Congrats on the launch. Quick question on the first-time experience: when someone connects Chatway to their helpdesk, how do they build trust in the AI's answers before it starts replying to real customers? A sandbox or review mode there feels like it could make or break activation.",
+        "Happy launch day! Curious who you see this fitting best: solo founders drowning in tickets, or bigger teams that already have support reps? The MCP angle feels like it could position you as infrastructure for existing helpdesks rather than a replacement, and those attract pretty different buyers."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1280444",
+    "platform": "producthunt",
+    "title": "withHuman",
+    "author": "Chris Battarbee",
+    "url": "https://www.producthunt.com/products/withhuman",
+    "updated": "2026-10-14T09:01:56-07:00",
+    "body": "A human approval layer for AI Agents",
+    "score": 1.1,
+    "ageHours": 20.5,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "AI agent tooling founders on PH often need landing page help, and launch threads get founder traffic.",
+      "potential": 6,
+      "options": [
+        "Congrats on the launch! Who's the first user you're building this for, developers wiring up their own agents or teams who need sign-off on agent actions in production?",
+        "Congrats on the launch! Curious about positioning: is this more of a compliance and trust layer for enterprises, or a debugging tool for devs who want a human in the loop? Feels like those two buyers need very different pages and messaging."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1280213",
+    "platform": "producthunt",
+    "title": "AI Sandboxes by Buddy",
+    "author": "Rafal Sztwiorok",
+    "url": "https://www.producthunt.com/products/buddy",
+    "updated": "2026-10-14T05:11:07-07:00",
+    "body": "Isolated cloud machines for your AI coding agents",
+    "score": 1,
+    "ageHours": 24.3,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "Dev tool for AI coding agents is a hot category; Buddy could become a B2B SaaS client and PH threads attract founders with budget.",
+      "potential": 6,
+      "options": [
+        "Congrats on the launch! Quick question: when someone connects their first agent, what's the moment they actually see it working in a sandbox? That first-run experience is usually where dev tools win or lose people.",
+        "Congrats on launching! Curious how you're positioning this: is it for solo devs running agents locally who want isolation, or for teams orchestrating many agents at once? The tagline reads like both, and those buyers want pretty different things."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1280610",
+    "platform": "producthunt",
+    "title": "Superdraft",
+    "author": "Dakoda",
+    "url": "https://www.producthunt.com/products/superdraft",
+    "updated": "2026-10-14T12:22:19-07:00",
+    "body": "Automatically identify opportunities to email your customers",
+    "score": 3,
+    "ageHours": 17.1,
+    "hits": [
+      "customers",
+      "customer"
+    ],
+    "draft": {
+      "why": "Launching a customer-email automation tool aimed at businesses, so the founder is likely B2B SaaS-adjacent with budget and cares about conversion.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch! Curious who you see getting the most value here: is it lifecycle marketers at bigger companies, or solo founders who don't have time to watch for these moments themselves?",
+        "Congrats on shipping this! Positioning question: 'opportunities to email' sounds like it could sit next to churn-prevention tools or next to lifecycle marketing suites. Which crowd have you found leans in hardest during early tests?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1280414",
+    "platform": "producthunt",
+    "title": "Actually Asked",
+    "author": "Petar",
+    "url": "https://www.producthunt.com/products/actually-asked",
+    "updated": "2026-10-14T08:36:37-07:00",
+    "body": "A self-improving branded AI FAQ page",
+    "score": 1.1,
+    "ageHours": 20.9,
+    "hits": [
+      "brand"
+    ],
+    "draft": {
+      "why": "B2B SaaS founders building support tools hang out on PH; a sharp comment could get visibility with founders who need design help on their own FAQ and onboarding pages.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch. Curious how 'self-improving' works in practice: does it learn from questions visitors actually type, or from gaps in your existing docs? That distinction changes how I'd trust it with branded answers.",
+        "Congrats on shipping this. Who are you picturing as the first customer, solo founders replacing a help center, or teams who already have one and want it on-brand? Feels like the messaging could go either way, and I'd love to know which bet you're making."
+      ]
+    }
+  }
+]
