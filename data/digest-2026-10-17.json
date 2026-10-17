@@ -1,0 +1,378 @@
+[
+  {
+    "platform": "reddit",
+    "id": "t3_1x80zxe",
+    "subreddit": "UXDesign",
+    "title": "Are we moving from UX Designers to Product Builders?",
+    "author": "/u/ChemicalPut1138",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1x80zxe/are_we_moving_from_ux_designers_to_product/",
+    "updated": "2026-10-17T04:27:05+00:00",
+    "body": "I’m curious how other UX designers are experiencing the shift brought by AI, especially those currently working in product teams.\n My workflow has changed dramatically over the past year. I haven’t opened Figma in months, but I regularly have 2–5 terminals running Codex or Claude Code, designing, building, and shipping things that I previously would have needed an entire team to deliver.\n What’s interesting is that I don’t feel like I’m doing less design work. If anything, product thinking, UX judgment, and the ability to make good decisions matter more than ever. It’s just that the boundaries of what I can actually build have expanded enormously.\n And that’s made me wonder whether the traditional “UX Designer” title will eventually become too narrow to describe what we do.\n I’ve been out of a traditional company environment for a few months, so I’m particularly curious to hear from designers currently working on product teams:\n Are you seeing designers take on more responsibility for actually building and shipping products, rather than just designing them?\n Are the boundaries between designers, engineers, PMs, and even data analysts starting to blur at your company?\n Do you see roles like “UX Builder” or “Product Builder” becoming more common, or do you think traditional roles will largely remain intact?\n I’m not suggesting everyone needs to become a developer, or that specialized design skills are going away. I’m genuinely curious whether this shift is happening inside esta",
+    "score": 9.8,
+    "ageHours": 7.9,
+    "hits": [
+      "ux",
+      "design",
+      "figma",
+      "designer"
+    ],
+    "draft": {
+      "why": "Thoughtful discussion thread where Ryan can share practitioner experience, but the poster and audience are mostly designers, not founders with budgets.",
+      "potential": 3,
+      "options": [
+        "I'm seeing the same split on my projects: the artifact work shrank, but the decision work exploded. The risk I've noticed is that AI makes it cheap to build, so teams skip the step of asking whether the thing should exist, and that judgment call is exactly where UX earns its keep.",
+        "Curious how this plays out at bigger companies. In my experience the blurring is real for solo designers and small teams, but large orgs tend to respond by adding process rather than redefining roles, so the title change might lag the actual work by years."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x7pc4k",
+    "subreddit": "design_critiques",
+    "title": "I built this rental-search UI. I'd love feedback on the balance between the map, rental cards and listing details.",
+    "author": "/u/RENT-MAP-APP",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1x7pc4k/i_built_this_rentalsearch_ui_id_love_feedback_on/",
+    "updated": "2026-10-16T19:19:24+00:00",
+    "body": "&#32; submitted by &#32; /u/RENT-MAP-APP \n &#32;",
+    "score": 7.8,
+    "ageHours": 17.1,
+    "hits": [
+      "feedback",
+      "ui"
+    ],
+    "draft": {
+      "why": "The poster is a builder seeking UI feedback on a rental search app, but there's no signal of budget or a business behind it, and r/design_critiques skews hobbyist.",
+      "potential": 3,
+      "options": [
+        "The balance question usually resolves itself once you decide which panel is the primary task. For rental search it's almost always scanning cards, so I'd give the list more width, let the map collapse to a thumbnail on smaller screens, and open details as an overlay instead of a third permanent column competing for space.",
+        "What's the one thing a user should be able to do without scrolling: compare listings, or explore a neighborhood? If it's comparing, cards need to win the layout and the map becomes a filter. If it's exploring, flip it and make the cards minimal. Right now it sounds like all three are fighting for equal weight."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x7suer",
+    "subreddit": "SaaS",
+    "title": "Think about the last time a stranger sent you feedback on your product. Did you reply?",
+    "author": "/u/turtleyikes",
+    "url": "https://www.reddit.com/r/SaaS/comments/1x7suer/think_about_the_last_time_a_stranger_sent_you/",
+    "updated": "2026-10-16T21:40:37+00:00",
+    "body": "Hey founders has a stranger ever reached out with feedback on your product, like a real bug with a fix, a reliability issue, or a feature idea? What was it about, and what made you reply or ignore it?\n &#32; submitted by &#32; /u/turtleyikes \n &#32;",
+    "score": 5.5,
+    "ageHours": 14.7,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Discussion prompt about handling user feedback, not a design problem, but engaging could surface founders who ignore feedback loops because of bad UX.",
+      "potential": 3,
+      "options": [
+        "The feedback I reply to is the kind where the person shows me the exact step where they got confused. Vague praise or vague complaints get archived, but a screenshot of a broken flow gets a reply in an hour.",
+        "Quick question back: do you reply differently to feedback from paying users vs strangers? In my experience strangers surface the onboarding problems paying users already worked around silently."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x7stqd",
+    "subreddit": "SaaS",
+    "title": "Think about the last time a stranger sent you feedback on your product. Did you reply?",
+    "author": "/u/turtleyikes",
+    "url": "https://www.reddit.com/r/SaaS/comments/1x7stqd/think_about_the_last_time_a_stranger_sent_you/",
+    "updated": "2026-10-16T21:39:49+00:00",
+    "body": "Hey founders has a stranger ever reached out with feedback on your product, like a real bug with a fix, a reliability issue, or a feature idea? What was it about, and what made you reply or ignore it?\n &#32; submitted by &#32; /u/turtleyikes \n &#32;",
+    "score": 5.5,
+    "ageHours": 14.7,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Casual discussion thread about receiving feedback; poster isn't showing a design problem or budget, but a useful practitioner answer can get light visibility.",
+      "potential": 3,
+      "options": [
+        "I reply to almost everything, but the ones that get a real response are specific: what broke, what page, what they were trying to do. 'Your UX could be better' gets archived because there's nothing to act on.",
+        "The feedback I value most is when someone screenshots the exact moment they got stuck. Half the time it's a copy problem, not a bug, and a stranger sees it fresh in a way your own team never will. What kind of feedback are you getting that's making you ask?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x866x9",
+    "subreddit": "SaaS",
+    "title": "I got tired of manually cleaning client logs and parsing data, Here why I solved this problem",
+    "author": "/u/DryCap9997",
+    "url": "https://www.reddit.com/r/SaaS/comments/1x866x9/i_got_tired_of_manually_cleaning_client_logs_and/",
+    "updated": "2026-10-17T09:44:16+00:00",
+    "body": "First this was a big problem for me and I realize that I am wasting my time, that was a weekly problem every single week I had to spend multiple hour on just parse and extract data manually from messy text files.\n So I think that I need a tool to help me with that, then I decided to build my own desktop utility using python and learning some specific modules come with this app.\n To make this app smooth and easy to use I build it with a clean Customtkinter interface and I implemented multithreading (threading + ThreadPoolExecutor) so this app processes large directories instantly without freezing the UI.\n It now can handle multiple formats (.txt, .csv, .json, .docx) and filters out errors, IPs, emails, and phone numbers in a seconds.\n I’m curious, how do you usually handle log parsing and data extraction in your workflows? Would love to hear your thoughts or feedback on this approach!.\n &#32; submitted by &#32; /u/DryCap9997 \n &#32;",
+    "score": 4.4,
+    "ageHours": 2.7,
+    "hits": [
+      "feedback",
+      "ui"
+    ],
+    "draft": {
+      "why": "Builder sharing a self-made log parsing tool; technical post but low odds of a paying B2B SaaS client.",
+      "potential": 3,
+      "options": [
+        "Multithreading is the right call, but the part users will actually judge is what happens after parsing: showing a preview of extracted rows before export builds way more trust than speed alone. If you don't have that yet, a simple 'here's what we found' summary screen is the highest value UI addition you could make.",
+        "Curious who you're picturing as the user here: devs who'd otherwise write a script, or non-technical folks stuck cleaning files by hand? The answer changes the whole UX, since one group wants keyboard-driven power features and the other needs a guided three-step flow with zero config."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x85vgk",
+    "subreddit": "SideProject",
+    "title": "ToolRecipe.com, platform for free, local, offline, daisychainable tools.",
+    "author": "/u/jurweer",
+    "url": "https://www.reddit.com/r/SideProject/comments/1x85vgk/toolrecipecom_platform_for_free_local_offline/",
+    "updated": "2026-10-17T09:23:51+00:00",
+    "body": "We built Toolrecipe for all those pesky little steps that you need to do on your files…. but can‘t find the right workflows for. \n There is the pdf editor for converting, proper redacting, watermarking, pagenumbering, form filling (also batch), signing, editing, creating. A one stop shop so to say :)\n Besides pdf tools, we have lots of other col tools, video editing, social media prepping tools, office tool, 3d tools !\n The main goal is to tackle repetitive work , you can chain small tools together and save those as a recipe.\n The site runs in your browser , processes your files locally and works without internet and there is no signups . Basically, you are downloading the tools and run them like an app.\n Have a look and if you have feedback, we would love to hear from you!\n &#32; submitted by &#32; /u/jurweer \n &#32;",
+    "score": 4.4,
+    "ageHours": 3,
+    "hits": [
+      "feedback",
+      "signups"
+    ],
+    "draft": {
+      "why": "Poster built a local-first tool platform and asked for feedback; Ryan can give UX feedback, but it's a hobby-style side project, not a B2B SaaS with design budget.",
+      "potential": 3,
+      "options": [
+        "The daisychaining into saved recipes is the interesting part, so I'd lead with that instead of the tool list. 'Save your 3-step PDF workflow and rerun it with one click' is a much sharper hook than 'we have lots of tools'.",
+        "Curious about the first-run experience: with this many tools, how do people find the right one? If I land on the homepage wanting to redact a PDF, how many clicks until it's working? That's usually where broad tool collections lose people."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x863zl",
+    "subreddit": "design_critiques",
+    "title": "Feedback? What do you think of my Instagram carousel design?",
+    "author": "/u/Tricky_Hope_6746",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1x863zl/feedback_what_do_you_think_of_my_instagram/",
+    "updated": "2026-10-17T09:39:06+00:00",
+    "body": "The copy was given in a brief, so I&#39;m only looking for feedback on the design. I used a black, orange, olive and beige palette with metallic 3D objects (AI-generated) to tie the 5 slides together. Mainly wondering about hierarchy and readability on mobile. Be blunt!\n &#32; submitted by &#32; /u/Tricky_Hope_6746 \n &#32;",
+    "score": 13.3,
+    "ageHours": 2.7,
+    "hits": [
+      "feedback",
+      "design"
+    ],
+    "draft": {
+      "why": "Designer seeking portfolio-style feedback on an Instagram carousel, no business or budget signal, but a reply can still demonstrate Ryan's eye to other readers.",
+      "potential": 2,
+      "options": [
+        "The metallic 3D objects will fight your text for attention at carousel size, so I'd drop them behind a dark overlay or reduce them to one per slide and let the headline own each frame. Also check your beige-on-olive contrast on a phone in daylight, those combos almost always fail WCAG.",
+        "How does slide 1 read as a standalone thumbnail in the feed? If the hook and the 3D object compete there, people swipe past before your hierarchy on slides 2-5 ever matters, so that's the slide I'd stress test first."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x87oj4",
+    "subreddit": "SideProject",
+    "title": "Building an app that shows how certain macroeconomic changes impact YOUR portfolio & holdings. Brutal and constructive feedback is wanted",
+    "author": "/u/finance_enjoyer",
+    "url": "https://www.reddit.com/r/SideProject/comments/1x87oj4/building_an_app_that_shows_how_certain/",
+    "updated": "2026-10-17T11:14:30+00:00",
+    "body": "Hi everyone! I am currently in the process of building Monetario AI (getmonetario.com), an app that shows how some macroeconomic events impact your personalized portfolio and your holdings. \n Story for context: I&#39;m a university student who participated in a Trading Tournament held at my university, and I didn&#39;t have enough time or background knowledge to keep up with market news consistently. Except for the market news, I didn&#39;t really understand how those market changes would impact my portfolio, so I&#39;ve got an idea what if there were an app that would help you with that\n The whole goal of this app is to have all the data locally on app with simplified explanation and so you can make better informed decision.\n I would also like to state that Monetario AI doesn&#39;t give investment advice, as it&#39;s currently just more of an educational finance app.\n Feel free to ask any questions about the app you may have, and I would really like it if you would check my app (or sign up on the app) and give constructive feedback.\n &#32; submitted by &#32; /u/finance_enjoyer \n &#32;",
+    "score": 7.9,
+    "ageHours": 1.1,
+    "hits": [
+      "feedback",
+      "sign up"
+    ],
+    "draft": {
+      "why": "Student building a consumer finance education app, asking for feedback, no budget signals",
+      "potential": 2,
+      "options": [
+        "The 'how does this macro event affect MY holdings' framing is your whole pitch, so make sure the first screen after signup answers that with one of the user's actual holdings, not a generic market summary. In my experience, if the aha moment isn't personalized in the first 60 seconds, people bounce.",
+        "Who are you building this for first: retail investors who already hold positions, or people like you pre-tournament who are still learning? The onboarding and the depth of explanation you need are very different for those two groups, and trying to serve both usually means the app feels shallow to each."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x86kf2",
+    "subreddit": "design_critiques",
+    "title": "Aesthetic thumbnail design concept for a vlog channel",
+    "author": "/u/Rajveer_visuals",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1x86kf2/aesthetic_thumbnail_design_concept_for_a_vlog/",
+    "updated": "2026-10-17T10:07:24+00:00",
+    "body": "Hey everyone! I’ve been experimenting with clean typography, warm color tones, and minimalist layouts for vlog and lifestyle content.\n I focused on keeping text under 3 words so it stays perfectly readable on mobile screens. Feedback is welcome!\n (If anyone needs custom thumbnail design for their channel, feel free to send me a DM!)\n &#32; submitted by &#32; /u/Rajveer_visuals \n &#32;",
+    "score": 7.2,
+    "ageHours": 2.3,
+    "hits": [
+      "feedback",
+      "design"
+    ],
+    "draft": {
+      "why": "Hobbyist thumbnail designer sharing work and soliciting DMs, not a B2B SaaS buyer, so client potential is low, but a genuine critique fits the subreddit.",
+      "potential": 2,
+      "options": [
+        "Under 3 words is the right instinct, but at thumbnail size the bigger lever is contrast: test your text against the busiest frame of the actual vlog footage, not a flat background. Warm minimalist tones tend to disappear in YouTube's mostly white and dark UI, so check it in both modes before committing.",
+        "Clean type is a solid direction for lifestyle content, but minimalist thumbnails often underperform because they lack a face or focal point for the eye to land on. Have you A/B tested these against a version with a human subject cropped tight? Curious what your click-through data says."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x811vj",
+    "subreddit": "design_critiques",
+    "title": "What’s wrong with my logo?",
+    "author": "/u/Hamzasatti2021",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1x811vj/whats_wrong_with_my_logo/",
+    "updated": "2026-10-17T04:30:13+00:00",
+    "body": "This is my brand logo for Powerhouse. I want to make it look more professional and modern.\n What would you change or fix in its typography, colors, icon, or overall design? Honest feedback and suggestions are welcome!\n &#32; submitted by &#32; /u/Hamzasatti2021 \n &#32;",
+    "score": 5.9,
+    "ageHours": 7.9,
+    "hits": [
+      "feedback",
+      "design"
+    ],
+    "draft": {
+      "why": "Logo critique request, but no image is visible in the post and it's a personal brand, not a B2B SaaS with budget.",
+      "potential": 2,
+      "options": [
+        "Can't see the image in your post, so hard to be specific. One thing that helps any logo critique: show it at small sizes too, like a favicon or app icon, since that's where most marks fall apart.",
+        "The image didn't come through on my end. When you repost, include a version on both light and dark backgrounds, since contrast issues are the most common reason a logo feels unprofessional."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x81mcd",
+    "subreddit": "UXDesign",
+    "title": "How much of AI are you using in your design workflow?",
+    "author": "/u/Mess_mononoke",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1x81mcd/how_much_of_ai_are_you_using_in_your_design/",
+    "updated": "2026-10-17T05:03:06+00:00",
+    "body": "I have been hearing here and there from a handful of designers I know that they haven’t touched figma in 2 months. Currently I am unemployed. So I’m kinda nervous I am getting left behind in effectively incorporating AI in my workflow and dont know the reality situation in companies. Mind you, I have a paid claude subscription and I keep learning things on it on my own, I dunno if that’s enough though.\n Anyway my question is, how much AI are you realistically using and where exactly? Everyone who haven’t touched figma in weeks, where do you keep your designs then? Elaborate on this as much as you want. \n I just wanna know the reality of the situation. Thanks!\n &#32; submitted by &#32; /u/Mess_mononoke \n &#32;",
+    "score": 5.5,
+    "ageHours": 7.3,
+    "hits": [
+      "design",
+      "figma"
+    ],
+    "draft": {
+      "why": "Anxious unemployed designer asking about real AI usage; honest practitioner answer helps but no client potential.",
+      "potential": 2,
+      "options": [
+        "In my experience the 'haven't touched Figma in 2 months' crowd is doing prototyping and exploration in AI tools, but anything that ships still ends up in Figma for handoff, specs, and design system work. Realistic split for me: AI for research synthesis, copy drafts, and quick throwaway prototypes, Figma for everything a developer will actually build from.",
+        "The designers skipping Figma are usually working on early-stage concepts where fidelity doesn't matter yet, so don't read it as the skill becoming obsolete. If you want a concrete test of whether you're keeping up: can you take one real brief and go from prompt to a clickable prototype in a day? That's the bar companies actually care about right now, not which subscription you have."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x86j36",
+    "subreddit": "design_critiques",
+    "title": "Aesthetic thumbnail design concept for a vlog channel",
+    "author": "/u/Rajveer_visuals",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1x86j36/aesthetic_thumbnail_design_concept_for_a_vlog/",
+    "updated": "2026-10-17T10:05:09+00:00",
+    "body": "Hey everyone! I’ve been experimenting with clean typography, warm color tones, and minimalist layouts for vlog and lifestyle content.\n I focused on keeping text under 3 words so it stays perfectly readable on mobile screens. Feedback is welcome!\n (If anyone needs custom thumbnail design for their channel, feel free to send me a DM!)\n &#32; submitted by &#32; /u/Rajveer_visuals \n &#32;",
+    "score": 7.2,
+    "ageHours": 2.3,
+    "hits": [
+      "feedback",
+      "design"
+    ],
+    "draft": {
+      "why": "Designer sharing their own thumbnail work and fishing for clients, not a SaaS founder with a design problem to solve.",
+      "potential": 1,
+      "options": [
+        "Keeping text under 3 words is a solid rule, but thumbnails live or die on contrast at small sizes. Shrink yours to 120px wide and check if the warm tones still separate the text from the background.",
+        "How are you testing readability? I'd suggest previewing the thumbnail at actual mobile feed size next to 5 competitor thumbnails, since that's the real context viewers see it in."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1283097",
+    "platform": "producthunt",
+    "title": "Salience",
+    "author": "Carl Hendy",
+    "url": "https://www.producthunt.com/products/salience",
+    "updated": "2026-10-16T20:46:40-07:00",
+    "body": "See every request to your website and how it responds.",
+    "score": 1.8,
+    "ageHours": 8.6,
+    "hits": [
+      "your website"
+    ],
+    "draft": {
+      "why": "Solo founder launching a developer-facing observability tool; if it grows they'll need landing page and onboarding design help, and PH threads attract other SaaS founders.",
+      "potential": 6,
+      "options": [
+        "Congrats on the launch. Who's the first user you built this for: a solo dev debugging their own site, or a team that needs shared visibility into production traffic?",
+        "Congrats on shipping. Quick question on positioning: with tools like Datadog and Vercel analytics already in this space, are you betting that 'every request, plain and simple' wins over people drowning in dashboards they never set up properly?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1280962",
+    "platform": "producthunt",
+    "title": "Craft Agents",
+    "author": "Gyula Halmos",
+    "url": "https://www.producthunt.com/products/craft-agents",
+    "updated": "2026-10-14T21:48:37-07:00",
+    "body": "The world's most powerful agents, with the UX they deserve",
+    "score": 0.5,
+    "ageHours": 55.6,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "Launching an agent UX product on PH; founders building AI tooling often need design help and other AI founders read these threads.",
+      "potential": 6,
+      "options": [
+        "Congrats on the launch. Who's the first user you designed this for: developers chaining agents, or less technical folks building their first workflow? The onboarding for those two is completely different.",
+        "Curious about the positioning: 'UX agents deserve' reads as a jab at chat-box interfaces. Are you betting the winning agent UX is visual and structured, like a dashboard or canvas, rather than conversational?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1282082",
+    "platform": "producthunt",
+    "title": "Draper",
+    "author": "Dexter Todd",
+    "url": "https://www.producthunt.com/products/draper",
+    "updated": "2026-10-15T21:41:40-07:00",
+    "body": "Validate, plan, and launch a business, one step at a time.",
+    "score": 1.1,
+    "ageHours": 31.7,
+    "hits": [
+      "business"
+    ],
+    "draft": {
+      "why": "Founder launching a startup-validation tool on PH; if it gains traction, the founding team likely needs landing page and onboarding design help soon.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch! Curious who you built the first run for: is it the person with a rough idea on a napkin, or someone who's already picked a direction and needs pressure-testing? Those feel like pretty different first-time experiences.",
+        "Happy launch day! The 'one step at a time' framing makes me wonder if you're positioning against the all-in-one AI business plan generators, more like a guided process than a single output. Is that the wedge, and how are you making that difference obvious in the first session?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1282623",
+    "platform": "producthunt",
+    "title": "Step 5 Preview",
+    "author": "Zac Zuo",
+    "url": "https://www.producthunt.com/products/step-3-5-flash",
+    "updated": "2026-10-16T08:06:14-07:00",
+    "body": "600B open weights, trained for long-running agents",
+    "score": 1.1,
+    "ageHours": 21.3,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "AI model launch aimed at developers, not B2B SaaS founders, but Product Hunt comments here get wide visibility.",
+      "potential": 3,
+      "options": [
+        "Congrats on the launch. Curious what the first-time experience looks like for someone spinning up a long-running agent: is there a quickstart that gets them to a working agent in minutes, or is the preview mostly weights and docs?",
+        "Congrats on shipping. Genuinely wondering about the positioning: are you aiming this at teams already running agents in production who need open weights for control, or at developers still experimenting? The answer probably changes what you build next."
+      ]
+    }
+  }
+]
