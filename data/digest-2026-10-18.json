@@ -1,0 +1,296 @@
+[
+  {
+    "platform": "reddit",
+    "id": "t3_1x8pyvv",
+    "subreddit": "SaaS",
+    "title": "Built a tool for PostHog users, launched it, and got 13 visitors and 0 users. Tell me why.",
+    "author": "/u/ankushdogra21",
+    "url": "https://www.reddit.com/r/SaaS/comments/1x8pyvv/built_a_tool_for_posthog_users_launched_it_and/",
+    "updated": "2026-10-18T00:49:31+00:00",
+    "body": "I spent the past month building Anku, my SaaS that connects to PostHog analytics and turns user drop-offs into finished screen redesigns, bug fixes, and a quick note to ask those users what went wrong. \n (It&#39;s still in early stage and is just an MVP, tbh I&#39;m a little embarrassed of it as it&#39;s still not close to my vision, but I decided to launch it to start getting feedback) \n Initial idea came from my personal frustration working on my previous SaaS, where I used to constantly spend time on PostHog grinding through replays, and as a solo founder some days it was just too much, so I wanted to automate the process. \n Now it has been a week since I posted on HN and shared it around reddit, and I have 13 visitors and zero people actually connecting their PostHog. \n I feel like I&#39;ve hit a wall. Could you please take a look and tell me honestly why you think that is? Is it the landing page, a lack of trust with connecting PostHog, or the product itself? \n anku.app \n &#32; submitted by &#32; /u/ankushdogra21 \n &#32;",
+    "score": 6.4,
+    "ageHours": 11.6,
+    "hits": [
+      "feedback",
+      "landing page",
+      "mvp"
+    ],
+    "draft": {
+      "why": "Solo SaaS founder with a real product, a conversion/trust problem, and openly asking for landing page feedback. Exactly Ryan's wheelhouse and a visible r/SaaS thread.",
+      "potential": 8,
+      "options": [
+        "Honest answer: 13 visitors isn't a conversion problem, it's a distribution problem. You don't have enough data to conclude anything about the page or product yet, so I'd stop tweaking and go find 50 PostHog users where they already complain about session replays, like the PostHog community and their subreddit.",
+        "One thing that jumps out: your core ask is connecting a live analytics account before the user has seen any value. That's a big trust leap for an MVP from an unknown founder. Could you show a demo with sample PostHog data or a fake drop-off-to-redesign example on the landing page first, so people see the output before they hand over access?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x8ukjc",
+    "subreddit": "SaaS",
+    "title": "Has anyone tried letting an AI agent record their product demos?",
+    "author": "/u/jp_taptale",
+    "url": "https://www.reddit.com/r/SaaS/comments/1x8ukjc/has_anyone_tried_letting_an_ai_agent_record_their/",
+    "updated": "2026-10-18T05:00:04+00:00",
+    "body": "Keeping demos current is pretty time consuming for small SaaS teams. Every time the UI changes it means re-recording videos or clicking through the same flow over and over. \n I&#39;ve been testing a setup where an AI agent that can drive Chrome clicks through the product while a recorder captures it, then hands back an editable demo. I built this into my own tool as a copy-paste prompt, but I&#39;m more interested in the general idea.\n notes so far: \n It cuts down capture time / fully autonomous. Watching an agent go through your onboarding shows you where the UX is unclear. You still want a human pass before anything goes to customers. For those selling to other businesses: have you tried an agent-recorded demo in front of buyers, or is that still a by-hand job for you?\n &#32; submitted by &#32; /u/jp_taptale \n &#32;",
+    "score": 7.2,
+    "ageHours": 7.4,
+    "hits": [
+      "onboarding",
+      "ux",
+      "ui"
+    ],
+    "draft": {
+      "why": "B2B SaaS founder thinking about demos and onboarding UX, and the agent-as-test-user angle is a real design insight worth engaging with.",
+      "potential": 6,
+      "options": [
+        "The most useful part of this setup isn't the time saved, it's that an agent clicking through your onboarding is a decent proxy for a confused first-time user. Wherever it hesitates or takes a weird path, that's usually where your labeling or hierarchy is unclear.",
+        "Have you tried letting the agent attempt the flow cold, without a script, and recording where it fails? That failure log would tell you more about your onboarding gaps than the polished demo it produces."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x8z5oi",
+    "subreddit": "SideProject",
+    "title": "Built a PMDD emotional safety PWA in 48 hours — won 2nd at a hackathon, now seeking real user feedback",
+    "author": "/u/ZealousidealLog5136",
+    "url": "https://www.reddit.com/r/SideProject/comments/1x8z5oi/built_a_pmdd_emotional_safety_pwa_in_48_hours_won/",
+    "updated": "2026-10-18T09:42:06+00:00",
+    "body": "What I built: LutealShield — a PWA for women with PMDD (Premenstrual Dysphoric Disorder) that acts as an emotional safety toolkit during luteal phase crashes.\n Stack: HTML/CSS/JS PWA (Vite) · Flask backend · Gemini API (Bloomy AI) · Netlify · Render\n Core features: \n Cycle safety radar (Green / 72h Prep / Red Zone) AI companion (Bloomy) that works from user&#39;s personalised plan Affirmations Pocket — user&#39;s own grounding anchors Trusted Circle — one-tap support alert What I&#39;m looking for: UX feedback, technical feedback, anything that feels broken or confusing.\n Live: lutealshield.co.za Feedback button is in the app.\n Won 2nd place at Geekulcha Hackathon 2026 (394 teams). Now building toward app store launch.\n &#32; submitted by &#32; /u/ZealousidealLog5136 \n &#32;",
+    "score": 11.1,
+    "ageHours": 2.7,
+    "hits": [
+      "feedback",
+      "ux",
+      "confusing"
+    ],
+    "draft": {
+      "why": "Founder asking for UX feedback on a live product, but it's a consumer health app hackathon project with no budget signal, so client potential is low.",
+      "potential": 3,
+      "options": [
+        "The Red Zone is where trust gets won or lost: what happens if someone taps the Trusted Circle alert by accident, or at 2am? Give it a confirm step with an easy undo, because a false alarm to a loved one teaches users not to press it.",
+        "One thing to nail before app store: how does Bloomy handle a user saying something genuinely alarming, like self-harm? For a PMDD tool that moment will happen, and the AI needs a clear crisis handoff to real resources rather than a companion-style reply."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x8sg6j",
+    "subreddit": "design_critiques",
+    "title": "UX critique: is the parent-review flow in my podcast app clear enough?",
+    "author": "/u/Temporary-Shop2453",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1x8sg6j/ux_critique_is_the_parentreview_flow_in_my/",
+    "updated": "2026-10-18T03:00:15+00:00",
+    "body": "I’m the developer of Podcast Filter, an iPhone app for parents reviewing podcast episodes before children listen. I’d appreciate design critique of the information hierarchy and review flow.\n The flow is: find an episode → inspect flagged spoken passages with transcript and original-audio context → choose cuts → preview the edit → approve the exact version for a named child. Automated analysis can miss things, so I want the UI to make the parent’s decision meaningful. Saving filter choices alone does not approve an episode.\n The attached image is one of the app’s marketing screenshots, showing the discovery screen. Do the search, episode card, and analysis-credit label make the next step clear? Once a parent reaches review, what visual distinction would you expect between “save my choices” and “approve for a child”?\n A sample report is available in the app: https://apps.apple.com/app/id6809083299 \n It’s free to download; analysis of additional episodes uses purchased credits, with no subscription.\n &#32; submitted by &#32; /u/Temporary-Shop2453 \n &#32;",
+    "score": 8.8,
+    "ageHours": 9.4,
+    "hits": [
+      "ux",
+      "ui",
+      "design"
+    ],
+    "draft": {
+      "why": "Solo dev asking a specific UX hierarchy question about a save-vs-approve distinction, which is a real design problem worth a sharp answer.",
+      "potential": 3,
+      "options": [
+        "Make 'approve' a different action type entirely, not a bigger button: a full-width confirmation with the child's name in the label ('Approve for Maya') and a summary of cuts, while 'save' stays a quiet text-style option. Parents should never be able to mistake a draft state for a signed-off one.",
+        "On the discovery card, the credit label probably reads as pricing noise before the parent understands the value. What does a parent see the very first time they open the app, a sample report or an empty search box? That first-run moment likely decides whether they ever reach the review flow at all."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x8yn1k",
+    "subreddit": "SaaS",
+    "title": "I've built a recipe generator SaaS and would love to have feedback on it",
+    "author": "/u/KopaKola1",
+    "url": "https://www.reddit.com/r/SaaS/comments/1x8yn1k/ive_built_a_recipe_generator_saas_and_would_love/",
+    "updated": "2026-10-18T09:08:38+00:00",
+    "body": "So I&#39;m a software engineer based in Belgium and would like to make personal achievements by putting work on my projects instead of only fulfilling my employer&#39;s dreams, so I spent few hours a day on a SaaS that I called Reciphy https://reciphy.com/ \n https://preview.redd.it/8jhwfss5w6wh1.png?width=1910&amp;format=png&amp;auto=webp&amp;s=3abcb687450ec543f828cfb8720e1e47b8afffd2 \n It all began when I used ChatGPT for recipe generation when I was out of ideas and had some ingredients needed to be consumed before they perish.\n So I thought &quot;why not make it an app where users can specify ingredients with/without exact quantities, time available, cuisine, texture etc.. and have an AI provide a custom recipe&quot;. \n But it&#39;s more than just generating raw recipes ! Reciphy also provides : \n Nutrition estimation per serving on each recipe You will find cooking tips, techniques, and why&#39;s on each step ( if relevant ). And also substitues to ingredients if you don&#39;t have/want them ( milk --&gt; soy milk ) An Explore page is also available to see all other recipes made by the community ( that are made public ) Recipes can be shared to non-users and can be exported nicely as PDFs You can also plan your week by selecting recipes for each day. This creates also a shopping list that gathers everything to make the selected recipes. Users can set food allergies, diet, health goals, and change measurement units if needed. If anyone could provide honest feedback on how ",
+    "score": 7.3,
+    "ageHours": 3.2,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Solo engineer with a consumer recipe app; fun feedback thread but unlikely to become a paying B2B design client.",
+      "potential": 3,
+      "options": [
+        "Nice scope for a side project, but your biggest risk isn't features, it's differentiation from just asking ChatGPT. Lead your landing page with the one thing ChatGPT can't do, like the weekly planner with auto shopping list, instead of the generator itself.",
+        "From the screenshot, the hero shows the app UI before telling me why I should care. Try leading with the outcome (\"dinner from whatever's left in your fridge\") and push the product shot below the fold. Also, who is this for: busy parents, students, fitness people? Pick one and write the copy to them.",
+        "How are you planning to charge for this? Recipe generators are a hard consumer sell when ChatGPT is free, so the meal planning plus shopping list angle is probably where the money is. Curious what your retention looks like after the first generated recipe."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x8mkw0",
+    "subreddit": "UXDesign",
+    "title": "As a color-blind designer, I think we underestimate how often UX assumes everyone perceives color the same way",
+    "author": "/u/Big_Daddy_David_",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1x8mkw0/as_a_colorblind_designer_i_think_we_underestimate/",
+    "updated": "2026-10-17T22:05:44+00:00",
+    "body": "I recently completed my Bachelor&#39;s degree in Digital Media Design with a 4.0 GPA.\n I&#39;m also color blind.\n Going through a design program while having color-vision deficiency gave me an interesting perspective on accessibility that I don&#39;t think I would have developed otherwise.\n There are the obvious accessibility considerations we&#39;re taught, like not relying exclusively on red and green to communicate status or making sure text has sufficient contrast.\n But some of the frustrations I encountered were much smaller.\n Sometimes the problem wasn&#39;t understanding the interface.\n I simply couldn&#39;t confidently identify the color I was looking at. \n That made me start noticing how frequently digital interfaces quietly assume that users can distinguish and identify colors without assistance.\n We use color for status indicators, categories, charts, selection states, alerts, maps, data visualization and dozens of other interactions.\n Even when an interface technically meets accessibility guidelines, color can still create friction for someone whose vision doesn&#39;t match the assumptions of the person who designed it.\n During my degree I developed my own methods for working around this, but the experience eventually led me down a much bigger rabbit hole about accessibility and inclusive design.\n I&#39;m curious how UX designers here approach this.\n When you&#39;re designing an interface, how do you account for color-vision deficiency beyond simply checking contr",
+    "score": 6.3,
+    "ageHours": 14.3,
+    "hits": [
+      "ux",
+      "design",
+      "designer"
+    ],
+    "draft": {
+      "why": "Thoughtful accessibility thread with real practitioner discussion, good place for a specific technique answer, but poster is a new grad, not a client.",
+      "potential": 3,
+      "options": [
+        "The habit that's helped me most is designing the grayscale version first. If status, categories, and selection states are still readable with zero color, color becomes reinforcement instead of the only carrier of meaning. It catches most of the 'technically passes contrast but still confusing' cases you're describing.",
+        "Curious what workarounds you developed during your degree, especially for identifying colors rather than just distinguishing them. That gap between 'can tell these two swatches apart' and 'knows which one is red' feels like something our tools barely acknowledge, and your methods might be more practical than another simulator plugin."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x8klyj",
+    "subreddit": "design_critiques",
+    "title": "Poster design — looking for feedback",
+    "author": "/u/Soulflow444",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1x8klyj/poster_design_looking_for_feedback/",
+    "updated": "2026-10-17T20:39:21+00:00",
+    "body": "For this piece, I created a fictional contemporary movement performance called Between States , experimenting with typography, transparency, and composition to suggest movement and stillness.\n I don’t have a formal background in design, so I’m mostly learning through experimentation, trial and error, and figuring things out as I go.\n I’d really appreciate any constructive criticism, especially regarding composition, hierarchy, typography, or anything I might be overlooking. I’d love to know what I could improve or keep in mind for future projects!\n &#32; submitted by &#32; /u/Soulflow444 \n &#32;",
+    "score": 9.5,
+    "ageHours": 15.7,
+    "hits": [
+      "feedback",
+      "design"
+    ],
+    "draft": {
+      "why": "Self-taught designer sharing a fictional poster project, no business or budget signal, so low client potential but a chance to be helpful.",
+      "potential": 2,
+      "options": [
+        "I can't see the image, but for type-driven posters like this the biggest lever is usually restraint: pick one typeface family and create contrast with weight and scale instead of adding more transparency or layering effects. If the title doesn't read instantly at thumbnail size, the composition isn't done yet.",
+        "Quick question since I can't see the piece: what's the one thing a viewer should feel or read first when they glance at it for two seconds? Whatever that is should be the biggest, highest-contrast element, and everything else should get out of its way."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x8ukz1",
+    "subreddit": "UXDesign",
+    "title": "Breaking into UX/early career: job hunting, how-tos/education/work review — 10/18/26",
+    "author": "/u/AutoModerator",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1x8ukz1/breaking_into_uxearly_career_job_hunting/",
+    "updated": "2026-10-18T05:00:35+00:00",
+    "body": "This is a career questions thread intended for people interested in starting work in UX, or for designers with less than three years of formal freelance/professional experience. \n Please use this thread to ask questions about breaking into the field, choosing educational programs, changing career tracks, and other entry-level topics.\n If you are **not currently working in UX**, use this thread to ask questions about:\n Getting an internship or your first job in UX Transitioning to UX if you have a degree or work experience in another field Choosing educational opportunities, including bootcamps, certifications, undergraduate and graduate degree programs Finding and interviewing for internships and your first job in the field Navigating relationships at your first job, including working with other people, gaining domain experience, and imposter syndrome Portfolio reviews, particularly for case studies of speculative redesigns produced only for your portfolio When asking for feedback, please be as detailed as possible by \n Providing context Being specific about what you want feedback on, and Stating what kind of feedback you are NOT looking for If you&#39;d like your resume/portfolio to remain anonymous, be sure to remove personal information like:\n Your name, phone number, email address, external links Names of employers and institutions you&#39;ve attended. Hosting your resume on Google Drive, Dropbox, Box, etc. links may unintentionally reveal your personal information, so we",
+    "score": 7.7,
+    "ageHours": 7.4,
+    "hits": [
+      "feedback",
+      "ux"
+    ],
+    "draft": {
+      "why": "Weekly early-career megathread; audience is students and career changers, not paying clients, but a sharp answer can build quiet credibility.",
+      "potential": 2,
+      "options": [
+        "If your portfolio is mostly speculative redesigns, pick one and redo the case study around constraints: what you assumed, what you'd test first, and what you'd cut if you had two weeks. Hiring managers skim for how you think under limits, not how clean the final mockups look.",
+        "One thing I wish someone told me early: your first UX job title matters less than whether anyone senior reviews your work weekly. In interviews, ask who gives design feedback and how often. A mid-size company with a design lead beats a flashy brand where you're the only designer and guessing."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x8ipk1",
+    "subreddit": "design_critiques",
+    "title": "Programming a sleep tracker app, how can I improve its UI design?",
+    "author": "/u/AdventurousValuable8",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1x8ipk1/programming_a_sleep_tracker_app_how_can_i_improve/",
+    "updated": "2026-10-17T19:19:12+00:00",
+    "body": "I’m a lot more of a programmer than a designer, and I’m trying to improve my skills. How can I make my app not look like… that.\n &#32; submitted by &#32; /u/AdventurousValuable8 \n &#32;",
+    "score": 7.6,
+    "ageHours": 17.1,
+    "hits": [
+      "ui",
+      "design",
+      "designer"
+    ],
+    "draft": {
+      "why": "Hobby sleep tracker app from a self-described programmer, no B2B budget signal, likely wants free advice rather than a hire.",
+      "potential": 2,
+      "options": [
+        "I can't see the screenshot, but the biggest tell of programmer-made UI is usually too many fonts, colors, and text sizes at once. Pick one font, two weights, one accent color, and set up a simple 8pt spacing scale. That alone fixes most of it.",
+        "Happy to give real feedback but the image isn't loading for me. Can you describe the main screen, like what the user sees first and what the primary action is?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x8rdz9",
+    "subreddit": "UXDesign",
+    "title": "How to get clients",
+    "author": "/u/ammarbendali",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1x8rdz9/how_to_get_clients/",
+    "updated": "2026-10-18T02:03:09+00:00",
+    "body": "Hey guys i hope u all doing well \n i wanna to work as ui ux designer freelancer but outside freelancing platforms\n ( btw my profile on upwork got a decent 5 stars from 16 jobs on upwork i&#39;ll use these 5 stars contracts feedback as my portfolio and share my success with audit video of projects i been working with these happy clients. )\n So please help me how to get client as ui ux designer freelancer outside freelancing platforms and how much should i charge per project and what is the most effective and faster way to get client\n &#32; submitted by &#32; /u/ammarbendali \n &#32;",
+    "score": 6.6,
+    "ageHours": 10.3,
+    "hits": [
+      "feedback",
+      "ux",
+      "ui",
+      "designer"
+    ],
+    "draft": {
+      "why": "Common question, but the poster is an early freelancer without budget or a design problem Ryan fixes, so low client potential.",
+      "potential": 2,
+      "options": [
+        "Fastest path off Upwork: pick one niche (say, B2B SaaS dashboards), and do short teardown videos of real products in that niche, posted where those founders hang out. Your 16 Upwork reviews are proof, but niche positioning is what makes cold outreach actually convert.",
+        "What did your 16 Upwork jobs have in common? If most were the same type of project, that's your niche, and you should lead every outreach message with those reviews instead of a generic portfolio. Pricing-wise, charge per project at 1.5 to 2x your Upwork rate since you're now covering your own client acquisition."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x8ypxr",
+    "subreddit": "microsaas",
+    "title": "I've built a recipe generator SaaS and would love to have feedback on it",
+    "author": "/u/KopaKola1",
+    "url": "https://www.reddit.com/r/microsaas/comments/1x8ypxr/ive_built_a_recipe_generator_saas_and_would_love/",
+    "updated": "2026-10-18T09:13:46+00:00",
+    "body": "So I&#39;m a software engineer based in Belgium and would like to make personal achievements by putting work on my projects instead of only fulfilling my employer&#39;s dreams, so I spent few hours a day on a SaaS that I called Reciphy https://reciphy.com/ \n https://preview.redd.it/shsuueu507wh1.png?width=1910&amp;format=png&amp;auto=webp&amp;s=0b66ae75f0a3c8cfde17d1cdaf5ab243b2838602 \n It all began when I used ChatGPT for recipe generation when I was out of ideas and had some ingredients needed to be consumed before they perish.\n So I thought &quot;why not make it an app where users can specify ingredients with/without exact quantities, time available, cuisine, texture etc.. and have an AI provide a custom recipe&quot;.\n But it&#39;s more than just generating raw recipes ! Reciphy also provides :\n Nutrition estimation per serving on each recipe You will find cooking tips, techniques, and why&#39;s on each step ( if relevant ). And also substitues to ingredients if you don&#39;t have/want them ( milk --&gt; soy milk ) An Explore page is also available to see all other recipes made by the community ( that are made public ) Recipes can be shared to non-users and can be exported nicely as PDFs You can also plan your week by selecting recipes for each day. This creates also a shopping list that gathers everything to make the selected recipes. Users can set food allergies, diet, health goals, and change measurement units if needed. If anyone could provide honest feedback on how th",
+    "score": 6.6,
+    "ageHours": 3.2,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Founder asking for feedback on a consumer recipe app, hobby side project with no clear business model",
+      "potential": 2,
+      "options": [
+        "The feature list is long, but your first-time experience should do exactly one thing: get someone from 'what's in my fridge' to a recipe in under 30 seconds. I'd cut every input that isn't strictly needed for that first generation and let the rest (diets, units, allergies) live in settings for later.",
+        "From the screenshot it reads like a planner app first and a generator second, which buries your strongest hook. Which single flow do you want a brand new visitor to try in their first minute, and does the landing page push them straight into it?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x8nm1s",
+    "subreddit": "design_critiques",
+    "title": "Feedback, soy principiante",
+    "author": "/u/JoseAlejandro_",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1x8nm1s/feedback_soy_principiante/",
+    "updated": "2026-10-17T22:54:04+00:00",
+    "body": "&#32; submitted by &#32; /u/JoseAlejandro_ \n &#32;",
+    "score": 5.8,
+    "ageHours": 13.5,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Beginner asking for feedback in r/design_critiques; no paying client potential, but a helpful comment fits the sub.",
+      "potential": 1,
+      "options": [
+        "El título no incluye la imagen ni el enlace, así que no se puede ver tu trabajo. ¿Puedes subir la imagen directamente al post y contarnos qué es el diseño y para quién es?",
+        "Happy to give feedback, but nothing attached to the post on my end. Share the image and a line on what it is (app, poster, logo) and who it's for, and you'll get much more useful critique."
+      ]
+    }
+  }
+]
