@@ -1,0 +1,347 @@
+[
+  {
+    "platform": "reddit",
+    "id": "t3_1x9txzw",
+    "subreddit": "design_critiques",
+    "title": "Looking for Honest UX Feedback on a Corporate Carpooling Product in Beta",
+    "author": "/u/Dense-Feeling-9544",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1x9txzw/looking_for_honest_ux_feedback_on_a_corporate/",
+    "updated": "2026-10-19T11:07:48+00:00",
+    "body": "I&#39;m working on Sawari, a corporate carpooling platform, and would appreciate feedback on its user experience.\n The product is being designed around employees who want to find colleagues travelling in a similar direction and explore shared office commutes.\n I&#39;m particularly interested in the usability questions that are easy to miss when you&#39;re too close to your own product:\n Is the value proposition immediately clear? Does the onboarding flow communicate trust and verification effectively? What information would you need before agreeing to share a ride? Which parts of the experience feel confusing or unnecessary? I&#39;ll share screenshots of the current interface for critique rather than asking for generic feedback on the idea.\n Website: https://sawaarii.in \n Please be direct. I&#39;d rather identify usability problems now than carry them into a wider release.\n Join our Testing group: https://groups.google.com/g/sawari-tester \n &#32; submitted by &#32; /u/Dense-Feeling-9544 \n &#32;",
+    "score": 21,
+    "ageHours": 1.4,
+    "hits": [
+      "feedback",
+      "onboarding",
+      "ux",
+      "confusing"
+    ],
+    "draft": {
+      "why": "Founder building a B2B carpooling product actively asking for UX critique, a real design problem Ryan fixes, though no screenshots were actually attached.",
+      "potential": 6,
+      "options": [
+        "For carpooling, trust is the whole product. Before anything else I'd show the colleague's name, team, company email verification badge, and mutual coworkers right on the match card, since that's the info someone needs to say yes to a ride. Happy to look closer, but I don't see screenshots in the post.",
+        "You mentioned sharing screenshots but they're not in the post, so hard to be specific. One thing to check once you share them: does onboarding verify employment before asking for personal details like home location? People bail fast if you ask for their address before proving everyone else is a verified coworker."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x9ugov",
+    "subreddit": "SaaS",
+    "title": "Would you buy this service? (I won't promote, just looking for feedback)",
+    "author": "/u/SenseCS9",
+    "url": "https://www.reddit.com/r/SaaS/comments/1x9ugov/would_you_buy_this_service_i_wont_promote_just/",
+    "updated": "2026-10-19T11:35:14+00:00",
+    "body": "Hi, I&#39;m doing some market research before I launch my first consulting service.\n Would you consider buying this package?\n ----\n MVP: Churn Risk Review \n What you get \n Churn analysis: Why have you lost or downgraded customers, and which types are most at risk? Churn forecast: How much recurring revenue (NRR) is at risk over the next 12 months? Best, expected and worst case. Action plan: Fixes ranked by impact and ease. What I need from you (about 2 hours in total) \n Past customer data: The last 12 months of renewals, downgrades and cancellations. Useful fields: ARR, start and renewal dates, contract length, product, segment, stated churn reason. Current customer list: The same fields, so I can score future risk. One 45-minute conversation: With whoever owns customer relationships (a CSM, account manager or founder), focused on your biggest lost and at-risk accounts. How it works \n Intake call to agree what counts as churn → first look at your data, with a short list of gaps → quick top-up on key accounts → analysis → readout.\n ----\n If not, what would stop you from buying it? \n If you could change one thing, what would it be?\n &#32; submitted by &#32; /u/SenseCS9 \n &#32;",
+    "score": 12.5,
+    "ageHours": 1,
+    "hits": [
+      "feedback",
+      "churn",
+      "mvp"
+    ],
+    "draft": {
+      "why": "Founder packaging a churn consulting MVP in a busy SaaS founder thread, so a specific answer gets seen by many B2B SaaS operators.",
+      "potential": 5,
+      "options": [
+        "The gap I see: the deliverable ends at a readout, and readouts die. I'd buy this if it included a 30-day follow-up call to check which fixes actually shipped, because that's where the ROI becomes provable and where you earn the repeat engagement.",
+        "One sharp question before you launch: who's the buyer, the founder or a head of CS? The pitch reads founder-level (NRR at risk, action plan) but the 2-hour data ask assumes a CS function exists. Those are two very different sales motions and price points."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x9jqrb",
+    "subreddit": "design_critiques",
+    "title": "[Packaging] Rigid box samples for a fictional brand: dielines and separations built by my tool, need blunt feedback",
+    "author": "/u/foldyn",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1x9jqrb/packaging_rigid_box_samples_for_a_fictional_brand/",
+    "updated": "2026-10-19T01:14:50+00:00",
+    "body": "[Box lid artwork]( https://files.catbox.moe/ilx2fb.png ) · [Dieline with artwork]( https://files.catbox.moe/07nuo0.png ) · [Dieline structure]( https://files.catbox.moe/z756yv.png )\n Hey all. I&#39;m launching a packaging tool tomorrow and I want these samples critiqued before they go live.\n Being upfront about what you&#39;re looking at. Fennmere is a fictional brand I made up for the samples. The artwork was laid out with a script, no AI imagery involved. What my tool actually generated is the dielines and the foil/emboss/spot-UV separations, plus an automated preflight pass.\n And these are just samples. Generic color profile, no proofing done, I&#39;ve never folded a physical box from these files.\n Be blunt: does the type hierarchy hold up? Anything in the layout that feels off to a trained eye? I&#39;m not a packaging designer by trade, so I need the stuff I&#39;d never catch myself.\n Happy to return crits on anyone&#39;s work.\n &#32; submitted by &#32; /u/foldyn \n &#32;",
+    "score": 9,
+    "ageHours": 11.3,
+    "hits": [
+      "feedback",
+      "designer"
+    ],
+    "draft": {
+      "why": "Founder launching a packaging tool tomorrow, actively asking for trained-eye feedback, which is an opening to demonstrate expertise in front of other designers and founders.",
+      "potential": 5,
+      "options": [
+        "Honest flag: you're asking designers to critique samples for a tool whose whole pitch is that it replaces designer judgment, so the samples are your credibility. The type hierarchy on the lid reads fine at a glance, but the real test is the separations. If the foil layer is even slightly misregistered in the dieline view, no packaging designer will trust the tool, no matter how clean the artwork looks.",
+        "Sharp question since I can't speak to print tolerances: who signs off on the preflight pass in your target workflow? If it's a designer at an agency, they'll catch script errors. If it's a founder ordering their first run, the tool needs to be much more opinionated about things like glue flap clearance and safe zones, because that's where fictional-brand samples stop being representative of real jobs."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x94v35",
+    "subreddit": "UXDesign",
+    "title": "Figma vs design in code",
+    "author": "/u/raedab97",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1x94v35/figma_vs_design_in_code/",
+    "updated": "2026-10-18T14:40:55+00:00",
+    "body": "If you are designing UI/UX for app or website and now that AI enables designing directly in code would you still use Figma and why? AI is much better and faster at generating code than generating using custom design formats.\n What about tools like Claude Design and Paper design?\n I&#39;m the founder of Nowa and we do design in code for Flutter, would love to hear your opinions on this topic and what would the ideal state/workflow be for you.\n &#32; submitted by &#32; /u/raedab97 \n &#32;",
+    "score": 6,
+    "ageHours": 21.9,
+    "hits": [
+      "ux",
+      "ui",
+      "design",
+      "figma"
+    ],
+    "draft": {
+      "why": "Founder asking designers about Figma vs design-in-code, a real workflow debate where a practitioner's answer gets seen by other tool-builders and designers.",
+      "potential": 4,
+      "options": [
+        "In my experience Figma still wins for exploration because changing your mind is cheap, and code wins once the direction is settled. The painful gap is handoff between the two, so the ideal workflow is one source of truth that both the messy early sketches and the final implementation can reference, not replacing one with the other.",
+        "Honest question: where does Nowa fit for teams that aren't on Flutter? Most designers I know are already skeptical of code-first tools because they lock you into a stack before the design is validated, and that early throwaway phase is exactly where the speed matters most."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x9mptj",
+    "subreddit": "SaaS",
+    "title": "Trying to make healthcare websites feel less clinical. Does this direction work?",
+    "author": "/u/cansaasstudio",
+    "url": "https://www.reddit.com/r/SaaS/comments/1x9mptj/trying_to_make_healthcare_websites_feel_less/",
+    "updated": "2026-10-19T03:51:02+00:00",
+    "body": "I&#39;ve been working on a landing page concept for Healthiest, a health monitoring platform that brings together wellness tracking, sleep insights, nutrition, emotional wellbeing, and daily habits.\n One thing I wanted to explore was how to make a healthcare website feel less clinical and more connected to everyday wellbeing.\n Instead of going with a typical SaaS hero filled with dashboard screenshots, I tried combining editorial typography, generous white space, nature photography, and floating health metric cards.\n The idea was to create a calmer first impression while still giving visitors a glimpse of what the product actually does.\n But here&#39;s what I&#39;m questioning.\n Does making a healthtech landing page more visually appealing also make it harder to understand the product? \n The nature imagery creates a certain mood, but I&#39;m wondering whether it takes too much attention away from the actual platform. The headline communicates the overall vision, but maybe it doesn&#39;t explain the product clearly enough.\n I&#39;m curious about a few things:\n If you landed on this page without any context, would you understand what the product does within five seconds? Does the nature photography complement the health metrics, or compete with them? Would showing more of the actual dashboard make the hero more convincing, even if it looked less visually distinctive? This is still a design concept, so I&#39;m looking at it primarily from a UI/UX and visual communication perspec",
+    "score": 13.4,
+    "ageHours": 8.7,
+    "hits": [
+      "landing page",
+      "ux",
+      "ui",
+      "design",
+      "dashboard",
+      "first impression"
+    ],
+    "draft": {
+      "why": "Designer sharing a healthtech landing page concept and asking exactly the right question about clarity vs. mood; useful conversation, but it's a concept project, not a founder with budget.",
+      "potential": 3,
+      "options": [
+        "The tension you're feeling is real: nature photography sets a mood but says nothing about the product, so visitors leave with a feeling and no facts. A fix that keeps both: anchor the hero around one real product moment (like a sleep score card with actual data) and let the nature imagery live in the background at low contrast, so the metric cards read as UI instead of decoration.",
+        "Quick test: show the hero to someone for five seconds and ask them to complete the sentence 'this product helps me ___.' If they say something vague like 'be healthier,' the headline is doing vision work, not product work. For healthtech specifically, clarity builds trust, so I'd err toward showing the dashboard earlier even if the page looks a bit less distinctive."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x9vfjl",
+    "subreddit": "SideProject",
+    "title": "I built chalk, a place to learn system design, DSA and AI through sketches and labs you can play with",
+    "author": "/u/Garvnanwani",
+    "url": "https://www.reddit.com/r/SideProject/comments/1x9vfjl/i_built_chalk_a_place_to_learn_system_design_dsa/",
+    "updated": "2026-10-19T12:22:02+00:00",
+    "body": "I always understood things better when someone drew them out on a board, so I made chalk around that idea.\n Every topic is a sketch-style board with a short lesson around it, and many have a lab where you move a slider and watch the idea break. There are narrated videos too. I used AI tools to help build it and I review everything before it goes up.\n The first three lessons of every track are free, no account needed.\n Would love honest feedback, especially on what&#39;s confusing on the first page you land on. \n https://chalkbrain.com/r \n &#32; submitted by &#32; /u/Garvnanwani \n &#32;",
+    "score": 7.2,
+    "ageHours": 0.2,
+    "hits": [
+      "feedback",
+      "design",
+      "confusing"
+    ],
+    "draft": {
+      "why": "Solo side project with a free product; the founder is asking for landing page feedback, but there's little budget signal here. Small chance if chalk later monetizes for dev audiences.",
+      "potential": 3,
+      "options": [
+        "Your hero should show one actual sketch mid-lesson instead of describing the concept. 'Learn system design through sketches' is a claim, a 10-second visual of a slider breaking a load balancer is proof, and proof converts on first visit.",
+        "Who's the primary audience: interview prep, junior devs leveling up, or CS students? Each lands on the page wanting a different first track, and trying to speak to all three usually means the headline speaks to none."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x9qv68",
+    "subreddit": "design_critiques",
+    "title": "How do I improve my landing page?",
+    "author": "/u/Piccaddilly",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1x9qv68/how_do_i_improve_my_landing_page/",
+    "updated": "2026-10-19T08:00:30+00:00",
+    "body": "&#32; submitted by &#32; /u/Piccaddilly \n &#32;",
+    "score": 7.2,
+    "ageHours": 4.6,
+    "hits": [
+      "landing page"
+    ],
+    "draft": {
+      "why": "Landing page critique request with no details attached; could be a founder with a real conversion problem, but impossible to tell yet.",
+      "potential": 3,
+      "options": [
+        "What does the page sell and what action do you want visitors to take? The biggest landing page problems are usually message clarity, not visuals, so knowing the goal changes the feedback completely.",
+        "Can you share the URL or a screenshot? Without seeing the headline, layout, and call to action, any advice here would be a guess."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x99hws",
+    "subreddit": "design_critiques",
+    "title": "Looking for feedback on my first ramen landing page design — Figma WIP",
+    "author": "/u/Business_Fold3115",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1x99hws/looking_for_feedback_on_my_first_ramen_landing/",
+    "updated": "2026-10-18T17:49:41+00:00",
+    "body": "Hey everyone!\n I&#39;m learning web design and currently working on a ramen product landing page in Figma.\n This is still a work in progress, and I&#39;ve finished the Hero section and started working on the next section.\n I&#39;m mainly looking for feedback on:\n Does the visual hierarchy feel clear?\n Does the composition feel balanced?\n Does the mobile layout feel too crowded?\n Do the colors and typography fit the premium food/ramen feel?\n Is there anything that immediately feels &quot;off&quot;?\n I&#39;m still learning, so honest and constructive feedback would be really helpful.\n Tools: Figma.\n Stage: Work in progress.\n &#32; submitted by &#32; /u/Business_Fold3115 \n &#32;",
+    "score": 13.5,
+    "ageHours": 18.7,
+    "hits": [
+      "feedback",
+      "landing page",
+      "design",
+      "figma"
+    ],
+    "draft": {
+      "why": "Learner asking for landing page feedback, low client potential but a fair chance to practice concise critique.",
+      "potential": 2,
+      "options": [
+        "You didn't attach a screenshot or Figma link, so nobody can answer your five questions yet. Post the hero at desktop and mobile widths and I'll give you specifics.",
+        "One thing to check on every food landing page: does the hero image do the selling, or is it competing with the headline? For premium ramen I'd put the bowl big on one side, keep the headline under 8 words, and cut any texture or pattern behind the text. Crowded mobile layouts usually come from shrinking the desktop layout instead of restacking it, so design mobile from scratch with one element per row."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x9f95q",
+    "subreddit": "UXDesign",
+    "title": "Feedback Request: Redesigning iOS Movie App (Watchlist Flow, Native Star Ratings & IA Navigation). What do you think?",
+    "author": "/u/Embarrassed_Dot_7449",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1x9f95q/feedback_request_redesigning_ios_movie_app/",
+    "updated": "2026-10-18T21:41:58+00:00",
+    "body": "Feedback Request: iOS Movie App UX Audit &amp; Redesign Proposal\n Hi everyone! I’m self-studying UX design and currently working on a case study for a movie tracking app.\n (Note on the attached media: The GIFs follow a &quot;Before vs. After&quot; format for each feature: 1. Metadata section 2. Watchlist flow 3. Library &amp; Watchlist separation, and 4. The new in-app rating system.)\n During my audit, I noticed several unintuitive flows and missing core features. Since I’m new to UX, I want to make sure my proposed solutions are backed by sound logic rather than just my personal preference.\n Key Changes Made: \n Streamlined Watchlist Access: Previously, adding a movie to the Watchlist required adding it to the Library first—costing 3 taps . I separated Library (consumed media) and Watchlist (planned media) into two independent navigation tabs, reducing the action to 1 direct tap . Direct Streaming Link: Added a &quot;Where to Watch&quot; (Play) button right next to the Watchlist CTA, allowing users to instantly check streaming options after saving a title. Metadata Organization: Moved Genre, Director, and Trivia into a horizontally scrollable metadata section. This reduces cognitive load and allows users to quickly reach the Cast section without endless vertical scrolling. Native Rating System: Integrated a native in-app star rating system alongside external IMDb/RT ratings, allowing users to quickly log their own scores and boost community engagement without losing context. ",
+    "score": 11.3,
+    "ageHours": 14.9,
+    "hits": [
+      "feedback",
+      "ux",
+      "design",
+      "redesign"
+    ],
+    "draft": {
+      "why": "Self-studying student case study with no client potential, but an easy thread to leave genuinely useful feedback in.",
+      "potential": 2,
+      "options": [
+        "Splitting Library and Watchlist is the strongest change here, and you can defend it with a real pattern: planned vs consumed media are two different mental models, like Netflix's My List vs Continue Watching. One thing to double check: horizontal scroll for metadata often hides Director and Trivia completely, so test whether discoverability drops before calling it a cognitive load win.",
+        "What's the evidence users actually wanted a native rating system? Adding a fifth star system next to IMDb and RT means empty ratings on most titles until you hit scale, which can make the app feel dead. I'd frame that change as a hypothesis to validate, not a fix, and lead the case study with the watchlist tap reduction since that's measurable."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x939tt",
+    "subreddit": "design_critiques",
+    "title": "Tried my hand at a Cyberpunk/Neon glow UI layout. Does the red \"Fantom Trace\" contrast look too sharp or clean? Looking for honest design feedback!",
+    "author": "/u/fantomtrace",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1x939tt/tried_my_hand_at_a_cyberpunkneon_glow_ui_layout/",
+    "updated": "2026-10-18T13:29:54+00:00",
+    "body": "Hey everyone! Just experimenting with CSS text-shadow and box-shadow glows for a web project. Would love to know your thoughts on the overall color palette and glow intensity!\n &#32; submitted by &#32; /u/fantomtrace \n &#32;",
+    "score": 9.9,
+    "ageHours": 23.1,
+    "hits": [
+      "feedback",
+      "ui",
+      "design"
+    ],
+    "draft": {
+      "why": "Designer experimenting with glow effects in r/design_critiques; hobby/passion project with no client potential, but a real design question to answer.",
+      "potential": 2,
+      "options": [
+        "Sharp contrast on glow text usually isn't the glow itself, it's that the glow radius is too tight. Try stacking two shadows: one small and bright near the text, one much larger at 30-40% opacity to simulate the light spill. That's what makes neon feel like it's actually emitting light instead of just outlined.",
+        "Is the red sitting on a dark enough background? Neon glow reads harsh when the background has too much light in it. Dropping the bg to near-black and slightly desaturating the red glow edge usually fixes that 'too clean' look instantly."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x9aq8e",
+    "subreddit": "design_critiques",
+    "title": "feedback on my new blog website design",
+    "author": "/u/FriendshipCreepy8045",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1x9aq8e/feedback_on_my_new_blog_website_design/",
+    "updated": "2026-10-18T18:38:13+00:00",
+    "body": "Wanted to try something new so tried this svg flower design triggered as you scroll! would really appretiate any feedback :)\n &#32; submitted by &#32; /u/FriendshipCreepy8045 \n &#32;",
+    "score": 8.9,
+    "ageHours": 17.9,
+    "hits": [
+      "feedback",
+      "design"
+    ],
+    "draft": {
+      "why": "Personal blog experiment, fun to critique but no commercial intent or budget behind it.",
+      "potential": 2,
+      "options": [
+        "Scroll-triggered SVGs are a nice touch, but make sure the flower doesn't draw the eye away from your actual post titles. I'd check it on mobile too, scroll animations tied to viewport position often feel janky or fire at the wrong time on touch devices.",
+        "Cool idea. One thing to watch: does the animation replay every time someone scrolls back up, or only once? One-and-done tends to feel polished, constant retriggering gets distracting fast when someone's trying to read."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1x9cw5o",
+    "subreddit": "design_critiques",
+    "title": "Fun little visual identity creation and media direction - open to feedback",
+    "author": "/u/Just_Raina",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1x9cw5o/fun_little_visual_identity_creation_and_media/",
+    "updated": "2026-10-18T20:03:44+00:00",
+    "body": "Some months ago I got to work on creating a festival, mainly as the media person doing things like creating the poster, website, social media posts, nametags, etc as well as taking photos and videos during the festival. Let me know what you think!\n &#32; submitted by &#32; /u/Just_Raina \n &#32;",
+    "score": 6.2,
+    "ageHours": 16.5,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Portfolio-style feedback request for a festival identity; fun work but the poster is a hobby/event creative, not a B2B SaaS buyer.",
+      "potential": 2,
+      "options": [
+        "The strongest identities are the ones where one bold decision carries everything, so I'd check whether the poster, nametags, and site all lean on the same type and color move or if each piece is solving the problem fresh. Consistency across touchpoints is what makes a small festival feel like a real brand.",
+        "Curious how you handled the photography alongside the identity work: did you shoot to match the poster's color and mood, or treat photos as neutral documentation? Getting those two to feel like one system is usually the hardest part of a festival brand."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1284611",
+    "platform": "producthunt",
+    "title": "Beam.win",
+    "author": "Hiten Shah",
+    "url": "https://www.producthunt.com/products/beam-win",
+    "updated": "2026-10-18T12:13:45-07:00",
+    "body": "Run AI agents on one Mac and use its windows on another",
+    "score": 1.1,
+    "ageHours": 17.3,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "PH launch for a dev-tool; founders launching here are often pre-revenue consumer/dev apps, but a visible thread can still reach SaaS builders, and the poster may need positioning help.",
+      "potential": 4,
+      "options": [
+        "Congrats on the launch! Curious who you see as the core user: devs running long AI agent jobs on a home Mac while they work from a laptop, or more of a team/CI use case? The first-time setup story probably reads very differently for each.",
+        "Happy launch day! The tagline is clever, but I wonder if 'use its windows on another Mac' undersells it. Is the real pitch closer to 'your agents keep working while you take your laptop anywhere'? Leading with the outcome might land harder than the mechanism."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1283227",
+    "platform": "producthunt",
+    "title": "Starkomand",
+    "author": "Rashid",
+    "url": "https://www.producthunt.com/products/starkomand",
+    "updated": "2026-10-17T00:14:53-07:00",
+    "body": "Run your AI coding agents on an infinite canvas.",
+    "score": 0.5,
+    "ageHours": 53.3,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "AI dev-tool launch; audience is developers not SaaS founders with design budgets, so low client potential, but a sharp question could still surface founder conversations.",
+      "potential": 3,
+      "options": [
+        "Congrats on the launch. Curious who you picture as the core user here: solo devs juggling a few agents, or teams coordinating many at once? The first-run experience probably wants to skew pretty differently for each.",
+        "Fun concept. My gut is the canvas metaphor sells best as orchestration for people running 5+ agents at once rather than a nicer UI for one agent, is that the wedge you're going after, or are you targeting lighter users first?"
+      ]
+    }
+  }
+]
