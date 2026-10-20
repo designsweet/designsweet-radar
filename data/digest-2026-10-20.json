@@ -1,0 +1,387 @@
+[
+  {
+    "platform": "reddit",
+    "id": "t3_1xaq2vx",
+    "subreddit": "SideProject",
+    "title": "My IT job kept making me fix email signatures, so I turned the fix into a side project",
+    "author": "/u/Sea-Ad6376",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xaq2vx/my_it_job_kept_making_me_fix_email_signatures_so/",
+    "updated": "2026-10-20T11:53:04+00:00",
+    "body": "Hey r/SideProject 👋\n In my day job in IT, one boring problem kept coming back: email signatures . Logon scripts that broke after every Outlook update, colleagues with an old logo or phone number, and on mobile just “Sent from my iPhone”. Every rebrand meant chasing everyone again.\n So I started building a fix for our own company. It worked well enough that I kept going and turned it into a proper product: Bedrijfshandtekening (Dutch for “company signature”).\n What it became \n An Outlook add-in that places the right signature automatically: desktop, web and even the Outlook mobile app Employee details synced straight from Microsoft 365 An admin portal for templates, rules per department and banners under the signature A copy-and-paste flow for people on Gmail or Apple Mail Multi-tenant, so other companies can sign up and get their own environment Some things I learned along the way \n Outlook on mobile only runs add-in code under strict conditions; it took a while to find out what actually works there Signature images get blocked by most recipients unless you embed them in the email itself Dark mode in Outlook happily “inverts” your carefully chosen colours 🙃 👉 https://bedrijfshandtekening.nl/en/ \n What I’d love from you \n First impression of the website: is it clear what it does within a few seconds? Would you trust a small, independent tool like this for your company’s email? Anything you’d do differently, in the product or in how I present it? Honest and critical feedback",
+    "score": 6.3,
+    "ageHours": 0.6,
+    "hits": [
+      "feedback",
+      "sign up",
+      "first impression"
+    ],
+    "draft": {
+      "why": "Founder with a real B2B SaaS explicitly asking for website first-impression and trust feedback, which is exactly Ryan's lane.",
+      "potential": 7,
+      "options": [
+        "One thing that kills clarity on tools like this: leading with the feature list instead of the painful moment. Open with 'your whole company's signatures update from one place, no chasing people after a rebrand' and the Outlook/Microsoft 365 details can come right after. I'd also show the signature itself above the fold, rendered in a real email, since that's the outcome people are buying.",
+        "Would you trust a small indie tool for company email? Honestly the bigger barrier is procurement, not trust. Do you have a one-pager or security FAQ aimed at the IT admin who has to approve this? That person is your real buyer, and if the site speaks to employees instead of them, conversions will stall."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xa8cad",
+    "subreddit": "design_critiques",
+    "title": "Website UI critique: hierarchy and calls to action on my developer-tool homepage",
+    "author": "/u/samarpan0010",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xa8cad/website_ui_critique_hierarchy_and_calls_to_action/",
+    "updated": "2026-10-19T20:37:39+00:00",
+    "body": "Design: https://www.protectsus.tech \n I am working on the landing page for ProtectSUS, a developer tool that relates third-party API changes to a codebase. The page needs to explain a technical workflow and help visitors decide whether to try it.\n I would appreciate critique of three specific things:\n Does the first screen explain what the product does, or does the headline need more context? Is the order of explanation, product visuals, and calls to action easy to follow? Are the text contrast and spacing comfortable on mobile as well as desktop? Please point out what you would remove or reorder. I am the maker, so I may be assuming too much familiarity with the product.\n &#32; submitted by &#32; /u/samarpan0010 \n &#32;",
+    "score": 6.3,
+    "ageHours": 15.9,
+    "hits": [
+      "landing page",
+      "ui",
+      "design"
+    ],
+    "draft": {
+      "why": "Maker of a B2B developer tool asking for landing page critique on hierarchy and CTAs, exactly the kind of concrete design problem Ryan fixes, in a thread other founders may read.",
+      "potential": 7,
+      "options": [
+        "I can't reliably render the page from here, so one question that usually answers your first two bullets: does the first screen show a before/after of an actual API change mapped to a line of code? Dev tools win on concrete output, so I'd move your strongest product visual above the fold and cut any abstract headline copy that could describe any monitoring tool.",
+        "Quick heuristic I use on technical landing pages: read only your headlines and CTA button text out loud, in order. If a stranger can't reconstruct what the product does from that alone, the hierarchy is off no matter how good the body copy is. For dev tools specifically, I'd put a real example of the output (diff, alert, code reference) in the hero instead of explaining the workflow first."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xagpon",
+    "subreddit": "design_critiques",
+    "title": "Looking for a critical design review of my fintech SaaS landing page",
+    "author": "/u/Kitten-Smuggler",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xagpon/looking_for_a_critical_design_review_of_my/",
+    "updated": "2026-10-20T02:46:54+00:00",
+    "body": "I&#39;ve been designing and building a market research platform for traders and recently overhauled the entire landing page.\n I&#39;m going for a premium, editorial financial-research aesthetic rather than the typical flashy trading website.\n Would really appreciate some critical eyes on the typography, visual hierarchy, spacing, mobile layout, and overall UX.\n I&#39;m particularly interested in whether the page communicates the product&#39;s value quickly enough, or if there&#39;s too much information competing for attention.\n Don&#39;t hold back!\n https://pinpoint-alpha.com \n &#32; submitted by &#32; /u/Kitten-Smuggler \n &#32;",
+    "score": 13.8,
+    "ageHours": 9.7,
+    "hits": [
+      "landing page",
+      "ux",
+      "design"
+    ],
+    "draft": {
+      "why": "Founder-built B2B-ish SaaS (market research for traders) actively seeking landing page critique, exactly Ryan's lane",
+      "potential": 6,
+      "options": [
+        "The premium editorial look only works if the hero answers 'what do I get and who is it for' in one sentence. A common failure with this aesthetic is a beautiful serif headline that says something abstract like 'Clarity for modern markets' while the actual value prop hides in paragraph three. If a trader can't tell within 5 seconds whether this is signals, screening, or research reports, that's the first fix.",
+        "For trading products specifically, the tension is credibility vs. hype: traders have been burned by flashy tools, so your restraint is smart, but you still need hard proof near the top. One concrete artifact (a sample report, real output screenshot, or a specific outcome) usually beats three paragraphs of positioning. What's the one thing above the fold right now, the headline, a visual, or a CTA?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xa13zh",
+    "subreddit": "design_critiques",
+    "title": "Roast my site, Tailwind or simple CSS site is enough? (small saas site)",
+    "author": "/u/No-Track-3259",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xa13zh/roast_my_site_tailwind_or_simple_css_site_is/",
+    "updated": "2026-10-19T16:11:31+00:00",
+    "body": "&#32; submitted by &#32; /u/No-Track-3259 \n &#32;",
+    "score": 6.2,
+    "ageHours": 20.3,
+    "hits": [
+      "roast my"
+    ],
+    "draft": {
+      "why": "Small SaaS owner asking about their site, likely has real landing page needs, though the question is about tech stack rather than design.",
+      "potential": 6,
+      "options": [
+        "Honestly, for a small SaaS marketing site nobody can tell whether it's Tailwind or plain CSS from the outside. What visitors notice is the headline, the screenshot, and how fast it loads, so pick whichever you ship faster with and spend the saved time on your above-the-fold copy.",
+        "The stack question matters less than what the page says. Share the link and the one action you want visitors to take, and the roast will be way more useful than a CSS debate."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xapd2r",
+    "subreddit": "design_critiques",
+    "title": "Landing page for interactive lessons: does the space look say \"learning\" or \"another AI startup\"?",
+    "author": "/u/Gleb_SV",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xapd2r/landing_page_for_interactive_lessons_does_the/",
+    "updated": "2026-10-20T11:14:55+00:00",
+    "body": "Live page: noemacreate.org (screenshots don&#39;t show the scroll animations).\n What it is: short interactive lessons on any topic, built for each person. The headline is &quot;Understand one new thing a day.&quot;\n What the page has to do in 5 seconds: explain what you get and make you want to try a lesson. On the busiest day so far, the average visit lasted about 24 seconds, so the first screen matters a lot.\n What&#39;s on it: \n - A hero with floating planets and the headline.\n - Cards showing the kinds of instruments inside lessons: a traffic jam simulation, graphite turning into diamond in 3D, a cholera map, Earth&#39;s history as one day.\n - One small interactive demo (the birthday problem).\n One rule I set for myself: the page never shows a full lesson, only fragments. Someone suggested putting a finished lesson above the fold, and I&#39;m not sure I should.\n What I&#39;d love feedback on:\n Does the space theme fit a learning product, or does it read as crypto or AI hype?\n Do the instrument cards make you want to try one, or do they blur together?\n How would you show what a lesson feels like without showing a whole lesson?\n &#32; submitted by &#32; /u/Gleb_SV \n &#32;",
+    "score": 13.5,
+    "ageHours": 1.3,
+    "hits": [
+      "feedback",
+      "landing page"
+    ],
+    "draft": {
+      "why": "Founder with a live product asking sharp, specific landing-page questions Ryan can answer directly, and the thread sits in front of other builders.",
+      "potential": 4,
+      "options": [
+        "With a 24 second average visit, the space theme is a tax you're paying before anyone reads the headline. Planets signal 'exploration' generically, which is exactly why it could be crypto or AI. The instrument cards are your actual differentiator, so I'd kill the hero art and let one of those (the graphite-to-diamond one) be the first thing on screen, mid-animation.",
+        "On your rule about never showing a full lesson: the birthday problem demo already breaks it, and that's probably the strongest thing on the page. You don't need a finished lesson above the fold, you need a 15 second slice of one that ends on a cliffhanger with a 'keep going' button. Fragments that play beat cards that describe."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xa9xy4",
+    "subreddit": "design_critiques",
+    "title": "Logo for casino review site - feedback wanted",
+    "author": "/u/supertexter",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xa9xy4/logo_for_casino_review_site_feedback_wanted/",
+    "updated": "2026-10-19T21:39:17+00:00",
+    "body": "After getting drafts from a designer, we now have various versions, all still early stage. Which one do you think is best to continue with for further revisions?\n 1.\n https://preview.redd.it/uwuq6d2sthwh1.png?width=769&amp;format=png&amp;auto=webp&amp;s=70d19214a7c87f2beea306bbfde4ee95bcf889da \n 2.\n https://preview.redd.it/gqflbbsuthwh1.png?width=934&amp;format=png&amp;auto=webp&amp;s=9cf82c9508290beb8ca6f32e41c1ec2bb8ffff81 \n 3.\n https://preview.redd.it/sd4z5xkxthwh1.png?width=1489&amp;format=png&amp;auto=webp&amp;s=99ce8aa2fffbfb487bf53275e50ef95a255aebde \n 4.\n https://preview.redd.it/5ekzxni0uhwh1.png?width=299&amp;format=png&amp;auto=webp&amp;s=4594f5a64cb8341d47060407cf9273c0726d5d53 \n &#32; submitted by &#32; /u/supertexter \n &#32;",
+    "score": 8.2,
+    "ageHours": 14.8,
+    "hits": [
+      "feedback",
+      "designer"
+    ],
+    "draft": {
+      "why": "Casino affiliate site has budget and a real branding decision, but the designs aren't viewable in this context so a specific pick isn't possible.",
+      "potential": 4,
+      "options": [
+        "I can't load the images here, so instead of picking a winner: for a casino review site the logo lives at tiny sizes in top-10 list widgets and favicons, so test each version at 24px and in one flat color. Whichever survives that is the one to keep revising.",
+        "Before picking, what does the wordmark need to sit next to most often? If it's dense comparison tables and star ratings, you'll want the simplest, least decorative option since ornate casino-style marks turn to mush at small sizes."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xaoblh",
+    "subreddit": "SideProject",
+    "title": "Chrome extension to share UI before/afters from the live page.",
+    "author": "/u/for_blues_",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xaoblh/chrome_extension_to_share_ui_beforeafters_from/",
+    "updated": "2026-10-20T10:16:31+00:00",
+    "body": "I&#39;m a designer and got tired of rebuilding before/after frames in Figma for every small UI change. pinspec lets you select any element on a live page, paste your target design next to it, mark the CSS changes, and copy it all as one image. Open source (MIT), no backend, nothing stored. \n https://github.com/priyaabhatt/pinspec \n &#32; submitted by &#32; /u/for_blues_ \n &#32;",
+    "score": 7.2,
+    "ageHours": 2.2,
+    "hits": [
+      "ui",
+      "design",
+      "figma",
+      "designer"
+    ],
+    "draft": {
+      "why": "Fellow designer shipping a tool for a workflow Ryan knows well, so a specific practitioner reply is credible, but it's a free open-source side project with little client upside.",
+      "potential": 3,
+      "options": [
+        "Nice idea. One thing I'd check early: how the copied image handles responsive states, since most before/after feedback I get is about mobile vs desktop breakpoints, not a single viewport. A toggle to capture the same element at two widths would make this my default over Figma frames.",
+        "How does it handle elements whose styles come from hover or JS state, like open dropdowns or active tabs? That's where I usually give up on screenshots and rebuild in Figma anyway, so if pinspec captures those you've solved the annoying part."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xaawgy",
+    "subreddit": "design_critiques",
+    "title": "Feedback on a sticker-style home screen for my app?",
+    "author": "/u/ResidentAd559",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xaawgy/feedback_on_a_stickerstyle_home_screen_for_my_app/",
+    "updated": "2026-10-19T22:17:42+00:00",
+    "body": "This is the home screen for a daily photo hunt app I’m designing. Each day you get one odd thing to find, and the things you’ve found pile up on the screen like stickers on a charity-shop table.\n What I was going for \n Cluttered and hand-made, not clean and techy The headline does the talking, and the stickers back it up Price tags and tape doing the jobs labels normally would &#32; submitted by &#32; /u/ResidentAd559 \n &#32;",
+    "score": 6.6,
+    "ageHours": 14.2,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Designer showing a consumer app's home screen; fun critique thread but poster is unlikely a paying B2B client.",
+      "potential": 3,
+      "options": [
+        "The sticker pile will fight the headline once it grows past 10 or 12 items, so I'd cap what's visible and let the rest collapse into a small stack or counter. Right now the concept works because you're showing the sparse version.",
+        "What happens to the layout after 100 days of found items? If the answer is 'scroll forever,' the clutter reads as mess instead of charm, so the overflow behavior is the real design problem here."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xapage",
+    "subreddit": "UXDesign",
+    "title": "Designed a restaurant dashboard for owners who only have 10 seconds to check their business. Honest feedback please",
+    "author": "/u/hridoyreddit",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xapage/designed_a_restaurant_dashboard_for_owners_who/",
+    "updated": "2026-10-20T11:11:00+00:00",
+    "body": "I’m a UI/UX designer and I made this dashboard for a restaurant called Luvor.\n My main idea was that a restaurant owner is busy and only checks the screen for a few seconds. So I tried to answer 3 questions quickly: how are sales, which orders have problems, and what is the kitchen doing right now.\n What I did:\n Key numbers at the top with a growth tag One accent color (green) for the active menu and positive change Order status shown as colored tags Kitchen queue in a side card What I’m not sure about:\n Is the screen too empty or too busy for a real restaurant? Is the top dishes card useful, or should something else be there? Does the green work for both “good” and “active”, or is that confusing? Would love to hear from anyone who has worked in a restaurant or designed dashboards. Be as harsh as you want.\n &#32; submitted by &#32; /u/hridoyreddit \n &#32;",
+    "score": 17.5,
+    "ageHours": 1.3,
+    "hits": [
+      "feedback",
+      "ux",
+      "ui",
+      "dashboard",
+      "confusing",
+      "designer"
+    ],
+    "draft": {
+      "why": "Designer asking for feedback on a practice dashboard; fine for karma and visibility, but no budget or real client behind it.",
+      "potential": 2,
+      "options": [
+        "The green doing double duty is the real issue: on a 10-second glance, 'active menu item' and 'sales are up' will blur together. Keep green strictly for status/positive change and use a neutral highlight for navigation state.",
+        "Biggest question: did you test this at arm's length on a wall-mounted screen in a bright kitchen? Dashboards like this usually fail on contrast and font size, not layout, so I'd bump key numbers up 1.5x before rearranging any cards."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xapdwd",
+    "subreddit": "UXDesign",
+    "title": "Has anyone ever redesigned a local business's website as a personal project and reached out to the owner afterward?",
+    "author": "/u/Expensive-Plenty5300",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xapdwd/has_anyone_ever_redesigned_a_local_businesss/",
+    "updated": "2026-10-20T11:16:07+00:00",
+    "body": "So there&#39;s this local boba shop l&#39;ve been visiting, and I recently checked out their website. As someone interested in graphic and Ul design, I noticed a few things that could be improved. The layout feels a little cluttered, there&#39;s a lot of imagery competing for attention, and there isn&#39;t much negative space, which makes the website feel a bit overwhelming to navigate. I thought it could be a fun personal project to redesign their website while practicing my Ul/UX skills. I&#39;d love to create something that feels more organized, visually appealing, and user friendly while still maintaining the shop&#39;s original brand identity.\n I&#39;ve also considered reaching out to the business owner to share my ideas, but I&#39;m not sure what the appropriate approach would be. Would it be better to redesign the website first and then contact them, or reach out beforehand to see if they&#39;d be interested? Has anyone done something similar with a local business? I&#39;d love to hear about your experience, how you approached the owner (if you did), and whether anything came out of it!\n &#32; submitted by &#32; /u/Expensive-Plenty5300 \n &#32;",
+    "score": 8.1,
+    "ageHours": 1.2,
+    "hits": [
+      "ux",
+      "design",
+      "redesign"
+    ],
+    "draft": {
+      "why": "Beginner designer asking about unsolicited redesigns and cold outreach to a local shop; common scenario but no budget or SaaS client signal.",
+      "potential": 2,
+      "options": [
+        "Redesign it first, but keep it to one screen, like a simplified homepage or online menu. Showing a shop owner a before/after of something they already recognize lands far better than a pitch about what you could do, and if they say no you still have a portfolio piece.",
+        "In my experience the outreach works better if you lead with a business problem, not design taste. Instead of 'the layout feels cluttered,' try 'I noticed your menu is hard to read on mobile, I mocked up a fix.' Owners respond to lost orders, not to negative space."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xaopgy",
+    "subreddit": "UXDesign",
+    "title": "Looking to Collaborate on Real-World Product Design Projects",
+    "author": "/u/PragyanDesign",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xaopgy/looking_to_collaborate_on_realworld_product/",
+    "updated": "2026-10-20T10:38:46+00:00",
+    "body": "Hey, I&#39;m Pragyan, a UI/UX Designer with 2.5+ years of experience in visual design and brand identity.\n I&#39;m looking to connect with early-stage founders, indie hackers, and developers building products that solve real problems.\n I can contribute to product branding, UX research, UI/UX design, and functional coded prototypes using LLMs. I&#39;d love to work on real products, learn from actual users, and be involved from idea to developer handoff.\n If you&#39;re building something, let&#39;s connect!\n Portfolio: https://www.pragyan.design/ \n &#32; submitted by &#32; /u/PragyanDesign \n &#32;",
+    "score": 8,
+    "ageHours": 1.9,
+    "hits": [
+      "ux",
+      "ui",
+      "design",
+      "designer"
+    ],
+    "draft": {
+      "why": "A designer offering collaboration, not a founder with a design problem, so little chance of a paying client for Ryan.",
+      "potential": 2,
+      "options": [
+        "If you're pitching founders, lead with one case study that shows a measurable outcome, not a list of services. 'Redesigned onboarding, activation went from X to Y' gets replies, 'branding, research, UI, prototypes' reads as a generalist.",
+        "What's your target project type? 'Anything real' makes it hard for a founder to picture you on their product. Picking a lane like B2B SaaS dashboards or mobile onboarding would sharpen this a lot."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xahro8",
+    "subreddit": "design_critiques",
+    "title": "Business card feedback",
+    "author": "/u/Damildust",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xahro8/business_card_feedback/",
+    "updated": "2026-10-20T03:40:52+00:00",
+    "body": "&#32; submitted by &#32; /u/Damildust \n &#32;",
+    "score": 6.5,
+    "ageHours": 8.8,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "A designer asking for business card feedback is a peer or hobbyist, not a B2B SaaS founder with budget.",
+      "potential": 2,
+      "options": [
+        "Hard to give useful feedback without seeing the card itself. Can you drop a photo or image link, plus who it's for and what impression you want it to leave?",
+        "Business cards live or die on small details like type size, spacing, and paper choice. Share the design and tell me the context (networking events, client meetings?) and I can give you something concrete."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1286120",
+    "platform": "producthunt",
+    "title": "Lugh Xtudio",
+    "author": "Arthur Polimeni",
+    "url": "https://www.producthunt.com/products/lugh-xtudio",
+    "updated": "2026-10-19T20:08:40-07:00",
+    "body": "The video studio where AI agents edit with you",
+    "score": 1.3,
+    "ageHours": 9.4,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "Launch-day comment on an AI video editing tool; consumer-leaning product, low odds of a B2B SaaS design client, but a sharp question can still start a conversation with the founders.",
+      "potential": 3,
+      "options": [
+        "Congrats on the launch! Curious who you're picturing as the core user here: pro editors who want agents handling the grunt work, or creators who've never touched a timeline? The first-run experience probably needs to be pretty different for each.",
+        "Happy launch day! My hypothesis is the hardest part isn't the agent editing itself but getting users to trust it with their footage on the first try. Are you leaning into 'you stay in control' positioning, or more 'hand it off and review'?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1285989",
+    "platform": "producthunt",
+    "title": "RunInfra",
+    "author": "Jaber Jaber",
+    "url": "https://www.producthunt.com/products/runinfra",
+    "updated": "2026-10-19T16:12:51-07:00",
+    "body": "Open models, built for agents.",
+    "score": 1.2,
+    "ageHours": 13.3,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "Launch-day visibility for an infra tool, but the audience is developers, not founders buying design.",
+      "potential": 3,
+      "options": [
+        "Congrats on the launch! Curious who the first ideal user is: teams already running open models who want less ops overhead, or teams still on hosted APIs that you're trying to pull over? That choice usually drives a lot of the onboarding and docs design.",
+        "Congrats on shipping! One question on positioning: is this 'we handle the infra so your agents just work,' or more of a control/flexibility pitch for infra-savvy teams? The tagline reads closer to the second, and the first tends to resonate more with founders who just want it to run."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1285745",
+    "platform": "producthunt",
+    "title": "The New Beings",
+    "author": "Yulia Sergeeva",
+    "url": "https://www.producthunt.com/products/the-new-beings",
+    "updated": "2026-10-19T11:03:58-07:00",
+    "body": "AI agents on their break, performing a live talk show",
+    "score": 1.1,
+    "ageHours": 18.4,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "Fun experimental launch, but it's an entertainment/novelty project, not a B2B tool with a design budget behind it.",
+      "potential": 2,
+      "options": [
+        "Congrats on launching! Curious who's meant to tune in regularly: is this a background-entertainment thing, or are you targeting people already deep in the AI agent space?",
+        "Congrats on the launch! Are you positioning this as a fun demo of your agent tech, or is the talk show itself the product you're building a company around?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1285454",
+    "platform": "producthunt",
+    "title": "Capitol Alpha Machine",
+    "author": "Sylvain Belahniche",
+    "url": "https://www.producthunt.com/products/capitol-alpha-machine",
+    "updated": "2026-10-19T06:40:34-07:00",
+    "body": "Free Mac screensavers built from congressional trade data",
+    "score": 0.7,
+    "ageHours": 22.8,
+    "hits": [
+      "api"
+    ],
+    "draft": {
+      "why": "Fun launch, but a free consumer screensaver with no monetization angle or design pain point Ryan solves.",
+      "potential": 1,
+      "options": [
+        "Congrats on the launch! Curious who you're picturing as the core user: finance nerds who want a fun desk toy, or people trying to actually track congressional trades? The answer probably changes what data you surface at a glance.",
+        "Congrats on shipping! My guess is the hook is novelty but retention lives in alerts, like a ping when someone new trades a stock you own. Is that the direction, or is it meant to stay a passive screensaver?"
+      ]
+    }
+  }
+]
