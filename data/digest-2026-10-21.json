@@ -1,0 +1,398 @@
+[
+  {
+    "platform": "reddit",
+    "id": "t3_1xbl5df",
+    "subreddit": "microsaas",
+    "title": "My dad and I are building small-business accounting software. Looking for honest feedback",
+    "author": "/u/Apsis-Accounting",
+    "url": "https://www.reddit.com/r/microsaas/comments/1xbl5df/my_dad_and_i_are_building_smallbusiness/",
+    "updated": "2026-10-21T11:57:38+00:00",
+    "body": "My dad and I spent years working on HOA accounting software. Now we&#39;re building our first general accounting app for small businesses, mostly ones that bill other businesses. It&#39;s just the two of us, me in Clearwater and him in Palm Harbor, FL. It&#39;s fun to do something with him that gets his juices flowing.\n It&#39;s called Apsis and it&#39;s in beta. It does invoicing with Stripe payments, bank feeds, reconciliation, bills and reports, accountant gets a free seat. There&#39;s no payroll.\n We also added an AI help assistant. Feels like AI is in everything nowadays. It answers general accounting questions but isn&#39;t allowed to make up dollar amounts and doesn&#39;t actually do the user&#39;s work. If were going to have it we want it to be useful, but not bear the risk of it messing them up.\n I&#39;m not trying to sell anything here. If you&#39;ve built software that handles money, I&#39;d love to hear what tripped you up. And if anyone wants to poke at it and tell me what&#39;s broken, I&#39;ll send a link.\n &#32; submitted by &#32; /u/Apsis-Accounting \n &#32;",
+    "score": 6.8,
+    "ageHours": 0.6,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Father-son team building B2B accounting software in beta, asking for real feedback; they handle money UX and onboarding, exactly the kind of product where design help matters and they could become clients.",
+      "potential": 7,
+      "options": [
+        "The AI assistant constraint is the right call, but the bigger trust lever in money software is reconciliation UX: show exactly why a transaction was auto-matched and make undo one click. In my experience, users forgive a missing feature way faster than a mystery number.",
+        "What tripped me up with invoicing products is the gap between 'invoice sent' and 'money in the bank': partial payments, failed Stripe charges, and refunds. How does Apsis surface those states, and what does the payer see when they open your invoice email?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xaxmlb",
+    "subreddit": "design_critiques",
+    "title": "Be brutally honest: Where does my e-commerce UX fail? (WordPress/WooCommerce)",
+    "author": "/u/AlexAlexiadis",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xaxmlb/be_brutally_honest_where_does_my_ecommerce_ux/",
+    "updated": "2026-10-20T16:59:23+00:00",
+    "body": "Hey everyone,\n I’ve been redesigning my small e-commerce site and I’m hitting the point where I have visual fatigue—I just can&#39;t see the flaws anymore.\n Link: https://eliva-crete.com/ \n I&#39;d really appreciate a blunt tear-down from fresh eyes on:\n First impression: Is the value proposition immediately obvious within 5 seconds? Mobile or PC navigation &amp; layout: Does anything feel clunky or cluttered? Product-to-cart journey: Where would you drop off or lose trust? Don&#39;t hold back on critique—I&#39;m trying to fix friction points, so harsh feedback is the most helpful. Thanks in advance!\n &#32; submitted by &#32; /u/AlexAlexiadis \n &#32;",
+    "score": 9.4,
+    "ageHours": 19.5,
+    "hits": [
+      "feedback",
+      "ux",
+      "first impression"
+    ],
+    "draft": {
+      "why": "Business owner actively asking for a UX tear-down of a live store, exactly the kind of friction/conversion problem Ryan fixes, though it's small e-commerce rather than B2B SaaS.",
+      "potential": 5,
+      "options": [
+        "Quick honesty up front: the single biggest trust killer I see on small WooCommerce stores is almost never the homepage, it's the product page. Before touching visuals, check three things there: clear shipping cost and delivery time above the fold, at least one review or social proof element, and a guest checkout option. If any of those are missing, that's where your drop-off lives, not in the hero section.",
+        "Before anyone can tell you where people drop off, do you have any data on it? Hotjar or even basic GA funnel data would show whether the problem is navigation, the product pages, or the checkout. Without that, a redesign critique risks fixing the pretty stuff while the real leak stays untouched."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xasw5z",
+    "subreddit": "UXDesign",
+    "title": "Dev with no design background has to work with an external designer: what should I ask them for?",
+    "author": "/u/KlausWalz",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xasw5z/dev_with_no_design_background_has_to_work_with_an/",
+    "updated": "2026-10-20T13:59:08+00:00",
+    "body": "I’m a backend dev who became my team’s main frontend dev because we’re understaffed. UI barely matters for our actual work, but I still fight to avoid degrading the visual identity of our products.\n My company outsources all branding, design, web and marketing decisions to an external agency, but the products (the software) stay in my hands, and I’m the code owner of quite a few interfaces. I finally got the designer’s contact, but I don’t know what to ask for, because I’ve never had a colleague who does UX/UI full time.\n To be clear, I have zero background in UX/UI or branding, yet I have to maintain React codebases that represent the company’s products. So far it’s been a nightmare keeping up with the company’s decisions. No communication at all. The logo got changed without anyone telling us, so I ended up scraping my own company’s website to find it. Another time I had to use the Wayback Machine because the designer deleted a bunch of assets without notice, and our code imported them directly from the main site.\n So now that I know who this person is, what do I ask them for? A “design system”? That term feels very generic to me. A Figma project where they keep the colors and fonts I’m supposed to use up to date?\n The problem doesn’t seem new, but I lack the vocabulary to know what would actually fix the sync between their decisions and my code. Any advice from people who’ve been on either side of this?\n &#32; submitted by &#32; /u/KlausWalz \n &#32;",
+    "score": 9.8,
+    "ageHours": 22.6,
+    "hits": [
+      "ux",
+      "ui",
+      "design",
+      "design system",
+      "figma",
+      "designer"
+    ],
+    "draft": {
+      "why": "Dev stuck maintaining interfaces with an external agency that makes unannounced changes. Real problem Ryan knows well, though the poster is a dev, not a buyer. Other readers may be founders.",
+      "potential": 4,
+      "options": [
+        "Ask for three things: a single Figma file marked as the source of truth (colors, type, spacing, components), a changelog or release note every time they touch branding, and a stable asset delivery method like a CDN folder or npm package instead of hotlinking to the marketing site. That last one fixes your Wayback Machine problem immediately. The fancy term for the first item is design tokens, and tools like Figma variables or Style Dictionary can export them straight into your React codebase so changes flow in on purpose instead of by surprise.",
+        "The vocabulary you're missing is 'handoff and governance.' You don't need a full design system from them, you need an agreed contract: tokens live in one place, assets are versioned and never deleted, and you get notified before anything visual ships. In my experience the fix is less about tooling and more about asking the designer one question: 'when you change something, how will I find out?' If they have no answer, propose a shared changelog channel and a locked asset bucket, and you've solved 80% of this."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xatag1",
+    "subreddit": "UXDesign",
+    "title": "Feedback on a mail client redesign: card layout, hover-only actions, and an approval queue for AI drafts",
+    "author": "/u/Soft-Lie-434",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xatag1/feedback_on_a_mail_client_redesign_card_layout/",
+    "updated": "2026-10-20T14:14:50+00:00",
+    "body": "I’m redesigning the main screen of a desktop mail client with a built-in AI assistant, after feedback I got on an earlier version.\n What changed\n Navigation, mail list and main area are now separate cards, to make the hierarchy clearer\n Light and dark theme, with a pink or blue accent that icons, window buttons and counters follow\n Thinner dividers in the mail list; filter actions only appear on hover\n An assistant bar at the bottom: you ask, it drafts\n Nothing goes out without a click: every outgoing mail or calendar event waits in a “Waiting for you” queue, and afterwards you can open each item to see what was sent or rejected\n Images: old vs new, the four theme/accent combinations, the assistant bar, the approval queue.\n Questions\n Old or new, and why?\n Hover-only filter actions: cleaner, or too hidden?\n Does the approval queue read as “safe” or as “more work”? Where would you expect it to live?\n What would you change first?\n &#32; submitted by &#32; /u/Soft-Lie-434 \n &#32;",
+    "score": 8.5,
+    "ageHours": 22.3,
+    "hits": [
+      "feedback",
+      "redesign"
+    ],
+    "draft": {
+      "why": "Detailed redesign post with real UX questions Ryan can answer concretely, but it's a personal/consumer mail client project, not a B2B SaaS founder with budget.",
+      "potential": 3,
+      "options": [
+        "Hover-only actions are the thing I'd change first. Filters are something people hunt for when the inbox is already overwhelming, so hiding them behind hover adds friction exactly when patience is lowest. Keep the row-level actions (archive, snooze) on hover, but pin the filter bar.",
+        "On the approval queue: it reads as safe only if it's glanceable. One line per item with the recipient and subject, approve/reject inline, and a diff of what the AI changed from your prompt. If reviewing a draft takes as long as writing it, the queue becomes the 'more work' answer by default. Where are you showing it right now, a badge on the assistant bar or a separate panel?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xblqo9",
+    "subreddit": "SideProject",
+    "title": "I made home walkthrough videos scrollable. You move through the house at your own pace. Would love feedback on the feel",
+    "author": "/u/ShyaamNiranjan",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xblqo9/i_made_home_walkthrough_videos_scrollable_you/",
+    "updated": "2026-10-21T12:25:31+00:00",
+    "body": "Hi all, I&#39;m a solo dev. Scrollwalk takes a real estate agent&#39;s phone walkthrough video and turns it into a listing page where scrolling moves you through the home. Stop scrolling and you stay in the room; scroll up and you step back. The neighbourhood, details and price come first. AI drafts the page sections from the agent&#39;s short summary.\n Demo, no signup needed: https://scrollwalk.com/scrollwalk/demo-listing/ \n It&#39;s early: just me, an Instagram account and a few reels. Early access opens 23 Oct (3 free listings, no card).\n What I&#39;d really like to know: 1. Does the scroll feel smooth on your device? Anything janky? 2. As a buyer, would you rather scroll or just press play? 3. What&#39;s missing from the page?\n &#32; submitted by &#32; /u/ShyaamNiranjan \n &#32;",
+    "score": 6.8,
+    "ageHours": 0.1,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Solo dev shipping a real product with concrete UX questions; target customers are real estate agents though, so low client odds for Ryan.",
+      "potential": 3,
+      "options": [
+        "The scroll-to-move idea only works if the video keeps buffering locally, and that is usually where these feel janky on mid-range phones. Preload the next chunk ahead of scroll position and drop to a lower resolution during fast scrolling, that hides most stutter. For the page itself, buyers will look for a floor plan and exact location before photos, so put both above the fold.",
+        "Honest answer to your second question: I would press play. Scrubbing a walkthrough with scroll sounds nice but buyers usually want to get to the kitchen fast, not walk the hallway in real time. Have you tested a hybrid where the rooms are chapters you can tap, and scroll only controls movement within a room?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xaxn8p",
+    "subreddit": "design_critiques",
+    "title": "How do you know when a design is ready for a real product?",
+    "author": "/u/Hour-Craft-3434",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xaxn8p/how_do_you_know_when_a_design_is_ready_for_a_real/",
+    "updated": "2026-10-20T17:00:02+00:00",
+    "body": "I’ve been thinking about the gap between a design looking finished on screen and actually working well on a physical product. Sometimes the layout, colors, and typography all seem balanced digitally, but imagining the same design on a real T-shirt makes me notice things I didn’t see before.\n The size of the graphic, the space around it, and how it sits on the garment can change the whole impression. Something that looks bold on a mockup might feel oversized in real life, while smaller details can disappear depending on the fabric and printing method.\n It makes me wonder if designers sometimes spend so much time refining the artwork that they forget to consider the material it will eventually be used on. The design and the product need to work together, not just look good separately.\n For those who work on designs for physical products, what helps you decide when a design is truly ready? Do you rely on digital mockups, get a physical sample made, or ask for feedback before moving forward?\n &#32; submitted by &#32; /u/Hour-Craft-3434 \n &#32;",
+    "score": 6.6,
+    "ageHours": 19.5,
+    "hits": [
+      "feedback",
+      "design",
+      "looks"
+    ],
+    "draft": {
+      "why": "Thoughtful question about digital-to-physical design readiness, but it's apparel/print work, not B2B SaaS, so low client odds.",
+      "potential": 3,
+      "options": [
+        "The mockup lies the most about scale, so the cheapest reliable test is printing the design at true size on paper and taping it to a shirt. If the graphic reads wrong from across the room at real dimensions, no amount of digital refinement will save it.",
+        "I treat the material as a design constraint from day one rather than a final step, since fabric texture and print method decide how much detail survives. What's the printing method you're working with? That changes the answer a lot, especially for fine detail and small type."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xbiyq9",
+    "subreddit": "UXDesign",
+    "title": "Roast my resume, jk not really..",
+    "author": "/u/Mess_mononoke",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xbiyq9/roast_my_resume_jk_not_really/",
+    "updated": "2026-10-21T09:57:22+00:00",
+    "body": "Alright sooo, for context I have 4+ years of experience as a UI/UX designer. I left job in june, have been unemployed for 4 months. I am not getting any call backs, barely any replies even for rejection. I have done a couple of assigments, one got rejected and the other ghosted. Had one interview (wasn&#39;t really into it) so got rejected.\n I took about a couple of months to create my portfolio, refine my case studies and everything. I am gonna do a redo now.\n First step is to understand if anything is wrong with my resume.\n I am a bit skeptical so I have removed my personal details from it. Regardless, everything else is correct and true.\n So, please tell me what can be done to improve it? thanks!\n &#32; submitted by &#32; /u/Mess_mononoke \n &#32;",
+    "score": 16,
+    "ageHours": 2.6,
+    "hits": [
+      "roast my",
+      "ux",
+      "ui",
+      "designer"
+    ],
+    "draft": {
+      "why": "Designer asking for resume feedback; helpful reply builds presence in a design subreddit but the poster is a job seeker, not a potential client.",
+      "potential": 2,
+      "options": [
+        "With 4+ years, the biggest resume fix is usually the top third: swap responsibilities for outcomes. \"Redesigned onboarding flow, cut drop-off 18%\" gets read; \"responsible for designing user interfaces\" gets skipped. Also make sure the title line matches the exact wording of the roles you're applying to, since recruiters skim for that first.",
+        "Four months with no callbacks after assignments and one interview usually points to the resume not being the real bottleneck, it's how you're getting into the pile. Are you applying cold through portals, or getting warm intros? In my experience cold applications convert terribly at mid-level, and one referral beats twenty portal submissions."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xbkebw",
+    "subreddit": "SideProject",
+    "title": "I'm a solo dev and just shipped my first arrow-puzzle game on iOS – 200+ levels, would love brutal feedback",
+    "author": "/u/kingmachine99",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xbkebw/im_a_solo_dev_and_just_shipped_my_first/",
+    "updated": "2026-10-21T11:17:46+00:00",
+    "body": "Hey r/SideProject !\n I&#39;m a solo mobile game developer and I just released Exit Lines: Arrow Puzzle on the App Store.\n The idea is simple: the board is full of tangled lines. Tap near one end of a line and it slides out that way, snake-style, into a gate on the edge. Lines block each other, so you have to figure out the right order. Hit another line and you lose a life.\n Things I added to keep it from getting stale:\n - Colored lines that only fit matching gates\n - Gates that fill up and turn into walls\n - Rotating gates that swap places every two moves\n - Timed gates with a countdown\n - Painters that change a line&#39;s color as it passes over them\n - Hard levels every so often (pink board, double rewards)\n Some behind-the-scenes stuff, since this is r/SideProject :\n - Built in Unity, solo, from design to store release\n - I wrote a level generator plus a solver that checks every level is actually solvable, then tuned difficulty across 200+ levels\n - Hand-made intro levels teach each new mechanic before it shows up\n It&#39;s free, with ads, and there&#39;s a one-time &quot;No Ads&quot; purchase if you&#39;d rather not see them.\n I&#39;d really appreciate honest feedback, especially:\n Do the first 5 levels explain the mechanic well enough? Is the difficulty curve fair or does it spike somewhere? Anything that feels annoying (ads, lives, UI)? App Store: https://apps.apple.com/app/id6819257380 \n Happy to answer any questions about the dev process!\n ![video](2xegme6q1twh1)\n &#3",
+    "score": 10.1,
+    "ageHours": 1.2,
+    "hits": [
+      "feedback",
+      "ui",
+      "design"
+    ],
+    "draft": {
+      "why": "Solo dev consumer puzzle game, no budget and no B2B angle, but a genuine specific reply is cheap to give.",
+      "potential": 2,
+      "options": [
+        "The mechanic list is a lot for one game, and introducing rotating, timed, and color-swapping gates on top of color matching risks the 'when do I see the next new thing' gap feeling like filler. I'd cut or combine one mechanic and make sure each new one appears within a few levels of the last, that's usually where free puzzle games lose people.",
+        "Quick question on the level generator: how do you define 'hard' when the solver checks solvability? Number of dead ends, solution length, or something else? That's usually the difference between a fair difficulty curve and one that spikes randomly."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xbbwrw",
+    "subreddit": "design_critiques",
+    "title": "Updated my court map after feedback here — are the markers clearer now?",
+    "author": "/u/Fr5sty",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xbbwrw/updated_my_court_map_after_feedback_here_are_the/",
+    "updated": "2026-10-21T02:59:30+00:00",
+    "body": "hey, i shared CourtCall here earlier for a class project and someone pointed out that my green numbered map bubbles looked like available courts, even though they were just counts of facilities. that was a good catch, so i changed the clusters to neutral gray and added a short explanation on the map.\n i also added the ChatGPT sign-in requirement next to the main explore button, above the court list, and in the details so its visible before someone tries booking. browsing is still open without an account.\n https://courtcall-software-swfl.fr5sty.chatgpt.site/ \n id appreciate a design critique of those changes: do the numbers read as grouped locations now, and is the account notice noticeable without taking over the page? especially interested in how it feels on a phone.\n for context, its a student web app built with help from ChatGPT for finding sports courts around southwest Florida. the facilities are real but booking is only a demo, no real reservation or payment. thanks again to the people who gave feedback last time!\n &#32; submitted by &#32; /u/Fr5sty \n &#32;",
+    "score": 9.4,
+    "ageHours": 9.5,
+    "hits": [
+      "feedback",
+      "design"
+    ],
+    "draft": {
+      "why": "Student iterating on map marker UX, low client potential but a concrete design problem worth a specific answer.",
+      "potential": 2,
+      "options": [
+        "Gray was the right call, but the fix that usually matters more is the count itself: make the number shrink or drop the label once the cluster only has a few items, so clusters read as 'grouped' and individual courts read as 'bookable'. For the sign-in notice, don't repeat it in three places; one inline note on the explore button plus a banner that appears only when someone hits a booking action will feel calmer and actually get read.",
+        "The repeated account notice is worth a second look: showing it before the action trains people to ignore it, while showing it at the moment they tap book makes it impossible to miss. On mobile, check whether the gray clusters still have enough contrast against the map tiles in sunlight, that's where neutral colors usually fail."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xb9t6v",
+    "subreddit": "design_critiques",
+    "title": "Looking for honest professional feedback on a luxury skincare website concept",
+    "author": "/u/EquivalentFact8984",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xb9t6v/looking_for_honest_professional_feedback_on_a/",
+    "updated": "2026-10-21T01:16:18+00:00",
+    "body": "I created this fictional luxury skincare website concept.\n I&#39;m working toward professional, commercial-quality web design, and I&#39;d appreciate candid feedback from experienced designers.\n I&#39;m especially interested in:\n * Does this look professional or still feel like a cheap template?\n * What are the biggest weaknesses in the typography, layout, imagery, and art direction?\n * What are the top three changes you&#39;d recommend?\n Please don&#39;t hold back. Specific criticism would be extremely helpful.\n This is a concept project, not a live commercial website.\n &#32; submitted by &#32; /u/EquivalentFact8984 \n &#32;",
+    "score": 9,
+    "ageHours": 11.3,
+    "hits": [
+      "feedback",
+      "design"
+    ],
+    "draft": {
+      "why": "Portfolio concept critique from an aspiring designer, not a founder with budget, and no visuals were included to critique.",
+      "potential": 2,
+      "options": [
+        "Nothing came through on my end, so I can't give you anything specific yet. Repost with full-page screenshots (desktop and mobile) plus one zoomed section, and tell us the typefaces and grid you used. Without that, any feedback you get will be generic.",
+        "Quick note before the visuals: 'luxury' is an art direction problem more than a layout one, and it usually breaks on typography details like letterspacing on all-caps labels, inconsistent vertical rhythm, and stock-looking imagery. When you repost, include your image sourcing approach too, since that's where most concepts stop feeling premium."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xbc848",
+    "subreddit": "design_critiques",
+    "title": "Made my fist tee for my brand,i would like some feedback!",
+    "author": "/u/Travel_Girl_2",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xbc848/made_my_fist_tee_for_my_brandi_would_like_some/",
+    "updated": "2026-10-21T03:15:16+00:00",
+    "body": "Hi ive been making different designs and getting inspired from different eras, this is one of my favorite so far would like to get feedback back on it amd would you buy it? Looking for real constructive feedback \n &#32; submitted by &#32; /u/Travel_Girl_2 \n &#32;",
+    "score": 7.6,
+    "ageHours": 9.3,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Poster is a hobby clothing designer asking for tee feedback, not a B2B SaaS founder with budget, but a reply could still show expertise to other readers.",
+      "potential": 2,
+      "options": [
+        "I can't see the image clearly on my end, so a quick question first: what era is this pulling from? For tees, the single biggest thing is whether the design reads at 3 feet away, not just zoomed in on screen.",
+        "One thing that trips up most first tees: designs built for a screen often print too detailed or too high on the shirt. What printing method are you using, screen print or DTG? That changes how much fine detail and how many colors will actually survive."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xbbw37",
+    "subreddit": "design_critiques",
+    "title": "Need feedback",
+    "author": "/u/Icy-Language-5795",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xbbw37/need_feedback/",
+    "updated": "2026-10-21T02:58:32+00:00",
+    "body": "&#32; submitted by &#32; /u/Icy-Language-5795 \n &#32;",
+    "score": 6.4,
+    "ageHours": 9.6,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Empty critique request with no link or context, low chance of a paying client but a sharp question could still surface a real project.",
+      "potential": 2,
+      "options": [
+        "Happy to dig in, but there's no link or image in your post. What are we looking at, a landing page, app screen, or full product?",
+        "What kind of feedback are you after: conversion, visual polish, or usability? The fix is totally different depending on which one's broken."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1286480",
+    "platform": "producthunt",
+    "title": "Lea by LeanAIOS",
+    "author": "Yüksel Arslan",
+    "url": "https://www.producthunt.com/products/lea-by-leanaios",
+    "updated": "2026-10-20T03:15:05-07:00",
+    "body": "Autonomous AI team for construction management & pre-con",
+    "score": 1.3,
+    "ageHours": 26.3,
+    "hits": [
+      "team"
+    ],
+    "draft": {
+      "why": "B2B construction tech launch with real budget potential, and construction SaaS buyers are notoriously underserved on UX, so a visible smart comment could get founder attention.",
+      "potential": 6,
+      "options": [
+        "Congrats on the launch! Curious who you see logging in first, the GC project manager or the estimator on the pre-con side? That first session experience tends to make or break adoption in construction teams.",
+        "Happy launch day! Quick question on positioning: 'autonomous AI team' is ambitious, so are you selling this as replacing coordinator-level work, or as a copilot that makes one PM do the work of three? The answer changes your landing page story completely."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1286998",
+    "platform": "producthunt",
+    "title": "Tend",
+    "author": "hritvik Gupta",
+    "url": "https://www.producthunt.com/products/tend-5",
+    "updated": "2026-10-20T11:30:09-07:00",
+    "body": "Personal AI for businesses and entrepreneurs.",
+    "score": 1.5,
+    "ageHours": 18,
+    "hits": [
+      "business"
+    ],
+    "draft": {
+      "why": "Launch-day comment on an AI product for businesses; a sharp question can surface whether the maker is a B2B founder with real budget and design needs.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch! 'Personal AI' covers a lot of ground, so I'm curious who you pictured first: is this more for solo entrepreneurs juggling everything, or small teams wanting a shared assistant? What does the first ten minutes of using it look like?",
+        "Happy launch day! Honest question on positioning: with so many general AI assistants out there, are you leaning into one specific job (like inbox triage or client follow-ups) as the wedge, or betting that 'does a bit of everything' is the hook?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1285294",
+    "platform": "producthunt",
+    "title": "Scout by Fini",
+    "author": "Garry Tan",
+    "url": "https://www.producthunt.com/products/fini-2",
+    "updated": "2026-10-19T03:51:19-07:00",
+    "body": "The AI coworker for support teams, on Slack",
+    "score": 1.2,
+    "ageHours": 49.7,
+    "hits": [
+      "teams",
+      "team"
+    ],
+    "draft": {
+      "why": "Launch-day PH comment on an AI support tool; founders behind support tooling are B2B SaaS buyers with design budgets, and a thoughtful question can start a conversation.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch! Quick question: when an agent first meets Scout in Slack, what does that first interaction look like? The first five minutes usually decide whether a support team adopts or ignores a new tool.",
+        "Curious how you're positioning this against the AI features already baked into Intercom and Zendesk. Is the bet that teams on Slack-first workflows want a standalone coworker, or that you go deeper than the built-ins?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1287422",
+    "platform": "producthunt",
+    "title": "Agent Pets",
+    "author": "Aryan Thakor",
+    "url": "https://www.producthunt.com/products/agent-pets",
+    "updated": "2026-10-20T21:55:21-07:00",
+    "body": "Coding agents as pets that live on every page in Chrome",
+    "score": 1.3,
+    "ageHours": 7.6,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "Playful launch with viral potential, but it's a consumer novelty extension, not a B2B SaaS founder with design budget.",
+      "potential": 2,
+      "options": [
+        "Fun concept. Curious who you picture as the daily user: devs who already run coding agents all day, or people who just want a mascot while they browse? The answer probably changes what the first-run experience should teach.",
+        "Congrats on the launch! My gut says the positioning question is companion vs. tool: is the pet a fun layer on top of agents I already use, or is it how someone new discovers what coding agents can do? Which one are you leaning into?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1286365",
+    "platform": "producthunt",
+    "title": "The Brains",
+    "author": "Victor Giurgiu",
+    "url": "https://www.producthunt.com/products/the-brains",
+    "updated": "2026-10-20T01:27:13-07:00",
+    "body": "Founders and investors as MCP servers, every answer cited",
+    "score": 1.2,
+    "ageHours": 28.1,
+    "hits": [
+      "founders"
+    ]
+  }
+]
