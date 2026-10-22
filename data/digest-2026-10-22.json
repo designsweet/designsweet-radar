@@ -1,0 +1,403 @@
+[
+  {
+    "platform": "reddit",
+    "id": "t3_1xc99v9",
+    "subreddit": "SaaS",
+    "title": "Built a product that most people like once I explain the benefit, but only few are subscribing...is messaging off?",
+    "author": "/u/LogicalHurricane",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xc99v9/built_a_product_that_most_people_like_once_i/",
+    "updated": "2026-10-22T04:46:19+00:00",
+    "body": "I’ve been building ElephantIQ (elephantiq.com) - an AI knowledge base that turns your existing content (PDFs, site pages, videos, catalogs) into a chat + Voice AI assistant that also captures structured leads.\n People who try it generally like it. Feedback on the product itself has been positive (especially the voice + lead intake combo for places like HOAs, clinics, contractors, and professional services). But conversion from “this is cool” to paid is weak.\n I’m starting to wonder if the messaging is the problem. Right now it’s mostly framed as “AI knowledge bases for chat, voice, and lead intake.” That&#39;s as accurate as I could make it, but maybe not compelling enough, or too feature-oriented for people who just want “an assistant that answers from our docs and books qualified leads.”\n For those of you who’ve shipped SaaS with a similar gap (strong product love, soft conversion):\n How did you diagnose whether it was messaging vs. pricing vs. onboarding vs. something else? Any quick tests or reframes that moved the needle for you? Does the current positioning (“AI knowledge base”) even land, or would something more outcome-focused work better? Happy to share more details or screenshots if useful. Just trying to figure out where the disconnect is.\n Thanks.\n &#32; submitted by &#32; /u/LogicalHurricane \n &#32;",
+    "score": 8.8,
+    "ageHours": 7.8,
+    "hits": [
+      "feedback",
+      "onboarding",
+      "conversion"
+    ],
+    "draft": {
+      "why": "B2B SaaS founder with budget, a real conversion problem, and a visible r/SaaS thread full of other founders reading.",
+      "potential": 8,
+      "options": [
+        "Your positioning sells the mechanism, not the outcome. 'AI knowledge base' describes what it is; 'never miss a lead after hours' describes what a clinic or contractor actually pays for. I'd pick one vertical (the one converting best today) and rewrite the homepage headline around the missed-call or unbooked-lead problem they already feel.",
+        "The gap between 'people like it when I explain it' and low conversion usually means your explanation is doing work the page isn't. Try this: take the exact sentence you say out loud that makes people light up, and test it as your headline against the current one. In my experience the spoken pitch converts better than the written one about 80% of the time."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xccwhm",
+    "subreddit": "UXDesign",
+    "title": "Revamping my company's website: what are the biggest mobile UX mistakes to avoid?",
+    "author": "/u/Remote_Cake_332",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xccwhm/revamping_my_companys_website_what_are_the/",
+    "updated": "2026-10-22T08:25:30+00:00",
+    "body": "I&#39;m currently in the process of revamping my company&#39;s website and alongside the desktop version, I obviously need to make sure the mobile experience is just as good.\n I&#39;m fairly new to web design and UX, so I&#39;d love to hear from people who have been through this process before.\n What are the key things I should absolutely not overlook when designing for mobile? \n For example, should everything that&#39;s available on desktop also be accessible on mobile? Or are there cases where it makes sense to simplify or remove certain elements?\n I&#39;m particularly interested in the less obvious things that beginners tend to miss, or mistakes you only realize you&#39;ve made after launching.\n Any advice, personal experiences, mistakes, or lessons learned would be hugely appreciated!\n Thanks in advance!\n &#32; submitted by &#32; /u/Remote_Cake_332 \n &#32;",
+    "score": 6.6,
+    "ageHours": 4.1,
+    "hits": [
+      "ux",
+      "design"
+    ],
+    "draft": {
+      "why": "Poster is redesigning a company site and open to practitioner advice, but they're a novice asking broadly, so unclear if there's budget or B2B context.",
+      "potential": 4,
+      "options": [
+        "The mistake I see most: people shrink the desktop nav instead of rethinking it. On mobile, cut the menu to the 3-4 actions that actually drive conversions and put a sticky CTA within thumb reach. Also test forms on a real phone, since tiny tap targets and wrong keyboard types (not triggering numeric for phone fields) kill more signups than any visual issue.",
+        "One thing worth deciding before you design a single screen: what's the one action a mobile visitor should take? If it's 'request a demo' or 'call us,' design the whole mobile page around that and hide the rest. What does your company sell, and what's the main conversion you're optimizing for?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xbxit3",
+    "subreddit": "design_critiques",
+    "title": "Looking for feedback/improvement for my photography/videography business website",
+    "author": "/u/tryingtofindmyself1",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xbxit3/looking_for_feedbackimprovement_for_my/",
+    "updated": "2026-10-21T19:52:52+00:00",
+    "body": "Looking for feedback for my photography business website. I made the website myself using Codex. I want to attract possible customers with my website, but also showcase my work.\n I also need to implement some video references. \n https://www.georgtaeufer.at \n &#32; submitted by &#32; /u/tryingtofindmyself1 \n &#32;",
+    "score": 6.2,
+    "ageHours": 16.7,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Poster runs a service business wanting client-attracting site feedback, but it's a DIY photography site, not B2B SaaS, and no link detail is visible.",
+      "potential": 3,
+      "options": [
+        "One thing I see hurt small service sites most: the homepage tries to showcase everything instead of selling one thing. Pick your highest-value service (weddings? commercial?), lead with that offer and a clear booking CTA, and let the portfolio sit one click deeper.",
+        "Who's the main customer you want more of, weddings, events, or commercial work? The right structure for the site changes completely depending on which one pays your bills, so that answer should drive the feedback."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xcflph",
+    "subreddit": "design_critiques",
+    "title": "Feedback required",
+    "author": "/u/Aggravating-Ratio772",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xcflph/feedback_required/",
+    "updated": "2026-10-22T11:08:11+00:00",
+    "body": "Hey everyone! \n I created this Halloween-themed Dairy Milk chocolate wrapper design, with an original illustration made by me, and used a chocolate wrapper mockup to bring the design to life. \n I&#39;d love to hear your honest opinions! What do you think of the overall design, the colours, and the Halloween vibe?\n https://www.behance.net/gallery/257238833/Dairy-Milk-Halloween-Chocolate-Packaging \n &#32; submitted by &#32; /u/Aggravating-Ratio772 \n &#32;",
+    "score": 11.3,
+    "ageHours": 1.4,
+    "hits": [
+      "feedback",
+      "design"
+    ],
+    "draft": {
+      "why": "Personal illustration/packaging side project, not a business with design budget, but a quick critique could show expertise.",
+      "potential": 2,
+      "options": [
+        "Can't see the Behance link render here, but one thing to check on seasonal wrappers: does the design still read as Dairy Milk at shelf distance? Halloween cues work best as accents on the existing brand colors, not a full takeover, or regular buyers walk past it.",
+        "Sharp question first: is this a concept piece for your portfolio or a real brief? If it's portfolio, I'd show one close crop of the illustration next to the full mockup, since the wrapper shape tends to hide hand-drawn detail."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xc1l9r",
+    "subreddit": "design_critiques",
+    "title": "Recent Graphic Design Graduate Looking for Portfolio Feedback",
+    "author": "/u/Rude_Feeling328",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xc1l9r/recent_graphic_design_graduate_looking_for/",
+    "updated": "2026-10-21T22:33:02+00:00",
+    "body": "Hi everyone! I’m a recent graphic design graduate and would love some feedback on my portfolio. I’m currently looking for design opportunities, so I’d appreciate any constructive criticism on the overall website, project presentations, or areas I could improve.\n Portfolio: https://zariayancy.framer.website/ \n Thanks!\n &#32; submitted by &#32; /u/Rude_Feeling328 \n &#32;",
+    "score": 10,
+    "ageHours": 14,
+    "hits": [
+      "feedback",
+      "design"
+    ],
+    "draft": {
+      "why": "Recent grad portfolio review; no budget and not a B2B SaaS founder, so client potential is minimal, but a sharp critique fits Ryan's expertise.",
+      "potential": 2,
+      "options": [
+        "The biggest thing holding most new-grad portfolios back is that every project gets equal weight. Cut it to your three strongest, and give each a one-line problem statement at the top so a hiring manager knows what they are looking at in five seconds.",
+        "Quick question before giving real feedback: what kind of role are you targeting, in-house brand work, agency, or product design? The projects you lead with and how you write them up should change a lot depending on the answer."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xccfgz",
+    "subreddit": "design_critiques",
+    "title": "Need critique on this landing page",
+    "author": "/u/Ok-Biscotti-6374",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xccfgz/need_critique_on_this_landing_page/",
+    "updated": "2026-10-22T07:55:14+00:00",
+    "body": "Hi guys I&#39;m a graphic designer that usually doesn&#39;t do landing page but I decided to make one could you tell me if it look good or not and I could do to improve it? \n &#32; submitted by &#32; /u/Ok-Biscotti-6374 \n &#32;",
+    "score": 8.5,
+    "ageHours": 4.6,
+    "hits": [
+      "landing page",
+      "designer"
+    ],
+    "draft": {
+      "why": "A graphic designer asking for feedback but no page is visible, so nothing specific to critique, and they're a designer, not a B2B SaaS buyer.",
+      "potential": 2,
+      "options": [
+        "The screenshot didn't come through, so nothing to react to yet. Once you repost, tell me what the page is selling and who it's for, because the layout questions get a lot easier to answer with that context.",
+        "Can't see the page itself here. Two quick things to check on your own before resubmitting: does the headline say what the product does in plain words, and is there exactly one primary button above the fold?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xbwr76",
+    "subreddit": "design_critiques",
+    "title": "Poster feedback",
+    "author": "/u/Original-Anything-35",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xbwr76/poster_feedback/",
+    "updated": "2026-10-21T19:24:05+00:00",
+    "body": "This is my first time posting here. I scrolled a lot today and felt stuck. I wanted to make something. I am new to design. Trying to learn through the internet. I like making posters. I need feedback or a few tips to improve my skills. \n &#32; submitted by &#32; /u/Original-Anything-35 \n &#32;",
+    "score": 7.6,
+    "ageHours": 17.2,
+    "hits": [
+      "feedback",
+      "design"
+    ],
+    "draft": {
+      "why": "New hobbyist asking for poster feedback with no budget or business context, low client potential.",
+      "potential": 2,
+      "options": [
+        "Happy to help, but I can't see the poster here. Can you share a link or image so the feedback can be specific?",
+        "A good exercise when you're learning: pick one poster you like and recreate it exactly. You'll learn more about spacing and type from copying than from making ten originals."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xbycab",
+    "subreddit": "design_critiques",
+    "title": "My New Portfolio",
+    "author": "/u/Do_dor",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xbycab/my_new_portfolio/",
+    "updated": "2026-10-21T20:23:27+00:00",
+    "body": "Hi everyone, I’m Eduardo, a graphic designer from Brazil (branding, UI/UX, social and packaging/3D). I just relaunched my portfolio and I’m looking for honest feedback from people in the field, especially if you’ve hired designers or reviewed portfolios before.\n Is there anything I could improve, or learn, to make it stronger for recruiters? First impressions, what works, what doesn’t, what you’d cut: anything helps. Be as blunt as you like.\n Portfolio: eduardovdesign.com.br \n Thanks in advance!\n &#32; submitted by &#32; /u/Do_dor \n &#32;",
+    "score": 6.7,
+    "ageHours": 16.2,
+    "hits": [
+      "feedback",
+      "ux",
+      "ui",
+      "designer"
+    ],
+    "draft": {
+      "why": "Portfolio review request from a fellow designer, not a potential client, but a quick reply builds goodwill in the community.",
+      "potential": 2,
+      "options": [
+        "The biggest portfolio mistake I see is showing final visuals without the problem and your thinking behind them. Pick your 3 strongest projects and give each a short story: the brief, one key decision, the outcome. Recruiters skim, so cut everything that isn't in your top tier.",
+        "Quick question that changes the feedback: are you aiming for branding roles or UI/UX roles? Those are different buyers, and a portfolio that tries to speak to both usually convinces neither. Which one do you want to get hired for?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xc4a94",
+    "subreddit": "UXDesign",
+    "title": "Advice on Sharing UX Work",
+    "author": "/u/Cold-Tiger4722",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xc4a94/advice_on_sharing_ux_work/",
+    "updated": "2026-10-22T00:35:26+00:00",
+    "body": "My workplace has a Figma account managed by the company. For those of you who have been working in the field for a while now, what would you suggest is the best way to share the work you&#39;ve done safely/without getting in trouble? For example, if I were to copy my designs over from my work account to my personal account, is that a common practice? \n I have been doing some amazing UX work that I want to document in my portfolio but don&#39;t want to jeopardize my job as everything is monitored on my work computer. Thanks. \n &#32; submitted by &#32; /u/Cold-Tiger4722 \n &#32;",
+    "score": 5.9,
+    "ageHours": 12,
+    "hits": [
+      "ux",
+      "figma"
+    ],
+    "draft": {
+      "why": "Common junior-to-mid designer question about portfolios, not a potential client, but a quick practical answer fits Ryan's practitioner voice.",
+      "potential": 2,
+      "options": [
+        "Don't copy files to a personal account, that's the one move that can actually get you fired since most contracts treat the files as company IP. What works instead: rebuild the flows from memory in your personal Figma with fake data, anonymized branding, and a note that it's a recreation, then get written sign-off from your manager before publishing.",
+        "Ask your manager or legal for written permission first, and you'd be surprised how often companies say yes to anonymized case studies with dummy data. If they say no, write the case study around process and outcomes with wireframe-level abstractions instead of final screens, which honestly reads better in a portfolio anyway."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xbu9z5",
+    "subreddit": "design_critiques",
+    "title": "Redesigned my product design portfolio after a year of neglect. Roast it, please",
+    "author": "/u/Such_Spring_4470",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xbu9z5/redesigned_my_product_design_portfolio_after_a/",
+    "updated": "2026-10-21T17:54:12+00:00",
+    "body": "Hi everyone,\n I haven’t touched my portfolio in over a year, so I’ve given it a full refresh and I’m in the final stretch. Before I wrap up, I’d love your honest take.\n For visual direction, I used firecrawl.dev as a starting point and built on it with 3D elements and animation.\n You can see it here: https://kireev.us \n Any feedback is welcome, whether it’s first impressions, clarity of the story, or what’s working and what isn’t. Thank you in advance!\n &#32; submitted by &#32; /u/Such_Spring_4470 \n &#32;",
+    "score": 5.8,
+    "ageHours": 18.7,
+    "hits": [
+      "feedback",
+      "design"
+    ],
+    "draft": {
+      "why": "Portfolio roast request in a critique subreddit; poster is a designer, not a potential B2B client, so value is only incidental visibility.",
+      "potential": 2,
+      "options": [
+        "Since you modeled the visual direction on firecrawl.dev, the first thing I'd check is whether your case studies read as yours or as the template. 3D and animation get attention for about three seconds, then hiring managers skim for problem, your specific role, and outcome. Make sure each project states those in the first two sentences before any visuals load.",
+        "One thing worth stress-testing: how does the site hold up with animations off or on a slow connection? A lot of portfolio reviewers browse on a laptop between meetings, and if the story only works when the 3D lands, you'll lose them. What's the one project you want someone to remember after 30 seconds, and is it reachable without scrolling through the showpiece stuff first?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xcgdqt",
+    "subreddit": "UXDesign",
+    "title": "Should I learn UX Design?",
+    "author": "/u/Xyptonic",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xcgdqt/should_i_learn_ux_design/",
+    "updated": "2026-10-22T11:48:54+00:00",
+    "body": "I want to start my career and I am not really interesting in coding, should I get into this field? Is it hard to get a job if I start learning it today? Please guide me, thank you.\n &#32; submitted by &#32; /u/Xyptonic \n &#32;",
+    "score": 8.8,
+    "ageHours": 0.7,
+    "hits": [
+      "ux",
+      "design"
+    ],
+    "draft": {
+      "why": "Career-switcher question from someone with no budget or business, but it's a common thread where a genuinely useful answer fits Ryan's practitioner voice.",
+      "potential": 1,
+      "options": [
+        "Honest answer: the market for juniors is brutal right now, and 'I don't like coding' isn't a strong reason to pick UX. A better test is whether you enjoy untangling messy problems and talking to users, because that's most of the job. Try redesigning one real app's flow this week and see if the process pulls you in before spending money on courses.",
+        "One thing worth knowing upfront: most junior UX roles now expect you to show thinking, not just pretty screens, so your first portfolio pieces need a problem, research, and tradeoffs. If that sounds fun rather than exhausting, it's a good sign. If it sounds like homework, that's your answer too."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xbngmi",
+    "subreddit": "design_critiques",
+    "title": "Just started learning graphic design. Made this in Canva on my phone. Looking for honest feedback",
+    "author": "/u/lxlxvxx",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xbngmi/just_started_learning_graphic_design_made_this_in/",
+    "updated": "2026-10-21T13:40:12+00:00",
+    "body": "Hey everyone!\n I&#39;m completely new to graphic design and recently decided to start learning it seriously.\n I don&#39;t have any formal training, and I&#39;m still learning the basics like typography, composition, colors, and how everything works together.\n This is one of my first projects. It&#39;s a fictional fashion/streetwear magazine cover I made entirely on Canva using my phone.\n I mostly experimented with different elements and effects because I thought they looked cool lol. I don&#39;t really know all the proper design terminology yet, but I&#39;m hoping to learn as I go.\n I&#39;m eventually planning to learn Photoshop and hopefully pursue graphic design as a career.\n I&#39;d really appreciate some honest, beginner-friendly criticism. What works, what doesn&#39;t, and what should I focus on improving?\n Thanks in advance!\n &#32; submitted by &#32; /u/lxlxvxx \n &#32;",
+    "score": 7.5,
+    "ageHours": 22.9,
+    "hits": [
+      "feedback",
+      "design"
+    ],
+    "draft": {
+      "why": "Beginner asking for honest critique; fine to help but no client potential, they're a student with no budget.",
+      "potential": 1,
+      "options": [
+        "Without seeing the image, the most common beginner trap is using too many effects at once because each one looks cool on its own. Pick one idea per piece (a strong photo, a bold headline treatment, or an interesting grid) and let it carry the cover. Restraint is what makes magazine covers look professional.",
+        "A quick exercise that helps more than any tutorial: grab 10 real magazine covers you like and recreate them exactly in Canva, matching fonts, spacing, and alignment as closely as you can. You'll absorb composition and hierarchy way faster than by experimenting freely. What kind of covers are you drawn to, editorial or streetwear-style?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1288711",
+    "platform": "producthunt",
+    "title": "Resend Inboxes",
+    "author": "fmerian",
+    "url": "https://www.producthunt.com/products/resend",
+    "updated": "2026-10-21T22:25:49-07:00",
+    "body": "Create shared inboxes, connect your agents, build workflows",
+    "score": 3.2,
+    "ageHours": 7.1,
+    "hits": [
+      "workflow",
+      "agents"
+    ],
+    "draft": {
+      "why": "Resend has a strong developer audience and an inbox product touches support/ops workflows where UX matters, so a thoughtful launch comment could get noticed by a funded SaaS team.",
+      "potential": 6,
+      "options": [
+        "Congrats on the launch! Curious who the primary user is on day one: the support lead triaging a shared queue, or the developer wiring agents into it? Which one did you design the first-time setup around?",
+        "Big launch, congrats! My read is this positions inboxes as infrastructure for AI agents rather than a helpdesk replacement. Is that the intent, or are you going after teams switching from Front and Intercom?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1285696",
+    "platform": "producthunt",
+    "title": "Causo",
+    "author": "Ivan Semenov",
+    "url": "https://www.producthunt.com/products/causo",
+    "updated": "2026-10-19T10:22:39-07:00",
+    "body": "Find leads beyond database filters with AI research & MCP",
+    "score": 0.9,
+    "ageHours": 67.2,
+    "hits": [
+      "leads"
+    ],
+    "draft": {
+      "why": "B2B lead-gen tool launching on PH, founder likely has budget and will need landing page and onboarding design help soon.",
+      "potential": 6,
+      "options": [
+        "Congrats on the launch! Curious who you built this for first: SDR teams at bigger companies, or founders doing their own outbound? The answer changes a lot about how I'd expect the first-run experience to work.",
+        "Happy launch day! My hypothesis: your real wedge is replacing the 'filter a database, get the same list as everyone else' workflow, not being another lead database. Is that the positioning you're leaning into on the page, or are you still testing it?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1286573",
+    "platform": "producthunt",
+    "title": "Dadan",
+    "author": "Kevin William David",
+    "url": "https://www.producthunt.com/products/dadan",
+    "updated": "2026-10-20T04:49:27-07:00",
+    "body": "One AI video workspace for recordings, meetings and guides",
+    "score": 0.6,
+    "ageHours": 48.7,
+    "hits": [
+      "workspace"
+    ],
+    "draft": {
+      "why": "B2B-leaning video tool on launch day, founders are active in comments and a sharp question can start a real conversation about onboarding and positioning.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch. When someone records their first video, what's the very first thing they see after hitting stop? That moment usually decides whether an AI workspace feels magical or overwhelming.",
+        "Nice launch. Curious who you're aiming at first, since recordings, meetings and guides are three pretty different jobs. My guess is teams making product guides get the most value, is that the wedge you're leading with?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1286805",
+    "platform": "producthunt",
+    "title": "Nimbalyst Wiki",
+    "author": "Karl Wirth",
+    "url": "https://www.producthunt.com/products/nimbalyst-wiki",
+    "updated": "2026-10-20T08:19:17-07:00",
+    "body": "Wiki your agents write for you to think, organize, direct",
+    "score": 0.6,
+    "ageHours": 45.2,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "AI tooling launch on PH with B2B potential; founder may need landing page or onboarding design help if the product gains traction.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch. Curious who you picture as the first user: is it a solo dev running a few agents, or a team trying to keep agents from stepping on each other? The tagline reads differently depending on which one.",
+        "Happy launch day. My read is the hard part isn't getting agents to write, it's getting a human to trust and navigate what they wrote. Is the wiki structured for humans to review first, or is it mainly memory the agents read back?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1286858",
+    "platform": "producthunt",
+    "title": "Mistral Voxtral 3",
+    "author": "Rohan Chaubey",
+    "url": "https://www.producthunt.com/products/mistral-7b",
+    "updated": "2026-10-20T09:09:31-07:00",
+    "body": "Mistral’s speech models for transcription, TTS and agents",
+    "score": 0.6,
+    "ageHours": 44.4,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "Big launch from a known AI company, so Ryan won't land them as a client, but founder-adjacent readers may see a smart comment.",
+      "potential": 3,
+      "options": [
+        "Congrats on the launch. Curious who you see as the first real user here: developers building voice agents, or teams just needing cheaper transcription at scale?",
+        "Congrats on shipping this. Is the bet that agents are the wedge and transcription is the entry point, or are you positioning it as a full speech stack from day one?"
+      ]
+    }
+  }
+]
