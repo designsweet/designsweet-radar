@@ -1,0 +1,393 @@
+[
+  {
+    "platform": "reddit",
+    "id": "t3_1xdaht3",
+    "subreddit": "SaaS",
+    "title": "Is appsumo worth it? I'm getting signups but not much signup to trial conversion",
+    "author": "/u/shayannadeem321",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xdaht3/is_appsumo_worth_it_im_getting_signups_but_not/",
+    "updated": "2026-10-23T10:38:07+00:00",
+    "body": "Hi, I&#39;ve been building and marketing my tool since April 2026 - till now.\n And I don&#39;t have many subscriptions only users so I was thinking of launching to AppSumo for lifetime deals to get visibility, reviews and cash to sell more of my monthly package.\n My question is, is it worth it to submit a SaaS product to appsumo?\n &#32; submitted by &#32; /u/shayannadeem321 \n &#32;",
+    "score": 10,
+    "ageHours": 1.8,
+    "hits": [
+      "conversion",
+      "signups"
+    ],
+    "draft": {
+      "why": "Founder with a live SaaS and a real conversion problem, considering AppSumo, a thread many B2B founders read.",
+      "potential": 6,
+      "options": [
+        "AppSumo buyers are mostly lifetime-deal collectors, so expect a spike in signups and support load with very little conversion to your monthly plan. If your signup-to-trial rate is already weak, fix that leak first, because AppSumo traffic will just amplify it. What does your trial flow look like right now, is there a card required or an onboarding step where people drop?",
+        "The conversion problem usually isn't traffic volume, it's that new signups don't hit an aha moment fast enough. Before spending energy on AppSumo, I'd look at where trial users stall in the first session and cut everything before that first win. AppSumo works better as a cash and review boost for a product that already converts, not as a fix for one that doesn't."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xczbpc",
+    "subreddit": "design_critiques",
+    "title": "Roast my educational website",
+    "author": "/u/Single_Conference794",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xczbpc/roast_my_educational_website/",
+    "updated": "2026-10-23T00:20:30+00:00",
+    "body": "Hey everyone,\n I&#39;m working on a personal finance education website, and I&#39;d love some honest feedback on it.\n Link: https://finidojo.com \n Some ideas on where to give feedback:\n What&#39;s your first impression of the website? Does it give you a clear idea of what it does? Does it look sus? How inclined are you to click the button to start the first lesson? Does the lesson display / navigation / content feel good? Is it sus or cringe? After finishing the first lesson, how inclined are you to click the button to start the next lesson and also authenticate with Google to sign in? By the time you hit the paywall in the second lesson, do you feel like the product has built enough trust to convince someone to purchase? Anything else I should know? Please don&#39;t hold back - brutally honest feedback is very helpful and much appreciated. Thanks!\n &#32; submitted by &#32; /u/Single_Conference794 \n &#32;",
+    "score": 16.5,
+    "ageHours": 12.1,
+    "hits": [
+      "feedback",
+      "roast my",
+      "first impression"
+    ],
+    "draft": {
+      "why": "Founder with a monetized product asking sharp, specific questions about trust and paywall conversion, a real design problem, but it's consumer edtech so budget is uncertain.",
+      "potential": 4,
+      "options": [
+        "Asking for a Google sign-in plus a paywall by lesson two is a big trust ask for a finance site strangers just met. I'd gate on email only after lesson one completes, and show one concrete outcome (\"you'll be able to read your own pay stub\") before any auth wall.",
+        "The sequencing question matters more than the visuals: what does a user get to keep if they never pay? If the answer is nothing, the paywall will feel like a bait and switch no matter how good lesson one is. What's the free outcome you're willing to give away?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xd9o9r",
+    "subreddit": "microsaas",
+    "title": "I’ll give honest feedback on your micro SaaS (and would love some on mine)",
+    "author": "/u/Choice_Wheel_2",
+    "url": "https://www.reddit.com/r/microsaas/comments/1xd9o9r/ill_give_honest_feedback_on_your_micro_saas_and/",
+    "updated": "2026-10-23T09:49:41+00:00",
+    "body": "I’ve been going through a few posts here and leaving feedback on people’s sites, because I think it really helps, so let’s do it properly.\n Drop your product in the comments with one line on who it’s for, and I’ll tell you what I’d change: the homepage message, what’s confusing, what would make me sign up (or not). Honest but not rude.\n I’m building a referral code directory, still early, and I’d really appreciate your take on it too: yourreferralcodes.com . But no pressure, feedback on yours comes first.\n &#32; submitted by &#32; /u/Choice_Wheel_2 \n &#32;",
+    "score": 10,
+    "ageHours": 2.6,
+    "hits": [
+      "feedback",
+      "sign up",
+      "confusing"
+    ],
+    "draft": {
+      "why": "Poster runs an early micro SaaS and the thread will be full of founders dropping links, so good visibility for Ryan among B2B builders, though the poster's own product is a consumer-style directory with likely tiny budget.",
+      "potential": 4,
+      "options": [
+        "Quick take on yours: the hard part isn't collecting codes, it's trust, since expired or fake codes are why people leave these directories and never come back. I'd show 'last verified X days ago' on every listing and let users flag dead codes in one tap, that's the feature that makes it a habit instead of a one-off search.",
+        "For yours, the thing I'd sort out first is the search moment: most people google '[product] referral code' and want the answer in 10 seconds, so your homepage should be a search bar and not much else. Curious who you're aiming at though, deal hunters in general or people already deep in referral programs?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xd0kge",
+    "subreddit": "SaaS",
+    "title": "We made a digital business card that looks like a premium printed one. Would you use it for your business?",
+    "author": "/u/National_Round_7280",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xd0kge/we_made_a_digital_business_card_that_looks_like_a/",
+    "updated": "2026-10-23T01:19:41+00:00",
+    "body": "Hi everyone,\n My friend and I are building MyEliteCard, and before we go further we&#39;d love some honest outside opinions.\n The idea: most digital business cards are a profile page or a list of links. We wanted the card itself to make an impression, the way a well-made printed card does. You design a real card (guilloché, marble, carbon, gold and more), it shows in 3D and turns in the light, and you share it as a link or a QR code. The person you meet sees your card on their phone and can call, email, get directions or save your contact in one tap. When you send the link in a chat, the preview shows the card itself. No app is needed on either side.\n The picture shows the whole path: the site, the builder, a finished card (front and back) and what the other person sees.\n What we&#39;d like to know:\n What&#39;s your first impression? Does it feel premium, or like a gimmick?\n If you had your own business, would you use something like this? Instead of paper cards, alongside them, or not at all?\n What would stop you, or what&#39;s missing?\n If you&#39;re up for reviewing it properly, make a card and tell us what confused you or felt off. New accounts get every Royal feature free for a month, with no payment details, so you can try all the designs. Blunt feedback is welcome; that&#39;s why we&#39;re asking. I&#39;ll reply to every comment.\n Thanks,\n Mark 😄 \n www.myelitecard.com \n &#32; submitted by &#32; /u/National_Round_7280 \n &#32;",
+    "score": 9.6,
+    "ageHours": 11.1,
+    "hits": [
+      "feedback",
+      "design",
+      "looks",
+      "first impression"
+    ],
+    "draft": {
+      "why": "Founder actively seeking feedback on a design-heavy product, but it's a consumer-ish digital card in a crowded space with unclear budget for paid design help.",
+      "potential": 4,
+      "options": [
+        "Honest first impression: the risk isn't gimmick, it's that the recipient experience matters more than the card itself. If the person scanning the QR just wants to save a contact, every second spent admiring the 3D flip is friction. I'd test how fast someone can get from link opened to contact saved, and make that the hero flow.",
+        "Who's the actual buyer here? Real estate agents and networkers live on paper cards and NFC taps, while SaaS founders just swap LinkedIn profiles. The premium angle suggests luxury services, but those folks care about physical cardstock, so I'm curious who you've seen light up when you show it."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xcpygx",
+    "subreddit": "microsaas",
+    "title": "The cheapest time to fix your dashboard UX is before your second feature ships",
+    "author": "/u/ruqyyakhan",
+    "url": "https://www.reddit.com/r/microsaas/comments/1xcpygx/the_cheapest_time_to_fix_your_dashboard_ux_is/",
+    "updated": "2026-10-22T18:03:51+00:00",
+    "body": "Lesson from designing product dashboards: the first version of a dashboard is almost always fine. It’s small, it does three things, the founder can explain it in one sentence.\n The trouble starts at feature four or five. Each new thing gets bolted onto the layout wherever it fits. Navigation grows sideways. Two screens solve the same problem in different ways. New users land, can’t form a mental model in the first minute, and quietly churn — and at micro-SaaS scale you feel every single one of those.\n What I’d do at that stage (and what I do when a founder brings me a product at exactly this point):\n Freeze the patterns you have. Write down — even in a scrappy Figma file — your button, your table, your form, your empty state. Every new feature reuses them. This is a design system at the only scale an MVP needs. Reorder by task, not by build order. Your navigation is probably in the order features were built. Users don’t care. Group by what they came to do. Design the empty dashboard. Your newest users see zero data. That screen is your real onboarding, and it’s the one nobody designed. None of this needs an agency or a six-week redesign. It needs one focused pass by someone thinking only about the user’s path through the product — which is the gap a design partner fills for teams too small to hire a designer full-time. That’s the service I offer founders, fixed-scope in Figma (dashboard/web-app packages are $50–190, so it stays in MVP budget territory).\n If you’re at the “fea",
+    "score": 8.2,
+    "ageHours": 18.4,
+    "hits": [
+      "onboarding",
+      "churn",
+      "ux",
+      "design",
+      "redesign",
+      "mvp",
+      "dashboard",
+      "design system",
+      "figma",
+      "designer"
+    ],
+    "draft": {
+      "why": "Poster is a fellow designer pitching dashboard UX services, so not a client prospect, but the thread may attract founder readers with exactly this problem.",
+      "potential": 4,
+      "options": [
+        "The empty-state point is the one I'd underline. I've watched founders demo dashboards loaded with fake data for months, then a real user signs up and sees a blank grid with a lone spinner. One designed empty state with a single next action does more for activation than any nav reorder.",
+        "Solid list, but I'd push back on freezing patterns at feature four. At that stage most founders still don't know which of the three things on the dashboard users actually come back for. Locking a design system too early just means you standardized the wrong patterns. Reorder by task first, freeze once you know what the tasks are."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xd7y0d",
+    "subreddit": "SaaS",
+    "title": "How do I get feedback from existing daily active users?",
+    "author": "/u/Yashrocky96",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xd7y0d/how_do_i_get_feedback_from_existing_daily_active/",
+    "updated": "2026-10-23T08:01:32+00:00",
+    "body": "I kept the basics usable without an account or email signup because privacy matters to me. These will be added once I add features that costs me to run the app and hopefully add a subscription later-on.\n These are the reasons I don&#39;t have a direct way to reach out to the users. Although there&#39;s feedback section and a way to directly reach out to me through Discord.\n It&#39;s a windows desktop app, what are some ways I can engage with the users?\n &#32; submitted by &#32; /u/Yashrocky96 \n &#32;",
+    "score": 7.1,
+    "ageHours": 4.4,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Solo founder with a live product and real users, solvable feedback problem, though consumer desktop app with no revenue yet",
+      "potential": 4,
+      "options": [
+        "Since you already have a feedback section, the highest-leverage move is timing: trigger a one-line prompt inside the app right after a user completes the core action successfully, not in a menu they have to hunt for. Something like 'What almost stopped you from getting here just now?' gets far better answers than a generic feedback form. Response rates jump when you ask in the moment instead of hoping they open Discord.",
+        "You're optimizing for collecting feedback, but the privacy-first, no-account setup means your most unhappy users just churn silently. Have you considered an opt-in anonymous usage signal (one event: daily open) so you at least know your retention curve? Feedback from the 5% who reply will skew your roadmap without it."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xd737s",
+    "subreddit": "UXDesign",
+    "title": "I made a free Framer template tailored for fractional leaders & consultants (Feedback welcome) 🚀",
+    "author": "/u/Pitiful_Exercise_166",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xd737s/i_made_a_free_framer_template_tailored_for/",
+    "updated": "2026-10-23T07:09:30+00:00",
+    "body": "Hey everyone! \n I’ve been working on a clean, modern Framer template designed specifically for fractional executives and consultants (CFOs, COOs, CMOs, etc.), and I wanted to give it away to the community for free. \n I wanted to build something that goes beyond a standard landing page—it includes a layout where potential clients can easily understand service tiers and pricing structures. \n Here is a quick overview: \n You can check out the preview and grab it for free here: https://framer.link/Duoa6GY \n I&#39;d love to hear your thoughts, feedback, or any suggestions on how I can improve it. Let me know what you think or if you end up using it for a project! 🙌\n &#32; submitted by &#32; /u/Pitiful_Exercise_166 \n &#32;",
+    "score": 10.5,
+    "ageHours": 5.3,
+    "hits": [
+      "feedback",
+      "landing page"
+    ],
+    "draft": {
+      "why": "Poster built a template for fractional execs, an audience adjacent to Ryan's B2B clients, but this is a free giveaway with no buyer intent; other readers are mostly designers, not founders.",
+      "potential": 3,
+      "options": [
+        "For consultant sites the pricing section usually fails because tiers read like service lists, not outcomes. I'd label each tier by the problem it solves (e.g. 'get your finances investor-ready') rather than hours or deliverables, since that matches how a founder actually shops for a fractional hire.",
+        "Nice niche choice. One thing I'm curious about: how did you handle the credibility section? Fractional execs live and die on logos and outcomes, so if the template buries those below service descriptions, that's the first thing I'd move up."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xd76sm",
+    "subreddit": "UXDesign",
+    "title": "Graphic designer turned team lead thinking about jumping to product design at a startup. What's it even like now with AI tools?",
+    "author": "/u/unstable_molecule",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xd76sm/graphic_designer_turned_team_lead_thinking_about/",
+    "updated": "2026-10-23T07:15:29+00:00",
+    "body": "Hey everyone,\n I started out as a graphic designer and I&#39;m now leading a small team at the same company. After about 3 years it&#39;s started to feel pretty repetitive, and I&#39;m craving something with more depth and impact. I&#39;ve always wanted to get into product design, and now a startup has offered me exactly that. I&#39;m excited, but also a bit lost on where the field is going. From what I&#39;ve seen, a lot of teams are prototyping with AI tools like Claude Design and barely touching Figma anymore, so I&#39;m not even sure what the workflow looks like these days.\n So I&#39;m curious how you&#39;d describe the work now, where you think it&#39;s headed in the next few years, and what the process looks like from idea to shipped product. And coming from graphic design, I honestly don&#39;t know where to start or what to learn first.\n If you&#39;re a product designer, especially at a startup or someone who made the switch from visual design, I&#39;d love to hear your take. Advice, resources, or reality checks all welcome.\n Thanks.\n &#32; submitted by &#32; /u/unstable_molecule \n &#32;",
+    "score": 10.5,
+    "ageHours": 5.2,
+    "hits": [
+      "design",
+      "figma",
+      "looks",
+      "designer"
+    ],
+    "draft": {
+      "why": "Career switcher asking about product design workflows, not a hiring signal, low client potential.",
+      "potential": 2,
+      "options": [
+        "The core job hasn't changed as much as the tools have: you're still deciding what to build and why, AI just compresses the mockup phase. Coming from graphic design, your biggest gap will be systems thinking and talking to users, not tooling, so start there.",
+        "One reality check: at a startup you'll ship rougher work than your graphic design eye wants, and that's the point. Before you take the offer, ask how they handle research and validation, because 'product designer' at a startup can mean anything from real product work to just making the founder's mockups prettier."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xcx2f3",
+    "subreddit": "design_critiques",
+    "title": "Looking for feedback on my progress with a design for some custom coasters I want to make",
+    "author": "/u/Kevel_Up",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xcx2f3/looking_for_feedback_on_my_progress_with_a_design/",
+    "updated": "2026-10-22T22:39:25+00:00",
+    "body": "I took the feedback I got on my first rendition (seen on the second slide) and have refined the design to the final sketch stage and would love some more feedback before I crack out the vectors!\n Any feedback is appreciated! I would especially like some crit on the two potential colour schemes (more colourful on the left, more minimal on the right). I want the design to be reminiscent of vintage beer branding/coasters\n &#32; submitted by &#32; /u/Kevel_Up \n &#32;",
+    "score": 10.1,
+    "ageHours": 13.8,
+    "hits": [
+      "feedback",
+      "design"
+    ],
+    "draft": {
+      "why": "Hobbyist making custom coasters, no business or budget behind it, so low client potential but easy to be genuinely helpful.",
+      "potential": 2,
+      "options": [
+        "The minimal version on the right will read as 'vintage beer branding' much faster, since old brewery coasters were usually 2 or 3 flat colors max. If you keep the colourful one, try limiting it to three hues from the same family, because the rainbow spread is what makes it feel modern instead of retro.",
+        "What's the actual printing method for these? Coasters are usually screen printed or letterpressed with limited spot colors, so the colourful scheme may cost more per unit or lose detail, and designing to the constraint first will save you a vector rework later."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xdc8ze",
+    "subreddit": "SideProject",
+    "title": "Feedback for a budget app",
+    "author": "/u/kgraves003",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xdc8ze/feedback_for_a_budget_app/",
+    "updated": "2026-10-23T12:09:11+00:00",
+    "body": "I’ve been building a budgeting app, and I’m finally at the stage where I would like to see if any real people would be willing to poke at it, use it, judge it, and tell me what feels helpful versus what makes you want to launch your laptop into the sun.\n The app is built around the idea of a journey toward financial independence, without making budgeting feel like punishment. I’m autistic, so a big part of what I’m trying to build is something that feels clear, structured, visual, and not wildly overwhelming.\n The project includes things like monthly cash flow, bills, debt payoff, BNPL, savings and retirement goals, promotional 0% balances, travel budgeting, trip expenses, and travel planning.\n One of the ideas I’m testing is a cash-flow view that adjusts as the month changes. So instead of a budget pretending nothing unexpected ever happens, it tries to answer questions like:\n “If I spend this today, am I still okay at the end of the month?”\n Or, perhaps more realistically:\n “Can I get Starbucks, or did my impulsive California trip just move to next month?”\n Very serious financial research.\n I would especially love feedback from other autistic or neurodivergent people who:\n • ⁠like budgeting\n • ⁠want to get better with money\n • ⁠enjoy trackers, lists, goals, or watching little progress bars go brrrr\n • ⁠have strong opinions about confusing interfaces\n I’d give you access to the demo and a simple walkthrough.\n A couple important notes\n I’m not trying to sell anyone anything I",
+    "score": 9,
+    "ageHours": 0.3,
+    "hits": [
+      "feedback",
+      "confusing"
+    ],
+    "draft": {
+      "why": "A thoughtful side project with a clear niche (neurodivergent-friendly budgeting), but it's a consumer app with no monetization intent, so client potential is low.",
+      "potential": 2,
+      "options": [
+        "The 'am I still okay at end of month' question is your strongest hook, so I'd make that the first screen a new user sees rather than a dashboard of categories. In my experience, tools that answer one question instantly beat tools that show everything at once, especially for users who find dense interfaces overwhelming.",
+        "With that many features (BNPL, travel, retirement, promo balances), how are you keeping the first session from feeling like homework? Curious what the onboarding looks like for someone who just wants to know if they can afford Starbucks today."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xd9v18",
+    "subreddit": "web_design",
+    "title": "Feedback Thread",
+    "author": "/u/AutoModerator",
+    "url": "https://www.reddit.com/r/web_design/comments/1xd9v18/feedback_thread/",
+    "updated": "2026-10-23T10:00:51+00:00",
+    "body": "Our weekly thread is the place to solicit feedback for your creations. Requests for critiques or feedback outside of this thread are against our community guidelines. Additionally, please be sure that you&#39;re posting in good-faith. Attempting to circumvent self-promotion or commercial solicitation guidelines will result in a ban. \n Feedback Requestors Please use the following format:\n URL : \n Purpose : \n Technologies Used : \n Feedback Requested : (e.g. general, usability, code review, or specific element) \n Comments :\n Post your site along with your stack and technologies used and receive feedback from the community. Please refrain from just posting a link and instead give us a bit of a background about your creation.\n Feel free to request general feedback or specify feedback in a certain area like user experience, usability, design, or code review.\n Feedback Providers Please post constructive feedback. Simply saying, &quot;That&#39;s good&quot; or &quot;That&#39;s bad&quot; is useless feedback. Explain why. Consider providing concrete feedback about the problem rather than the solution. Saying, &quot;get rid of red buttons&quot; doesn&#39;t explain the problem. Saying &quot;your site&#39;s success message being red makes me think it&#39;s an error&quot; provides the problem. From there, suggest solutions. Be specific. Vague feedback rarely helps. Again, focus on why. Always be respectful Template Markup **URL**: **Purpose**: **Technologies Used**: **Feedback Requested**: ",
+    "score": 7.4,
+    "ageHours": 2.4,
+    "hits": [
+      "feedback",
+      "design"
+    ],
+    "draft": {
+      "why": "Weekly feedback megathread with no specific site to critique, so there's nothing concrete to respond to yet.",
+      "potential": 2,
+      "options": [
+        "This thread works best when people fill in the Feedback Requested field with one specific question, like 'does my pricing section confuse people' instead of 'general thoughts'. In my experience you'll get 10x more useful replies when reviewers know what to look at.",
+        "Worth adding a line asking requestors to say who the site is for. Half the bad feedback in threads like this comes from reviewers guessing the audience wrong."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xd7th4",
+    "subreddit": "design_critiques",
+    "title": "My Restaurant Menu Design Concept | Urban Bite 🍛",
+    "author": "/u/skcreater",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xd7th4/my_restaurant_menu_design_concept_urban_bite/",
+    "updated": "2026-10-23T07:54:05+00:00",
+    "body": "My Restaurant Menu Design Concept | Urban Bite 🍛\n Hey everyone! 👋\n I’m a graphic designer currently building my portfolio, and I’ve been working on a premium biryani restaurant design concept for a fictional brand called Urban Bite.\n I created two designs using a black and golden colour palette:\n - Design 1: Promotional chicken biryani poster\n - Design 2: Premium restaurant menu design\n My goal was to create a luxurious, professional look through typography, colour contrast, food imagery, and layout.\n I’d really appreciate honest feedback!\n - Which design looks more professional?\n - Does the menu feel premium and easy to read?\n - What would you improve in the typography, spacing, or layout?\n I’m still learning and would love to hear your suggestions. Constructive criticism is welcome! 🙌\n #GraphicDesign #MenuDesign #RestaurantBranding\n &#32; submitted by &#32; /u/skcreater \n &#32;",
+    "score": 9.6,
+    "ageHours": 4.5,
+    "hits": [
+      "feedback",
+      "design",
+      "looks",
+      "designer"
+    ],
+    "draft": {
+      "why": "Portfolio concept for a fictional restaurant, so no client potential, but it's a genuine design critique request where specific feedback fits.",
+      "potential": 1,
+      "options": [
+        "On premium menus, restraint does more than contrast. Black and gold already reads luxury, so cut the gold usage to accents only (dish names and prices) and let everything else sit in off-white. If every element is gold, nothing feels expensive, it feels noisy.",
+        "Quick question first: are the prices aligned to a consistent right edge in the menu layout? In my experience misaligned price columns are the single biggest thing that makes a menu feel amateur, and it's the easiest fix of all the ones you listed."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1289162",
+    "platform": "producthunt",
+    "title": "Dots",
+    "author": "Jakob Edhel Puri",
+    "url": "https://www.producthunt.com/products/dots-7",
+    "updated": "2026-10-22T06:15:51-07:00",
+    "body": "A customizable workspace built into your Mac's notch",
+    "score": 1.4,
+    "ageHours": 23.2,
+    "hits": [
+      "workspace"
+    ],
+    "draft": {
+      "why": "PH launch day visibility; a Mac productivity tool could be indie, but notch-based workspace is a clever hook and launch threads attract founders.",
+      "potential": 4,
+      "options": [
+        "Congrats on the launch! Building around the notch is a fun constraint. Curious who you pictured first: someone who lives in their calendar and notes all day, or more of a quick-glance widgets person? How they answer usually shapes the whole first-run setup.",
+        "Launching today, nice! My guess is you're positioning this as a replacement for a cluttered menu bar rather than a second desktop. Is that the framing, or are you aiming at something else entirely?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1289806",
+    "platform": "producthunt",
+    "title": "Agent Hunt",
+    "author": "Zongrong(Jasper) Li",
+    "url": "https://www.producthunt.com/products/monid",
+    "updated": "2026-10-22T21:03:20-07:00",
+    "body": "Live rankings of the tools AI agents use most",
+    "score": 1.3,
+    "ageHours": 8.4,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "AI tooling directory riding a hot trend; makers likely technical founders who may need design help, and PH launch threads get decent founder traffic.",
+      "potential": 4,
+      "options": [
+        "Congrats on the launch! Curious how you're measuring 'use' here: is it based on actual agent call data, or self-reported integrations? That difference will make or break trust in the rankings.",
+        "Congrats on launching! Wondering if the real audience is agent builders picking their stack, or tool makers trying to climb the rankings. Feels like whichever one you design for first shapes the whole product."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1289823",
+    "platform": "producthunt",
+    "title": "Termi Protocol",
+    "author": "Eric Omer Ercan",
+    "url": "https://www.producthunt.com/products/termi-protocol",
+    "updated": "2026-10-22T21:32:57-07:00",
+    "body": "Watch AI agents code in 3D and hand off the work",
+    "score": 1.3,
+    "ageHours": 7.9,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "Launch-day comment on a dev-tool product; low direct client fit but visible founder audience, worth a light touch.",
+      "potential": 3,
+      "options": [
+        "Congrats on the launch! Curious who's the main user here: is it the dev watching their own agent work, or a team lead reviewing what agents did overnight? That changes a lot about what the 3D view needs to show first.",
+        "Happy launch day! Quick hypothesis, tell me if I'm off: the 3D viz is the hook, but the real buyer value is the handoff part. Do people care more about watching agents live, or trusting the output after the fact?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1289239",
+    "platform": "producthunt",
+    "title": "Monish",
+    "author": "Jérémie Aouate",
+    "url": "https://www.producthunt.com/products/monish",
+    "updated": "2026-10-22T07:38:26-07:00",
+    "body": "Your AI agents, live on your iPhone lock screen",
+    "score": 1,
+    "ageHours": 21.8,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "PH launch with a novel lock-screen agent angle, but it's a consumer app so client odds are low; still worth a friendly visible comment.",
+      "potential": 3,
+      "options": [
+        "Congrats on the launch! Curious what the first-run experience looks like: do people set up an agent in the app first, or does something useful show up on the lock screen right away?",
+        "Congrats! Quick positioning question: are you aiming this at people already running agents in tools like Claude or Zapier, or is the bet that the lock screen makes agents click for folks who've never used one? My guess is the second group is bigger but harder to onboard."
+      ]
+    }
+  }
+]
