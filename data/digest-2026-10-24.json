@@ -1,0 +1,319 @@
+[
+  {
+    "platform": "reddit",
+    "id": "t3_1xdybg2",
+    "subreddit": "SaaS",
+    "title": "Got 10 signups from Reddit. Only 1 person actually launched. Here's why.",
+    "author": "/u/StressConsistent2030",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xdybg2/got_10_signups_from_reddit_only_1_person_actually/",
+    "updated": "2026-10-24T03:39:27+00:00",
+    "body": "A few days ago I shared that nobody used my launch board, PeekLaunch, for the first 2 weeks.\n That post got 880+ views and sent about 250 visitors in 3 days. 10 people signed up.\n But here&#39;s the honest part. Only 1 product is live this week, and 1 more is scheduled for next week.\n 3 more are stuck as drafts because makers have to add our badge to their site before they can launch.\n So signups were the easy part. Every extra step before launch loses people.\n What I&#39;m trying next:\n - Letting makers launch first and add the badge later\n - Messaging each maker with a draft to see what stopped them\n If you run a SaaS, what&#39;s one step you removed from onboarding that made a big difference?\n &#32; submitted by &#32; /u/StressConsistent2030 \n &#32;",
+    "score": 6,
+    "ageHours": 8.8,
+    "hits": [
+      "onboarding",
+      "signups"
+    ],
+    "draft": {
+      "why": "SaaS founder with a real activation problem and an audience of fellow founders, exactly the onboarding friction Ryan fixes.",
+      "potential": 8,
+      "options": [
+        "You've already found the answer: the badge requirement is a commitment you're asking for before they've gotten any value. Flip it so the badge gets added after their launch gets traffic, when it feels earned instead of like a toll.",
+        "Your 3 drafts are a free research panel, so make that outreach count: ask them to walk you through the exact screen where they stopped, not why they stopped. People explain behavior with guesses, but the stuck point itself is usually something concrete like confusion about what the badge looks like on their site."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xe6x76",
+    "subreddit": "SideProject",
+    "title": "Solo founders who built without a designer: what’s the UX problem you can’t figure out?",
+    "author": "/u/Apart-Apartment7272",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xe6x76/solo_founders_who_built_without_a_designer_whats/",
+    "updated": "2026-10-24T12:05:09+00:00",
+    "body": "I’ve been talking to a lot of founders who built their product themselves, mostly with AI tools, and the same thing keeps coming up: the product works, but users drop off and nobody can say why. Is onboarding confusing? Does it not feel trustworthy? Can people not find the main thing?\n So I’m reviewing a few early-stage products myself, looking at usability, onboarding, trust, and whether users can actually do what they came for. Keeping it to a handful of serious founders.\n If this sounds like you, DM me with a line about what you’ve built and where you think users get stuck. Please don’t drop links in the comments; I’d rather have a proper conversation with each person.\n &#32; submitted by &#32; /u/Apart-Apartment7272 \n &#32;",
+    "score": 15.8,
+    "ageHours": 0.4,
+    "hits": [
+      "onboarding",
+      "ux",
+      "users drop",
+      "confusing",
+      "designer"
+    ],
+    "draft": {
+      "why": "Thread full of solo founders with exactly the design problems Ryan fixes, though the poster is soliciting the reviews themselves so the audience is the value.",
+      "potential": 5,
+      "options": [
+        "In my experience the drop-off is almost never onboarding length, it's that the first screen makes people decide something before they've seen any value. If users have to configure, connect, or commit before getting a single win, no amount of tooltip polish fixes it.",
+        "The pattern I keep seeing with AI-built products: every page looks fine in isolation, but there's no visual hierarchy telling you what the one important action is. Founders test features, users experience confusion about where to start, and those never show up in the same feedback."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xe6eip",
+    "subreddit": "microsaas",
+    "title": "i'll try 3 of your apps as a new user and send honest notes",
+    "author": "/u/Low_Cable2610",
+    "url": "https://www.reddit.com/r/microsaas/comments/1xe6eip/ill_try_3_of_your_apps_as_a_new_user_and_send/",
+    "updated": "2026-10-24T11:37:49+00:00",
+    "body": "i&#39;m a few weeks out from launching opennmind and i&#39;ve gone through my own onboarding so many times that i honestly can&#39;t judge it anymore. every screen looks fine to me because i already know what every button does. i&#39;m guessing a lot of people here are stuck in the same spot with their own app, so let&#39;s swap.\n link your app in the comments with one line on who it&#39;s for. over the next day or two i&#39;ll pick 3 of them , actually sign up and go through it like a brand new user, then reply with honest notes on the landing page, the first five minutes, and the exact moment i&#39;d probably drop off. i&#39;ll pick the ones where i think i can help the most, not the biggest ones.\n in return, if you&#39;ve got ten minutes, take a look at opennmind and tell me where you got confused. it&#39;s a workspace for the early part of a startup where you research an idea with sources, write down assumptions and interview notes, then turn it into a roadmap and tasks, with an assistant called wiora. 200+ people have tried the private beta so far and launch is nov 16 . early users get a month of pro free, and the waitlist is at https://opennmind.com . totally fine if you just want the feedback and skip mine though.\n what&#39;s the one screen in your app you&#39;re least sure about? put that next to your link and i&#39;ll start there. and if you do poke around opennmind, which part would you actually come back to every week, and does $12 a month for pro sound fair for th",
+    "score": 9.9,
+    "ageHours": 0.8,
+    "hits": [
+      "feedback",
+      "landing page",
+      "onboarding",
+      "looks",
+      "sign up"
+    ],
+    "draft": {
+      "why": "Founder with a real onboarding-blindness problem plus a thread full of SaaS founders self-identifying their weakest screens, which is exactly Ryan's client profile.",
+      "potential": 5,
+      "options": [
+        "That blindness you're describing is exactly why 'the moment I'd drop off' notes from strangers are more valuable than full UX audits. In my experience the biggest drop-off usually isn't a confusing screen, it's the screen that asks for effort (connect an account, import data) before the user has seen one piece of value. Worth checking that ordering first before anything else.",
+        "For your 'which part would you come back to every week' question: I'd guess the roadmap/tasks view, since research notes are write-once and read-rarely. If that's true, is the onboarding pushing people toward that weekly habit, or toward the one-time research flow?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xe4ytw",
+    "subreddit": "UXDesign",
+    "title": "I am building a mobbin alternative but instead of exploring by company you search by problem. Get components and flows with code you interact with and states to play around with. Would anyone use this?",
+    "author": "/u/had12e1r",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xe4ytw/i_am_building_a_mobbin_alternative_but_instead_of/",
+    "updated": "2026-10-24T10:13:55+00:00",
+    "body": "I would love your feedback as I am currently building this product. My sister who is a designer encounters this problem when trying to do research. Mobbin tells you what worked, but not how to solve your problems.\n &#32; submitted by &#32; /u/had12e1r \n &#32;",
+    "score": 5.6,
+    "ageHours": 2.2,
+    "hits": [
+      "feedback",
+      "designer"
+    ],
+    "draft": {
+      "why": "Poster is building a design research tool and asking for validation; the founder may need product/UX design help and the thread attracts other designers and SaaS builders.",
+      "potential": 5,
+      "options": [
+        "Search by problem sounds great until you realize every designer names problems differently. I'd spend your energy on the taxonomy first: 'empty state', 'churn flow', 'upgrade prompt' are the vocab people actually search, so seed it from real search terms rather than categories you invent.",
+        "Genuinely curious how you define 'problem' as the search unit. When I hit Mobbin I'm usually thinking 'how do others handle X step in onboarding', so do I search by the UI moment, the user goal, or the business outcome? Whichever you pick shapes the whole data model.",
+        "The interactive states with code is the real differentiator here, not the problem search. Mobbin is static screenshots, so if I can toggle loading, error, and empty states live, that's the pitch I'd lead with."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xe57ew",
+    "subreddit": "microsaas",
+    "title": "Looking for feedback from SaaS founders using HubSpot",
+    "author": "/u/Last-Matter-3617",
+    "url": "https://www.reddit.com/r/microsaas/comments/1xe57ew/looking_for_feedback_from_saas_founders_using/",
+    "updated": "2026-10-24T10:28:36+00:00",
+    "body": "Hi everyone! I&#39;m part of the team at Surveybox, a customer feedback platform.\n We&#39;re working on a HubSpot integration that allows teams to view relevant customer feedback responses directly within HubSpot contact records.\n We&#39;re preparing for the release and would appreciate insights from SaaS founders or teams who use HubSpot and manage customer feedback.\n I&#39;m particularly interested in understanding:\n How do you currently connect customer feedback with your CRM contact records? Would viewing feedback responses directly inside HubSpot be useful in your workflow? What information would you want to see when viewing feedback associated with a contact? We&#39;re hoping to work closely with a small number of early users to understand their workflows and improve the integration.\n I&#39;d really appreciate hearing about your experiences and suggestions. Thanks!\n &#32; submitted by &#32; /u/Last-Matter-3617 \n &#32;",
+    "score": 6.8,
+    "ageHours": 2,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "A SaaS team doing pre-launch research on a HubSpot integration; replying well could build a relationship, but they are asking for free feedback rather than showing a design need.",
+      "potential": 4,
+      "options": [
+        "One thing worth deciding before launch: does the feedback live as a timeline event on the contact, or as a note? Timeline events are filterable and reportable in HubSpot, notes are not, and teams I've worked with always ended up wanting the filterable version.",
+        "What feedback sources are you pulling in at launch, surveys only or also NPS and support tickets? That answer changes whether this is a nice-to-have widget or the thing a CS team checks daily."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xe5870",
+    "subreddit": "SideProject",
+    "title": "How do you stop over-researching and over-optimising when building an MVP with AI?",
+    "author": "/u/SJW_Shadow_Monarch",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xe5870/how_do_you_stop_overresearching_and/",
+    "updated": "2026-10-24T10:29:56+00:00",
+    "body": "I’m working on an app idea, but I’m at the stage where the problem and demand still need proper validation. The feedback I’ve received so far has been inconclusive, so I want to build a small MVP and learn from actual users rather than keep guessing.\n I’ve made this harder than it needs to be.\n I started with user and market research, mostly through Reddit discussions. Then I explored AI tools and agents to make that research more effective. I ended up collecting posts, refining search parameters, building research workflows, and improving quality checks.\n After that, I organised the resulting files, started building a second brain in Obsidian, and moved into exploring different design directions and AI-assisted design workflows.\n The work wasn’t entirely wasted, but I’ve reached the point where the supporting systems around the app are growing faster than the app itself.\n I keep finding things that might improve the eventual product or make development easier. The problem is that I haven’t yet established whether those improvements matter to users.\n I’m trying to get back to basics and answer three questions:\n 1. What’s the smallest version I can build that tests the most important assumption?\n What should I deliberately leave out, even if I think it could improve the experience later?\n How do I stop researching and polishing the process when the next useful piece of evidence should come from users?\n For people who’ve shipped side projects, especially with AI-assisted develo",
+    "score": 9.6,
+    "ageHours": 1.9,
+    "hits": [
+      "feedback",
+      "design",
+      "mvp"
+    ],
+    "draft": {
+      "why": "Founder stuck in pre-build research loops; good place for a sharp practitioner answer, but low client odds since it's an unvalidated side project.",
+      "potential": 3,
+      "options": [
+        "Set a research budget, not a research goal. Give yourself one week of talking to users, then whatever you know at the end is what you build from. In my experience the over-researching stops when the constraint is time, not completeness, because completeness never arrives.",
+        "A trick that works: write the launch post for your MVP before you build it. If a feature doesn't show up in that post, it's out of scope. It forces the 'smallest testable version' question into something concrete instead of a philosophy debate with yourself."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xe0ty7",
+    "subreddit": "SaaS",
+    "title": "I built Excaliboard, folders and multiple boards for Excalidraw. Feedback welcome",
+    "author": "/u/jim-jam-biscuit",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xe0ty7/i_built_excaliboard_folders_and_multiple_boards/",
+    "updated": "2026-10-24T06:00:05+00:00",
+    "body": "Context: Excalidraw is a free, hand-drawn-style whiteboard lots of devs use for diagrams.\n The pain:\n a. It keeps only one drawing at a time, so each new idea means wiping the last one or juggling exported files.\n b. No way to find an old diagram. Mention your own moment of losing or overwriting one, if you had it.\n So what am i missing any feature or anything more would you use it ?\n link - https://excaliboard.ayush101.dev/ \n &#32; submitted by &#32; /u/jim-jam-biscuit \n &#32;",
+    "score": 6.8,
+    "ageHours": 6.4,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Founder built a real product around a genuine Excalidraw pain point and is actively asking for feedback, but it's a free dev tool with unclear monetization.",
+      "potential": 3,
+      "options": [
+        "Yes, I've absolutely wiped a diagram I needed by starting a new one, so the pain is real. The feature that would make me actually switch is full-text search across boards, since folder names alone fall apart once you have 50 sketches. Second: autosave with version history, because the whole point is never losing work again.",
+        "Nice solve for a real annoyance. One thing to think about: who pays for this? Excalidraw's audience is used to free, so your wedge might be teams, like shared board libraries per project, rather than individual folders. Have you thought about what a paid tier looks like?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xe3sos",
+    "subreddit": "UXDesign",
+    "title": "Can I do UX UI design on my iPad Pro M4 with apple pencil pro?",
+    "author": "/u/New-Potential2757",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xe3sos/can_i_do_ux_ui_design_on_my_ipad_pro_m4_with/",
+    "updated": "2026-10-24T09:01:23+00:00",
+    "body": "Sources say I can&#39;t but I don&#39;t know what I can&#39;t do on iPad than I can on pc it seems doable to me \n &#32; submitted by &#32; /u/New-Potential2757 \n &#32;",
+    "score": 12.1,
+    "ageHours": 3.4,
+    "hits": [
+      "ux",
+      "ui",
+      "design"
+    ],
+    "draft": {
+      "why": "Beginner tool question, no budget or client signal, but an easy specific answer.",
+      "potential": 2,
+      "options": [
+        "You can do real work on it for wireframes and illustration, but the gaps show up in Figma (the iPad app is view and mirror only), prototyping with hover states, and handing off dev-ready files. Most team workflows assume desktop, so you'd hit a wall the moment you collaborate.",
+        "The honest answer is it depends on how far you want to go. Sketching flows and lo-fi wireframes on iPad works great, but are you planning to do this professionally? If so you'll need desktop Figma sooner or later, and an iPad plus a cheap used laptop beats trying to force the iPad to do everything."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xe5o8z",
+    "subreddit": "SideProject",
+    "title": "I’ve been working on a recipe app and would really like some honest feedback",
+    "author": "/u/Unhappy-Brush-92",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xe5o8z/ive_been_working_on_a_recipe_app_and_would_really/",
+    "updated": "2026-10-24T10:56:49+00:00",
+    "body": "Hey everyone,\n I’ve been working on a recipe app called Recipians for a while, and I finally put it on Google Play.\n The basic idea came from a pretty normal problem — I cook at home quite a bit, and sometimes I have ingredients sitting in the kitchen but absolutely no idea what to make with them. 😅\n There are obviously tons of recipe websites and apps already, so I wanted to see if I could make something that makes the whole process a little easier.\n Recipians currently has 40,000+ recipes, ingredient-based search, personalized recipe suggestions, nutrition info, step-by-step cooking, meal planning and shopping lists.\n I&#39;m not really posting this to say “hey, look at my app.” I honestly want to know where it falls short.\n If you try it, I&#39;d really appreciate it if you could tell me what you think.\n Is anything confusing?\n Is there something you expected to find but couldn&#39;t?\n Does anything feel unnecessary?\n What would you change?\n What features would actually make you use something like this regularly?\n And if you already use another recipe app, what does it do better?\n I&#39;m especially interested in the stuff I might not notice because I&#39;ve been looking at this thing for way too long. 😂\n It&#39;s currently Android only. We&#39;re working on the iOS version as well.\n Thanks to anyone who takes the time to try it.\n &#32; submitted by &#32; /u/Unhappy-Brush-92 \n &#32;",
+    "score": 9,
+    "ageHours": 1.5,
+    "hits": [
+      "feedback",
+      "confusing"
+    ],
+    "draft": {
+      "why": "Solo dev with a consumer recipe app asking for honest feedback; no B2B angle or budget, low client potential for Ryan.",
+      "potential": 2,
+      "options": [
+        "The feature list is the red flag here: 40k recipes, meal planning, shopping lists, nutrition, all at once usually means nothing feels great. Pick the one flow you opened with (ingredients in, recipe out) and make it work in under 10 seconds with zero sign-up friction, because that's the only reason someone picks you over a Google search.",
+        "Honest question: what does the first 30 seconds look like for a new user? If they land on a home feed instead of the ingredient input, you're hiding the one thing that differentiates you. In my experience apps like this lose people before they ever type a single ingredient."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xdleuj",
+    "subreddit": "design_critiques",
+    "title": "Working on a shirt for my school’s climbing club. Looking for some feedback",
+    "author": "/u/Impressive_Bet_6278",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xdleuj/working_on_a_shirt_for_my_schools_climbing_club/",
+    "updated": "2026-10-23T18:06:27+00:00",
+    "body": "I’m not a graphic designer and just did this for fun but I’m looking for feedback/ critique to see what I can improve. It’s also uber amateur cause I made it using stock images and canva lol\n &#32; submitted by &#32; /u/Impressive_Bet_6278 \n &#32;",
+    "score": 7.3,
+    "ageHours": 18.3,
+    "hits": [
+      "feedback",
+      "designer"
+    ],
+    "draft": {
+      "why": "Student hobby shirt design, no budget and not a design client prospect, but an easy low-effort reply.",
+      "potential": 2,
+      "options": [
+        "Since I can't see the design, one thing that fixes most amateur shirt graphics: limit yourself to two fonts and one accent color, then make sure it still reads at a distance. Most club shirts fail on legibility, not creativity.",
+        "Can you share what the shirt will be printed on? Light ink on a dark shirt (or vice versa) changes which details survive printing, and that matters more than anything you tweak in Canva."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xdiu6d",
+    "subreddit": "design_critiques",
+    "title": "Is my portfolio ready for book design and editorial illustration jobs?",
+    "author": "/u/Nidshiko",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xdiu6d/is_my_portfolio_ready_for_book_design_and/",
+    "updated": "2026-10-23T16:29:29+00:00",
+    "body": "Hi everyone!\n I’m a graphic designer based in Argentina, and I’m looking to move toward book design and editorial illustration.\n My professional background is mainly in graphic design and production, and I’ve also worked on personal and academic projects involving book design, illustration, and visual identity. I’d like to start applying for opportunities in publishing and editorial work, and I’d appreciate some honest feedback on my portfolio.\n Portfolio: https://www.lucianasalomon.com \n The last section is password-protected. The password is luciana2026 .\n I’d especially love to hear your thoughts on:\n Does my portfolio demonstrate enough skill and potential to start applying for book design or editorial illustration roles?\n Is there anything important missing from my portfolio?\n I’m open to constructive criticism\n Thanks for taking the time to look!\n &#32; submitted by &#32; /u/Nidshiko \n &#32;",
+    "score": 6.9,
+    "ageHours": 20,
+    "hits": [
+      "feedback",
+      "design",
+      "designer"
+    ],
+    "draft": {
+      "why": "Portfolio review for someone targeting publishing jobs; honest design feedback thread but no client potential for Ryan.",
+      "potential": 2,
+      "options": [
+        "Publishers skim fast, so lead with your strongest 2 to 3 book projects as full case studies showing cover, interior spreads, and typography choices, not just final images. If most of your book work is personal or academic, that's fine, but label it and show process so it reads as intentional craft rather than student filler.",
+        "Do you have any projects that show long-form typesetting, like a full chapter or interior layout system? Editorial hiring managers care more about that than covers, and it's usually the gap between a graphic design portfolio and a book design one."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xe5nl0",
+    "subreddit": "SideProject",
+    "title": "I've been building a photo cleanup app, and I'd love some honest feedback",
+    "author": "/u/One-Money-4300",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xe5nl0/ive_been_building_a_photo_cleanup_app_and_id_love/",
+    "updated": "2026-10-24T10:55:44+00:00",
+    "body": "Hey everyone,\n I&#39;ve been working on a small Android app called CullCrest . The idea came from a simple problem: when you have several similar photos, it&#39;s not always easy to decide which one to keep and which ones you no longer need.\n I wanted to build something that helps with that without making the process feel complicated.\n Here&#39;s what currently works in the app:\n Similar Photos: Scans your photo library and groups photos that pass its similarity checks. Best Shots: Suggests one photo from each verified group based on things like sharpness, exposure, and resolution. For portraits, it can also use face-detection signals when available. Safer cleanup: Lets you select alternative photos for deletion, while protecting the confirmed Best Shot in each group. You review your selection and confirm before anything is deleted. Collections: Save selected Best Shots into named collections without moving or copying the original files. Local processing: Image analysis runs on the device. Photo content isn&#39;t uploaded for the similarity scan. The Best Shot feature is based on image-quality signals, so it won&#39;t always know which photo has the most personal value to you. That&#39;s something I&#39;m still thinking about.\n I&#39;m trying to keep the app focused on doing a few useful things well rather than adding features just for the sake of having more features.\n I&#39;d genuinely like to hear from people who take a lot of photos: \n What&#39;s the most frustrating part",
+    "score": 6.8,
+    "ageHours": 1.5,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Consumer Android photo app side project, poster is a hobbyist asking for feature feedback, not a founder with a design budget.",
+      "potential": 2,
+      "options": [
+        "The hardest part of 'best shot' is personal value vs technical quality, and your local processing constraint makes that tricky. One fix that works well: show the group's photos side by side at full zoom on the suggested best shot's sharpest region, so the user can confirm or override in one glance instead of trusting the algorithm.",
+        "What's the deletion recovery story? The moment someone deletes 40 photos and regrets one, trust is gone. A 30-day 'recently culled' holding area might matter more than the similarity scoring."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1289449",
+    "platform": "producthunt",
+    "title": "1Password for Agents",
+    "author": "Rohan Chaubey",
+    "url": "https://www.producthunt.com/products/1password",
+    "updated": "2026-10-22T11:14:06-07:00",
+    "body": "Let AI agents sign in for you without seeing your passwords",
+    "score": 0.6,
+    "ageHours": 42.2,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "1Password is a major brand and this launch will draw security-minded SaaS founders, so a smart comment gets visibility, though 1Password itself won't be a client.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch. Curious how the first-time setup works for someone whose agent runs on a headless server: do they grant access per credential, per session, or through some policy layer up front?",
+        "Congrats on shipping this. Is the real buyer here developers building agents on top of your API, or teams whose employees are already handing passwords to ChatGPT and need a safer path? Feels like two very different products hiding in one tagline."
+      ]
+    }
+  }
+]
