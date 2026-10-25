@@ -1,0 +1,340 @@
+[
+  {
+    "platform": "reddit",
+    "id": "t3_1xezrht",
+    "subreddit": "microsaas",
+    "title": "I spent a month's subscription price on ads in 2 days. 0 subscribers. Now doing DMs one by one, also 0. What am I missing?",
+    "author": "/u/indiebythenight",
+    "url": "https://www.reddit.com/r/microsaas/comments/1xezrht/i_spent_a_months_subscription_price_on_ads_in_2/",
+    "updated": "2026-10-25T11:16:45+00:00",
+    "body": "I&#39;m building Cardume. You give it an Instagram handle, it reads the public profile (colors, niche, tone of voice) and generates carousels that look like your brand, not a generic template.\n Who it&#39;s for: small business owners and freelancers who sell on Instagram, run it themselves, and don&#39;t have a designer or the time.\n Where I am, honestly:\n - Product works end to end for carousels (v1 is carousels only, no posts/reels yet)\n - Billing is live (subscription + credits)\n - Ads: spent $12, roughly the price of one subscription, in 2 days. Got 9 clicks on landing page to generate free carousel, 3 signups, 0 paying users\n - DMs: messaged 4 business owners individually, 2 replied, 0 converted\n What I think might be wrong (but I&#39;m not sure):\n Ads reach people who like the idea of AI content, not people who are actually tired of posting My DMs pitch the tool. Maybe I should send a finished carousel made from their own profile instead Small businesses may not want to pay for a tool at all. They might pay for &quot;someone handles my Instagram&quot; I&#39;m not going to drop a link here, I&#39;m after feedback, not traffic.\n Questions for anyone who sold to small businesses / non-technical buyers:\n - Did DMs work for you? What did the first message look like?\n - Did you sell a done-for-you service before the self-serve product?\n - Is 2 days of ads even enough signal, or did I just burn money too early?\n Happy to share the numbers as this goes, good or bad.\n &#32; subm",
+    "score": 10.7,
+    "ageHours": 1.2,
+    "hits": [
+      "feedback",
+      "landing page",
+      "signups",
+      "designer"
+    ],
+    "draft": {
+      "why": "Founder actively testing acquisition for a paid micro SaaS and explicitly asking what he's missing; his own guess (send a finished carousel instead of pitching) is a design/creative problem Ryan can speak to.",
+      "potential": 5,
+      "options": [
+        "Your second guess is the right one: don't pitch the tool in DMs, send them a finished carousel made from their own profile. That's a 20-minute-per-person test, and a reply to 'made this from your page, want 3 more?' tells you more than 100 cold pitches. Also 9 clicks is zero signal on ads, so don't conclude anything from that yet.",
+        "On your third point: you may be selling the wrong unit of value. 'Tool that makes carousels' competes with Canva and their own time, 'my Instagram looks professional without me touching it' competes with hiring someone. Have you tried offering the done-for-you version at 3x the price to the 4 people you DM'd and seeing if anyone bites?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xeesgv",
+    "subreddit": "indiehackers",
+    "title": "I'll make a 50-second product film for 3 founders, free, in exchange for honest feedback",
+    "author": "/u/Competitive_Tune_590",
+    "url": "https://www.reddit.com/r/indiehackers/comments/1xeesgv/ill_make_a_50second_product_film_for_3_founders/",
+    "updated": "2026-10-24T17:38:43+00:00",
+    "body": "I&#39;ve been building a way to make short product films that tell a story instead of just recording the UI. You give me your site, I come back with a 45 to 60 second film: a concept built around your customer&#39;s real problem, on-screen lines, music and sound.\n Two I made for my own products:\n - Ghostlaunch: a founder&#39;s week while their idea gets tested ( link )\n - LaunchPact: showing up for other founders&#39; launches ( link )\n I want to see if this works for products I didn&#39;t build, so I&#39;m taking 3 founders.\n What you get:\n - the film (16:9, for your landing page or Product Hunt)\n - a vertical cut for Reels, Shorts and TikTok\n - a 4:5 cut for Instagram and LinkedIn feeds\n - covers and captions\n What I need from you, about 15 minutes in total:\n - your site\n - quick corrections to 5 short answers I&#39;ll draft about your product\n - your pick of two story concepts I&#39;ll pitch\n - a yes on the script and stills before I render\n Then honest feedback once it&#39;s done: what worked, what didn&#39;t, and whether you&#39;d have paid for it.\n Free, no catch. I&#39;m testing whether this is worth turning into a service.\n Comment or DM me your product link and one line on who it&#39;s for. I&#39;ll pick 3 different kinds of products and reply to everyone either way.\n &#32; submitted by &#32; /u/Competitive_Tune_590 \n &#32;",
+    "score": 8.4,
+    "ageHours": 18.8,
+    "hits": [
+      "feedback",
+      "landing page",
+      "ui"
+    ],
+    "draft": {
+      "why": "Founder validating a new creative service for SaaS landing pages, adjacent to Ryan's world, and the thread will be read by other founders with video/landing needs.",
+      "potential": 5,
+      "options": [
+        "One thing that will sharpen your test: 'would you have paid for it' gets you polite yeses. Ask what they'd compare it to instead (a freelancer, a motion template, doing nothing) and what that alternative costs them. That gives you a real price anchor.",
+        "Curious how you're handling products where the founder's own story is the hook vs. ones where the customer's problem is. The two samples are both your own products, so the interesting test is whether the story-first approach survives a product you know nothing about."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xevhs2",
+    "subreddit": "design_critiques",
+    "title": "Looking for design feedback on my MVP, Looped",
+    "author": "/u/Gunveer_Bains",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xevhs2/looking_for_design_feedback_on_my_mvp_looped/",
+    "updated": "2026-10-25T07:00:35+00:00",
+    "body": "Hey everyone! I’m building Looped, a topic-based platform where people have conversations through short video threads.\n I’d appreciate a designer’s perspective on the layout, navigation, and how clearly the video-reply flow comes across.\n Here’s the MVP: https://niche-clip.lovable.app \n Could you take a look and leave your feedback directly through the feedback option on the MVP? It’s still early, so honest criticism would really help. Thanks!\n &#32; submitted by &#32; /u/Gunveer_Bains \n &#32;",
+    "score": 19.5,
+    "ageHours": 5.4,
+    "hits": [
+      "feedback",
+      "design",
+      "mvp",
+      "designer"
+    ],
+    "draft": {
+      "why": "Founder seeking design critique on an early consumer MVP, but it's a consumer social app with no clear budget or B2B design need.",
+      "potential": 3,
+      "options": [
+        "The make-or-break screen for a video-reply product is the empty thread state. What does someone see the first time they land on a topic with zero replies? If there's no prompt or example reply seeded in, most people will bounce instead of recording.",
+        "What's the one action you want a first-time visitor to take, watch or record? Right now the layout should push hard toward just one of those, and from your tagline I can't tell which."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xez9u9",
+    "subreddit": "SideProject",
+    "title": "I built PapaEcho: Personalized 3D story videos for parents who are away — looking for UI/UX feedback",
+    "author": "/u/dingmsg",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xez9u9/i_built_papaecho_personalized_3d_story_videos_for/",
+    "updated": "2026-10-25T10:49:30+00:00",
+    "body": "Hi everyone, I&#39;m an introvert solo founder. Over the past few months, I&#39;ve been building PapaEcho, an iOS app that turns a parent&#39;s voice and a few text details into a personalized, 6-8 scene 3D story video starring their child and any one parent, grandparent, uncle. \n Why I built it: My focus is on parents who are physically away from their kid—for some reasons certain or uncertain—who want to stay connected and make the kid feel they are nearby. It is privacy-first: it requires zero child photos and no account to start. Just create a video and share the browser url generated. \n You type in a description of the child and and parent and add narrator or your own voice with soft background music . The app generates a consistent 3D character and assembles a story video. Every device gets their first video free (no credit card required), so you can test the full flow without spending anything.\n What I need feedback on:\n Onboarding friction: Is the voice recording step obvious? Did the flow make sense? Checkout clarity: Did the pricing for Story Passes ($3.99 for 1, $6.99 for 2, $14.99 for 5) feel clear and fair? Playback &amp; Sharing: Is the final video and private sharing screen intuitive? Bugs: Any crashes, freezes, or hangs on your device. Demo &amp; Links: Here is a quick sample video we generated with son and dad as cowboy &quot;Rip&quot; (yellowstone) https://papaecho.app/s/NXTQLRgkLe5iQsGf3jYYTiNVaNwowM07 https://reddit.com/link/1xez9u9/video/01m4y2rgflxh1/pla",
+    "score": 15.8,
+    "ageHours": 1.6,
+    "hits": [
+      "feedback",
+      "onboarding",
+      "ux",
+      "ui"
+    ],
+    "draft": {
+      "why": "Solo founder asking for concrete UI/UX feedback on an onboarding and checkout flow, which is squarely Ryan's lane, though it's a consumer app with likely small budget.",
+      "potential": 3,
+      "options": [
+        "Voice recording is almost always the highest-friction step in a flow like this, so I'd let people generate the story with the default narrator first and only ask for their voice on the second video. You'll get far more people to the payoff moment, and the ones who loved it will happily record.",
+        "One thing that stands out: you lead with 'no account, no photos' which is great for trust, but is that promise visible at the exact moment someone hesitates, like the voice recording screen? That's where privacy reassurance does the most work, not on the landing page."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xee8gh",
+    "subreddit": "microsaas",
+    "title": "410 days, 3,460 commits, ~30 UI redesigns. I finally shipped an open-source alternative to Canny, Featurebase, UserVoice.",
+    "author": "/u/jeandaly",
+    "url": "https://www.reddit.com/r/microsaas/comments/1xee8gh/410_days_3460_commits_30_ui_redesigns_i_finally/",
+    "updated": "2026-10-24T17:15:59+00:00",
+    "body": "I&#39;ve been building a feedback platform for the last 410 days: boards, voting, roadmaps, changelogs, and a help center. It&#39;s MIT licensed and self-hostable.\n Before I started, I went through pretty much every tool in this space:\n Canny Featurebase UserVoice Frill Nolt Upvoty Productboard Sleekplan Rapidr Fider They all do the job. But most of them are either closed-source, expensive once you have real users, or the UI feels like it hasn&#39;t been touched in years. I wanted one that was open source and looked good, so I built it.\n The features weren&#39;t the hard part. What took the time was getting it to look right. I&#39;m a perfectionist about UI. If something works but doesn&#39;t feel good to use, it isn&#39;t finished to me.\n The landing page went through about 10 full revisions. The dashboard went through another 10–20. Empty states, a board with 3 posts versus 3,000, long titles, mobile, dark mode. Every time a layout broke under one of those, I redesigned instead of patching it. I spent a couple of months on design alone before the UI felt like something I&#39;d want to open every day. What&#39;s in it: \n Feedback boards with voting, comments, and tags Public roadmap + changelog Help center Each workspace gets its own subdomain, or you can use a custom domain GitHub integration Self-hostable, MIT licensed Stack , for the curious:\n Frontend \n Next.js 16 (App Router, Turbopack) + React 19 Tailwind CSS v4 Radix UI + Base UI primitives, shadcn-style component lib",
+    "score": 6.8,
+    "ageHours": 19.2,
+    "hits": [
+      "feedback",
+      "landing page",
+      "ui",
+      "design",
+      "dashboard"
+    ],
+    "draft": {
+      "why": "Solo dev obsessed with UI quality who ships an open-source tool; fun to engage as a peer designer but unlikely to ever hire one.",
+      "potential": 3,
+      "options": [
+        "The empty state and long-title testing you described is exactly where most feedback tools fall apart, so it's good you redesigned instead of patching. One thing I'd check on the landing page specifically: does the hero show an actual board with real-ish data, or a polished mockup? Real data with ugly edge cases builds way more trust for a product like this.",
+        "Curious how you decided when a redesign counted as 'done' with no user data pushing back on you. In my experience self-directed redesign loops only end when you set a rule, like shipping at 80% and letting real feedback drive the next pass. Did you have one, or was it pure taste?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xethf1",
+    "subreddit": "UXDesign",
+    "title": "Breaking into UX/early career: job hunting, how-tos/education/work review — 10/25/26",
+    "author": "/u/AutoModerator",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xethf1/breaking_into_uxearly_career_job_hunting/",
+    "updated": "2026-10-25T05:00:39+00:00",
+    "body": "This is a career questions thread intended for people interested in starting work in UX, or for designers with less than three years of formal freelance/professional experience. \n Please use this thread to ask questions about breaking into the field, choosing educational programs, changing career tracks, and other entry-level topics.\n If you are **not currently working in UX**, use this thread to ask questions about:\n Getting an internship or your first job in UX Transitioning to UX if you have a degree or work experience in another field Choosing educational opportunities, including bootcamps, certifications, undergraduate and graduate degree programs Finding and interviewing for internships and your first job in the field Navigating relationships at your first job, including working with other people, gaining domain experience, and imposter syndrome Portfolio reviews, particularly for case studies of speculative redesigns produced only for your portfolio When asking for feedback, please be as detailed as possible by \n Providing context Being specific about what you want feedback on, and Stating what kind of feedback you are NOT looking for If you&#39;d like your resume/portfolio to remain anonymous, be sure to remove personal information like:\n Your name, phone number, email address, external links Names of employers and institutions you&#39;ve attended. Hosting your resume on Google Drive, Dropbox, Box, etc. links may unintentionally reveal your personal information, so we",
+    "score": 7.7,
+    "ageHours": 7.4,
+    "hits": [
+      "feedback",
+      "ux"
+    ],
+    "draft": {
+      "why": "Weekly career megathread for aspiring UX designers; audience is mostly students and career changers, not buyers of design services.",
+      "potential": 2,
+      "options": [
+        "If you're transitioning from another field, mine your old job for case material. A story about redesigning an internal workflow at your last company beats a speculative Spotify redesign every time, because it shows you worked with real constraints and stakeholders.",
+        "For portfolio reviews: which part are you actually stuck on, getting interviews or converting them? The fix is different. No interviews usually means the case study thumbnails and titles aren't selling the problem you solved; interviews without offers usually means the walkthrough focuses on screens instead of decisions."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xeayc9",
+    "subreddit": "UXDesign",
+    "title": "I wish I could use my iPad Pro as my main device for UX UI design",
+    "author": "/u/New-Potential2757",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xeayc9/i_wish_i_could_use_my_ipad_pro_as_my_main_device/",
+    "updated": "2026-10-24T15:03:52+00:00",
+    "body": "Yep you heard me. I’m tired of sitting on my pc to do ux ui design it makes me feel miserable I wanna do ux ui work on a comfortable place as it helps me be productive. I get burnout faster when I’m working on my pc. If anyone knows how I can use my iPad as my main device for ux ui design let me know. I’m tempted to reverse engineer figma and asking ai to remake it for iPad Pro\n &#32; submitted by &#32; /u/New-Potential2757 \n &#32;",
+    "score": 7,
+    "ageHours": 21.4,
+    "hits": [
+      "ux",
+      "ui",
+      "design",
+      "figma"
+    ],
+    "draft": {
+      "why": "Poster wants practical workflow advice, but this reads like an individual designer, not a B2B SaaS founder with budget, so client potential is minimal.",
+      "potential": 2,
+      "options": [
+        "Figma in Safari on iPad is the weak link, but a decent middle ground is using your iPad as a second screen via Sidecar or a remote desktop app like Astropad, so you get couch comfort without rebuilding Figma. Honestly though, the burnout fix might be simpler: the issue sounds like posture and environment, not the device.",
+        "Before reverse engineering Figma, try Sketch or Penpot in the browser plus a good sketching workflow in Freeform or Concepts for early ideation. In my experience the iPad shines for wireframes and moodboards but falls apart at high-fidelity component work, so I'd split the workflow instead of forcing one device to do everything."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xevpmq",
+    "subreddit": "design_critiques",
+    "title": "Portfolio review, what am I doing wrong?",
+    "author": "/u/kingof4lll",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xevpmq/portfolio_review_what_am_i_doing_wrong/",
+    "updated": "2026-10-25T07:13:06+00:00",
+    "body": "I have done this so many times before, but here we go again.\n To start with, I have 2 portfolios, a PDF and a website. Everyone I speak to seems to have their own opinion on what a portfolio should be, so at this point I just use both.\n In the past, my work has been called “ADHD ID”. I will take that as a compliment, but hopefully it has got a bit better now.\n I have a few questions for you all. Is there something I am missing, or is it me? Is my work too all over the place? Is there something I should be doing differently?\n I have had a lot of different feedback over the years, so I want to see what people here think.\n Here is the link to my PDF:\n https://drive.google.com/file/d/149DLjHFskEEG1MsLVAUqqYaqSh5WO8YE/view?usp=sharing \n And here is my website:\n https://siddhantraigarg.com \n I would genuinely appreciate any feedback, good or bad. And if you have any projects you think I would be a good fit for, please get in touch.\n Also, if you are a designer based in London, I would genuinely love to meet up, have a chat and steal some of your skills if possible. Always happy to learn from people who are doing this for real.\n &#32; submitted by &#32; /u/kingof4lll \n &#32;",
+    "score": 6.3,
+    "ageHours": 5.2,
+    "hits": [
+      "feedback",
+      "designer"
+    ],
+    "draft": {
+      "why": "Portfolio review request, decent chance to show expertise in a visible thread, but poster is job-seeking not a potential client.",
+      "potential": 2,
+      "options": [
+        "Two portfolios is fine, but the bigger issue is usually curation, not format. Pick your 3 strongest projects, show the problem and your decision process in each, and cut everything else. Recruiters skim for 60 seconds, so depth on fewer projects beats range.",
+        "Quick question that changes the advice: what role are you applying for? If your work reads as 'all over the place', it's often because the portfolio isn't pointed at one type of job. Tailoring the project order to the role usually fixes that perception without redoing any work."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xees0r",
+    "subreddit": "UXDesign",
+    "title": "Has anyone quit UX Design because you didn’t like the actual work?",
+    "author": "/u/juneaster",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xees0r/has_anyone_quit_ux_design_because_you_didnt_like/",
+    "updated": "2026-10-24T17:38:11+00:00",
+    "body": "I’ve heard of a lot of people quitting UX Design because of politics, not being able to find a job so they pivot etc… But are there folks out there that quit because they found out the overall role of UX wasn’t for them due to skills/preference mismatch? \n I’m really only asking because I’m trying hard to get into UX Design but I realized that I may need to take a pause and really need about this before I devote more time to it. I recently picked up learning graphic design work and I might like it a lot more that UX 😭 But a lot of graphic designers have switched to UX so I just wanted to get a general idea of why people have quit so I can have other perspectives!\n &#32; submitted by &#32; /u/juneaster \n &#32;",
+    "score": 5.6,
+    "ageHours": 18.8,
+    "hits": [
+      "ux",
+      "design"
+    ],
+    "draft": {
+      "why": "Career-pivot question with no client potential, but an easy chance to be genuinely useful with a practitioner's take.",
+      "potential": 2,
+      "options": [
+        "Yes, people quit over the work itself. A lot of UX is stakeholder wrangling, research synthesis, and defending decisions in meetings, with actual pixel time being maybe 20% of the job. If the graphic design work is what lights you up, that's a real signal, not a detour.",
+        "One thing worth knowing: the people who switched from graphic design to UX usually did it for pay or job availability, not because they liked the work more. If you already suspect you prefer visual craft over process and politics, try freelancing a bit of both before committing either way."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xekws5",
+    "subreddit": "design_critiques",
+    "title": "Please leave a feedback for my little school project",
+    "author": "/u/jajik08",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xekws5/please_leave_a_feedback_for_my_little_school/",
+    "updated": "2026-10-24T21:51:07+00:00",
+    "body": "Hello Im a graphic design student (high school) and we&#39;ve got an asignment for a series of posters about the problematic of AI. The meaning behind these postes are that in this world you never know whats made by a human and whats made by AI. I made a &quot;surrealistic&quot; photomontage in PS and added those tech-looking lines and texts in illustrator. The small texts arent really meant to be readed, theyre more of a cosmetic thing. Please keep in mind that its a screenshoted pdf so the quality isnt the best. \n Thank yall\n &#32; submitted by &#32; /u/jajik08 \n &#32;",
+    "score": 8.2,
+    "ageHours": 14.6,
+    "hits": [
+      "feedback",
+      "design"
+    ],
+    "draft": {
+      "why": "High school student asking for poster feedback; low client potential but a genuine design critique thread.",
+      "potential": 1,
+      "options": [
+        "The concept is strong, but the decorative small text works against it: fake copy reads as filler, and viewers assume it hides a message they can't quite make out. Either make it legible and say something about the AI theme, or replace it with pure texture like halftone noise so nobody tries to read it.",
+        "One thing that could sharpen the 'human vs AI' idea: make the tech lines interact with the photomontage, like outlining only the AI-generated parts or glitching across the human elements. Right now the overlay sits on top as decoration instead of reinforcing the concept."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xethfc",
+    "subreddit": "UXDesign",
+    "title": "Experienced job hunting, portfolio/case study/resume questions and review — 10/25/26",
+    "author": "/u/AutoModerator",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xethfc/experienced_job_hunting_portfoliocase_studyresume/",
+    "updated": "2026-10-25T05:00:40+00:00",
+    "body": "This is a career questions thread intended for Designers with three or more years of professional experience, working at least at their second full time job in the field. \n If you are early career (looking for or working at your first full-time role), your comment will be removed and redirected to the the correct thread: \n Please use this thread to:\n Discuss and ask questions about the job market and difficulties with job searching Ask for advice on interviewing, whiteboard exercises, and negotiating job offers Vent about career fulfillment or leaving the UX field Give and ask for feedback on portfolio and case study reviews of actual projects produced at work (Requests for feedback on work-in-progress, provided enough context is provided, will still be allowed in the main feed.)\n When asking for feedback, please be as detailed as possible by \n Providing context Being specific about what you want feedback on, and Stating what kind of feedback you are NOT looking for If you&#39;d like your resume/portfolio to remain anonymous, be sure to remove personal information including:\n Your name, phone number, email address, external links Names of employers and institutions you&#39;ve attended. Hosting your resume on Google Drive, Dropbox, Box, etc. links may unintentionally reveal your personal information, so we suggest posting your resume to an account with no identifying information, like Imgur. This thread is posted each Sunday at midnight EST.\n &#32; submitted by &#32; /u/AutoMo",
+    "score": 5.5,
+    "ageHours": 7.4,
+    "hits": [
+      "feedback",
+      "ux"
+    ],
+    "draft": {
+      "why": "Recurring AutoMod megathread with no individual poster or concrete design problem, so there's no one to help and no client signal.",
+      "potential": 1,
+      "options": [
+        "This one's just the weekly automod thread, so there's nothing specific to dig into yet. If someone posts a case study in here, the most useful feedback is usually about the outcome framing: lead with the business result, then show the messy middle, not the final mockups first.",
+        "Is there a specific portfolio or resume in this thread you wanted eyes on? Happy to give targeted feedback, but I'd need the actual artifact and what kind of roles you're aiming for."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xetwow",
+    "subreddit": "UXDesign",
+    "title": "Paid work trial cut after day 1 of 3. What did I miss?",
+    "author": "/u/Ok-Kaleidoscope-4817",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xetwow/paid_work_trial_cut_after_day_1_of_3_what_did_i/",
+    "updated": "2026-10-25T05:24:55+00:00",
+    "body": "I recently did a paid work trial with a startup. ( I had huge concerns about the culture going in. They expected 6 days a week, 12 hours a day. ) But I still wanted to give it a fair try.\n The plan was 3 days: day 1, explore the current design, share concepts, and get feedback. Day 2, polish the design based on feedback. Day 3, present the final work.\n The brief was a Duolingo-style experience for their product. I&#39;m a product designer, not a game or character designer, but I went in open-minded.\n Day 1, I met with the design director to understand the product and user pain points. They didn&#39;t share any data, so I did my own research and created a few concept directions. I showed two designers, got feedback, and iterated. They said the new concepts were amazing. (If anything I did wrong, I was expecting they give me good feedback where I can improve like hey your research/ design is not good enough)\n Then I presented to the founder and walked through the reasoning. He said &quot;Amazing,&quot; then asked &quot;That&#39;s it?&quot; Soon after, the trial was cancelled.\n Has anyone experienced this? What do founders usually expect after day 1? Is it fair to expect near-final work with no data and two days still left?\n &#32; submitted by &#32; /u/Ok-Kaleidoscope-4817 \n &#32;",
+    "score": 6.7,
+    "ageHours": 7,
+    "hits": [
+      "feedback",
+      "design",
+      "designer"
+    ]
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1291620",
+    "platform": "producthunt",
+    "title": "Papermark Data Rooms",
+    "author": "Iuliia Shnai",
+    "url": "https://www.producthunt.com/products/papermark-2",
+    "updated": "2026-10-24T12:09:46-07:00",
+    "body": "Secure data rooms your AI agents can run. Live in",
+    "score": 1.1,
+    "ageHours": 17.3,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "Papermark is a known open-source B2B SaaS (founder Marc Seitz, budget exists) launching an AI-agents feature, so a visible thread with a founder who cares about positioning.",
+      "potential": 7,
+      "options": [
+        "Congrats on the launch! Curious who the first user is here: the founder running fundraising, or the agent? Wondering how you handle the first-time setup when the 'user' might never see the UI.",
+        "Congrats on shipping this! Is the pitch to replace existing data room tools for fundraising, or to be the agent-native layer for people who never had one? Feels like two different landing pages and I'd love to know which one you chose."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1291942",
+    "platform": "producthunt",
+    "title": "AgentGrid.io",
+    "author": "Avishay Cohen",
+    "url": "https://www.producthunt.com/products/agentgrid-io",
+    "updated": "2026-10-24T22:39:16-07:00",
+    "body": "Shared workspace for humans and agents",
+    "score": 3.2,
+    "ageHours": 6.8,
+    "hits": [
+      "agents",
+      "workspace"
+    ],
+    "draft": {
+      "why": "Launch-day comment on an agent-collab SaaS; PH audience is founder-heavy and a sharp question can start a real conversation.",
+      "potential": 6,
+      "options": [
+        "Congrats on the launch. Curious who you picture as the core user first: the human teammate coordinating agents, or the team lead setting up the workspace? That answer usually shapes the whole onboarding flow.",
+        "Congrats on shipping. My read from the tagline is you're positioning this as a shared space rather than an agent tool, which is a harder sell but a stickier one. Is the first-time experience built around getting a human and an agent working on one task together quickly?"
+      ]
+    }
+  }
+]
