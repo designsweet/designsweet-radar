@@ -1,0 +1,355 @@
+[
+  {
+    "platform": "reddit",
+    "id": "t3_1xfnjjn",
+    "subreddit": "SaaS",
+    "title": "5 demo videos, one per industry. bookings up 40%",
+    "author": "/u/GlitchInTheMatrix019",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xfnjjn/5_demo_videos_one_per_industry_bookings_up_40/",
+    "updated": "2026-10-26T04:45:06+00:00",
+    "body": "not dropping our name or a link, just whats working.\n we sell scheduling software to clinics, salons, gyms, tutors and repair shops. one generic video wasnt landing with any of them.\n now each industry landing page has its own 45 second video. same product screen recordings, but the first 10 seconds show that industrys chaos: a salon front desk with a ringing phone, a packed clinic waiting room. those openers are generated, i use dreamina, which costs next to nothing per version but still needs a few rerolls before anything looks real.\n script per industry: &quot;rewrite this demo script for [industry]. use their words for the problem, keep the product section identical, under 45 seconds.&quot;\n demo bookings are up about 40% over 2 months. the salon page did best by far.\n what made the difference wasnt the video quality, it was the words. we pulled phrases straight from sales calls with each industry. salons say no o shows, clinics say missed appointments, same problem. using their exact words in the first 10 seconds mattered more than anything visual.\n we also put the industry video in the first email after signup. activation for the salon segment went up too, though thats still early data.\n hope this helps someone stuck with one generic demo like we were.\n &#32; submitted by &#32; /u/GlitchInTheMatrix019 \n &#32;",
+    "score": 5,
+    "ageHours": 9.7,
+    "hits": [
+      "landing page",
+      "activation",
+      "looks"
+    ],
+    "draft": {
+      "why": "B2B SaaS founder sharing a landing page personalization win; thread is visible to other founders who likely have the same generic-demo problem Ryan fixes.",
+      "potential": 8,
+      "options": [
+        "The 'their words, not your words' insight is the whole game, and most people stop at the headline. One thing worth testing next: pull the industry's words into the CTA too. 'Book a demo' is generic, but 'see how it handles your no-shows' converts differently per segment.",
+        "Smart workflow. Curious about the 5 pages you didn't mention: did any industry underperform the generic video? In my experience one or two segments always resist, and knowing why usually tells you more than the winner does."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xfsvty",
+    "subreddit": "SaaS",
+    "title": "The most underrated distribution channel for SaaS imo",
+    "author": "/u/PasternakIvarsson",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xfsvty/the_most_underrated_distribution_channel_for_saas/",
+    "updated": "2026-10-26T10:16:42+00:00",
+    "body": "To all the posts here asking about how to grow a SaaS, I&#39;ve commented the same and it has had a lot of positive feedback.\n So here&#39;s a post explaining the whole thing: widget integrations.\n I&#39;m quite good at sales and marketing. Got hundreds of users that way. \n Then I accidentally found something that generated way better results.\n I got a 32% CVR (signups) on hundreds of interactions (so not just 1 person out of 3 that signed up).\n It cost me nothing to set up. It was live in 24h.\n Here&#39;s how:\n I found a guy with a platform that sells to the same audience I do, solves a similar problem but does it in a different step of the end users &quot;journey&quot;.\n I told him how a feature on my platform would be beneficial for his users, and he agreed.\n I turned that feature into a widget, he placed it on his platform.\n Users used the widget, got value from it without leaving the platform, and paid for it right there.\n The host that integrated my widget got: more money from his users and they stayed on his platform longer.\n It took him 20 min to set up, so if the widget wouldn&#39;t work, he&#39;d just delete with no loss.\n And i got hundreds of users, thousands impressions and revenue with zero upfront capital.\n But, the first one broke because maintaining these integrations, the payment splits and everything was painful.\n I now have some tips on how to find, set up and manage these widget collaborations.\n Happy to share if anyone found this interesting and would li",
+    "score": 4.8,
+    "ageHours": 4.2,
+    "hits": [
+      "feedback",
+      "signups"
+    ],
+    "draft": {
+      "why": "Founder sharing a working distribution playbook on a high-traffic SaaS subreddit; he sells to other businesses and clearly has budget and traction.",
+      "potential": 6,
+      "options": [
+        "The part most people get wrong here is the widget's first 10 seconds: it has to deliver value before asking for anything, because on someone else's platform users have zero trust in you yet. I've seen integrations fail just because the signup wall came before the aha moment. How are you sequencing that in yours?",
+        "Curious how you handled the UX boundary between his platform and your widget. Users paid right there, so did the widget inherit the host's look or keep yours? That trust decision seems like the make-or-break detail and nobody talks about it."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xfrkxw",
+    "subreddit": "microsaas",
+    "title": "How do you handle user feedback for your SaaS?",
+    "author": "/u/Flora778895",
+    "url": "https://www.reddit.com/r/microsaas/comments/1xfrkxw/how_do_you_handle_user_feedback_for_your_saas/",
+    "updated": "2026-10-26T08:58:37+00:00",
+    "body": "My SaaS gets a lot of user feedback by email every day, and keeping up is becoming a bigger part of my day than I expected.\n Some emails are basically the same issue worded differently, but I still end up replying to each one individually.\n Others sound like useful feature requests, but there’s barely any detail about what the user actually needs. I’ll send a follow-up, but if they don’t reply, I’m left guessing.\n Then there are privacy concerns, subscription issues, and refund requests mixed into the same inbox. Those need attention quickly, and I worry about missing something.\n How are you handling this? Did you build a simple ticketing system, or plug in an existing support or feedback tool?\n I’m also curious if anyone has connected their tools to AI through MCP to help sort messages, group similar requests, or draft replies for review. Does it actually save you time, or do you end up spending just as long checking its work?\n Would love to hear what’s working for you, even if it’s a pretty simple setup.\n &#32; submitted by &#32; /u/Flora778895 \n &#32;",
+    "score": 6.2,
+    "ageHours": 5.5,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Solo SaaS founder with real paying users drowning in support email; adjacent to design work and a visible thread in r/microsaas where other founders read.",
+      "potential": 5,
+      "options": [
+        "Split the inbox before you add tooling: auto-label anything with 'refund', 'cancel', or 'invoice' into a priority folder, and answer everything else in one batch per day. That alone cut my support time in half, because the stress was mostly fear of missing the urgent stuff, not the volume.",
+        "On the vague feature requests: I stopped asking open follow-ups and started replying with one specific question like 'what were you trying to do when you hit this?' Response rate went way up because it's answerable in one line. Have you tried tagging the duplicate issues first to see if 3 to 4 topics make up most of the inbox?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xfw88i",
+    "subreddit": "SaaS",
+    "title": "Onboarding, user retention, conversion?",
+    "author": "/u/deb-wev1553",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xfw88i/onboarding_user_retention_conversion/",
+    "updated": "2026-10-26T13:03:49+00:00",
+    "body": "Hello everyone,\n I have a question for SaaS developers who are experienced in running a profitable SaaS product.\n How do you create good onboarding UX? \n What do you do or what strategies have proven good in terms of user retention? \n Those running a freemium version, how do you convert free users to paying customers? \n What makes customers leave? \n What have you tried? What worked? What didn&#39;t? \n After months of brainstorming ideas, I have finally found something in my area of expertise that could actually work and want to create a MVP to test willingness to pay for the services I want to offer. \n As I have done lots of research and read many posts, I know where the biggest hurdle will be for me: working on features and technically polishing the product before anyone has tried it or told me they would pay for it. So that&#39;s the thing I absolutely want to prevent. \n I am willing to put the dev time in to develop the minimum product that works just well enough so someone can try it; if I get users, only then will I start to expand and polish.\n So I would really appreciate some hands-on advice from people who have gone through this process.\n &#32; submitted by &#32; /u/deb-wev1553 \n &#32;",
+    "score": 17.5,
+    "ageHours": 1.4,
+    "hits": [
+      "onboarding",
+      "conversion",
+      "ux",
+      "mvp"
+    ],
+    "draft": {
+      "why": "Founder pre-MVP asking about onboarding and retention, but the real issue is sequencing: they haven't validated willingness to pay yet.",
+      "potential": 4,
+      "options": [
+        "You're asking about retention before you have users, which is the cart before the horse. Onboarding for an MVP should just be you: a short call or Loom walkthrough with the first 5 to 10 users. You'll learn more from watching one person stumble than from any automated flow at this stage.",
+        "The most useful thing I've seen founders do pre-MVP: build the landing page and pricing page first, not the product. If people won't click buy on a description of the service, the onboarding UX won't save it. What's the service, and have you talked to anyone who already pays to solve this problem?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xftubx",
+    "subreddit": "UXDesign",
+    "title": "Does UX get overlooked because so much of our work is invisible?",
+    "author": "/u/Swimming_Anywhere_30",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xftubx/does_ux_get_overlooked_because_so_much_of_our/",
+    "updated": "2026-10-26T11:09:34+00:00",
+    "body": "A significant part of my work as a UX designer happens behind the scenes, and I&#39;m starting to wonder how other designers deal with this.\n I work in enterprise SaaS, in a fairly delivery-driven environment. A lot of my contribution involves:\n Investigating poorly defined requirements. Tracking down SMEs to validate assumptions. Challenging product decisions that aren&#39;t backed by customer needs. Identifying workflow gaps and preventing bad experiences from reaching customers. Conducting customer interviews with self defined/deduced research goals Recently, I challenged a feature based on an assumption that hadn&#39;t been validated. I investigated it, spoke to the relevant SME and went back to Product. The direction eventually changed.\n But nobody really sees that work. The team just moves on.\n It makes me wonder: do organisations recognise influence only when it&#39;s visible?\n I also feel that when Design is brought into projects late, with little context or direction, we&#39;re expected to advocate for the customer while independently figuring out the problem and pushing against delivery pressure.\n There&#39;s autonomy in that, but also a lot of isolation.\n For those working at Senior/Staff level: \n How do you make preventative UX work visible? How do you demonstrate the value of something that didn&#39;t happen? Have you experienced being told to be more vocal despite actively influencing product decisions? Is this just the reality of enterprise UX, or a sign that D",
+    "score": 8.5,
+    "ageHours": 3.3,
+    "hits": [
+      "ux",
+      "design",
+      "designer"
+    ],
+    "draft": {
+      "why": "Enterprise UX designer discussing invisible preventative work; good community discussion but the poster is an employee, not a buyer of design services.",
+      "potential": 3,
+      "options": [
+        "What helped me was narrating the counterfactual in sprint reviews: 'we almost shipped X, here's the customer evidence that stopped it, here's the rework we saved.' Prevented disasters only count if you attach a rough cost to them, so I'd estimate dev hours avoided and put that number in front of whoever does your review.",
+        "One thing that worked in my last enterprise role was a short weekly note to the PM and EM listing assumptions validated, decisions influenced, and risks caught, three bullets max. It feels self-promotional at first, but delivery-driven orgs genuinely have no other way to see this work, and it made my 'be more vocal' feedback disappear."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xfw9qu",
+    "subreddit": "SideProject",
+    "title": "UPDATE: we built a place to get brutal feedback, Orbit Blazer is live",
+    "author": "/u/Petifys",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xfw9qu/update_we_built_a_place_to_get_brutal_feedback/",
+    "updated": "2026-10-26T13:05:42+00:00",
+    "body": "hey guys back again with another update.\n so the quick publish tunnel is going crazy right now and we are getting some seriously cool projects in the catalog. thank u for that honestly.\n but i noticed something. everyone wants to show off their stuff but nobody is actually getting real feedback on how to make it better.\n so we built Blazer.\n its basically a place where u can drop your orbit link and let the community absolutely roast it. no sugar coating. just raw feedback.\n i named it the blazer because facing feedback always feels like walking into fire but it’s the only way to actually make your product better.\n orbitassets.vercel.app/blazer\n Just a heads up, u do need a free account to post in here so we can actually store and track the submissions. but it takes like 10 seconds to make one.\n we are still figuring this out so please dont tell the whole internet yet lol. just drop your stuff in there and let&#39;s see what burns \n &#32; submitted by &#32; /u/Petifys \n &#32;",
+    "score": 6.8,
+    "ageHours": 1.3,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Hobby side project with casual tone; poster is a maker not a B2B SaaS buyer, but the thread does have a concrete UX problem worth commenting on.",
+      "potential": 3,
+      "options": [
+        "The account wall is going to kill your feedback supply. Roast culture only works with volume, and every extra step cuts participation. Let people drop feedback anonymously or with just an email, and only require an account to submit a project.",
+        "Brutal feedback communities tend to collapse into either silence or cruelty. What's the mechanism that keeps feedback harsh but useful, like requiring one concrete suggestion per roast? That rule will matter more than the branding."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xfvlt4",
+    "subreddit": "SideProject",
+    "title": "Building a tool that automates your weekly fitness & meal prep planning for you — looking for feedback from athletes & fitness enthusiasts",
+    "author": "/u/MilkCapital9489",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xfvlt4/building_a_tool_that_automates_your_weekly/",
+    "updated": "2026-10-26T12:36:26+00:00",
+    "body": "Target group: Busy athletes &amp; fitness enthusiasts who meal prep\n Hey!\n I’m currently validating a concept for an app designed for busy people who train frequently (lifting, running, CrossFit, etc.) and prep their meals to stay on track.\n The main bottleneck I’ve run into - and want to solve - is the logistical chaos. Balancing weekly training, meal prep, and grocery runs around work and other everyday commitments is exhausting. The goal is to build an assistant that automatically plans your entire week based on your workout program, preferences, and nutrition targets (like carb cycling), so you don&#39;t have to spend Sunday evenings playing project manager for your routine.\n I put together a quick 2-minute survey to validate the concept and find early beta testers:\n 👉 https://tally.so/r/KpYKJA \n (Note: Giving away a €20 / $20 Myprotein gift card among eligible respondents who train regularly &amp; meal prep). \n I’d love to hear your thoughts and feedback in the comments as well.\n Cheers!\n &#32; submitted by &#32; /u/MilkCapital9489 \n &#32;",
+    "score": 6.8,
+    "ageHours": 1.8,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Founder validating a consumer fitness app; real planning problem but consumer audience with no design budget in sight.",
+      "potential": 3,
+      "options": [
+        "The concept lives or dies on how much setup you ask for upfront. If someone has to enter their workout program, macro targets, and food preferences before seeing any plan, most will bounce. Generate a decent week from two or three inputs first, then let them refine it.",
+        "Quick question on scope: are you planning meals around a fixed training schedule the user already has, or are you also deciding when they train? Those are two pretty different products and the answer changes what your MVP should be."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xfxn3e",
+    "subreddit": "SideProject",
+    "title": "CodeDNA — What if an AI code reviewer remembered why your team made a decision?",
+    "author": "/u/epic_lasagna23",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xfxn3e/codedna_what_if_an_ai_code_reviewer_remembered/",
+    "updated": "2026-10-26T14:00:47+00:00",
+    "body": "AI code reviewers can catch common issues, but they can miss the reasoning behind a team&#39;s engineering decisions.\n I&#39;m working on the concept for CodeDNA , a memory-driven code reviewer designed to learn from previous pull requests, review discussions, bug fixes, and developer feedback.\n The idea is to use Hindsight as a persistent-memory layer so future reviews can draw on relevant engineering history instead of treating every code change as an isolated task.\n One example I&#39;m exploring is payment retry logic: a previous review might explain why retries without idempotency safeguards can create duplicate-charge risks. A later review should be able to recall that decision, explain the concern, and account for newer guidance if the team&#39;s approach changes.\n The design focuses on three things:\n Decision provenance: explain why a recommendation was made. Evolving conventions: avoid blindly enforcing outdated rules. Feedback-driven learning: use developer feedback to improve future recommendations. I&#39;m still working toward validating the complete workflow, so the payment scenario describes the intended behaviour rather than a measured production result.\n Technical write-up: https://www.linkedin.com/pulse/codedna-ai-code-reviewer-remembers-why-anshika-prasad-auchc \n I&#39;d love to hear how other developers approach conflicting decisions and outdated knowledge in AI code-review systems.\n &#32; submitted by &#32; /u/epic_lasagna23 \n &#32;",
+    "score": 5.1,
+    "ageHours": 0.4,
+    "hits": [
+      "feedback",
+      "design"
+    ],
+    "draft": {
+      "why": "Interesting dev-tool concept but poster is still validating an idea, not a B2B SaaS founder with a design problem Ryan fixes.",
+      "potential": 3,
+      "options": [
+        "The provenance piece is the strongest part of this. If a reviewer can say 'we rejected this pattern in PR #412 because of duplicate charges,' people will trust it; a bare 'don't do this' gets ignored. I'd design the UI around that citation, not around the suggestion itself.",
+        "How will you handle the case where the memory is wrong, like a decision made under an old constraint that no longer exists? That staleness problem seems like the thing that decides whether teams trust this after month three."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xfoxjm",
+    "subreddit": "UXDesign",
+    "title": "Left UX for 5 years. Is it worth it to come back?",
+    "author": "/u/SnooTigers6106",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xfoxjm/left_ux_for_5_years_is_it_worth_it_to_come_back/",
+    "updated": "2026-10-26T06:08:50+00:00",
+    "body": "Hi all, I worked in UX for 5 years and started to really hate it at my last job due to an overall really shitty team and leadership. I left for 5 years and did some freelance. I&#39;m thinking about getting a 1 year grad degree in HCI. I really loved design and am thinking getting a degree will rekindle my love for design and am committed to avoiding toxic workplaces once I graduate. It&#39;s also an opportunity to upskill and experiement / create more user-friendly AI patterns since AI UX is pretty terrible from a usability perspective and is mostly designed for engineers at this point. Is it worth getting into this industry again? Honestly just dont know what else I would do for a career.\n &#32; submitted by &#32; /u/SnooTigers6106 \n &#32;",
+    "score": 5.9,
+    "ageHours": 8.3,
+    "hits": [
+      "ux",
+      "design"
+    ],
+    "draft": {
+      "why": "Career-return question from an experienced designer; good chance to share useful perspective but the poster isn't a potential client.",
+      "potential": 2,
+      "options": [
+        "Skipping the degree and doing 3-4 self-directed AI UX case studies will get you hired faster and cheaper than a year of HCI grad school, especially with 5 years of experience already on your resume. The degree makes sense if you need structure or the network, but hiring managers will weigh your prior experience plus a fresh portfolio more than the credential.",
+        "Worth asking yourself whether you hated UX or just hated that team, because the answer changes the plan. If it's the team, freelancing for a few B2B SaaS clients would tell you quickly whether the love comes back, and it pays while you figure it out. What made you land on the degree specifically rather than just jumping back in?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xf83hk",
+    "subreddit": "design_critiques",
+    "title": "[Academic] Foot-operated toilet seat lifter feedback (US adults 18+)",
+    "author": "/u/Street_Unit7893",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xf83hk/academic_footoperated_toilet_seat_lifter_feedback/",
+    "updated": "2026-10-25T17:18:34+00:00",
+    "body": "I’m developing a foot-operated toilet seat lifter and looking for honest feedback on an early prototype. \n This unpaid, 3–5 minute survey includes a 23-second demo and questions about usefulness, installation concerns, and price. No purchase or email address is required. \n The prototype attaches with double-sided tape on the floor and a strap around the seat. It has only been tested on one toilet so far. The pedal is mostly outside the camera frame in this video; I’m recording a clearer demo soon. \n Reasons you wouldn’t use it are just as helpful as positive feedback. \n Survey and video:\n https://docs.google.com/forms/d/e/1FAIpQLSeyZ1fIQCzvqX7X2-mz0dSOM5px08VPy9XHzbGwU0_SN4K2IQ/viewform \n Thanks for helping me figure out whether this solves a real problem!\n &#32; submitted by &#32; /u/Street_Unit7893 \n &#32;",
+    "score": 5.3,
+    "ageHours": 21.1,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Academic consumer hardware project with an unpaid survey; honest design feedback helps but no client potential.",
+      "potential": 2,
+      "options": [
+        "Biggest red flag is the double-sided tape on a bathroom floor. Mopping, humidity, and cleaning chemicals will kill that bond fast, and a loose pedal mid-use is a bad experience. I'd test suction cups or a screw-in plate before worrying about the strap.",
+        "Honest question worth adding to your survey: who is this for, people avoiding germs or households with the seat-up seat-down argument? The answer changes your install method, price ceiling, and who you show the demo to, and right now the prototype seems to split the difference."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xf9o58",
+    "subreddit": "design_critiques",
+    "title": "Just needed the portfolio Feedback, Thanks !",
+    "author": "/u/banmeimanadvertiser8",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xf9o58/just_needed_the_portfolio_feedback_thanks/",
+    "updated": "2026-10-25T18:20:55+00:00",
+    "body": "&#32; submitted by &#32; /u/banmeimanadvertiser8 \n &#32;",
+    "score": 4.7,
+    "ageHours": 20.1,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Portfolio review request from an individual designer, no B2B SaaS client potential, but the post has no link or details so a clarifying question is the only honest reply.",
+      "potential": 2,
+      "options": [
+        "There's no link or images in your post, so there's nothing to critique yet. Share the portfolio URL and tell us what roles you're applying for, since feedback for a junior UX role is very different from freelance client work.",
+        "Happy to take a look, but I need two things first: the actual portfolio link, and what kind of feedback you want (visual design, case study storytelling, or how it reads to a hiring manager). Without that, any critique would be a guess."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xf2uhq",
+    "subreddit": "design_critiques",
+    "title": "Would appreciate feedback on my local pizza website.",
+    "author": "/u/Ok-Actuary-1349",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xf2uhq/would_appreciate_feedback_on_my_local_pizza/",
+    "updated": "2026-10-25T13:48:53+00:00",
+    "body": "I am a local high school junior building websites for small businesses and would appreciate constructive feedback. This is the original site: https://medwaypizza.com/ . I made a prototype earlier at https://medwaypizza.netlify.app/ and made a new one today at https://medwayvillagepizza.netlify.app/ \n Note: The old prototype doesn&#39;t mention that the online ordering is not working for the business right now, so keep that in mind. Please be respectful, as I am still learning. Thanks. Also, I used Claude a little bit to assist in development just fyi, but I thoroughly guided it.\n &#32; submitted by &#32; /u/Ok-Actuary-1349 \n &#32;",
+    "score": 4.6,
+    "ageHours": 24.6,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Student learning web design, polite and specific request, but no budget or B2B SaaS context, so client potential is near zero.",
+      "potential": 2,
+      "options": [
+        "Biggest win: put the phone number and 'order online' status in the header on every page, since most visitors just want to order or call. Right now a broken ordering link buried mid-page is worse than a visible note saying to call instead.",
+        "On your newest version, the menu is the whole business, so make it scannable: item name, price, one line description, no long blocks of text. Quick question: did the owner tell you what customers call about most? That answer should decide what the homepage leads with."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1292599",
+    "platform": "producthunt",
+    "title": "ManyAgents",
+    "author": "Stu Green",
+    "url": "https://www.producthunt.com/products/manyagents",
+    "updated": "2026-10-25T12:55:39-07:00",
+    "body": "Run a team of AI coding agents from one Mac window",
+    "score": 2.6,
+    "ageHours": 18.5,
+    "hits": [
+      "agents",
+      "team"
+    ],
+    "draft": {
+      "why": "AI dev tool launch with paying developer audience; founders reading comments may need design help later, though it's not a direct B2B SaaS design ask.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch! Curious who you're building this for first: solo devs running side projects with a few agents, or teams coordinating agents across a real codebase? The onboarding for those two feels pretty different.",
+        "Happy launch day! My guess is the first-run moment that makes or breaks this is watching the first agent actually do something useful. Is that the aha you're designing around, or is it more about the multi-agent control view?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1292685",
+    "platform": "producthunt",
+    "title": "AVP",
+    "author": "Moss’Ab Mirande-Ney",
+    "url": "https://www.producthunt.com/products/avp",
+    "updated": "2026-10-25T15:53:07-07:00",
+    "body": "Open source alternative to Git for AI coding agents",
+    "score": 1.2,
+    "ageHours": 15.6,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "Dev-tool launch on PH; open source means no direct budget, but the founders likely have a landing page and docs that need design help, and the thread draws developer-founder readers.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch! Curious who you see adopting this first: solo devs running agents locally, or teams that need audit trails on what their agents changed. The answer changes a lot about how you'd explain it on the homepage.",
+        "Happy launch day! Quick hypothesis: is the Git comparison doing the heavy lifting in your positioning, or do you find people need to understand the problem (agents breaking repos) before the alternative clicks? I've seen dev tools struggle when they anchor on a tool people love rather than the pain it causes."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1292068",
+    "platform": "producthunt",
+    "title": "tabsh",
+    "author": "Blaise Tiong",
+    "url": "https://www.producthunt.com/products/tabsh",
+    "updated": "2026-10-25T02:18:55-07:00",
+    "body": "Work with agents with an IDE in your browser tab",
+    "score": 0.9,
+    "ageHours": 29.1,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "Developer tool launch on PH; makers may become SaaS founders needing design help, and PH threads are visible to many builders.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch! Curious who you're picturing as the core user: solo devs running agents side by side, or teams that want a shared browser-based IDE for agent workflows?",
+        "Congrats! I'm wondering if the browser-tab angle is the main hook, since it lowers the install barrier. Are you positioning tabsh against full IDEs like Cursor, or more as a lightweight companion for agent sessions?"
+      ]
+    }
+  }
+]
