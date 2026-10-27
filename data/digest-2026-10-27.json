@@ -1,0 +1,324 @@
+[
+  {
+    "platform": "reddit",
+    "id": "t3_1xgj546",
+    "subreddit": "SaaS",
+    "title": "How our CS team used Claude, app reviews and Reddit to find the real reasons people churn",
+    "author": "/u/EnvironmentalDay8864",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xgj546/how_our_cs_team_used_claude_app_reviews_and/",
+    "updated": "2026-10-27T04:31:32+00:00",
+    "body": "We kept getting vague churn reasons in our cancel survey: &quot;too expensive,&quot; &quot;not using it enough.&quot; Our head of CS wanted the real reasons, so we tried something new. We had Claude read what people say about us and our three closest competitors in public.\n **What we pulled**\n * Google Play reviews for us and the competitors. \n * Reddit threads mentioning any of the four products. \n * A few blog reviews and comparison pages found with Exa.\n **How we got the data**\n We ran it through Agentik. Google Play reviews are $0.00075 per 150, Reddit calls are about $0.0019, Exa is $0.007, and Firecrawl at $0.0025 read the full blog pages. The whole job went through one key with a limit, and it came with a receipt for the run.\n Before choosing that, we looked at Monid, which was great for quick &quot;what do people say about X&quot; pulls with tidy output, and Treg, which has a much bigger catalogue if you need many more review sources. Either would have worked. We picked the one where our CS lead could run it herself with a hard limit on her key.\n **What Claude found**\n I won&#39;t share specifics about our product, but the pattern was useful. The real churn reasons were mostly about setup, not price. People who said &quot;too expensive&quot; in reviews usually described never finishing onboarding. That changed what we fixed first.\n **How we prompted it**\n Group complaints into themes, with quotes and which product they&#39;re about. \n For each theme, say whether it&#3",
+    "score": 7.6,
+    "ageHours": 8.1,
+    "hits": [
+      "onboarding",
+      "churn"
+    ],
+    "draft": {
+      "why": "B2B SaaS operator with budget who just discovered their churn is an onboarding problem, exactly the kind of design work Ryan fixes.",
+      "potential": 8,
+      "options": [
+        "The 'too expensive means never finished onboarding' pattern is something I've seen over and over. Cancel surveys measure the story people tell themselves, not the moment they gave up, which is usually somewhere around step 3 of setup. If you map the onboarding step where those reviewers stalled, that's almost always where your fix has the highest leverage.",
+        "Curious how you handled the gap between what reviews say and what actual churned users did. Reviewers skew toward people who cared enough to complain publicly. Did you cross-check the Claude themes against session recordings or activation data from real churned accounts before prioritizing the fixes?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xgkxg5",
+    "subreddit": "SaaS",
+    "title": "44 signups in the last 30 days, 70% dont do anything past that.",
+    "author": "/u/Ok-Opening-8574",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xgkxg5/44_signups_in_the_last_30_days_70_dont_do/",
+    "updated": "2026-10-27T06:17:22+00:00",
+    "body": "I&#39;m a solo founder and I launched cascadedept about a month ago. In the last 30 days I got 44 signups, which is okay for where I&#39;m at. The problem is that roughly 70% of them sign up and then never do anything. No [first key action], no return visit, nothing.\n What I&#39;ve got so far:\n Signups come from [where: TikTok / X / Instagram / word of mouth] After signup they land on [what they see first] The first thing I want them to do is [key action], which takes about [X minutes] I don&#39;t send an onboarding email yet / I send [what] My guesses are that the signup-to-value path is too long, or people expected something different from what the page promised. But I&#39;m too close to it to tell.\n For anyone who&#39;s fixed this at a small scale, what did you try first? Would you ask the silent ones directly, add a welcome email, shorten onboarding, or something else? Happy to share screenshots of the flow if that helps.\n &#32; submitted by &#32; /u/Ok-Opening-8574 \n &#32;",
+    "score": 7.3,
+    "ageHours": 6.3,
+    "hits": [
+      "onboarding",
+      "sign up",
+      "signups"
+    ],
+    "draft": {
+      "why": "Solo SaaS founder with a concrete activation problem, the exact kind of onboarding fix Ryan gets paid for, but budget is uncertain.",
+      "potential": 6,
+      "options": [
+        "Your post still has the placeholders in it, so hard to be specific, but 70% doing nothing usually means the first screen after signup doesn't show them the thing they came for. Put your key action's output on that first screen, even a sample version, before asking them to do any setup.",
+        "What do people actually see in the first 60 seconds after signing up? In my experience the silent 70% almost never need an email sequence, they needed the product to make sense in that first session and it didn't."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xgiukh",
+    "subreddit": "SaaS",
+    "title": "Are icon-only sidebars actually good UX, or just good-looking UI?",
+    "author": "/u/cansaasstudio",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xgiukh/are_icononly_sidebars_actually_good_ux_or_just/",
+    "updated": "2026-10-27T04:15:38+00:00",
+    "body": "I&#39;ve noticed that a lot of modern dashboards are moving toward icon-only sidebars, and I&#39;m starting to question whether it&#39;s always the right UX decision.\n On one hand, they look clean, save space, and give more room to important content like charts, tables, and analytics.\n But on the other hand, not every icon is immediately recognizable. Something that feels intuitive to a designer might actually slow down someone using the product for the first time.\n Especially in finance or SaaS dashboards, where users need to navigate between multiple features quickly.\n So I&#39;m curious:\n Do you prefer icon-only sidebars, labeled navigation, or collapsible sidebars? \n And more importantly, do you think cleaner navigation always means better usability? \n Would love to hear different perspectives, especially from people who&#39;ve worked on complex dashboards.\n &#32; submitted by &#32; /u/cansaasstudio \n &#32;",
+    "score": 9.2,
+    "ageHours": 8.3,
+    "hits": [
+      "ux",
+      "ui",
+      "designer"
+    ],
+    "draft": {
+      "why": "Complex dashboard navigation debate where Ryan has direct practitioner experience, and the poster appears to be a SaaS design studio founder worth connecting with.",
+      "potential": 5,
+      "options": [
+        "I've shipped both, and icon-only works when your icons map to things users already know (settings, home, search) but falls apart for anything product-specific. The fix I've landed on is icon-only with a tooltip on hover and labels on for the first few sessions, then it collapses. Discoverability matters more than density for new users.",
+        "The cleaner question is how often people actually use each nav item. If 80% of sessions hit two destinations, those two deserve labels and the rest can be icons. Have you looked at your click data before deciding, or is this more of a gut-feel call right now?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xgpjif",
+    "subreddit": "design_critiques",
+    "title": "Feedback Request",
+    "author": "/u/Bitter-Yam-3",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xgpjif/feedback_request/",
+    "updated": "2026-10-27T11:05:33+00:00",
+    "body": "URL: https://watchbuyers.pk/ \n I&#39;m looking for honest feedback specifically on:\n Overall first impression UI/UX and visual design Navigation Mobile experience Trustworthiness Whether the purpose of the website is immediately clear Product presentation Anything that feels outdated, confusing, or unprofessional What would make you more comfortable using the website I&#39;m particularly interested in hearing from developers, designers and people who work on e-commerce websites.\n I&#39;m looking for constructive criticism rather than compliments . What would you change if this were your website?\n &#32; submitted by &#32; /u/Bitter-Yam-3 \n &#32;",
+    "score": 21,
+    "ageHours": 1.5,
+    "hits": [
+      "feedback",
+      "ux",
+      "ui",
+      "design",
+      "confusing",
+      "first impression"
+    ],
+    "draft": {
+      "why": "E-commerce owner asking for detailed UX critique, but it's a consumer retail store in Pakistan, not a B2B SaaS buyer, so client potential is low.",
+      "potential": 3,
+      "options": [
+        "For a watch store, trust is the whole game. Put your return policy, warranty terms, and cash-on-delivery or payment options in plain text near the buy button on every product page, not buried in a footer link. Shoppers deciding whether to send money to an unfamiliar store look for exactly that before they look at anything else.",
+        "Quick question that shapes all the feedback: are most of your visitors coming from Instagram or TikTok ads on mobile? If so, the product page matters far more than the homepage, and I'd focus the critique on whether someone landing cold on a single watch page can tell within 5 seconds the price, delivery time to their city, and how to pay."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xg7it6",
+    "subreddit": "design_critiques",
+    "title": "Site for people supporting someone with mental illness. Looking for design feedback, especially on the mobile version.",
+    "author": "/u/Willp81",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xg7it6/site_for_people_supporting_someone_with_mental/",
+    "updated": "2026-10-26T20:01:39+00:00",
+    "body": "Hi,\n I built this website after years of trying to help people close to me through serious mental illness and never finding anything written for the person standing next to the patient. Everything was either for the person who&#39;s ill or for &quot;carers&quot;, which most of us don&#39;t call ourselves. So I made it myself: hereforsomeone.org.uk, a free UK site for friends and family. What to say, what to do, how to get help out of the NHS, how to look after yourself while you do it.\n It&#39;s a hand-built static site, one person, no framework, designed off my own mockup. I&#39;m not a designer, which is why I&#39;m here.\n The person using it is usually stressed, on a phone, often late at night, and needs to find the right page in seconds and trust it enough to act on it. I wanted it to feel plain and calm, nothing like a charity leaflet or a wellness app. What I suspect I&#39;ve actually got is bland rather than calm, and mobile is the weakest part. The guides are long by nature. I&#39;ve put a short answer at the top of each with the detail collapsed below, and I&#39;m not sure it&#39;s enough.\n If you&#39;ve got five minutes on a phone, the home page, a typical guide (hereforsomeone.org.uk/help/supporting-depression/) and one of the tools (hereforsomeone.org.uk/help/gp-letter-builder/) cover most of it. Hierarchy, readability and whether it feels trustworthy are what I care about. Be blunt. I&#39;ll answer questions in the comments. I&#39;ve spent so long looking at it (",
+    "score": 10.8,
+    "ageHours": 16.6,
+    "hits": [
+      "feedback",
+      "design",
+      "designer"
+    ],
+    "draft": {
+      "why": "Earnest solo founder with a real design problem and clear user context, but a free passion project with no budget, so low client potential.",
+      "potential": 3,
+      "options": [
+        "Your 'short answer at the top, detail collapsed' instinct is right, but for a stressed user at 1am I'd go further: make the short answer actionable on its own (the one thing to say or do, in plain words) and treat everything below as optional. Bland vs calm usually comes down to type and spacing, not color, so try bumping body size to 18px+ and line-height to 1.6 on mobile before touching anything visual.",
+        "For trust, the fastest win on content sites like this is showing your workings: a small line under each guide saying who wrote it, when it was last checked, and where the info comes from (NHS pages, Mind, etc). Stressed readers decide in seconds whether to act on advice, and a visible source beats a polished design every time."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xg7lvf",
+    "subreddit": "design_critiques",
+    "title": "Built a Sports Social App. What Would You Change About The Layout?",
+    "author": "/u/Friendly-Flower-2797",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xg7lvf/built_a_sports_social_app_what_would_you_change/",
+    "updated": "2026-10-26T20:04:53+00:00",
+    "body": "Hi guy! I&#39;m building FanVerdict, an app where NBA fans debate hot takes and settle arguments and gain a reputation, and I&#39;d love honest feedback on the UI. I&#39;m mainly interested in layout, navigation, colour and readability, and anything that feels cluttered or confusing. I’ve attached some screenshots, please don’t be scared to give some brutally honest feedback.\n &#32; submitted by &#32; /u/Friendly-Flower-2797 \n &#32;",
+    "score": 6.7,
+    "ageHours": 16.5,
+    "hits": [
+      "feedback",
+      "ui",
+      "confusing"
+    ],
+    "draft": {
+      "why": "Consumer sports app asking for free UI critique, no B2B budget signal, but the debate/reputation concept is a real design problem Ryan has seen before.",
+      "potential": 3,
+      "options": [
+        "I can't see the screenshots loading on my end, but for debate-style apps the most common layout problem is making the take itself fight for attention with vote buttons and reply counts. The argument text should own the top of the card, with everything else at least one visual step down. If you can re-upload the shots I'll give more specific notes.",
+        "Quick question before critiquing: what does the home feed look like when a take has 200 replies? Most debate apps design for the empty state and break at scale, with nesting that gets unreadable past 3 levels. That's usually the first thing worth fixing in the layout."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xgnfgq",
+    "subreddit": "design_critiques",
+    "title": "Video game UI: no straight lines.",
+    "author": "/u/CrankyEverett",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xgnfgq/video_game_ui_no_straight_lines/",
+    "updated": "2026-10-27T09:01:01+00:00",
+    "body": "I designed this UI for a video game called Who Gave Them Weapons? The main challenge was matching the game’s cartoonish visual style while keeping the interface engaging and easy to navigate. Since the game contains a lot of text (often presented as tooltips), I wanted to avoid making the UI feel like a spreadsheet.\n The UI is still in development, so I can still redesign or tweak certain aspects. Any feedback is welcome and greatly appreciated.\n &#32; submitted by &#32; /u/CrankyEverett \n &#32;",
+    "score": 10.4,
+    "ageHours": 3.6,
+    "hits": [
+      "feedback",
+      "ui",
+      "redesign"
+    ],
+    "draft": {
+      "why": "Indie game UI critique thread; poster is a hobbyist developer, not a paying client, and the audience is mostly designers.",
+      "potential": 2,
+      "options": [
+        "One thing I've seen go wrong with fully rounded UI is text: curved containers fight line length, so tooltips end up with weird rags and cramped padding. Keep your frames organic but let the text blocks inside them sit on an invisible straight grid, with fixed padding and consistent line lengths, so long tooltips still read cleanly.",
+        "How are you handling tooltip hierarchy right now? With a lot of text plus a wobbly cartoon style, the usual failure mode is every tooltip feeling equally loud. If you post a screenshot of the busiest one, it's easier to point at something concrete."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xgojpf",
+    "subreddit": "UXDesign",
+    "title": "Will AI Take Over UI/UX Jobs? If So, When?",
+    "author": "/u/Icy_Shoe_4937",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xgojpf/will_ai_take_over_uiux_jobs_if_so_when/",
+    "updated": "2026-10-27T10:10:04+00:00",
+    "body": "With AI tools becoming more powerful, will UI/UX designers still have job opportunities in the coming years.\n AI will completely replace UI/UX designers, or will it mainly help them work faster?\n If AI does replace some UI/UX jobs, how soon do you think this could happen? For example, in the next 2–5 years or 5–10 years?\n &#32; submitted by &#32; /u/Icy_Shoe_4937 \n &#32;",
+    "score": 8.7,
+    "ageHours": 2.4,
+    "hits": [
+      "ux",
+      "ui"
+    ],
+    "draft": {
+      "why": "Common anxious career question with no design problem to solve and no budget behind it.",
+      "potential": 2,
+      "options": [
+        "In my experience AI is good at the first draft and bad at knowing why the draft is wrong, which is where most of the actual job lives. The designers at risk are the ones whose whole value is pushing pixels from a spec, not the ones talking to users and making judgment calls.",
+        "What part of your work are you actually worried about? Wireframing from a brief is getting automated fast, but stakeholder wrangling, research synthesis, and prioritization aren't, and the answer changes a lot depending on which of those you do."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xgoat2",
+    "subreddit": "SideProject",
+    "title": "I’m building Paraksa, an Indian social media app — looking for honest feedback",
+    "author": "/u/Ok-Reputation3814",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xgoat2/im_building_paraksa_an_indian_social_media_app/",
+    "updated": "2026-10-27T09:55:25+00:00",
+    "body": "Hey everyone!\n I’m building Paraksa , a social media platform developed in India, and I’m working on growing its first community.\n Building a social product from scratch is challenging, especially when you&#39;re starting with a small user base. I&#39;m trying to understand what people actually want from a social media platform rather than simply adding more features.\n I&#39;d love feedback on a few things:\n What frustrates you most about the social media platforms you currently use? What would make you try a new social network and keep coming back? What features or improvements would make Paraksa genuinely useful to you? I&#39;m also looking for early users who are willing to try the app and share honest feedback. Both positive and critical feedback are welcome.\n If you&#39;re interested, let me know what you&#39;d like to see in a new social platform.\n Thanks! I&#39;m happy to answer questions about the product and the building process.\n &#32; submitted by &#32; /u/Ok-Reputation3814 \n &#32;",
+    "score": 6.7,
+    "ageHours": 2.7,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Founder building a consumer social app asking open-ended feedback questions; honest design input could help, but consumer social is outside Ryan's B2B SaaS client base.",
+      "potential": 2,
+      "options": [
+        "The question I'd answer first is what makes someone come back on day two when none of their friends are on it yet. New social apps usually live or die on one tight use case for a small group, not on feature breadth, so pick a niche community in India and design the whole first session around them.",
+        "Honest question: who is Paraksa for specifically? 'A social media platform for India' is too broad to design against. If you can name the first 500 users and the one thing they'll do here they can't do on Instagram or WhatsApp, the feature priorities answer themselves."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xge49n",
+    "subreddit": "UXDesign",
+    "title": "I just cancelled my Figma subscription. Good riddance.",
+    "author": "/u/XenBuild",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xge49n/i_just_cancelled_my_figma_subscription_good/",
+    "updated": "2026-10-27T00:29:49+00:00",
+    "body": "It&#39;s been a long time coming, but I have finally realized how little ROI I get from that monthly drain on my bank account. Thanks to AI, I can now get by with the minimum amount of Figma. I use it to document screens and flows with HTML2Design, and occasionally when I need to solve an actually novel UI problem, although I could probably get by with Illustrator like I did for the 15 years prior. I&#39;m about to launch a site where I didn&#39;t even touch Figma until near the end when I ran into one of those finicky layout challenges.\n Anyone else doing the same?\n &#32; submitted by &#32; /u/XenBuild \n &#32;",
+    "score": 5.5,
+    "ageHours": 12.1,
+    "hits": [
+      "ui",
+      "design",
+      "figma"
+    ],
+    "draft": {
+      "why": "Interesting workflow-shift discussion among designers, but poster is not a potential client and audience is designers, not founders.",
+      "potential": 2,
+      "options": [
+        "The part I'd push back on is treating Figma as just a screen-drawing tool. For me the ROI is the shared source of truth with devs and stakeholders, so AI generating the pixels doesn't replace it, it just makes the canvas less manual. If you're solo or delivering static files, though, I get why the math stops working.",
+        "Curious what your handoff looks like now. If AI is producing the screens and you're documenting flows in Figma, how do developers get specs, spacing, states, that kind of thing? That's usually where my subscription earns its keep, not the actual drawing."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xgifxz",
+    "subreddit": "SaaS",
+    "title": "Turn product complexity into clarity",
+    "author": "/u/Clearlio",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xgifxz/turn_product_complexity_into_clarity/",
+    "updated": "2026-10-27T03:54:21+00:00",
+    "body": "Clearl is a product design partner for startups and growing product teams.\n We turn complex ideas, workflows, and feature sets into clear, intuitive digital products that are easier to use, build, and scale. \n Our senior designers work closely with founders, product managers, and engineers across product strategy, UX/UI design, audits, prototyping, and design systems.\n We specialize in SaaS, AI products, marketplaces, and complex B2B platforms, connecting every design decision to activation, conversion, retention, and operational efficiency.\n Looking forward!\n &#32; submitted by &#32; /u/Clearlio \n &#32;",
+    "score": 7.7,
+    "ageHours": 8.7,
+    "hits": [
+      "conversion",
+      "activation",
+      "ux",
+      "ui",
+      "design"
+    ],
+    "draft": {
+      "why": "This is a competing design agency advertising its own services, not a founder with a design problem, so there is no client to win here.",
+      "potential": 1,
+      "options": [
+        "Curious how you're differentiating from the dozen other product design partners posting here weekly. 'Complex B2B platforms' is the same positioning everyone uses, so a specific before/after metric from a past engagement would land harder than the capability list.",
+        "Is this post meant to find clients or just build awareness? If it's clients, a teardown of one real onboarding flow you fixed would do more than a services overview, since founders here scroll past agency pitches fast."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xgb3it",
+    "subreddit": "UXDesign",
+    "title": "Advice for pivoting away from UX design as a career?",
+    "author": "/u/Midna6",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xgb3it/advice_for_pivoting_away_from_ux_design_as_a/",
+    "updated": "2026-10-26T22:21:05+00:00",
+    "body": "This might not be the right place to post this, so apologies if that is the case.\n I have become very burnt out and soured on this career path after getting laid off just a couple of months into my first role after graduating college, and have had even fewer interview bites than I did initially after graduating. I never absolutely *loved* what I did to begin with and at this point I&#39;m looking into other options/things I can do with my degree and skillset.\n I&#39;m curious if anyone has advice on pivoting into other fields with their background in UX. Where did you go/what did you pivot to?\n &#32; submitted by &#32; /u/Midna6 \n &#32;",
+    "score": 6.5,
+    "ageHours": 14.3,
+    "hits": [
+      "ux",
+      "design"
+    ],
+    "draft": {
+      "why": "Burnt-out new grad leaving UX entirely, so no client potential, but a genuinely helpful reply is cheap to give.",
+      "potential": 1,
+      "options": [
+        "The skills transfer better than the title does. Research and synthesis map to market research or customer success, and interaction design maps to product management or QA. Pick the part of UX you tolerated most and search job titles built around that, not around design.",
+        "One thing worth separating before you pivot: are you done with the work, or done with the job market? A layoff two months into a first role plus a dry search is brutal, but it is a market problem, not proof you chose wrong. If the work itself was fine, adjacent roles like product or UX research keep your degree relevant without starting over."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1294009",
+    "platform": "producthunt",
+    "title": "Paddock",
+    "author": "Antonio Santiago Dueñas",
+    "url": "https://www.producthunt.com/products/paddock-2",
+    "updated": "2026-10-26T19:46:50-07:00",
+    "body": "Computers and sandboxes for your agents",
+    "score": 1.3,
+    "ageHours": 9.8,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "Launch-day comment on a dev infra product for AI agents; founders building agent tooling often need design help later and PH threads get founder traffic.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch! Curious who you picture as the first power user: solo devs experimenting with agents, or teams already running them in production? That changes a lot about what the first-run experience should show.",
+        "Congrats! The word 'computers' makes me think full remote environments rather than just sandboxes. Is the bet that agents need the same kind of machine a human dev would get, or is the sandbox the safe starting point?"
+      ]
+    }
+  }
+]
