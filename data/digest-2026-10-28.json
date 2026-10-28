@@ -1,0 +1,401 @@
+[
+  {
+    "platform": "reddit",
+    "id": "t3_1xgyvke",
+    "subreddit": "microsaas",
+    "title": "If people need a demo to understand your microSaaS, is it actually ready to scale?",
+    "author": "/u/Adventurous_Sky_3183",
+    "url": "https://www.reddit.com/r/microsaas/comments/1xgyvke/if_people_need_a_demo_to_understand_your/",
+    "updated": "2026-10-27T17:27:21+00:00",
+    "body": "I’m working with an early-stage personal finance platform, and I’m starting to realize that having lots of useful features isn&#39;t the same as having a product people immediately understand.\n Our platform can connect financial accounts, forecast cash flow, run “what if” scenarios, identify potential opportunities, and let users collaborate with people they trust.\n When we walk someone through it, they can usually see the value. The problem is getting them to see that value without us standing there explaining everything.\n My first thought was that this was mainly a UX/UI problem. I still think that is part of it, but I’m starting to wonder whether it is also an onboarding, positioning, and product-clarity problem.\n Before adding more features, I think we need to understand:\n Where a new user hesitates. What they think the product does before anyone explains it. Whether they know what to do first. How quickly they experience something useful. What makes them leave or decide it is not for them. Whether the value is clear enough to justify paying for it. My approach is to watch new users explore the product without helping them, ask them what they are thinking, and record the exact points where they get confused or lose interest.\n We are applying this to Finsibility now, but I imagine many early SaaS teams run into the same problem.\n A product can be technically ready to sell but still hard to understand or use.\n For those of you who have dealt with this, how did you figure ou",
+    "score": 4.6,
+    "ageHours": 19.2,
+    "hits": [
+      "onboarding",
+      "ux",
+      "ui"
+    ],
+    "draft": {
+      "why": "Early-stage SaaS founder with a real onboarding/product-clarity problem, exactly the kind of work Ryan does, and the thread attracts other founders with the same issue.",
+      "potential": 6,
+      "options": [
+        "The fastest version of this test is a 5-second test on your landing page, before you even watch users in the product. Show the page to someone cold, hide it, and ask what the product does and who it's for. If they can't answer, no amount of in-app onboarding will save you, because the confusion starts before signup.",
+        "With connect accounts, forecasting, what-if scenarios, and collaboration all at once, which single outcome do you want a new user to hit in the first session? In my experience these products don't have an onboarding problem so much as a sequencing problem: pick one aha (usually the cash flow forecast), gate everything else behind it, and comprehension jumps."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xhk2zl",
+    "subreddit": "SaaS",
+    "title": "Most indie hackers don't want to build a business. They want to believe they've found an easy way to make money.",
+    "author": "/u/Downtown-Trainer-779",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xhk2zl/most_indie_hackers_dont_want_to_build_a_business/",
+    "updated": "2026-10-28T10:12:06+00:00",
+    "body": "Look at what&#39;s happening right now.\n Someone sees a guy making $20k/month with a SaaS. Suddenly, everyone wants to build a SaaS. Not because they&#39;ve identified a problem worth solving, not because they understand a market, but because they&#39;ve seen the revenue screenshots.\n Then they spend weeks building something nobody asked for, launch it on Product Hunt, post it on X, get a few upvotes, and move on to the next idea when nobody pays.\n And the cycle repeats.\n The uncomfortable truth is that building software has become so easy that people have started confusing the ability to build a product with the ability to run a business.\n They&#39;re not the same thing.\n You can build a genuinely impressive product and still have absolutely no business. You can spend six months perfecting your UI, use every AI coding tool available, and ship something technically brilliant that nobody gives a shit about.\n Meanwhile, someone with an ugly landing page and a mediocre product is making money because they understand a problem, know who has it, and know how to reach those people.\n AI is making this even more obvious. The barrier to building is collapsing, which means the value of simply being able to build is collapsing with it.\n Now that everyone can build, the real question is what happens when the building is no longer the hard part. \n Because at some point, you have to face the fact that nobody owes your product their attention , let alone their money.\n &#32; submitted by &#3",
+    "score": 6.4,
+    "ageHours": 2.5,
+    "hits": [
+      "landing page",
+      "ui",
+      "confusing"
+    ],
+    "draft": {
+      "why": "Big visible r/SaaS thread full of founders, and Ryan can add a practitioner angle on why 'perfecting the UI' is often procrastination, not the fix.",
+      "potential": 5,
+      "options": [
+        "The six months spent perfecting the UI is usually the tell. Founders polish the product because it feels like progress and it is the part they control, while talking to potential customers is awkward and might kill the idea. In my experience the ones making money did the opposite: ugly v1, ten sales conversations a week.",
+        "The part nobody mentions is that 'know how to reach those people' is a skill you only build by doing it badly first. Most indie hackers skip straight to building because distribution has no tutorial that feels productive. Curious whether you think that is learnable solo or if most people need a partner who already has it."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xgtob7",
+    "subreddit": "design_critiques",
+    "title": "I need some feedback and honest opinions",
+    "author": "/u/Lone_Wolf7743",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xgtob7/i_need_some_feedback_and_honest_opinions/",
+    "updated": "2026-10-27T14:13:54+00:00",
+    "body": "&#32; submitted by &#32; /u/Lone_Wolf7743 \n &#32;",
+    "score": 4.3,
+    "ageHours": 22.4,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Poster wants design feedback but the post has no image, link, or context, so the only useful move is asking them to actually share the work.",
+      "potential": 3,
+      "options": [
+        "There's no image or link in the post, so nothing to critique yet. Share the work plus what it's for and who sees it, and you'll get much more useful feedback.",
+        "Happy to take a look, but this came through blank. What are we critiquing, and what decision are you trying to make with the feedback?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xhmh0q",
+    "subreddit": "SideProject",
+    "title": "I’m building a time-limited way to let someone remotely use an Android phone connected to my PC",
+    "author": "/u/Ok_Voice4169",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xhmh0q/im_building_a_timelimited_way_to_let_someone/",
+    "updated": "2026-10-28T12:17:19+00:00",
+    "body": "I wanted a simple way to lend someone access to a physical Android phone remotely for a short session, without asking them to install anything or exposing ADB directly to the internet.\n I’ve put together an early Windows prototype with:\n - An Android phone connected to a PC over USB/ADB\n - A browser page for viewing and controlling the phone\n - An admin page that creates a timed invite link (1–240 minutes)\n - The first browser to open the invite claims the session; the server closes the stream when the timer expires\n - Cloudflare Tunnel Quick Tunnel for a temporary `trycloudflare.com` URL, so there’s no router port forwarding\n - ADB shell, file browsing, and devtools disabled in the web build\n The part I’m still working through is reliable end-to-end streaming on the target Android/ADB setup. I’ve hit ADB startup and scrcpy port-conflict issues, so I’m treating this as a prototype and don’t have a public live demo to share yet.\n I’d especially appreciate feedback on a few design questions:\n Would you expect the invite to be bound to the first browser, or should reconnecting from another browser be possible?\n What safeguards would you want before trusting a remote-control session like this?\n Is there a more reliable approach for streaming and controlling a USB-connected Android device from a browser?\n The invite is a bearer link, so anyone who gets it first can claim the session. I’m not treating this as production-ready while the streaming and security model are still being v",
+    "score": 4.1,
+    "ageHours": 0.4,
+    "hits": [
+      "feedback",
+      "design"
+    ],
+    "draft": {
+      "why": "Technical hobby prototype on r/SideProject; interesting problem but the poster is a builder, not a B2B SaaS founder with a design budget, and there's no landing page or conversion problem in play.",
+      "potential": 3,
+      "options": [
+        "For the invite question: bind to the first browser but give a short grace window (60 seconds or so) where the same link can reclaim the session after a disconnect. People on flaky wifi will hate losing a paid/borrowed session to one dropped packet, and a grace window solves that without opening the bearer-link hole wider.",
+        "The bigger trust issue isn't the streaming, it's that the phone owner can't see what the guest is doing in real time. Would you consider a small owner-side panel showing the live screen too, so lending your device never means lending it blind?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xh3j7g",
+    "subreddit": "design_critiques",
+    "title": "feedback for a beginner in graphic design (photoshop)",
+    "author": "/u/Icy_Calligrapher_827",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xh3j7g/feedback_for_a_beginner_in_graphic_design/",
+    "updated": "2026-10-27T20:18:09+00:00",
+    "body": "hi everyone, how is it going? my name is gabe, i am a brazilian advertising student in my third semester, and i wanted to share some of my designs with you—they are pretty amateur, just so you know! to give you some context for the right feedback, this project was for an advertising copywriting class. the brief was to create a 3-card instagram grid/carousel to sell a product related to the national artist milton nascimento. my part on the team was to handle this piece. the product itself was fictional: an animated mini-documentary and a collection of vinyl records. the core requirement was to target gen z using a mandatory humorous tone.\n since i was going to handle this specific part entirely on my own while my teammates focused on other advertising pieces, i decided to do the copy and design myself from scratch, without using any ai. i really wanted the chance to practice photoshop and sharpen my skills with the software.\n i would love to get your feedback based on this brief. i intentionally chose a vintage bistro restaurant concept for the design because i thought it would match the color palette i chose: a &quot;minas gerais terracotta,&quot; since milton nascimento is from minas gerais, which i thought was a brilliant tie-in. i felt it fit the artist&#39;s aesthetic perfectly and looked great! my only real concern was that it might not resonate with gen z, or worse, that it might not come across as humorous, and my professor is incredibly strict about following the brie",
+    "score": 9.3,
+    "ageHours": 16.4,
+    "hits": [
+      "feedback",
+      "design"
+    ],
+    "draft": {
+      "why": "Student design critique with a stated worry Ryan can address (vintage concept vs Gen Z humor brief), but no client potential.",
+      "potential": 2,
+      "options": [
+        "Your instinct to question the fit is right: a vintage bistro look reads nostalgic, not funny, and Gen Z humor about Milton Nascimento probably lives in memes and irony, not terracotta menus. One fix that keeps your palette: make the copy do the comedic heavy lifting (playful, self-aware headlines) while the design stays straight-faced vintage, since that contrast is where the humor lands.",
+        "Quick question before judging the concept: what does the actual copy say on the cards? Humor in a carousel almost always comes from the words and pacing across the 3 cards, not the visual style, so whether you hit the brief depends on that more than on the bistro aesthetic."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xhjowd",
+    "subreddit": "design_critiques",
+    "title": "I need some feedback and honest opinions",
+    "author": "/u/Capital_Run_5250",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xhjowd/i_need_some_feedback_and_honest_opinions/",
+    "updated": "2026-10-28T09:48:14+00:00",
+    "body": "https://www.behance.net/gallery/257624609/CRY-BABY-?platform=direct \n &#32; submitted by &#32; /u/Capital_Run_5250 \n &#32;",
+    "score": 7.5,
+    "ageHours": 2.8,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Portfolio piece feedback request on Behance, likely a student or hobby project with no budget, and the link gives no context about the work.",
+      "potential": 2,
+      "options": [
+        "What are you making this for, a class, a client, or your portfolio? The feedback I'd give on a brand identity piece is totally different from a personal art project.",
+        "Hard to give useful critique without knowing the goal. Who's the audience for this and what do you want them to feel or do when they see it?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xhkomp",
+    "subreddit": "SideProject",
+    "title": "Yeonskie: independently developed carnival-themed website games with interactive and community elements (requesting feedback)",
+    "author": "/u/martian_rover",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xhkomp/yeonskie_independently_developed_carnivalthemed/",
+    "updated": "2026-10-28T10:46:19+00:00",
+    "body": "Requesting feedback on website and games: https://www.yeonskie.com/ \n Please post your feedback and comments in the original thread in r/Websites as I&#39;m not OP: \n https://www.reddit.com/r/Websites/comments/1xgrnez/carnivalthemed_website_with_interactivecommunity/ \n &#32; submitted by &#32; /u/martian_rover \n &#32;",
+    "score": 6.8,
+    "ageHours": 1.9,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Hobby carnival games site reposted by someone who isn't even the OP, so no founder with budget here.",
+      "potential": 2,
+      "options": [
+        "Quick note: the repost setup makes it hard to give useful feedback since the OP won't see replies here. If you want real critique on the games themselves, tell us which one matters most to you and what you want people to do after playing once.",
+        "Carnival theme is a fun hook, but community elements live or die on whether there's a reason to come back tomorrow. What's the loop that brings a player back, a scoreboard, challenges, something else?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xhl959",
+    "subreddit": "SideProject",
+    "title": "Proof Studio - Workout Analysis Tool",
+    "author": "/u/Particular-Comfort50",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xhl959/proof_studio_workout_analysis_tool/",
+    "updated": "2026-10-28T11:16:32+00:00",
+    "body": "Hey y&#39;all \n Wanted to share a project I&#39;m working on for feedback.\n A little about me. I&#39;m a product designer for over 20 years, and took this on as a personal project. I know there are 1 million apps out there that do something similar. I want to say Proof is unique, because of all the time I&#39;ve spend on the insights engine. Also, I pay particular attention to the interaction design, pushing paradigms and design I wouldn&#39;t normally get to push in my day job. I&#39;m not looking to earn any $ from this project, I just want people to use it. It&#39;s 100% free, no strings attached. This one is completely designed &quot;by hand&quot;. \n About the project... \n Proof is a workout tracker and analysis tool (yes another one). On the iPhone, its main job is to track your workouts, strength training (or other goal), steps, sleep, etc... . It guides you through your progression (IE: suggests to go up, or down), and gives you a pre and post workout analysis. \n While I would like people to use the app for its logging, you can import CVS, or feeds from other workout apps, if you want to just use it for analysis. \n This newest piece is an iPad version I’m calling Proof Studio . In the app you can see your routine on a body map, how many sets each muscle gets, how each lift is trending, and you can pick a goal (like bigger arms or a V-taper) and it suggests the lifts your routine is missing. You can also log a workout from a bar along the bottom. The iPhone and iPad sta",
+    "score": 5.4,
+    "ageHours": 1.4,
+    "hits": [
+      "feedback",
+      "design",
+      "designer"
+    ],
+    "draft": {
+      "why": "A designer sharing a personal project for feedback; fun design discussion but explicitly free, no business, so no client potential.",
+      "potential": 2,
+      "options": [
+        "One thing to watch with the gap-suggestion feature: if someone picks 'bigger arms' and the app suggests curls while their compound volume is already low, you're optimizing the wrong thing. Consider gating goal suggestions behind a check that the basics are covered first, so the tool doesn't push accessories at people who need rows.",
+        "Curious how you're handling the trend lines for lifts people do rarely. If I hit a movement once every two weeks, a trend is basically noise. Do you smooth it, hide it below a frequency threshold, or just show it anyway?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xhikmv",
+    "subreddit": "microsaas",
+    "title": "I’m a student building a SaaS. Things I got wrong in the first few months",
+    "author": "/u/Retha01",
+    "url": "https://www.reddit.com/r/microsaas/comments/1xhikmv/im_a_student_building_a_saas_things_i_got_wrong/",
+    "updated": "2026-10-28T08:37:01+00:00",
+    "body": "Not an expert, just sharing so you can skip some of these.\n I cared way too much about the tech stack. I spent days choosing frameworks and folder structure. Not one person has ever asked what I built it with. They ask what it does for them.\n I waited until it was ready to talk to people. It was never going to feel ready. I should have shown it to strangers way earlier when it was embarrassing.\n I asked friends for feedback. They said “looks great bro.” Friends are nice, nice doesn’t help. Strangers will tell you what’s confusing, sometimes a bit rudely, and that’s what you actually need.\n I hid that I’m a student. I thought it made me look less serious. When I finally mentioned it, people got more helpful, not less.\n Still figuring things out. I’m building HeyZinc which turns high-intent website visitors into real conversations by engaging, qualifying, and routing them to your team in real time, and I’d honestly rather hear what you got wrong early on.\n &#32; submitted by &#32; /u/Retha01 \n &#32;",
+    "score": 5.2,
+    "ageHours": 4,
+    "hits": [
+      "feedback",
+      "looks",
+      "confusing"
+    ],
+    "draft": {
+      "why": "Student founder sharing early lessons; relatable but low budget and no concrete design problem Ryan could solve.",
+      "potential": 2,
+      "options": [
+        "Your point on friends' feedback is the real one. I learned the same thing: friends react to effort, strangers react to the product. My early mistake was polishing the onboarding before anyone had actually tried it, so I was refining a flow nobody used.",
+        "The 'waited until it was ready' one got me too. I'd add one: I priced too low because I assumed cheap meant easy yes, and it just attracted people who churned fastest. What's been the hardest one to unlearn for you?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xhl5ka",
+    "subreddit": "SideProject",
+    "title": "6 months ago I shared my free WordPress menu builder. Here's how much it has evolved",
+    "author": "/u/Plus_Seaworthiness98",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xhl5ka/6_months_ago_i_shared_my_free_wordpress_menu/",
+    "updated": "2026-10-28T11:11:18+00:00",
+    "body": "Title: Six months ago I shared my free WordPress menu builder. Here&#39;s what&#39;s changed since then. \n Hey everyone,\n About six months ago I shared Giuliomax Menu Builder, a WordPress plugin I started working on because I was frustrated with how limited some menu builders were unless you paid for a premium version.\n I&#39;ve kept working on it since then, and quite a lot has changed.\n I&#39;ve added more menu styles and mega menu layouts, improved mobile navigation, and spent a good amount of time reworking the admin interface to make it easier to use.\n There have also been plenty of bug fixes and smaller improvements that probably aren&#39;t very exciting to talk about, but make a big difference when actually using the plugin.\n One thing I&#39;ve been particularly careful about is backward compatibility. Now that people are using it on real websites, I can&#39;t just change things without thinking about what might break. That&#39;s honestly been one of the trickiest parts.\n I&#39;m still trying to find the right balance between offering lots of customization and keeping the plugin simple enough for someone who just wants to build a nice menu without touching CSS.\n It&#39;s still completely free and open source. No premium version or features locked behind a paywall.\n If anyone wants to check it out:\n https://wordpress.org/plugins/giuliomax-menu-builder/ \n I&#39;d really appreciate some honest feedback, especially on the UI and configuration experience. I&#39;m sure there",
+    "score": 4.1,
+    "ageHours": 1.5,
+    "hits": [
+      "feedback",
+      "ui"
+    ],
+    "draft": {
+      "why": "Poster actively asks for UI and configuration feedback, so a designer reply fits, but it's a free open-source plugin with no budget behind it.",
+      "potential": 2,
+      "options": [
+        "The tension you mention between customization and simplicity usually gets solved by splitting defaults from advanced options. Give people 3 opinionated presets that look good out of the box, then hide the fine-grained controls behind an 'advanced' toggle. Most users never open it, and power users feel catered to.",
+        "Since you reworked the admin interface, what does the first 5 minutes look like for someone who just installed it? In my experience that initial setup flow, not the settings depth, is where menu builders lose people."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xhkvr7",
+    "subreddit": "SideProject",
+    "title": "DecisionBattle: two text options, friends vote in their browser (Android, Italy)",
+    "author": "/u/Legitimate_Cut2839",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xhkvr7/decisionbattle_two_text_options_friends_vote_in/",
+    "updated": "2026-10-28T10:57:04+00:00",
+    "body": "I’m one of the developers at GG4LAB. DecisionBattle has just gone live on Android in Italy.\n The flow is deliberately small: write a question and two text options, share a link, and let friends vote in their browser without installing the app. You can follow counts, percentages and ties. A real Android screen and walkthrough, including the coffee-break vs. short-walk example: https://gg4lab.it/app-guide/decisionbattle.html \n Guest access without email/password. This release is free, with no ads or purchasable subscriptions, and has Italian/English UI. It’s for adults 18+. It handles text and votes; there is no AI analysis or photo comparison.\n A public poll link expires after 30 days. Anyone with the link can open it. Each session can vote once, so this is for informal group choices, not a secure ballot or representative market research. Session identifiers and usage events are recorded; privacy and data controls are explained here: https://decisionbattle.gg4lab.it/privacy \n Google Play (Italy): https://play.google.com/store/apps/details?id=studio.viralapps.decisionbattle&amp;referrer=utm_source%3Dreddit%26utm_medium%3Dorganic_social%26utm_campaign%3Dportfolio_100_20261028%26utm_content%3Ddecisionbattle_launch \n One specific feedback question: should the person voting see the running result only after they choose, or should it be visible before voting too?\n &#32; submitted by &#32; /u/Legitimate_Cut2839 \n &#32;",
+    "score": 4.1,
+    "ageHours": 1.7,
+    "hits": [
+      "feedback",
+      "ui"
+    ],
+    "draft": {
+      "why": "Poster asks a specific UX question about vote visibility, easy to answer well, but it's a free consumer side project with no budget.",
+      "potential": 2,
+      "options": [
+        "Show results only after voting. Seeing counts first anchors people and turns an honest preference poll into a popularity contest, which kills the whole point of asking friends. If you want a compromise, show the total vote count before voting but hide the split until after.",
+        "Hide results until after they vote, then make the reveal the payoff moment. One thing I'd add: after voting, let them nudge friends who haven't voted yet, since the app dies or lives on whether the whole group actually responds."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xhidst",
+    "subreddit": "design_critiques",
+    "title": "Need some feedback on my album cover designs !!!",
+    "author": "/u/EpicSalzsa4",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xhidst/need_some_feedback_on_my_album_cover_designs/",
+    "updated": "2026-10-28T08:24:12+00:00",
+    "body": "&#32; submitted by &#32; /u/EpicSalzsa4 \n &#32;",
+    "score": 7.3,
+    "ageHours": 4.2,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Hobbyist music artwork post, not a design problem Ryan fixes for paying clients.",
+      "potential": 1,
+      "options": [
+        "Can you link the actual covers? Hard to give useful feedback without seeing them, and knowing the genre helps since an ambient record and a punk record need totally different visual language.",
+        "Happy to take a look, but post the images and tell me what the artist asked for. Feedback without the brief tends to be taste opinions, not critique."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1293543",
+    "platform": "producthunt",
+    "title": "Agent Handshake by Fini",
+    "author": "Ankit Kumar",
+    "url": "https://www.producthunt.com/products/fini-2",
+    "updated": "2026-10-26T09:08:44-07:00",
+    "body": "Agent-to-agent customer support that holds its answer",
+    "score": 0.8,
+    "ageHours": 44.5,
+    "hits": [
+      "customer"
+    ],
+    "draft": {
+      "why": "PH launch for an AI support agent tool aimed at B2B teams; founders launching on PH often need landing page and onboarding design help soon after.",
+      "potential": 6,
+      "options": [
+        "Congrats on the launch. Curious how 'holds its answer' works when an agent hits a question it can't resolve: does it escalate to a human with the full context, or does the customer have to start over?",
+        "Congrats on launching. I'm wondering if the real buyer here is a support lead trying to cut ticket volume, or a product team worried about AI agents giving wrong answers, since the tagline leans hard into the trust angle. Which one are you leading with on the page?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1295250",
+    "platform": "producthunt",
+    "title": "Dedica",
+    "author": "Prajwal",
+    "url": "https://www.producthunt.com/products/dedica",
+    "updated": "2026-10-27T17:45:35-07:00",
+    "body": "Check if AI agents can use your website",
+    "score": 2.9,
+    "ageHours": 11.9,
+    "hits": [
+      "agents",
+      "your website"
+    ],
+    "draft": {
+      "why": "Agent-readiness is a fresh angle and PH launch threads attract SaaS founders who care about how their site performs, a decent client pool for Ryan.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch! Curious who you see as the first buyer here: is this for marketing teams checking their landing pages, or more for devs building for agents? The answer probably changes what your first-time onboarding should show.",
+        "Happy launch day! My guess is your strongest early positioning is B2B SaaS sites worried about losing agent-driven traffic, since they already budget for audits like accessibility and SEO. Is that the crowd you're seeing sign up, or is it skewing somewhere else?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1295138",
+    "platform": "producthunt",
+    "title": "Basedash View-only members",
+    "author": "Max Musing",
+    "url": "https://www.producthunt.com/products/basedash",
+    "updated": "2026-10-27T14:26:34-07:00",
+    "body": "Share dashboards with anyone. They can look, not edit.",
+    "score": 2.4,
+    "ageHours": 15.2,
+    "hits": [
+      "dashboard"
+    ],
+    "draft": {
+      "why": "Basedash is a funded B2B SaaS and a launch thread read by founders; a smart comment here builds visibility with the exact audience Ryan serves.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch. View-only sharing sounds simple but it's usually where permission models get messy fast. Curious how you handled the moment a view-only member tries to edit something: does it dead-end, or nudge them to request access?",
+        "Nice launch. My guess is this is less about viewers and more about making the dashboard the thing execs and clients see, which pulls more teams into Basedash as the source of truth. Is that the positioning bet, or is it mainly a cost play on seat pricing?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1294779",
+    "platform": "producthunt",
+    "title": "Open For sales ",
+    "author": "Waseem Shetaiwi",
+    "url": "https://www.producthunt.com/products/open-for-sales",
+    "updated": "2026-10-27T08:27:12-07:00",
+    "body": "Your next sales campaign is one prompt away",
+    "score": 2.1,
+    "ageHours": 21.2,
+    "hits": [
+      "sales"
+    ],
+    "draft": {
+      "why": "Launching a sales campaign tool, likely B2B SaaS founders with budget watching, and the tagline is vague enough that positioning feedback could open a conversation.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch! Who is the dream first user here: a solo founder doing their own outbound, or a sales team with existing playbooks? The first-run experience probably wants to feel different for each.",
+        "Curious how you're positioning this against tools like Apollo or Instantly. Is the pitch 'AI writes your campaign' or 'one place to run the whole campaign'? Asking because 'one prompt away' could read either way, and they attract pretty different buyers."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1294326",
+    "platform": "producthunt",
+    "title": "Yardlet",
+    "author": "Jeongki Park",
+    "url": "https://www.producthunt.com/products/yardlet-2",
+    "updated": "2026-10-27T02:15:28-07:00",
+    "body": "The Mac app for the coding agents you already use",
+    "score": 0.9,
+    "ageHours": 27.4,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "Launch-day visibility on Product Hunt, but it's a dev-tool Mac app rather than a B2B SaaS with a conversion design problem Ryan fixes.",
+      "potential": 4,
+      "options": [
+        "Congrats on the launch! Quick question on who this is for: are you targeting people running multiple agents in parallel, or folks who just want a nicer home for the one agent they already use? The answer changes a lot about what the first screen should show.",
+        "Curious about the first-run experience: when someone opens Yardlet for the first time, do they connect an existing agent setup, or do you walk them through a starter project? I've found that moment decides whether dev tools get a second open or not."
+      ]
+    }
+  }
+]
