@@ -1,0 +1,384 @@
+[
+  {
+    "platform": "reddit",
+    "id": "t3_1xihrw6",
+    "subreddit": "SideProject",
+    "title": "Built a POS system for restaurants, looking for some feedback on the landing page",
+    "author": "/u/Knuckleclot",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xihrw6/built_a_pos_system_for_restaurants_looking_for/",
+    "updated": "2026-10-29T11:49:11+00:00",
+    "body": "hey guys,\n i&#39;ve been working on a POS system for restaurants here in North Macedonia. mainly focused on fast food and self service places.\n the product is already being used at a local restaurant, but i&#39;ve been trying to improve the website lately and i&#39;m not sure if i&#39;m explaining everything properly.\n https://rendopos.com/en \n would appreciate some feedback on the design and copy. does it actually make sense what the product does when you first open the page? is there anything that looks off or feels unnecessary?\n i&#39;ve been staring at this website for way too long so a fresh perspective would help lol\n &#32; submitted by &#32; /u/Knuckleclot \n &#32;",
+    "score": 15.8,
+    "ageHours": 0.8,
+    "hits": [
+      "feedback",
+      "landing page",
+      "design",
+      "looks"
+    ],
+    "draft": {
+      "why": "Founder with a live, revenue-generating restaurant POS asking for landing page feedback, which is exactly Ryan's core service.",
+      "potential": 7,
+      "options": [
+        "One thing that almost always works for POS landing pages: put a real screenshot of the order screen in the hero instead of an illustration or stock photo. Restaurant owners buy on 'does this look like something my staff can learn in a day', and a real UI shot answers that instantly.",
+        "Quick question: who's the first person you're trying to convince, the restaurant owner or the staff who'll use it daily? The hero copy should speak to whichever one signs the check, and for fast food that's usually the owner worrying about speed and mistakes at the register, not features."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xihkea",
+    "subreddit": "SaaS",
+    "title": "When every new SaaS customer needs an engineer, is onboarding actually a product feature?",
+    "author": "/u/djgoel123",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xihkea/when_every_new_saas_customer_needs_an_engineer_is/",
+    "updated": "2026-10-29T11:38:31+00:00",
+    "body": "A customer signs up.\n Then someone from engineering needs to configure their account, update permissions, import data, or adjust a few settings.\n For the first few customers, that might be manageable.\n But as the business grows, onboarding starts competing with product development for engineering time.\n Not every setup task should be automated immediately. Some enterprise customers genuinely need custom implementation.\n The problem starts when routine setup work remains dependent on internal knowledge that only one or two engineers have.\n For SaaS teams, when did you realize onboarding had become a scalability problem?\n And which parts did you automate first without making the experience worse for customers?\n &#32; submitted by &#32; /u/djgoel123 \n &#32;",
+    "score": 7.5,
+    "ageHours": 1,
+    "hits": [
+      "onboarding"
+    ],
+    "draft": {
+      "why": "B2B SaaS founder crowd discussing onboarding scalability, a problem Ryan directly solves, with high visibility to potential clients.",
+      "potential": 7,
+      "options": [
+        "The tell I look for: if an engineer is doing the same 3 setup steps for every customer, those steps belong in the UI, not in a runbook. Automate data import and permission templates first, since those are the most repetitive and the easiest to make self-serve without hurting the white-glove feel for enterprise accounts.",
+        "Curious how you draw the line between 'enterprise customers need custom implementation' and 'we just never built the self-serve path.' In my experience that line drifts way too far toward custom, and half the bespoke work turns out to be the same config repeated with a different logo."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xi8n57",
+    "subreddit": "microsaas",
+    "title": "Went from 0 customers to 5-10 customers a day after a small conversion tweak.",
+    "author": "/u/Ok-East9349",
+    "url": "https://www.reddit.com/r/microsaas/comments/1xi8n57/went_from_0_customers_to_510_customers_a_day/",
+    "updated": "2026-10-29T02:58:04+00:00",
+    "body": "https://preview.redd.it/qdf0nb14kbyh1.png?width=790&amp;format=png&amp;auto=webp&amp;s=a3ac2418c6c9aa105780e6db7184101860916e18 \n I’ve spent the last year building mobile apps, websites, and SaaS products, trying to understand what makes people buy digital services.\n I tested hundreds of combinations: trial lengths, paywall designs, onboarding, SEO, pricing, and sign-up flows. I stuck to one conversion goal, sign-up to trial above 20%, and kept testing until I hit it. The change that made the biggest difference was moving the paywall deeper into the app. People could try the product and see its value before I asked them to sign up or enter a credit card.\n A better-looking paywall and a free trial helped, but they weren’t the whole fix. The key was reducing friction at the point where I was asking for the biggest commitment. Let people experience the product first, then make the offer clear: what’s included, how the trial works, and what they’ll pay if they continue.\n I also put real effort into organic content marketing. Around 30% of my daily traffic comes from organic content. I write for high-intent searches and update blog posts based on their impressions and clicks. For social, I set up an automated content manager that posts 10+ times a day across 8+ channels, reuses what’s working, and turns clips, hooks, and in-app demos into Reels and Shorts. It brings in 20–30K views a month, and generates it automatically for me on the 1st of every month.\n I don’t spend on ads. Onc",
+    "score": 6,
+    "ageHours": 9.7,
+    "hits": [
+      "onboarding",
+      "conversion",
+      "sign up"
+    ],
+    "draft": {
+      "why": "Founder with paying customers sharing a conversion win; exactly the landing-page/paywall/onboarding territory Ryan works in, and the thread will draw other micro-SaaS founders.",
+      "potential": 7,
+      "options": [
+        "The paywall placement result matches what I've seen on onboarding work: the biggest conversion jumps come from moving the ask after the first moment of value, not from redesigning the paywall itself. One thing worth testing next is anchoring the trial screen to the specific thing the user just did, like 'your first report is ready' instead of a generic feature list.",
+        "Curious how you decided where 'deep enough' was for the paywall. Did you pick an aha moment metric and gate right after it, or was it trial and error on timing?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xidwlb",
+    "subreddit": "SaaS",
+    "title": "Are we measuring website conversions without understanding what visitors actually want?",
+    "author": "/u/Andhbhakt13",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xidwlb/are_we_measuring_website_conversions_without/",
+    "updated": "2026-10-29T08:03:26+00:00",
+    "body": "I&#39;ve been thinking about a blind spot in how startups measure their websites, and I&#39;m curious how other founders approach it.\n We track page views, conversion rates, bounce rates, demo requests and form submissions. We spend money on SEO, ads and content to get people onto our websites.\n But I&#39;m not sure we pay enough attention to what happens between someone arriving and deciding what to do next.\n Imagine three people visiting the same SaaS website:\n - One spends several minutes on the pricing page.\n - Another reads the documentation and checks the integrations page.\n - A third explores the product but leaves without signing up.\n Analytics can tell us what pages they visited and how long they stayed. Depending on our setup, we might even know where they came from.\n But do we know what they were trying to figure out?\n Maybe the first person is comparing vendors. Maybe the second is checking whether the product fits their existing stack. Maybe the third couldn&#39;t find an answer to one specific question.\n Or maybe none of them had any intention of buying. The activity alone doesn&#39;t tell us.\n That distinction seems important because a conversion is an observable action, not a complete explanation of someone&#39;s intent.\n I&#39;ve also wondered whether this creates a disconnect between marketing and sales. Marketing optimizes for traffic and conversions, while sales eventually has to determine whether those conversions represent genuine opportunities.\n More tr",
+    "score": 8.3,
+    "ageHours": 4.6,
+    "hits": [
+      "pricing page",
+      "conversion",
+      "bounce"
+    ],
+    "draft": {
+      "why": "Founder thinking about conversion intent gaps, a topic where Ryan's UX expertise lands naturally, visible to r/SaaS founders.",
+      "potential": 6,
+      "options": [
+        "The pricing-page lingerer is usually answerable with the cheapest tool in the stack: an exit-intent survey with one question, 'what stopped you from signing up today?' After a few hundred responses the answers cluster hard, and in my experience two of them (unclear pricing, missing integration) cover most of the loss. Qual beats guessing from session times.",
+        "Genuine question: how would you act on intent data even if you had it? A visitor comparing vendors and one checking stack fit both sat on your pricing page, but the fix is different for each, and one of them might not be a fix on your site at all. Curious whether the problem is measurement or that the site only serves one type of visitor."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xibasw",
+    "subreddit": "SaaS",
+    "title": "Full-width or centered? Struggling with desktop UI layout for web utility tools",
+    "author": "/u/yahyazuher",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xibasw/fullwidth_or_centered_struggling_with_desktop_ui/",
+    "updated": "2026-10-29T05:21:39+00:00",
+    "body": "Hey everyone! Quick UX design question for fellow builders. \n I’m currently building a suite of web utility tools, and I keep going back and forth on desktop layouts. On ultra-wide monitors, stretching everything full-width sometimes feels way too spread out and hard to focus on. But on the flip side, keeping everything centered in a max-width container can sometimes leave huge empty spaces on the sides.\n How do you usually handle this for web apps? Do you prefer full-width or a centered layout, and why? Would love to hear what works best for you!\n &#32; submitted by &#32; /u/yahyazuher \n &#32;",
+    "score": 7.2,
+    "ageHours": 7.3,
+    "hits": [
+      "ux",
+      "ui",
+      "design"
+    ],
+    "draft": {
+      "why": "Builder actively making layout decisions on a web tool suite, a concrete design problem Ryan solves daily, posted in a founder-heavy sub.",
+      "potential": 6,
+      "options": [
+        "The answer for utility tools is usually a hybrid: keep nav and app chrome full-width, but cap the working area around 1100-1300px. Full-width text and inputs kill usability on wide screens, but a fully centered layout wastes space you could use for a persistent sidebar or output panel.",
+        "What kind of tools are they? If a tool has one input and one output (like a converter), centered narrow wins every time. If there's any secondary state like history, saved items, or settings, that side space becomes an asset instead of a problem."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xhrl1g",
+    "subreddit": "microsaas",
+    "title": "What's the one thing that makes you instantly leave a landing page?",
+    "author": "/u/kinedesignstudio",
+    "url": "https://www.reddit.com/r/microsaas/comments/1xhrl1g/whats_the_one_thing_that_makes_you_instantly/",
+    "updated": "2026-10-28T15:42:06+00:00",
+    "body": "I design websites, landing pages, and app UIs, and I&#39;m curious what actually makes people bounce.\n For me it&#39;s slow load times and hero sections that don&#39;t say what the product does.\n What&#39;s yours? Popups, confusing navigation, walls of text, something else?\n &#32; submitted by &#32; /u/kinedesignstudio \n &#32;",
+    "score": 7.7,
+    "ageHours": 21,
+    "hits": [
+      "landing page",
+      "design",
+      "bounce",
+      "confusing"
+    ],
+    "draft": {
+      "why": "Visible thread in a founder-heavy subreddit where a sharp practitioner answer can get noticed, though the poster is a fellow designer not a buyer.",
+      "potential": 4,
+      "options": [
+        "Vague pricing or pricing hidden behind a 'book a demo' gate. If I can't figure out what it costs in 20 seconds I assume it's out of my budget and leave. Second is hero copy that describes the category instead of the product ('the future of work' tells me nothing).",
+        "Fake scarcity and countdown timers on a product that clearly isn't scarce. It signals the team doesn't trust the product to sell itself. Curious on your end: when you audit a client's landing page, what's the first thing you check?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xig3rl",
+    "subreddit": "SaaS",
+    "title": "Looking for 5 app teams to test my SaaS: 6 months of our top plan free (AI analysis of App Store and Google Play reviews)",
+    "author": "/u/Luingalad",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xig3rl/looking_for_5_app_teams_to_test_my_saas_6_months/",
+    "updated": "2026-10-29T10:20:44+00:00",
+    "body": "Hey everyone,\n I&#39;m building a Saas . It pulls your App Store and Google Play reviews into one place, uses AI to analyze them (sentiment, topics, what people are actually complaining about) and sends them to Slack, Teams or Discord as they come in.\n It works, and I want real teams using it before a wider launch. I&#39;m looking for 5 organizations to try it and tell me honestly what&#39;s broken, missing or confusing.\n What you get \n 6 months of the Publisher plan for free (normally $249/month) Every feature: unlimited AI analysis, full review history, unlimited Slack/Teams/Discord channels, daily digests, unlimited team members One limit for the test: up to 5 apps per organization (the iOS and Android versions of the same app count as one) After the test you can stay on Publisher or move to any other plan, including the free one. No card needed to start, and nothing renews automatically. What I&#39;d ask of you \n Connect at least one live app with real reviews (App Store Connect API key and/or Google Play service account; the setup guides you through it) Use it for a few weeks and send feedback when something annoys you or delights you. A short message is plenty. Maybe a 20-minute call at some point, only if you&#39;re up for it Good fit if you \n Have one or more apps live on the App Store and/or Google Play with a steady flow of reviews Currently read reviews by hand, in a spreadsheet, or not at all Have a team that lives in Slack, Teams or Discord Comment or DM me with ",
+    "score": 6.2,
+    "ageHours": 2.3,
+    "hits": [
+      "feedback",
+      "confusing"
+    ],
+    "draft": {
+      "why": "Founder pre-launch looking for beta teams; could later need help with onboarding and dashboard UX, but right now wants testers, not design.",
+      "potential": 4,
+      "options": [
+        "The biggest risk in a beta like this is setup drop-off: asking for an App Store Connect API key or Google Play service account is a real wall for non-technical users. I'd make the first run show sample insights from a public app so people see the payoff before doing any integration.",
+        "Who's the actual reader of the digest, support, product, or the founders? 'Team lives in Slack' covers all three and the analysis you'd prioritize (bug reports vs feature requests vs sentiment trends) differs a lot by audience. Nailing one first will make your onboarding and messaging much sharper."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xi00sm",
+    "subreddit": "indiehackers",
+    "title": "I manage two artists and built GigDesk to organize music projects—looking for feedback on the focus",
+    "author": "/u/RareDig4822",
+    "url": "https://www.reddit.com/r/indiehackers/comments/1xi00sm/i_manage_two_artists_and_built_gigdesk_to/",
+    "updated": "2026-10-28T20:45:23+00:00",
+    "body": "I&#39;m Conner, an independent artist manager building GigDesk, a workspace for independent music teams.\n The part I&#39;m focusing on is Project Builder: keeping a project&#39;s track files, alternate mixes, artwork, notes, and completion progress together. You can retain earlier versions and select the active file rather than lose track of which mix you&#39;re working from.\n GigDesk is a pre-revenue private working prototype. I&#39;ve completed an initial closed beta and recorded a walkthrough, but it isn&#39;t publicly available yet. I&#39;m early in learning software development, so I&#39;m trying to keep the next step focused rather than add every possible music-business feature.\n I&#39;d appreciate critique on this decision: is organizing an EP or album around tracks and versions a strong enough starting point, or would the first useful workflow need clearer ownership, deadlines, or feedback approvals? If you&#39;ve built a niche collaboration tool, what evidence convinced you it deserved a separate workspace instead of shared folders and a task list?\n I&#39;d also welcome hearing from independent artists, producers, or managers about a specific recent project where files or next steps got confusing. Honest reasons this wouldn&#39;t be useful are welcome. I&#39;m sharing the product openly for feedback; there isn&#39;t a public signup or purchase offer.\n &#32; submitted by &#32; /u/RareDig4822 \n &#32;",
+    "score": 7,
+    "ageHours": 15.9,
+    "hits": [
+      "feedback",
+      "confusing"
+    ],
+    "draft": {
+      "why": "Founder asking a genuine product-focus question, but it's a pre-revenue music niche tool with no budget signals, so client potential is low.",
+      "potential": 3,
+      "options": [
+        "Start with tracks and versions. That's the painful, recurring part of every release, and shared folders genuinely fail there because nobody remembers which mix is current. Ownership and deadlines are already handled fine by generic task tools, so that's a weak wedge. I'd validate by asking managers to show you their actual folder structure for the last project they shipped.",
+        "One thing I'd push on: is the version problem painful enough that someone pays for a separate workspace, or is it just annoying? The niche tools I've seen win had a moment where the generic alternative actually broke something, like the wrong mix going to a distributor. Do you have a story like that from your own artist work? That'd tell you if Project Builder is the wedge or just a nice folder."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xihowg",
+    "subreddit": "SideProject",
+    "title": "Vibe Tutor - an Android homework helper for teens that coaches the next step (feedback welcome)",
+    "author": "/u/Free_Natural9504",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xihowg/vibe_tutor_an_android_homework_helper_for_teens/",
+    "updated": "2026-10-29T11:45:00+00:00",
+    "body": "I&#39;m the developer, so take this as a founder asking for honest feedback.\n I built Vibe Tutor for my own son, and it&#39;s for teens ages 13 to 17. It&#39;s an AI homework helper that walks through a problem one step at a time instead of handing over the finished work, and it has a focus timer for study sessions. It&#39;s a one time $4.99 purchase with no ads, no subscription and no in app purchases.\n Google Play: https://play.google.com/store/apps/details?id=com.vibetech.tutor&amp;referrer=utm_source%3Dreddit_story%26utm_medium%3Dsocial%26utm_campaign%3Dstory1026%26utm_content%3Dtutor_reddit_sideproject \n What I&#39;d like feedback on: 1. Does the Play page make it clear in a few seconds what the app does and who it&#39;s for? 2. Does &quot;coaches the next step instead of giving the answer&quot; come across, or would you expect a homework app to just solve things? 3. Is there anything that would stop you from trying it?\n Happy to answer questions in the comments.\n &#32; submitted by &#32; /u/Free_Natural9504 \n &#32;",
+    "score": 6.8,
+    "ageHours": 0.9,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Founder asking concrete messaging questions, but it's a consumer teen app at $4.99, unlikely to hire a B2B SaaS designer.",
+      "potential": 3,
+      "options": [
+        "On the \"coaches the next step\" question: that framing is your strongest angle, but I'd aim it at parents, not teens, since a parent is the one paying $4.99. Teens searching for homework help expect answers, so the pitch needs to live where the buyer reads it: screenshots and the first line of your Play description, e.g. \"your kid actually learns it, not just copies it.\"",
+        "One thing that would stop me as a parent: \"Vibe\" in the name reads like another chatbot toy, which fights your \"real learning\" positioning. Have you tested how parents react to the name versus how teens react? If they differ, trust the parents, they hold the card."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xihjrk",
+    "subreddit": "SideProject",
+    "title": "Can I get feedback on my book tracker build for people with ADHD?",
+    "author": "/u/Chewy-Boot",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xihjrk/can_i_get_feedback_on_my_book_tracker_build_for/",
+    "updated": "2026-10-29T11:37:34+00:00",
+    "body": "I know, book trackers are a dime a dozen. But most of the ones I tried had the same three problems, so I worked on my own version: https://marloe.app/ \n There&#39;s too much stuff. Reading streaks, cluttered lists, challenges. I don&#39;t want my book tracker to look like duolingo, I want it to be clean, intuitive, and have everything available in 1-2 clicks in a clean workflow. You can&#39;t sort and customise. I don&#39;t want a massive backlog, I want to be able to clearly organise by year, read-date, and make custom lists and add my own covers. Marloe does that. The stats are useless. They tend to be micro-foccused on stuff like daily streaks or pages per day. That&#39;s fine, but I really want to know the number of books, pages, and detail on the type of authors and genres. Marloe does this, and provides a persona of what type of reader you are based on your taste. It’s free, has no ads, and you can start logging without an account. Sign in with Google only if you want to sync across devices. It’s a solo passion project, so it’s early and I’m actively building it.\n I’d love honest feedback: what you like, what’s missing, and whether it beats what you use now. And what’s the one thing your current tracker gets wrong?\n Full disclosure, I&#39;m leaning heavily on Claude to help me build this. I&#39;m an amateur web-dev but have shifted most of the actual code-writing externally. Everything related to security, privacy, layout and copy, I do myself.\n &#32; submitted by &#32;",
+    "score": 6.8,
+    "ageHours": 1,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Solo consumer passion project asking for feedback; low chance of a paying client but a visible thread where a sharp design observation could still attract B2B readers.",
+      "potential": 3,
+      "options": [
+        "The no-account start is the strongest thing here, lean into it harder: let someone log a book from the landing page itself before asking for anything. That single moment sells 'clean and fast' better than any feature list.",
+        "Curious about the persona feature: does it change anything the user does next, or is it just a fun stat? If it drives a recommendation or a list, that's your differentiator over Goodreads-style trackers and worth putting front and center."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xifc1e",
+    "subreddit": "microsaas",
+    "title": "My trial users used every Pro export. Then my app said nothing when the trial ended.",
+    "author": "/u/yung_quan",
+    "url": "https://www.reddit.com/r/microsaas/comments/1xifc1e/my_trial_users_used_every_pro_export_then_my_app/",
+    "updated": "2026-10-29T09:35:21+00:00",
+    "body": "Backstory: I’m a UI/UX designer, and every time I launched something I needed a tilted 3D shot of a screenshot. Figma only fakes it, and the tools that do it properly wanted an upload and an account. So I built Perspecto, a browser tool that tilts, curves or bends any screenshot in real 3D, or puts it in a 3D iPhone or MacBook. Everything renders on your device, nothing gets uploaded.\n Stack: React + Vite on Vercel. All the rendering is canvas, client side, so hosting costs me almost nothing. Polar for payments. The email trial is two serverless functions, Upstash Redis to count exports and Resend for the code email.\n Pricing: free with 3 exports a day (small “via perspecto.io” mark), Pro is $19 one time. Since nothing costs me per use, I added a trial: enter your email, get 3 Pro exports for 7 days, no card.\n The lesson:\n This week I finally looked at the trial data instead of guessing. 3 of the 4 real people who started a trial used all 3 Pro exports. So the product part worked, they wanted the Pro output.\n Then I went through it myself as someone whose trial week was over. Nothing. The TRIAL badge just disappeared and you were quietly back on free. If you used your last export, there was a toast that faded after a few seconds, while you were probably looking at your downloaded file. The only time the app ever said “your trial ended” was if you tried another Pro export.\n I spent months on the 3D renderer and basically zero minutes on the moment the trial ends. Which is the ",
+    "score": 6.2,
+    "ageHours": 3.1,
+    "hits": [
+      "ux",
+      "ui",
+      "figma",
+      "designer"
+    ],
+    "draft": {
+      "why": "Founder identified a real trial-expiry conversion gap and is clearly receptive to UX feedback, but it's a $19 one-time consumer-ish tool with tiny budget.",
+      "potential": 3,
+      "options": [
+        "The expired trial is actually your best conversion moment and you're wasting it silently. When someone hits that ended state, show a small inline panel where the TRIAL badge was: 'Your 3 Pro exports are done, keep the watermark-free exports for $19' with the button right there. They just proved intent by using all 3, so catch them in the app they already have open, not in an email they might ignore.",
+        "Quick question: are you doing anything with the fact that these people already downloaded Pro files? A follow-up email 2-3 days after expiry saying 'your exports from last week had no watermark, want to keep it that way?' tends to convert better than an in-app message alone, because by then they've actually used the files in a launch and felt the value."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xhoyf2",
+    "subreddit": "design_critiques",
+    "title": "Looking for honest feedback on my web design portfolio",
+    "author": "/u/YAOHONGWEBDESIGN",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xhoyf2/looking_for_honest_feedback_on_my_web_design/",
+    "updated": "2026-10-28T14:03:17+00:00",
+    "body": "&#32; submitted by &#32; /u/YAOHONGWEBDESIGN \n &#32;",
+    "score": 6.4,
+    "ageHours": 22.6,
+    "hits": [
+      "feedback",
+      "design"
+    ],
+    "draft": {
+      "why": "Portfolio review request from a likely freelancer or student, low client potential but reply could showcase Ryan's eye to other readers.",
+      "potential": 2,
+      "options": [
+        "Hard to give useful feedback without seeing it. Can you share the link and tell me who you're trying to get hired by? A portfolio aimed at agency work needs very different things than one aimed at freelance clients.",
+        "One thing I see constantly on portfolios: case studies that are all final screenshots and no reasoning. Clients hire you for how you think, so even 2 or 3 sentences per project on the problem and your tradeoffs will set you apart from most portfolios."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1296456",
+    "platform": "producthunt",
+    "title": "AssemblyAI",
+    "author": "Harnoor Singh",
+    "url": "https://www.producthunt.com/products/assemblyai",
+    "updated": "2026-10-28T15:35:24-07:00",
+    "body": "text-to-speech built for voice agents",
+    "score": 1.2,
+    "ageHours": 14.1,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "Developer tool for voice agents; founders hang out on PH launches and AssemblyAI's team may need design help for docs, dashboards, or marketing pages.",
+      "potential": 6,
+      "options": [
+        "Congrats on the launch! Curious who you picture as the first user here: is it the indie dev hacking on a voice agent this weekend, or teams at companies already running phone agents in production?",
+        "Congrats on launching! My guess is the hard part isn't the voices themselves but convincing devs to switch from whatever TTS they're already using. Are you leading with latency, voice quality, or pricing as the wedge?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1295697",
+    "platform": "producthunt",
+    "title": "Notch Metrics",
+    "author": "Musthaq Ahamad",
+    "url": "https://www.producthunt.com/products/notch-metrics",
+    "updated": "2026-10-28T02:57:56-07:00",
+    "body": "Put your revenue and product analytics metrics in the notch",
+    "score": 1.3,
+    "ageHours": 26.7,
+    "hits": [
+      "analytics"
+    ],
+    "draft": {
+      "why": "Launch day on PH; founder is building a SaaS-adjacent tool and likely has future design needs, plus the thread reaches SaaS founders.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch! Curious who you see checking this most: is it founders glancing at MRR, or product folks watching activation numbers? The answer probably changes which metrics get prime placement in that tiny notch space.",
+        "Love the idea of ambient metrics instead of another open tab. Are you positioning this as a lightweight companion to tools like Amplitude, or as a replacement dashboard for people who only care about two or three numbers?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1295807",
+    "platform": "producthunt",
+    "title": "MAO",
+    "author": "MIGUEL",
+    "url": "https://www.producthunt.com/products/mao-multi-agentic-orchestration-tool",
+    "updated": "2026-10-28T04:27:28-07:00",
+    "body": "Team up Claude Code, Codex and Grok on one canvas",
+    "score": 1.3,
+    "ageHours": 25.2,
+    "hits": [
+      "team"
+    ],
+    "draft": {
+      "why": "AI dev tool launch on PH, founders likely technical but the product sits at the intersection of tooling and UX, and PH threads reach many SaaS builders.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch. Curious who you picture as the first user here: a solo dev juggling multiple agents, or a team lead trying to keep AI output reviewable? The onboarding for those two looks pretty different.",
+        "Happy launch day! My hypothesis as a question: is the canvas the real product, meaning you're positioning less as 'another AI coding tool' and more as a coordination layer for agents people already use?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1294677",
+    "platform": "producthunt",
+    "title": "Empacer",
+    "author": "Kate Ramakaieva",
+    "url": "https://www.producthunt.com/products/empacer",
+    "updated": "2026-10-27T06:56:57-07:00",
+    "body": "The voice-first assistant for small business owners",
+    "score": 0.7,
+    "ageHours": 46.7,
+    "hits": [
+      "business"
+    ],
+    "draft": {
+      "why": "New PH launch from a founder who may need design help later, and early supportive comments on launches build goodwill with SaaS builders.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch! Curious about the first-time experience: when a small business owner opens Empacer for the first time, what's the very first thing you have them say or do to feel the value?",
+        "Happy launch day! I'm wondering about positioning: are you going after owners who already use a CRM or scheduler and want voice on top, or folks still running everything out of texts and a notes app? Feels like the second group is the bigger unlock."
+      ]
+    }
+  }
+]
