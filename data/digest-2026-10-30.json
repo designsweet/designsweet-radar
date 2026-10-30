@@ -1,0 +1,315 @@
+[
+  {
+    "platform": "reddit",
+    "id": "t3_1xjbmtu",
+    "subreddit": "SaaS",
+    "title": "We turned our motion chats with opus 5.5 into code kits - and got back consistent motion design with our brand every time with one prompt",
+    "author": "/u/mementomori2344323",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xjbmtu/we_turned_our_motion_chats_with_opus_55_into_code/",
+    "updated": "2026-10-30T10:23:46+00:00",
+    "body": "Our teams ships 4-5 new features to production each week.\n Not all of them worth paying for a fancy promo\n Opus 5.5 gives us the option to design motion also for smaller announcements.\n Here it took 20 minutes and one master prompt.\n In my prompt I just explained to Opus the pain points we were solving for clients that had a confusing UX experience whether they got their credits back for failed generations.\n I just explained it all as a stream of thoughts.\n And gave it the code kit of branded motion design from our company brain to use.\n After 20 minutes this is what I got back.\n Try this yourself. You can also give Opus an existing motion design video and ask it to turn that into code.\n You can use those principles later easily when it&#39;s saved. it won&#39;t copy the original video you gave it but will make it look and feel and move similarly.\n &#32; submitted by &#32; /u/mementomori2344323 \n &#32;",
+    "score": 7,
+    "ageHours": 2.3,
+    "hits": [
+      "ux",
+      "design",
+      "confusing"
+    ],
+    "draft": {
+      "why": "Founder shipping a B2B SaaS fast, already investing in brand-consistent motion, visible r/SaaS thread, and they're thinking about UX quality which is Ryan's wheelhouse.",
+      "potential": 7,
+      "options": [
+        "The smart move here is the code kit, not the prompt. One-off AI motion demos tend to drift in easing and timing, but baking your motion tokens (durations, curves, transitions) into reusable code keeps every feature announcement feeling like the same product. I'd version that kit like you version your design system.",
+        "Curious about the credits-back UX pain point you mentioned. Was the confusing part that users couldn't tell whether a failed generation refunded them, and the motion piece is meant to communicate that state? In my experience that specific anxiety is usually better solved by making the credit balance update visibly in place than by a promo video."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xjbqfn",
+    "subreddit": "UXDesign",
+    "title": "Need some advice from experienced UI/UX designers.",
+    "author": "/u/Sunflower_Smilee",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xjbqfn/need_some_advice_from_experienced_uiux_designers/",
+    "updated": "2026-10-30T10:29:42+00:00",
+    "body": "I recently joined a startup as a UI/UX designer, and honestly, I’m already feeling overwhelmed after just three days.\n The team consists of a founder, two developers and one animator. There’s a separate group for UI discussions where I have to get approval from four people, and everyone has different opinions. If one person likes a design direction, someone else dislikes it. I’m constantly receiving conflicting feedback and struggling to understand what direction to follow.\n They say I have complete creative freedom, but whenever I explore something independently, they aren’t satisfied. Their feedback often includes things like “make it more exciting”, “add more personality” or “make it visually appealing”. Even when they share references, they struggle to explain exactly what they want.\n What’s confusing is that they absolutely loved my assignment submission, which I conceptualised and designed entirely using my own knowledge and design decisions. But now, when I try bringing that same creativity into their product, nothing seems to satisfy them.\n I also believe good UI/UX isn’t just about making screens pretty. Usability, consistency, navigation and simplicity matter just as much.\n To make things more stressful, the app is supposed to launch in just three weeks. Feedback is often delayed, working hours are crazy, and there’s constant back and forth. The pay is good, but I honestly don’t understand what they’re expecting from me.\n **I’d love some honest advice:**\n Is this no",
+    "score": 17.4,
+    "ageHours": 2.2,
+    "hits": [
+      "feedback",
+      "ux",
+      "ui",
+      "design",
+      "confusing",
+      "designer"
+    ],
+    "draft": {
+      "why": "Junior designer drowning in design-by-committee feedback at a startup; good teaching moment but poster is an employee, not a potential client.",
+      "potential": 2,
+      "options": [
+        "Vague feedback like 'more exciting' usually means they can't articulate the problem, so force specificity: before your next review, send 2-3 distinct directions with a one-line rationale for each and ask them to pick, not react. Picking between options is much easier for non-designers than judging one design in a vacuum.",
+        "The assignment worked because there was a clear brief and one decision-maker; now you have four approvers and no brief, which is the actual problem. Ask the founder directly who has final say on design, and write down a short design direction doc (goals, references, constraints) that everyone signs off on before you touch screens again."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1ximfp3",
+    "subreddit": "design_critiques",
+    "title": "Finally finished my UI/UX & Product Design portfolio. Would love some honest feedback!",
+    "author": "/u/Ikka_1928",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1ximfp3/finally_finished_my_uiux_product_design_portfolio/",
+    "updated": "2026-10-29T15:03:33+00:00",
+    "body": "&#32; submitted by &#32; /u/Ikka_1928 \n &#32;",
+    "score": 10.3,
+    "ageHours": 21.6,
+    "hits": [
+      "feedback",
+      "ux",
+      "ui",
+      "design"
+    ],
+    "draft": {
+      "why": "Portfolio review request in a critique subreddit; poster is likely a junior designer, not a potential client, and the post gives no portfolio details to critique.",
+      "potential": 2,
+      "options": [
+        "Hard to give honest feedback without a link or at least a couple of case study screenshots. If you share one project, I can tell you whether the problem framing or the visuals are the weak spot, since that's usually where portfolios fall apart.",
+        "One thing that separates strong portfolios fast: show the messy middle, the constraints and tradeoffs, not just polished final screens. Hiring managers skim for how you think, so lead each case study with the problem and your reasoning before the pretty shots."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xjb94d",
+    "subreddit": "web_design",
+    "title": "Feedback Thread",
+    "author": "/u/AutoModerator",
+    "url": "https://www.reddit.com/r/web_design/comments/1xjb94d/feedback_thread/",
+    "updated": "2026-10-30T10:01:08+00:00",
+    "body": "Our weekly thread is the place to solicit feedback for your creations. Requests for critiques or feedback outside of this thread are against our community guidelines. Additionally, please be sure that you&#39;re posting in good-faith. Attempting to circumvent self-promotion or commercial solicitation guidelines will result in a ban. \n Feedback Requestors Please use the following format:\n URL : \n Purpose : \n Technologies Used : \n Feedback Requested : (e.g. general, usability, code review, or specific element) \n Comments :\n Post your site along with your stack and technologies used and receive feedback from the community. Please refrain from just posting a link and instead give us a bit of a background about your creation.\n Feel free to request general feedback or specify feedback in a certain area like user experience, usability, design, or code review.\n Feedback Providers Please post constructive feedback. Simply saying, &quot;That&#39;s good&quot; or &quot;That&#39;s bad&quot; is useless feedback. Explain why. Consider providing concrete feedback about the problem rather than the solution. Saying, &quot;get rid of red buttons&quot; doesn&#39;t explain the problem. Saying &quot;your site&#39;s success message being red makes me think it&#39;s an error&quot; provides the problem. From there, suggest solutions. Be specific. Vague feedback rarely helps. Again, focus on why. Always be respectful Template Markup **URL**: **Purpose**: **Technologies Used**: **Feedback Requested**: ",
+    "score": 7.4,
+    "ageHours": 2.7,
+    "hits": [
+      "feedback",
+      "design"
+    ],
+    "draft": {
+      "why": "It's a weekly meta feedback thread with no specific site or founder behind it, so there's no concrete design problem to solve and no identifiable client.",
+      "potential": 2,
+      "options": [
+        "Not much to work with here since it's just the thread template itself. If you want sharper feedback on your own site, post it with the one decision you're least sure about, like your headline or your pricing layout, and you'll get way better answers than asking for 'general feedback'.",
+        "One tip for anyone posting here: 'general feedback' gets you vague replies. Name the exact moment you lose users, like the hero section or the signup step, and people can actually diagnose it. Is there a specific page you're posting about, or are you the thread mod?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xj8ujs",
+    "subreddit": "design_critiques",
+    "title": "Hello Guys! I need your awesome feedback and suggestion, please. Background of my business: Ochimo mochi offers a natural product only made from natural rice flour and stevia (hence the small leaf). Target age is 6-20 yrs old (colorful).I also want to show it is sustainable (recyclable packaging)",
+    "author": "/u/SaffronPerez948",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xj8ujs/hello_guys_i_need_your_awesome_feedback_and/",
+    "updated": "2026-10-30T07:26:36+00:00",
+    "body": "&#32; submitted by &#32; /u/SaffronPerez948 \n &#32;",
+    "score": 7.1,
+    "ageHours": 5.2,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Packaging design critique for a small consumer food brand; some design value but low chance of a paying B2B SaaS client.",
+      "potential": 2,
+      "options": [
+        "The biggest tension here is the audience: 6 to 20 is two very different buyers, and the colorful kid-friendly style that works for a 7 year old will read as babyish to a 16 year old. I'd aim the packaging at the kid end and let the natural/stevia angle speak to parents, since they're the ones actually paying.",
+        "Quick question: who's the actual buyer at the shelf, the kid or the parent? That changes everything, because stevia and recyclable packaging are parent selling points while the leaf and colors are for the kid, and right now the design seems to be talking to both at once."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xja3qr",
+    "subreddit": "UXDesign",
+    "title": "AMA - Design Engineer here. Migrated away from core UX design tasks a year back. Haven’t looked back.",
+    "author": "/u/ArtisticLoss7000",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xja3qr/ama_design_engineer_here_migrated_away_from_core/",
+    "updated": "2026-10-30T08:49:35+00:00",
+    "body": "Been in the industry for 14 years. Gone through everything from the “design is the differentiator” saga to the “design is a commodity” saga and the “but can you make it like Apple?” saga. Was living in the Bay Area for a few years until I realized that the place had more people talking about design than people actually designing solutions. Now based out of Europe, and hey, I do sleep better. \n Made the switch to design engineering around 18 months back largely based on a hypothesis that the unit economics of both design and development work would fundamentally change once cost per token goes down. Yet to be proven wrong about that. \n I feel bad for freshers joining this industry right now. The rules and the flux they have to deal with are significantly different and convoluted than I had to when I was starting off. And the noise in the industry isn’t helpful. Between physics and platitudes, physics always wins. \n &#32; submitted by &#32; /u/ArtisticLoss7000 \n &#32;",
+    "score": 6.7,
+    "ageHours": 3.8,
+    "hits": [
+      "ux",
+      "design"
+    ],
+    "draft": {
+      "why": "Interesting AMA from a senior practitioner, but it's a discussion thread, not a design problem Ryan can solve, so client potential is minimal.",
+      "potential": 2,
+      "options": [
+        "When you say the unit economics changed, what does that look like in practice? Are you shipping the same scope with fewer people, or has the type of work itself shifted toward prototyping in code over static design deliverables?",
+        "Curious what you'd tell a mid-career UX designer deciding whether to follow your path. Is the leverage in learning to code, or in getting better at directing AI tools while keeping design judgment as the core skill?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xj6ch1",
+    "subreddit": "SaaS",
+    "title": "I'm building a speed-reading app for students (Android). Would you actually use it?Feedback please",
+    "author": "/u/YTkillthekiller45YT",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xj6ch1/im_building_a_speedreading_app_for_students/",
+    "updated": "2026-10-30T04:52:18+00:00",
+    "body": "I&#39;m building a speed-reading app for students. Tell me what&#39;s wrong with it.\n I&#39;m a final-year business student, and the reading load is brutal. Our eyes spend most of their time jumping across the page, not understanding it. So I&#39;m building [FlashReader], an Android app that shows your PDFs one word at a time in a fixed spot, with the key letter highlighted.\n Who it&#39;s for: students with long readings (law, med, MBA, humanities) and anyone with a pile of PDFs.\n How it works:\n Open a PDF, then hold the screen to read and release to pause.\n Free plan: 3,000 words a day, plus a daily Plinko-style drop for bonus words. Pro ($19.99/year, 7-day trial) is unlimited.\n Files are processed on your phone and never uploaded.\n What it isn&#39;t: I&#39;m not promising you&#39;ll read 10x faster with perfect understanding. Comprehension drops at very high speeds, so the free plan caps at 400 wpm. It&#39;s for getting through lighter reading and backlogs faster.\n It&#39;s not launched yet. I&#39;d love honest feedback on:\n Would you use this for your own reading? If not, why?\n Is 3,000 free words a day too much, too little, or fair?\n Would you pay $19.99 a year?\n Does hold-to-read feel natural or annoying?\n What would make you uninstall it in the first week?\n Any thoughts on the name?\n Brutal answers are welcome. Thanks for reading.\n &#32; submitted by &#32; /u/YTkillthekiller45YT \n &#32;",
+    "score": 6.6,
+    "ageHours": 7.8,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Student-built consumer app asking for feedback; honest answers about RSVP reading could help, but the poster has no budget and the audience is students.",
+      "potential": 2,
+      "options": [
+        "One thing to test early: comprehension at 400 wpm on dense material like law or med readings is where RSVP apps usually fall apart, since you can't skim back to re-check a sentence. Consider adding a quick tap-to-replay-last-sentence gesture, because that single missing feature is why most people abandon speed-reading apps in week one.",
+        "Honest question: who pays here? Students are the most price-sensitive users on earth and the ones with brutal reading loads (law, med) are exactly the ones who can't afford comprehension loss. Have you thought about positioning it for backlog clearing like newsletters and reports instead of coursework?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xiy966",
+    "subreddit": "design_critiques",
+    "title": "Looking for portfolio feedback",
+    "author": "/u/ConstructionIcy5855",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xiy966/looking_for_portfolio_feedback/",
+    "updated": "2026-10-29T22:26:43+00:00",
+    "body": "My site is below. Trying to fix/remove any weak links. Have used AI in past for critiques, but human suggestions are appreciated!\n https://mcnamaragraphics.com/ \n &#32; submitted by &#32; /u/ConstructionIcy5855 \n &#32;",
+    "score": 6.6,
+    "ageHours": 14.2,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Portfolio critique request from a graphic designer, not a B2B SaaS founder with a design budget. Low client potential but worth a small helpful reply.",
+      "potential": 2,
+      "options": [
+        "If the goal is client work, lead with 3 or 4 strong case studies instead of a full archive. Weak pieces don't get averaged out, they set the bar, so cutting your bottom third usually lifts the whole portfolio more than adding anything new.",
+        "What's the one type of work you want more of? That answer should decide what stays. A portfolio that tries to show everything you can do usually reads weaker than one that's clearly aimed at one kind of client."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xj5qoq",
+    "subreddit": "UXDesign",
+    "title": "Does anyone feel like the new iPhone onboarding experience sucks now?",
+    "author": "/u/Mulberry-Deep",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xj5qoq/does_anyone_feel_like_the_new_iphone_onboarding/",
+    "updated": "2026-10-30T04:18:07+00:00",
+    "body": "I remember setting up my IPhone 14 Pro back then and just being amazed and delighted by the iPhone onboarding experience.\n I’m currently setting up my new iPhone and it just doesn’t feel the same. The visuals, component choices and even text spacing just feels off and amateur.\n &#32; submitted by &#32; /u/Mulberry-Deep \n &#32;",
+    "score": 6.5,
+    "ageHours": 8.4,
+    "hits": [
+      "onboarding"
+    ],
+    "draft": {
+      "why": "UX community discussion about Apple onboarding; interesting to engage but no client potential, poster is a consumer venting.",
+      "potential": 2,
+      "options": [
+        "Part of what made the iPhone 14 era setup feel magical was that it was mostly animation and empty space, so there was nothing to scrutinize. The newer flow packs in way more decisions (Apple ID stuff, data sharing, passkeys, iCloud+) and the density is probably what feels amateur to you, not the type or spacing itself.",
+        "I noticed this too and I think it's a density problem, not a craft problem. The old setup was a showcase with a few taps, the new one is closer to an admin wizard with setup screens bolted on, and admin wizards never feel delightful no matter how good the kerning is."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xjc92t",
+    "subreddit": "SideProject",
+    "title": "We put our pinball-style RPG on Google Play: Bounce Clash",
+    "author": "/u/hoangbach1502",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xjc92t/we_put_our_pinballstyle_rpg_on_google_play_bounce/",
+    "updated": "2026-10-30T10:59:45+00:00",
+    "body": "We’re Golden Tier Studio, and our project Bounce Clash: Slingshot RPG is now available on Android.\n The idea is to turn an RPG party into the objects you launch. You aim a hero through an arena, bounce off walls, and collide with teammates to trigger combos. Progression includes hero upgrades, equipment and a skill tree.\n We built it in Unity with generative-AI assistance for art and development. The part I’d highlight to other builders is verification: a generated image or a successful import is not the same as a readable game screen. We needed to inspect the imported assets, their animation states and the combat in actual runtime captures.\n Here is the game rather than a mockup: https://www.youtube.com/shorts/opmU4eLrwt0 \n Google Play: https://play.google.com/store/apps/details?id=com.goldentier.PinballArena \n This is our own commercial product. If you try it, feedback on the first battle and whether the aiming/combo mechanic is clear would help us choose what to improve next.\n &#32; submitted by &#32; /u/hoangbach1502 \n &#32;",
+    "score": 6.3,
+    "ageHours": 1.7,
+    "hits": [
+      "feedback",
+      "bounce"
+    ],
+    "draft": {
+      "why": "Indie mobile game launch asking for feedback on first-time clarity, but consumer games rarely become B2B design clients.",
+      "potential": 2,
+      "options": [
+        "The mechanic is easy to explain and hard to grasp in motion, so your first battle should teach one thing only: aim, release, watch the combo trigger. If players see upgrades, equipment, and a skill tree before they've felt a single satisfying bounce, half of them churn before the tutorial ends.",
+        "From the video, does the first battle force a teammate collision, or can players win without ever triggering a combo? If it's optional, most new players will miss your core hook entirely and rate the game as generic pinball."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xjbi6p",
+    "subreddit": "SideProject",
+    "title": "I built TastyFans — a fast creator search engine for OnlyFans & Fansly with 50+ filters and location search [NSFW]",
+    "author": "/u/RoadHogKenny",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xjbi6p/i_built_tastyfans_a_fast_creator_search_engine/",
+    "updated": "2026-10-30T10:16:07+00:00",
+    "body": "One of the biggest complaints from both adult creators and subscribers has always been discovery: platforms like OnlyFans have virtually zero built-in search or discovery mechanism. Unless a user already knows an exact username, discovering creators in specific niches, price tiers, or local areas is surprisingly frustrating.\n To solve this, I built TastyFans.com — an open search engine and directory indexing creators across OnlyFans, Fansly, and Fanvue.\n Key features: - 50+ Granular Filters: Filter by niche, body attributes, hair color, age brackets (18+), verified free accounts/trials, and price ranges (e.g. $5 or less). - Location &amp; &quot;Near Me&quot; Search: Search by city, state, or country using GeoNames gazetteer data. - Visual &amp; Natural Language Search: Reverse image search to help identify creators from previews, plus semantic text search. - Creator Dashboard: Verified creators can claim their profile for free, edit metadata/tags, track profile views and search impressions, or choose to hide their listing anytime. - Privacy &amp; Safety: Only indexes public profile metadata, social links, and public preview clips (RedGifs/v.redd.it). Never scrapes behind paywalls or bypasses platform restrictions.\n I&#39;d love any feedback on search performance, UX/filtering flow, and ideas for what filters or features you&#39;d like to see next!\n Site: https://tastyfans.com \n &#32; submitted by &#32; /u/RoadHogKenny \n &#32;",
+    "score": 5.8,
+    "ageHours": 2.4,
+    "hits": [
+      "feedback",
+      "ux",
+      "dashboard"
+    ],
+    "draft": {
+      "why": "Builder asks for UX feedback on a filtering-heavy product, but it's a consumer adult directory, not a B2B SaaS with design budget.",
+      "potential": 2,
+      "options": [
+        "With 50+ filters the biggest UX risk is filter overload on first visit. I'd hide everything behind a short 'refine' bar with the 4-5 most-used filters (niche, price, location, free trials) and let power users expand. Empty states matter a lot here too: when a filter combo returns nothing, suggest which filter to relax instead of showing a dead end.",
+        "How are you handling location search accuracy when creators list a city but travel or mislabel it? Discovery products in this space live or die on trust in the results, so a 'verified location' badge might be worth more than more filters."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xj3dms",
+    "subreddit": "design_critiques",
+    "title": "Feedback on our waffle henley?",
+    "author": "/u/Travel_Girl_2",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xj3dms/feedback_on_our_waffle_henley/",
+    "updated": "2026-10-30T02:18:01+00:00",
+    "body": "Not releasing until 2027 we are still adding some adjustments before a bulk order\n &#32; submitted by &#32; /u/Travel_Girl_2 \n &#32;",
+    "score": 6.3,
+    "ageHours": 10.4,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Physical apparel product, not a design problem Ryan fixes, and no image to critique meaningfully.",
+      "potential": 1,
+      "options": [
+        "What are you actually looking for feedback on, the fabric/waffle texture, the fit, or the product page you'll sell it from? Those need pretty different eyes.",
+        "Since you're pre-launch, the more useful question might be how you'll present it: are you planning a landing page or just selling through an existing store? Happy to weigh in on the page side once there's something to look at."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1295420",
+    "platform": "producthunt",
+    "title": "Vaani Developer Platform",
+    "author": "Rohan Chaubey",
+    "url": "https://www.producthunt.com/products/vaani-developer-platfrom",
+    "updated": "2026-10-27T22:20:54-07:00",
+    "body": "The only voice AI harness that you'll ever need",
+    "score": 0.6,
+    "ageHours": 55.3,
+    "hits": [
+      "platform"
+    ],
+    "draft": {
+      "why": "Launching a developer-focused voice AI platform; founders on PH are often receptive to onboarding and positioning feedback, and dev-tool buyers have budget.",
+      "potential": 6,
+      "options": [
+        "Congrats on the launch! Quick question on first-run experience: when a new developer signs up, how fast can they get a working voice agent running? That first 10 minutes usually decides whether dev tools get adopted or abandoned.",
+        "Curious who you're targeting first: indie devs building voice features into existing apps, or teams replacing phone support entirely? The tagline reads broad, but in my experience 'the only harness you'll ever need' lands better when the landing page shows one clear primary use case. Is that the plan, or is breadth the bet?"
+      ]
+    }
+  }
+]
