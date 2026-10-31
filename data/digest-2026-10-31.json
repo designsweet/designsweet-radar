@@ -1,0 +1,365 @@
+[
+  {
+    "platform": "reddit",
+    "id": "t3_1xk21lf",
+    "subreddit": "SaaS",
+    "title": "Built a tool that flags generic AI design tropes and writes code fixes. Would love your honest thoughts on it",
+    "author": "/u/Spirited_Standard_54",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xk21lf/built_a_tool_that_flags_generic_ai_design_tropes/",
+    "updated": "2026-10-31T05:33:13+00:00",
+    "body": "I wanted to share a project I&#39;ve been working on called Spotti. It&#39;s designed to scan websites, flag generic design patterns or elements that feel overly &quot;AI-generated,&quot; and provide practical code fixes or layout suggestions to make the site feel more authentic.\n I attached a quick screen recording showing how it scans and breaks down a page. Since I&#39;m still refining the UX and detection logic, I would really appreciate some honest feedback and WOULD yall USE THIS?\n &#32; submitted by &#32; /u/Spirited_Standard_54 \n &#32;",
+    "score": 8.9,
+    "ageHours": 7.1,
+    "hits": [
+      "feedback",
+      "ux",
+      "design"
+    ],
+    "draft": {
+      "why": "SaaS founder sharing a design-related tool in a founder-heavy subreddit; replying well shows expertise in front of many potential clients, and the poster may need UX help themselves.",
+      "potential": 6,
+      "options": [
+        "The hard part won't be detecting tropes, it'll be writing fixes that don't just swap one generic pattern for another. I'd test it on real SaaS landing pages and check whether your suggestions still hold up when the founder's actual copy and screenshots get dropped in, since that's where most 'AI look' problems actually live.",
+        "Curious who you see as the primary user: founders auditing their own sites, or designers who want a second set of eyes? The UX for those two is pretty different, since a founder needs 'here's what to change' and a designer needs 'here's why this reads as generic.'"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xjhyu1",
+    "subreddit": "UXDesign",
+    "title": "Is my UI placement for this design tool logical? I worry that it's too different from Figma which is what people are familiar with",
+    "author": "/u/JannVanDam",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xjhyu1/is_my_ui_placement_for_this_design_tool_logical_i/",
+    "updated": "2026-10-30T15:10:41+00:00",
+    "body": "Hey all, this is an experiment in making a Figma/Canva-like tool. I think the layer panel has come out quite good, but I&#39;m not sure baout the properties panel (or even the header at the top). Basically, it&#39;s very difficult to match Figma exactly (and I&#39;m not a heavy Figma user to spot all the differences), and I worry that if someone&#39;s used to the Figma layout (or from other tools), this might be disorienting. I&#39;m also not a UX person either. Any tips on handling these cases?\n &#32; submitted by &#32; /u/JannVanDam \n &#32;",
+    "score": 8.8,
+    "ageHours": 21.4,
+    "hits": [
+      "ux",
+      "ui",
+      "design",
+      "figma"
+    ],
+    "draft": {
+      "why": "Founder building a design tool with real UX questions, could become a client or the thread has other tool builders",
+      "potential": 6,
+      "options": [
+        "You don't need to match Figma pixel for pixel, you need to match where people look first. Keep the high-traffic stuff in the conventional spots (layers left, properties right, toolbar top) and you're free to differ on details. Where people actually get disoriented is muscle memory on shortcuts and selection behavior, so prioritize matching those over visual layout.",
+        "One thing that helps: list the 5 actions users do most in your tool and check each one is reachable in the same place and order as Figma. Everything outside that list can be your own. If you share a screenshot I'm happy to point at the specific spots that feel off."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xjxx9l",
+    "subreddit": "design_critiques",
+    "title": "Looking for critique on the visual identity and website design of my apartment furnishing business",
+    "author": "/u/Imaginary-Ad8178",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xjxx9l/looking_for_critique_on_the_visual_identity_and/",
+    "updated": "2026-10-31T01:53:16+00:00",
+    "body": "I&#39;m developing Apartment Archive, an apartment furnishing service, and would appreciate constructive feedback on the website&#39;s visual identity and design.\n The goal is to create an editorial, architectural, understated aesthetic with restrained typography, warm neutral colors, and a clean presentation.\n I&#39;m especially interested in feedback on:\n Typography and visual hierarchy Spacing, composition, and overall balance Consistency between the homepage, intake experience, and Sample Plan Whether the website feels credible and professionally designed Anything that feels visually unfinished or inconsistent Website: https://apartmentarchive.co \n The website is still being refined, and I&#39;m looking for an outside perspective before moving further into user testing.\n Specific criticism is especially helpful. I&#39;d like to understand not just what isn&#39;t working, but why.\n &#32; submitted by &#32; /u/Imaginary-Ad8178 \n &#32;",
+    "score": 5.9,
+    "ageHours": 10.7,
+    "hits": [
+      "feedback",
+      "design"
+    ],
+    "draft": {
+      "why": "Founder with a real service business actively iterating on their site before user testing, open to specific critique.",
+      "potential": 5,
+      "options": [
+        "Editorial and understated only works if the conversion path is still loud. Check that your intake CTA has more visual weight than anything else on the homepage, because muted palettes tend to bury buttons. What action do you most want a first-time visitor to take?",
+        "Credibility for a furnishing service comes from proof, not polish. Before refining type and spacing, make sure you have real photos of finished apartments and one or two client quotes near the top. Which do you have more of right now, finished projects or the Sample Plan?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xjxpmm",
+    "subreddit": "UXDesign",
+    "title": "No Figma workflow for web product recommendations",
+    "author": "/u/Huge_Chemist_6712",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xjxpmm/no_figma_workflow_for_web_product_recommendations/",
+    "updated": "2026-10-31T01:42:37+00:00",
+    "body": "I’m a new sole product designer for a small team working on a web product. The team, largely engineers and a PM, move fast. Upon joining there was no Figma, PM and engineers just vibe coded the React front end. It gets the job done but there are lots of UI inconsistencies and unnecessary UI variants.\n I’m not willing to start a Figma based design system from scratch as that’d be too slow. \n I want to structure a design system and workflow that enables every member to contribute but in a way that’s scalable and doesn’t cause duplicate UI. At the same time I don’t want to be a bottleneck approving PRs and UI no nos.\n The front end team is fine with me vibecoding and pushing code to prod too which I appreciate and have been doing.\n Anyone else have a similar scenario, how have you solved it?\n &#32; submitted by &#32; /u/Huge_Chemist_6712 \n &#32;",
+    "score": 9.3,
+    "ageHours": 10.9,
+    "hits": [
+      "ui",
+      "design",
+      "design system",
+      "figma",
+      "designer"
+    ],
+    "draft": {
+      "why": "Practitioner problem that matches Ryan's experience, but it's a UX design subreddit so readers are designers, not paying B2B SaaS founders.",
+      "potential": 4,
+      "options": [
+        "Skip Figma for now and make the code the source of truth: get everyone on one component library (shadcn or a small set of themed primitives), define your tokens once in the Tailwind config, and hard-block one-off styles in review. That kills duplicate UI without you hand-drawing a system first.",
+        "The trap here is that a component library alone won't stop variants, engineers will fork a component the moment it doesn't quite fit. What's worked for me is a tiny decision rule everyone memorizes: extend the existing component via props or don't ship it, plus a 15 min weekly UI review where you catch drift before it spreads. How big is the component surface right now, dozens of screens or just a few flows?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xjulhp",
+    "subreddit": "SaaS",
+    "title": "Made a free no-signup site for signing PDFs and making invoices/contracts (feedback welcome)",
+    "author": "/u/Comfortable_Tax_3484",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xjulhp/made_a_free_nosignup_site_for_signing_pdfs_and/",
+    "updated": "2026-10-30T23:21:14+00:00",
+    "body": "I built Signplify, a free set of browser tools: sign PDFs, create invoices and contracts, and use tax calculators for US/UK/CA/AU. No account, no watermark. It&#39;s for quick one-off jobs, not a DocuSign replacement for teams. What would you add or fix? https://signplify.com \n &#32; submitted by &#32; /u/Comfortable_Tax_3484 \n &#32;",
+    "score": 5.7,
+    "ageHours": 13.3,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Founder asking for feedback on a tool aimed at freelancers/small businesses, so a design reply gets seen by that audience, but the free no-signup model suggests little budget.",
+      "potential": 4,
+      "options": [
+        "The no-account flow is your biggest strength, so protect it: put the file upload front and center on the homepage with zero scrolling, and only show the other tools after the first task is done. For anything involving signatures, add a short plain-language note near the download button on what's legally binding, since that's the first trust question users will have.",
+        "Who's the primary user here, freelancers invoicing clients or individuals signing one-off docs? The answer should drive which tool leads the homepage, because right now signing, invoicing, and tax calculators are three different audiences competing for the same first impression."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xk8eo8",
+    "subreddit": "design_critiques",
+    "title": "¡Hola a todos! Busco feedback/opinión visual y de UX para mi aplicación web (Sistema POS / Punto de Venta)",
+    "author": "/u/Shot-Requirement7171",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xk8eo8/hola_a_todos_busco_feedbackopinión_visual_y_de_ux/",
+    "updated": "2026-10-31T12:01:07+00:00",
+    "body": "¡Hola a la comunidad! 👋\n Estoy trabajando en una aplicación web y me encantaría recibir sus opiniones, consejos o críticas constructivas orientadas principalmente a la interfaz visual (UI), diseño y experiencia de usuario (UX).\n 📹 Demostración en video: https://youtu.be/GP3-0RIdMm4 \n 💡 Contexto del Proyecto Es un Sistema de Punto de Venta (POS) / Gestión de Cafetería interactivo. Permite administrar de forma integral:\n Inventario y Menú: Gestión de productos, categorías y características. Operativa diaria: Apertura/cierre de cajas, toma de órdenes y comandas. Facturación y Pagos: Emisión de facturas, desglose de detalles de pago y aplicación de descuentos. Gestión de Personal: Control de empleados y roles dentro del sistema. 🛠️ Stack y Arquitectura Técnica Para dar contexto sobre el tipo de componentes y estructura del frontend:\n Backend / Arquitectura: Java EE / Jakarta EE 11 (Servidor Open Liberty). Capa Web / View Layer: Jakarta Server Faces (JSF / XHTML) modularizado con plantillas generales. Biblioteca de UI: PrimeFaces (v14.0 - Jakarta edition) + CSS personalizado (estilos.css). Internacionalización: Soporte i18n multilenguaje (Español, Inglés y Chino). Persistencia / Base de datos: JPA con PostgreSQL. 🔍 ¿En qué me gustaría que se enfocarán sus comentarios? Jerarquía visual y contraste: ¿Los elementos principales (botones de acción, totales, menús) destacan lo suficiente? Flujo de trabajo (UX): Para un operador de caja o mesero que necesita rapidez, ¿la disposición",
+    "score": 17.3,
+    "ageHours": 0.6,
+    "hits": [
+      "feedback",
+      "ux",
+      "ui"
+    ],
+    "draft": {
+      "why": "POS builder asking for UI/UX critique, but it's a solo dev project with no clear business or budget behind it",
+      "potential": 3,
+      "options": [
+        "En un POS lo que más importa es la velocidad del cajero: los botones de cobrar y los totales deben ser los elementos más grandes y de mayor contraste de la pantalla, no competir con el resto. También revisa que las acciones destructivas (anular orden, cerrar caja) estén visualmente separadas de las acciones comunes para evitar errores en horas pico.",
+        "¿El sistema está pensado para touch o para mouse y teclado? Eso cambia todo el diseño: en touch necesitas botones de mínimo 44px y flujos de máximo 2-3 toques por orden, y eso suele ser lo primero que falla en sistemas POS hechos con componentes tipo PrimeFaces."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xk8mpk",
+    "subreddit": "SideProject",
+    "title": "💬 Busco feedback de UI/UX para un Sistema POS / Gestión de Cafetería (JSF + PrimeFaces)",
+    "author": "/u/Shot-Requirement7171",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xk8mpk/busco_feedback_de_uiux_para_un_sistema_pos/",
+    "updated": "2026-10-31T12:12:16+00:00",
+    "body": "¡Hola a la comunidad! 👋\n Estoy trabajando en una aplicación web y me encantaría recibir sus opiniones, consejos o críticas constructivas orientadas principalmente a la interfaz visual (UI), diseño y experiencia de usuario (UX) .\n 📹 Demostración en video: https://youtu.be/GP3-0RIdMm4 \n 💡 Contexto del Proyecto Es un Sistema de Punto de Venta (POS) / Gestión de Cafetería interactivo. Permite administrar de forma integral:\n Inventario y Menú: Gestión de productos, categorías y características. Operativa diaria: Apertura/cierre de cajas, toma de órdenes y comandas. Facturación y Pagos: Emisión de facturas, desglose de detalles de pago y aplicación de descuentos. Gestión de Personal: Control de empleados y roles dentro del sistema. 🛠️ Stack y Arquitectura Técnica Para dar contexto sobre el tipo de componentes y estructura del frontend:\n Backend / Arquitectura: Java EE / Jakarta EE 11 (Servidor Open Liberty). Capa Web / View Layer: Jakarta Server Faces (JSF / XHTML) modularizado con plantillas generales. Biblioteca de UI: PrimeFaces (v14.0 - Jakarta edition) + CSS personalizado ( estilos.css ). Internacionalización: Soporte i18n multilenguaje (Español, Inglés y Chino). Persistencia / Base de datos: JPA con PostgreSQL. 🔍 ¿En qué me gustaría que se enfocarán sus comentarios? Jerarquía visual y contraste: ¿Los elementos principales (botones de acción, totales, menús) destacan lo suficiente? Flujo de trabajo (UX): Para un operador de caja o mesero que necesita rapidez, ¿la disposic",
+    "score": 14.6,
+    "ageHours": 0.4,
+    "hits": [
+      "feedback",
+      "ux",
+      "ui"
+    ],
+    "draft": {
+      "why": "Pide feedback UX concreto, pero es un proyecto de aprendizaje/side sin negocio ni presupuesto detrás; baja probabilidad de cliente.",
+      "potential": 3,
+      "options": [
+        "Para un POS la velocidad del cajero lo es todo: pon los botones de acción principal (cobrar, enviar comanda) siempre fijos en la misma posición, con tamaño grande y color que contraste con todo lo demás. Y asegúrate de que el flujo de tomar una orden se pueda completar sin tocar el teclado, solo con toques.",
+        "¿Lo has probado con alguien que haya trabajado de cajero o mesero? En mi experiencia, lo que mata un POS no es la estética sino los clics extra por orden. Si toma de orden requiere más de 3 toques por producto, ahí está tu primer fix."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xjr0gg",
+    "subreddit": "design_critiques",
+    "title": "Re-design review request!",
+    "author": "/u/Therical_Lol",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xjr0gg/redesign_review_request/",
+    "updated": "2026-10-30T20:50:32+00:00",
+    "body": "Hey Y&#39;all, I am wanting to do a redesign of my Apps website. I am not a super creative person and I am really struggling with which option to pick or to further refine.\n I have the possible redesigns hosted on my site, any chance y&#39;all could give feedback? I like 2 and 3 the best at the moment, but happy to alter course or alter with feedback.\n Redesigns hosted here: https://tripscircle.com/redesigns/ \n I appreciated any help in advance!\n &#32; submitted by &#32; /u/Therical_Lol \n &#32;",
+    "score": 9.5,
+    "ageHours": 15.8,
+    "hits": [
+      "feedback",
+      "design",
+      "redesign"
+    ],
+    "draft": {
+      "why": "Founder redesigning their app website, but it's a consumer travel app and they're asking for free critique, low chance of budget.",
+      "potential": 3,
+      "options": [
+        "Instead of asking which one people like, test them against one goal: what should a first-time visitor do in the first 5 seconds? Mock up that action (probably the app download button) in each version at real viewport size on your phone, and the weakest option usually disqualifies itself.",
+        "What made you want to redesign in the first place? If it's low conversions, the fix is usually messaging and hierarchy rather than picking between layouts, so knowing the actual problem would make feedback way more useful."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xk80fl",
+    "subreddit": "UXDesign",
+    "title": "The step I never skip before opening Figma: a one-page sitemap built from user questions, not page names",
+    "author": "/u/Evening_Valuable_341",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xk80fl/the_step_i_never_skip_before_opening_figma_a/",
+    "updated": "2026-10-31T11:40:03+00:00",
+    "body": "After 7+ years of designing products, the most useful habit I have is boring: I don&#39;t design anything until the structure fits on one page.\n The trick that changed how I do it: I don&#39;t start with page names like Home, About, Features. I start with the questions a visitor arrives with.\n What is this? Is it for someone like me? How does it actually work? What does it cost? Why should I trust them? Then I group those questions into sections and pages, and rank them by how often they block a decision. That ranking decides the nav order and what goes above the fold.\n After that I sketch two or three key flows (ad → pricing → sign-up, for example). Dead ends and duplicate pages show up straight away.\n Only then do I open Figma. Design goes much faster because every section already has a job.\n Curious how others here handle this. Do you start from page lists, user questions, or something else entirely?\n &#32; submitted by &#32; /u/Evening_Valuable_341 \n &#32;",
+    "score": 5.5,
+    "ageHours": 1,
+    "hits": [
+      "design",
+      "figma"
+    ],
+    "draft": {
+      "why": "Peer discussion on UX process; good visibility with designers but the poster is a practitioner, not a buyer.",
+      "potential": 3,
+      "options": [
+        "I do something similar but I add one more column: the objection that kills the decision at each step. Questions tell you what content exists, objections tell you which one gets the hero slot and which one gets buried in an FAQ.",
+        "Curious how you handle this when the stakeholder hands you a page list before you've talked to a single user. I've found showing them the question-based sitemap side by side with theirs wins the argument faster than any rationale doc."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xk6vvp",
+    "subreddit": "SideProject",
+    "title": "One app that connects all of your IP cameras and records them to your local system",
+    "author": "/u/Own-Fennel-3676",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xk6vvp/one_app_that_connects_all_of_your_ip_cameras_and/",
+    "updated": "2026-10-31T10:36:30+00:00",
+    "body": "Hi. This is Glimpo. It is one app that connects all of your IP cameras together, and it can record all of the feeds to your local system. And I&#39;m also building direct cloud recording support.\n I&#39;ve built it and I used Claude and some of my coding experience and design experience.\n I&#39;m looking for people to try, and if you want to give it a try, you can see glimpo.si/demo. It runs in browser with demo cameras. No need to install, no need to sign up.\n The hub is live on Mac and tested on real hardware. Windows, Raspberry Pi, NAS, Docker and Home Assistant are in testing. And Android and iOS apps are in review.\n I would really want to invite people to try the public beta. And if something breaks and we can fix it, it would be great.\n I actually have 5 cameras at home, and when I had to buy the memory card, the prices were so high that I thought I would rather build something. At least try to solve that problem. So that&#39;s that.\n It is free for 2 cameras live, any brand. Free is live view only, recording is on the paid plans. We can expand it to more free cameras.\n I would really love feedback and would really love people who can make this better. Of course, this is my first attempt, so apologies in areas that I lack. I guess the usual process needs community, and I&#39;m here to learn on that.\n &#32; submitted by &#32; /u/Own-Fennel-3676 \n &#32;",
+    "score": 4.9,
+    "ageHours": 2,
+    "hits": [
+      "feedback",
+      "design",
+      "sign up"
+    ],
+    "draft": {
+      "why": "Solo side-project founder seeking feedback, small chance they need design help later but likely no budget; mostly a goodwill reply.",
+      "potential": 3,
+      "options": [
+        "The demo-first approach (no install, no signup) is the strongest thing you've got, so lead with that link everywhere rather than the feature list. One thing to clarify on the page: recording being paid-only is a big gotcha for camera software, so state it next to the free tier before people hit it themselves.",
+        "What's your plan for the first-run experience when someone connects a camera that isn't auto-detected? In my experience that's where camera apps lose people, and it matters more than adding platforms right now."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xk7y00",
+    "subreddit": "SideProject",
+    "title": "I've been building an AI-powered English learning platform — I'd love your honest feedback.",
+    "author": "/u/Wise_Candidate8775",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xk7y00/ive_been_building_an_aipowered_english_learning/",
+    "updated": "2026-10-31T11:36:12+00:00",
+    "body": "Hey everyone!\n I&#39;ve been working on an idea for a new English learning platform designed to make learning more structured, interactive, and practical.\n The idea is to bring several learning experiences together in one place:\n Structured learning paths based on English proficiency levels. Interactive grammar and vocabulary lessons. Listening, reading, writing, and speaking practice. An AI English tutor for personalized feedback. Progress tracking to help learners understand their improvement. I&#39;m currently working on the early product experience and landing page.\n I&#39;d really appreciate your honest feedback:\n Does this concept solve a problem you personally experience when learning English? Which feature would be most valuable to you? What is missing from existing English learning platforms? Would you consider trying a platform like this? Here&#39;s the early preview: \n https://ai-english-learning-qqra.bolt.host \n I&#39;m especially interested in honest criticism and suggestions. Thanks!\n &#32; submitted by &#32; /u/Wise_Candidate8775 \n &#32;",
+    "score": 10.1,
+    "ageHours": 1,
+    "hits": [
+      "feedback",
+      "landing page"
+    ],
+    "draft": {
+      "why": "Early-stage solo founder with a broad feature list and no differentiation; low chance of design budget, but a reply can still be genuinely useful.",
+      "potential": 2,
+      "options": [
+        "Right now the pitch reads like a feature list every competitor also claims (Duolingo, Busuu, italki all say structured paths plus AI tutor). Pick the one thing you do differently, like the AI tutor's feedback on writing, and make the landing page about that alone.",
+        "Who's the specific learner you're building for? 'People learning English' covers a kid in Brazil and a nurse prepping for IELTS, and those need completely different products. Narrowing that first will make every other decision, including the landing page, much easier."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xk0p6w",
+    "subreddit": "design_critiques",
+    "title": "Feedback on a flyer I made for my event",
+    "author": "/u/Thatsal",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xk0p6w/feedback_on_a_flyer_i_made_for_my_event/",
+    "updated": "2026-10-31T04:16:23+00:00",
+    "body": "&#32; submitted by &#32; /u/Thatsal \n &#32;",
+    "score": 6.6,
+    "ageHours": 8.3,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Poster wants design feedback on an event flyer, so a concrete critique can show Ryan's eye, but event flyers rarely come from budgeted B2B SaaS clients.",
+      "potential": 2,
+      "options": [
+        "Happy to give feedback, but I can't see the flyer itself in the post. Can you upload the image or link it, and tell me who the event is for? That context changes what good looks like here.",
+        "The image didn't come through on my end. Once it's up, the first things I'll look at are hierarchy (can I tell what, when, and where in 3 seconds) and whether there's one clear call to action."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1297694",
+    "platform": "producthunt",
+    "title": "Backenly",
+    "author": "Zac Zuo",
+    "url": "https://www.producthunt.com/products/backenly-2",
+    "updated": "2026-10-29T14:07:32-07:00",
+    "body": "The autonomous backend for AI coding agents",
+    "score": 0.7,
+    "ageHours": 39.5,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "Product Hunt launch in the hot AI tooling space; founder is reachable today and a sharp comment can start a relationship with a funded dev-tools team.",
+      "potential": 6,
+      "options": [
+        "Congrats on the launch! Curious who you're picturing as the first user here: is this for solo devs using Cursor/Copilot style agents, or for teams running agents in CI? The onboarding path for those two is pretty different.",
+        "Happy launch day! My read from the tagline is you could position this two ways: as infra that agents provision themselves, or as a backend that keeps humans out of the loop entirely. Which framing is landing better with early users?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1296505",
+    "platform": "producthunt",
+    "title": "telemetry.dev",
+    "author": "fmerian",
+    "url": "https://www.producthunt.com/products/telemetry-dev",
+    "updated": "2026-10-28T17:13:46-07:00",
+    "body": "LLM observability for AI agents",
+    "score": 0.5,
+    "ageHours": 60.4,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "Launch day on PH for an LLM observability dev tool; founders here often need landing page and onboarding help, and the thread reaches technical founders.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch! Curious who you see as the primary user: the ML engineer who built the agents, or the platform team running them in prod? That choice usually changes everything about your onboarding flow.",
+        "Congrats on shipping! Honest question on positioning: with Langfuse and a few others in this space, are you betting that 'for AI agents' is the wedge, as in tracing multi-step agent runs rather than single LLM calls? Might be worth making that distinction loud on the page."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1297499",
+    "platform": "producthunt",
+    "title": "BaseTab AI",
+    "author": "Bugrahan Zeki Kadak",
+    "url": "https://www.producthunt.com/products/basetab-ai",
+    "updated": "2026-10-29T10:41:03-07:00",
+    "body": "Turn your new tab into an AI-powered workspace",
+    "score": 1.2,
+    "ageHours": 42.9,
+    "hits": [
+      "ai-powered",
+      "workspace"
+    ],
+    "draft": {
+      "why": "Consumer browser extension launch, good visibility but unlikely to convert to a B2B SaaS design client.",
+      "potential": 3,
+      "options": [
+        "Congrats on the launch! Curious who you picture as the core user here: is this for people drowning in tabs who want quick AI actions, or for folks who already live in a tool like Notion and want it closer at hand? The onboarding for those two groups probably looks pretty different.",
+        "Nice to see this ship! One thing I'm wondering: new tab replacements are a crowded space, so are you positioning this as a note/task workspace with AI inside, or more as an AI assistant that happens to live in your tab? That framing choice usually shapes the first-run experience a lot."
+      ]
+    }
+  }
+]
