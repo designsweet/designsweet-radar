@@ -1,0 +1,340 @@
+[
+  {
+    "platform": "reddit",
+    "id": "t3_1xky6uy",
+    "subreddit": "design_critiques",
+    "title": "[User Interface] Mobile Product Page Layout for RTL (Arabic) eCommerce ? Seeking feedback on visual hierarchy & thumb-zone CTA",
+    "author": "/u/RashidAlFalasiDXB",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xky6uy/user_interface_mobile_product_page_layout_for_rtl/",
+    "updated": "2026-11-01T08:49:25+00:00",
+    "body": "Direct link to design study / interactive tool: https://bellora-9second-test.vercel.app \n Context &amp; Background : Disclosure: I am on the engineering team building Bellora (a storefront theme for the Arabic Salla platform). We are requesting constructive feedback from the UI/UX design community on our mobile product page layout.\n When designing mobile product pages for Right-to-Left (RTL) reading patterns, we noticed three persistent UX problems across regional stores: 1. CTA Reachability : Stacking multiple options (variants, descriptions) pushes the purchase button well below the fold on standard phone viewports. 2. Scan Speed Friction : Rotating hero banners delay price and stock discovery. 3. Trust Visibility : Essential return and delivery assurances are often buried in footer links rather than placed adjacent to the purchase decision.\n Specific questions for critique : 1. Does anchoring the purchase drawer to the bottom viewport (Sticky Bottom Drawer with blur backdrop) feel natural, or does it risk competing with mobile browser chrome? 2. In RTL layouts, how does the eye-tracking flow feel when placing the micro-trust grid directly beneath the primary price? 3. Any recommendations for improving typography contrast scales for bilingual (Arabic / English) specification tables?\n Thank you for your constructive critiques!\n &#32; submitted by &#32; /u/RashidAlFalasiDXB \n &#32;",
+    "score": 15.9,
+    "ageHours": 3.8,
+    "hits": [
+      "feedback",
+      "ux",
+      "ui",
+      "design"
+    ],
+    "draft": {
+      "why": "Engineering team building a commercial storefront theme for the Salla platform, asking specific UI questions, likely has budget and ongoing design needs.",
+      "potential": 7,
+      "options": [
+        "On the sticky drawer: it works well for thumb reach, but keep it slim, one row with price plus CTA, and collapse the blur when the user scrolls down so it stops fighting the content. The bigger win is your trust grid placement: under the price is right, but in RTL make sure the icons and labels read right to left as one unit, mixed-direction trust rows are where most Arabic stores look broken.",
+        "Curious how you're handling the bilingual spec tables, that's usually the hardest part. In my experience the fix isn't contrast scale, it's giving Arabic and English their own type ramps since Arabic scripts need larger x-height equivalents to read at the same weight. Are you using a single font family for both or pairing two?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xky5f5",
+    "subreddit": "SaaS",
+    "title": "I built 8 projects this year. Only one has paying customers. Here’s what I think was different.",
+    "author": "/u/Cangingperceptions",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xky5f5/i_built_8_projects_this_year_only_one_has_paying/",
+    "updated": "2026-11-01T08:46:41+00:00",
+    "body": "Eight projects this year. Some of them I’m genuinely fond of. Clean builds, good products, things I’d happily use myself.\n One of them has paying customers. The rest don’t.\n I’ve been trying to work out why, because on paper the others were just as good. This is where I’ve got to so far:\n I’d lived the problem. It came from losing whole days to work that felt productive but wasn’t. I wasn’t guessing what the pain felt like.\n I listened before I polished. My first paying customer told me the output was too generic to pay for. I rebuilt the onboarding around that feedback, and they came back and subscribed.\n The distribution was just honesty, repeated. One plain post about where I actually was got more reach than anything I’d planned.\n Building was never the hard part. Shipping fast is easy now. Finding the one person who’ll pay is the actual job.\n The uncomfortable bit is that I could have started a ninth project instead of doing the dull work of getting the first one in front of people. That’s the trap with building fast. It lets you dodge the hard part forever.\n If you’ve got more than one thing live, was the one that made money the one you expected?\n &#32; submitted by &#32; /u/Cangingperceptions \n &#32;",
+    "score": 5.8,
+    "ageHours": 3.9,
+    "hits": [
+      "feedback",
+      "onboarding"
+    ],
+    "draft": {
+      "why": "Founder with paying customers already iterating on onboarding based on feedback, and the thread will draw SaaS founders comparing their own projects. Ryan has direct experience redesigning onboarding around 'output too generic' complaints.",
+      "potential": 7,
+      "options": [
+        "The 'too generic to pay for' fix is usually about time-to-first-value, not the output itself. In my experience the winning change is showing the customer their own data in the result within the first session, even if it's rough. Generic sample output reads like a demo, personalized output reads like a product.",
+        "Curious what the rebuilt onboarding actually changed: did you narrow the first output to one specific use case, or add a step that collects context from the user before generating anything? The answer usually tells you whether the problem was positioning or personalization."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xl1jsn",
+    "subreddit": "design_critiques",
+    "title": "Can You Critique My MVP Design?",
+    "author": "/u/Gunveer_Bains",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xl1jsn/can_you_critique_my_mvp_design/",
+    "updated": "2026-11-01T12:12:59+00:00",
+    "body": "Hey everyone!\n I’m working on an MVP called Looped. Could you please check out its design and leave your honest feedback directly on the MVP? I’d really appreciate it!\n https://niche-clip.lovable.app \n Thank you! 🙏\n &#32; submitted by &#32; /u/Gunveer_Bains \n &#32;",
+    "score": 15,
+    "ageHours": 0.4,
+    "hits": [
+      "feedback",
+      "design",
+      "mvp"
+    ],
+    "draft": {
+      "why": "Founder asking for design critique on an MVP, but the post gives no context and feedback quality depends on knowing the product and audience.",
+      "potential": 4,
+      "options": [
+        "Hard to give useful critique without knowing who Looped is for and what the one core action is. What's the main thing a first-time user should do in the first 30 seconds, and are they doing it?",
+        "Quick note: 'leave feedback directly on the MVP' adds friction, most people will bounce instead of signing up just to comment. Post a couple of screenshots here and you'll get 10x more responses."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xkulpw",
+    "subreddit": "UXDesign",
+    "title": "Experienced job hunting, portfolio/case study/resume questions and review — 11/01/26",
+    "author": "/u/AutoModerator",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xkulpw/experienced_job_hunting_portfoliocase_studyresume/",
+    "updated": "2026-11-01T05:01:57+00:00",
+    "body": "This is a career questions thread intended for Designers with three or more years of professional experience, working at least at their second full time job in the field. \n If you are early career (looking for or working at your first full-time role), your comment will be removed and redirected to the the correct thread: \n Please use this thread to:\n Discuss and ask questions about the job market and difficulties with job searching Ask for advice on interviewing, whiteboard exercises, and negotiating job offers Vent about career fulfillment or leaving the UX field Give and ask for feedback on portfolio and case study reviews of actual projects produced at work (Requests for feedback on work-in-progress, provided enough context is provided, will still be allowed in the main feed.)\n When asking for feedback, please be as detailed as possible by \n Providing context Being specific about what you want feedback on, and Stating what kind of feedback you are NOT looking for If you&#39;d like your resume/portfolio to remain anonymous, be sure to remove personal information including:\n Your name, phone number, email address, external links Names of employers and institutions you&#39;ve attended. Hosting your resume on Google Drive, Dropbox, Box, etc. links may unintentionally reveal your personal information, so we suggest posting your resume to an account with no identifying information, like Imgur. This thread is posted each Sunday at midnight EST.\n &#32; submitted by &#32; /u/AutoMo",
+    "score": 5.5,
+    "ageHours": 7.6,
+    "hits": [
+      "feedback",
+      "ux"
+    ],
+    "draft": {
+      "why": "Recurring career thread with experienced designers, but it's an automod megathread with no specific person to help and job seekers rarely hire designers.",
+      "potential": 3,
+      "options": [
+        "If you're posting a case study for review, cut it to three decisions you made, what you shipped, and one number that changed. Most experienced portfolios fail because they narrate process instead of showing judgment.",
+        "Before asking for feedback, it helps to say what role you're targeting. A case study that works for a staff IC role at a SaaS company reads very differently from one aimed at an agency or a design lead position, and reviewers give you much sharper notes with that context."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xl1r3b",
+    "subreddit": "startups",
+    "title": "Take pre-orders for an unfinished hardware product now, or keep improving it for another 6-9 months? (I will not promote)",
+    "author": "/u/OkOwl253",
+    "url": "https://www.reddit.com/r/startups/comments/1xl1r3b/take_preorders_for_an_unfinished_hardware_product/",
+    "updated": "2026-11-01T12:23:31+00:00",
+    "body": "Me and my co-founder are building a small hardware product: a screen-free study timer for your desk. Instead of a screen it shows your progress mechanically, little elements pop out while you work. There’s also an app that’s already live. I’m studying full-time and my co-founder works full-time, so this is all happening on the side. We haven’t registered a company yet.\n We have 5 working prototypes that we’re about to give to testers.. The device works, but it still has some flaws, and honestly I’m afraid people will reject it because of that.\n So we’re stuck between two options:\n Option 1: start taking pre-orders with a deposit now and sell in about 3-6 months. Not mainly for the money, but to see if people actually pay. With the deposit we’d add a short survey to learn who our customers really are. Until shipping we fix what we can and see what feedback comes in.\n Option 2: keep improving, design the next version first, and only start selling in 6-9 months.\n The dilemma is that everything still feels kind of unfinished. I don’t know if people expect it to be perfect, or if we should just go for it and see what happens.\n Honestly, option 1 excites me. Getting the first money in would make it real, and once someone has paid, I’m accountable. I have to deliver, and I like that kind of pressure.\n On the money side: before we can sell at all, we need certifications that cost around 3,500 to 5,000 €. Including that, we’d have to sell roughly 200 units before we’ve made our money ",
+    "score": 5.1,
+    "ageHours": 0.2,
+    "hits": [
+      "feedback",
+      "design"
+    ],
+    "draft": {
+      "why": "Hardware founders with a real pre-order dilemma, decent thread visibility, but they're students with no budget for design help.",
+      "potential": 3,
+      "options": [
+        "Take the pre-orders, but make the deposit small and refundable, like 5 or 10 euros. A refundable deposit still tells you who actually pulls out a card, which is the only signal that matters, and it protects you if certification takes longer than the 3-6 months you quoted. The survey idea is good, but keep it to 3 questions max or you'll tank conversion on the checkout.",
+        "One thing worth checking before option 1: what does the certification timeline actually look like for your device category? If there's any chance it slips past 6 months, paid pre-orders turn into a support nightmare fast. A cheaper test is a landing page with a real price and a 'reserve' button that takes card details but doesn't charge, you get the same demand signal with zero refund risk."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xkjb48",
+    "subreddit": "SaaS",
+    "title": "Can I get some feedback on this app(parents requested)",
+    "author": "/u/Every-Grape7679",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xkjb48/can_i_get_some_feedback_on_this_appparents/",
+    "updated": "2026-10-31T19:37:43+00:00",
+    "body": "I just want to know if this concept makes sense and any feedback you have, the app is for parents who want to capture or store memories of their kid and turns it into a digital memory book.\n Kiddofest\n &#32; submitted by &#32; /u/Every-Grape7679 \n &#32;",
+    "score": 5.1,
+    "ageHours": 17,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Founder seeking concept feedback on a consumer memory-book app, but it's a parent-facing consumer product with no clear B2B budget, so low client potential.",
+      "potential": 2,
+      "options": [
+        "The concept makes sense, but 'digital memory book' is a crowded space, so your landing page needs to answer one question fast: why this instead of a shared iCloud album or Chatbooks. In my experience the winning angle is usually a specific moment, like capturing the first year, not storing memories in general.",
+        "Who's the actual buyer here: new parents in the first year, or parents of older kids catching up? Those are two very different products and messages, and trying to speak to both usually means the homepage connects with neither."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xkhk8n",
+    "subreddit": "design_critiques",
+    "title": "Critique my website design! It is heavily inspired by eve online.",
+    "author": "/u/jabbottiii",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xkhk8n/critique_my_website_design_it_is_heavily_inspired/",
+    "updated": "2026-10-31T18:26:07+00:00",
+    "body": "Portfolio website: https://jabbott.dev/ \n Please give me some feed back so that i know what to improve! Currently the focus is on blogging articles, github projects, github repository deployments, and the resume section sourcing data from linkedin.\n Feel free to comment feed back on UI/UX principles and more!\n &#32; submitted by &#32; /u/jabbottiii \n &#32;",
+    "score": 5.1,
+    "ageHours": 18.2,
+    "hits": [
+      "ux",
+      "ui",
+      "design"
+    ],
+    "draft": {
+      "why": "Portfolio critique request from an individual dev; not a potential B2B SaaS client, but a reply can still show expertise to readers.",
+      "potential": 2,
+      "options": [
+        "Sci-fi inspired portfolios usually fail on readability first: check your body text contrast and line length on the blog articles, since that's where visitors actually spend time. I'd also make the resume section a single scannable column instead of pulling raw LinkedIn structure, because recruiters skim for role, company, and dates in that order.",
+        "What's the one action you want a visitor to take, read an article or hire you? Right now the focus sounds split across four things (blog, projects, deployments, resume), and portfolio sites convert better when one of those clearly leads the hierarchy."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xl0vnh",
+    "subreddit": "SideProject",
+    "title": "I got tired of online PDF tools asking for my email, so I built my own.",
+    "author": "/u/Mentalban11111",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xl0vnh/i_got_tired_of_online_pdf_tools_asking_for_my/",
+    "updated": "2026-11-01T11:35:55+00:00",
+    "body": "Until now, most of my website development has been limited to internal company websites, the kind that don&#39;t get much public traffic. This is my first real attempt at building something that will be public facing, and I wanted to create something that might actually be useful to people.\n So I picked one of my pet peeves: PDFs!!!\n I&#39;ve probably used just about every free PDF tool available online, and I&#39;ve never been particularly happy with the experience. Signups, spam emails and accounts…\n I did use AI to help me along the way, but the project has been a massive learning experience. Not just in building a website, but in understanding what it takes to develop, launch and maintain something that real people can use.\n PDF and Photo ( https://pdfandphoto.com ) offers a collection of PDF and image tools, with no sign-ups and no accounts and no spam emails.\n Everything is procesed directly in your browser, on your own phone or computer. Your files don&#39;t need to be uploaded to a server.\n This has been a fun project and a pretty steep learning curve for me.\n Please have a look and let me know what you think. I&#39;d genuinely appreciate any feedback, suggestions or criticism.\n &#32; submitted by &#32; /u/Mentalban11111 \n &#32;",
+    "score": 4.5,
+    "ageHours": 1,
+    "hits": [
+      "feedback",
+      "signups"
+    ],
+    "draft": {
+      "why": "First-time public launch, poster is a hobby dev not a B2B founder with budget, so client potential is low, but they explicitly asked for feedback.",
+      "potential": 2,
+      "options": [
+        "The browser-only processing is your real differentiator, so put that above the fold: 'Your files never leave your device' says it faster than 'no sign-ups, no accounts.' Most people skim the homepage in 5 seconds and 'no spam' doesn't tell them why that's possible.",
+        "Which tool do you expect to get used most? I'd lead the homepage with just that one as a working widget instead of a grid of options. Tools like this win by solving one search intent instantly, and the grid makes people pick before they've seen anything work."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xl1l1n",
+    "subreddit": "SideProject",
+    "title": "I built Bookmarks!!",
+    "author": "/u/_SadScientist",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xl1l1n/i_built_bookmarks/",
+    "updated": "2026-11-01T12:14:43+00:00",
+    "body": "A simple Android app for saving and organizing links from Instagram, X, Tumblr, and more.\n It automatically groups links by app, supports custom folders, search, themes, and app lock, all wrapped in a playful, minimal UI.\n It’s open source, and I’d love your feedback! 💛\n Github: Bookmarks \n APK: APK file \n &#32; submitted by &#32; /u/_SadScientist \n &#32;",
+    "score": 4.1,
+    "ageHours": 0.4,
+    "hits": [
+      "feedback",
+      "ui"
+    ],
+    "draft": {
+      "why": "Hobby open-source consumer app; poster might become a future founder but no budget signal now.",
+      "potential": 2,
+      "options": [
+        "Grouping by app automatically is nice, but the real friction will be the share-to-save flow. If saving a link takes more than two taps from the Instagram share sheet, people will quietly stop using it, so I'd make that path as short as possible before adding more features.",
+        "Have you thought about what happens when someone saves 200 links? Folders plus search is a good start, but at that volume most people want a quick 'recently saved' or unsorted inbox view, which is often what separates a toy from a daily tool."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xkzwnw",
+    "subreddit": "SideProject",
+    "title": "FelixDict: look up a word when you only remember its beginning, inside Alfred, Raycast or Vicinae",
+    "author": "/u/Altruistic_Green_987",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xkzwnw/felixdict_look_up_a_word_when_you_only_remember/",
+    "updated": "2026-11-01T10:38:04+00:00",
+    "body": "We built FelixDict for a small problem: remembering the first few letters of an English word, but not its full spelling.\n Type trans and it shows candidates such as transfer , transition and transaction , together with Chinese glosses. Pick the word, complete it, then look up the full entry without leaving your launcher. Alfred uses Tab for completion; Raycast and Vicinae use Cmd+O on macOS.\n It also provides dictionary meanings, pronunciation information, word forms where available, and translation. Youdao, Google and Bing results are labeled by source. No translation API key is required. A query such as :ja hello chooses Japanese for that lookup.\n FelixDict is free and MIT licensed. The three launcher versions have been tested on macOS, with additional Arch Linux testing for Vicinae. Queries go to the enabled online providers; this is not an offline dictionary. Much of the lookup UI is Chinese, so it is especially useful for people who want English–Chinese explanations.\n Installation: Alfred needs Powerpack and Node.js 18+; Vicinae has a precompiled ZIP; Raycast currently uses source installation with Node.js 22.22.2+. It is not in the extension stores yet.\n Source, screenshots and installation \n I am one of the developers. The project was developed with AI assistance, and this introduction was AI-assisted too. I would appreciate feedback on the prefix-to-full-word flow and any installation friction.\n &#32; submitted by &#32; /u/Altruistic_Green_987 \n &#32;",
+    "score": 4,
+    "ageHours": 2,
+    "hits": [
+      "feedback",
+      "ui"
+    ],
+    "draft": {
+      "why": "Developer asks for feedback on their word-completion flow and install friction, but it's a free MIT-licensed consumer tool with no budget or design needs.",
+      "potential": 2,
+      "options": [
+        "The prefix-completion flow sounds right, but the real friction point is discoverability: users won't know the :ja syntax or which launcher key completes unless they read docs. I'd surface a hint in the results view itself, like 'Tab to complete, :ja for Japanese' as a footer line.",
+        "Honest question: who is the core user here, Chinese speakers learning English vocab, or developers who just forget spellings? The answer should change what the first-run experience shows, since right now the UI leans hard one way."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xl0noz",
+    "subreddit": "SaaS",
+    "title": "Anyone building a unified messaging app for Mac, like Beeper or Singlebox?",
+    "author": "/u/YetiMaverick",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xl0noz/anyone_building_a_unified_messaging_app_for_mac/",
+    "updated": "2026-11-01T11:22:46+00:00",
+    "body": "I&#39;m looking for a Mac app that brings WhatsApp, Telegram, Instagram, and other messaging platforms into one place, similar to Beeper or Singlebox.\n I&#39;m currently using Singlebox and actually really like it, but since it was acquired by WebCatalog, getting in touch with support has become nearly impossible.\n I&#39;d love to find an alternative that&#39;s actively maintained, ideally by an indie developer or small team that&#39;s accessible and open to feedback.\n Is anyone here building something like this, or know of any lesser-known alternatives worth checking out? Happy to try new tools and provide feedback!\n &#32; submitted by &#32; /u/YetiMaverick \n &#32;",
+    "score": 3.8,
+    "ageHours": 1.3,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "User seeking a tool recommendation, not a design problem. Ryan can add a useful observation but there's no client angle here.",
+      "potential": 2,
+      "options": [
+        "Ferdium is the closest actively maintained option. It's open source, community driven, and covers WhatsApp, Telegram, and most other services as web wrappers. The tradeoff vs Singlebox is polish, but support issues get answered on GitHub within days.",
+        "Before switching, worth asking what you actually use Singlebox for beyond unification. If it's mostly notifications plus quick replies, a wrapper like Ferdium works fine, but if you rely on unified search across platforms, Beeper is still the only one doing that well."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xkulpl",
+    "subreddit": "UXDesign",
+    "title": "Breaking into UX/early career: job hunting, how-tos/education/work review — 11/01/26",
+    "author": "/u/AutoModerator",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xkulpl/breaking_into_uxearly_career_job_hunting/",
+    "updated": "2026-11-01T05:01:57+00:00",
+    "body": "This is a career questions thread intended for people interested in starting work in UX, or for designers with less than three years of formal freelance/professional experience. \n Please use this thread to ask questions about breaking into the field, choosing educational programs, changing career tracks, and other entry-level topics.\n If you are **not currently working in UX**, use this thread to ask questions about:\n Getting an internship or your first job in UX Transitioning to UX if you have a degree or work experience in another field Choosing educational opportunities, including bootcamps, certifications, undergraduate and graduate degree programs Finding and interviewing for internships and your first job in the field Navigating relationships at your first job, including working with other people, gaining domain experience, and imposter syndrome Portfolio reviews, particularly for case studies of speculative redesigns produced only for your portfolio When asking for feedback, please be as detailed as possible by \n Providing context Being specific about what you want feedback on, and Stating what kind of feedback you are NOT looking for If you&#39;d like your resume/portfolio to remain anonymous, be sure to remove personal information like:\n Your name, phone number, email address, external links Names of employers and institutions you&#39;ve attended. Hosting your resume on Google Drive, Dropbox, Box, etc. links may unintentionally reveal your personal information, so we",
+    "score": 7.7,
+    "ageHours": 7.6,
+    "hits": [
+      "feedback",
+      "ux"
+    ],
+    "draft": {
+      "why": "Weekly thread full of early-career designers and career switchers, none with budget or design problems Ryan fixes.",
+      "potential": 1,
+      "options": [
+        "If you're doing a speculative redesign for your portfolio, pick one flow instead of the whole app. Three screens redesigned with a clear problem statement and your reasoning beats a 40-screen case study every hiring manager skims.",
+        "One thing that helped people I've mentored: write your case study for someone who will spend 90 seconds on it. Problem, your role, one hard decision and why, outcome. Everything else goes in an appendix."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1298096",
+    "platform": "producthunt",
+    "title": "Embage",
+    "author": "Aradhya Tiwari",
+    "url": "https://www.producthunt.com/products/embage",
+    "updated": "2026-10-30T00:01:40-07:00",
+    "body": "Build agent for your customers, run workflows, analyzed.",
+    "score": 1.8,
+    "ageHours": 53.6,
+    "hits": [
+      "workflow",
+      "customers",
+      "customer"
+    ],
+    "draft": {
+      "why": "PH launch for an AI agent/workflow tool aimed at B2B companies, founders likely need landing page and onboarding help soon.",
+      "potential": 6,
+      "options": [
+        "Congrats on the launch! Quick question: when a customer sets up their first agent, do they start from a blank canvas or from templates? That first five minutes usually decides whether people stick.",
+        "Happy launch day! Curious who you're aiming at first, support teams automating replies or ops teams running internal workflows? Feels like the messaging could lean hard into one of those and I'd be interested which converts better for you."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1299785",
+    "platform": "producthunt",
+    "title": "agentmash",
+    "author": "Damir Iskakov",
+    "url": "https://www.producthunt.com/products/agentmash",
+    "updated": "2026-10-31T11:08:19-07:00",
+    "body": "open-source multiplayer AI for teams' coding agents",
+    "score": 4.1,
+    "ageHours": 18.5,
+    "hits": [
+      "teams",
+      "agents",
+      "team"
+    ],
+    "draft": {
+      "why": "Open-source dev tool launching on PH; team-focused angle suggests B2B potential, but open-source projects rarely have design budget.",
+      "potential": 3,
+      "options": [
+        "Congrats on the launch! Curious who you picture as the first real user: is it a team lead rolling this out to their whole team, or an individual dev who wants their agent to play nice with others? That answer changes a lot about your onboarding.",
+        "Happy launch day! The name says multiplayer, but the tagline is about agents. Is the real story here 'your team's agents collaborate' or 'your team collaborates through agents'? Nailing that one line will do a lot for click-through."
+      ]
+    }
+  }
+]
