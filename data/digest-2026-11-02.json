@@ -1,0 +1,309 @@
+[
+  {
+    "platform": "reddit",
+    "id": "t3_1xlv6xw",
+    "subreddit": "SaaS",
+    "title": "What makes you abandon a SaaS sign-up or free trial straight away?",
+    "author": "/u/MAGDA_Framework",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xlv6xw/what_makes_you_abandon_a_saas_signup_or_free/",
+    "updated": "2026-11-02T11:55:17+00:00",
+    "body": "Because I spend my workdays mapping user journeys across SaaS products and apps, I have probably become a much less patient user in my own life.\n Once you notice how often products put unnecessary hurdles in front of new users, you cannot unsee it. Even if there is a solid reason behind a step, a new user does not see the reason, only the effort.\n At this point, I have three non-negotiables when I try a new tool (and three things I would tell any SaaS team to avoid). Maybe they will be of use to some of you!\n Don’t ask for my phone number before showing me any value . The moment I type it in, I picture a sales call I never asked for, usually at the worst possible moment. Unless you need it for two-factor login, ask for it later and tell me why you need it. Don’t hide pricing behind “Book a demo” or an account wall. If I have to sign up and verify my email just to see what a plan costs, I usually go and look at a competitor. Don’t leave me with lots of features but no clear first step after I sign up. The first screen I see should let me do the exact thing I came for. An empty dashboard with five different menus and no onboarding is just another point where people drop off. Go easy on the emails after sign-up too: enough to make people feel welcome, not so many that they feel overwhelmed. My rule of thumb is simple: ask only what you need to get someone started, and ask the rest later, when it is clearly useful to them.\n What are your non-negotiables when you try a new SaaS pr",
+    "score": 6.9,
+    "ageHours": 1,
+    "hits": [
+      "onboarding",
+      "dashboard",
+      "sign up"
+    ],
+    "draft": {
+      "why": "Poster maps user journeys for SaaS products and the thread draws exactly the B2B SaaS founders Ryan serves, all discussing onboarding friction.",
+      "potential": 8,
+      "options": [
+        "The empty dashboard one is where I see the most avoidable drop-off. The fix is usually cheap: pre-fill the first screen with one sample project or template so the user edits something real instead of staring at a blank state, and completion rates on the first key action jump.",
+        "One I'd add: forcing me to pick a plan or enter a card before the trial starts. In my experience, 'no credit card required' in the signup button copy is one of the highest-leverage lines on a pricing page. Curious how you handle teams that insist on it for qualifying leads?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xlpp7y",
+    "subreddit": "SaaS",
+    "title": "Suggestion for Interactive demo builder",
+    "author": "/u/ArtHelpful5941",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xlpp7y/suggestion_for_interactive_demo_builder/",
+    "updated": "2026-11-02T06:15:15+00:00",
+    "body": "As per the title, I&#39;m looking for suggestions for an interactive demo builder. My product has all the usual features like charts, alerts, tables and side panels all of them happening on the same screen.\n I tried making a clickable demo for the website at first but when dashboard gets squeezed into the embed it gets so tiny. Is there any solution for that? I also like adding tooltips but they take up so much of the UI as well.\n So many hurdles, yet the flow I wanna show is really simple. Like notice a spike in the chart → open the risky transaction → check why it was flagged → go back to the dashboard. \n I need some way to focus or zoom into those areas while they go through it but still keep it interactive. Otherwise I might as well just make a video. What do you all suggest?\n &#32; submitted by &#32; /u/ArtHelpful5941 \n &#32;",
+    "score": 2.7,
+    "ageHours": 6.7,
+    "hits": [
+      "ui",
+      "dashboard"
+    ],
+    "draft": {
+      "why": "SaaS founder actively solving a website conversion problem with budget signals, visible to other founders in r/SaaS",
+      "potential": 8,
+      "options": [
+        "The squeeze problem usually isn't the embed size, it's that you're showing the whole dashboard when the story only needs one corner of it. Crop the capture to just the chart and side panel for each step, then cut to a wider view only at the start and end so people get their bearings. Guided tools like Navattic or Storylane let you do this with zoom/focus steps instead of full-screen captures.",
+        "Quick question before you pick a tool: what's the one decision you want a visitor to make after the demo? If it's 'book a call,' a 4-step guided flow on a cropped view beats a full interactive replica every time. If it's self-serve signup, you need them to trust the real UI, which argues for a short video plus a sandbox instead."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xlscgg",
+    "subreddit": "SaaS",
+    "title": "We built a security check for the AI features inside SaaS products. The first version is live.",
+    "author": "/u/TawaGuard",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xlscgg/we_built_a_security_check_for_the_ai_features/",
+    "updated": "2026-11-02T09:04:51+00:00",
+    "body": "Disclosure: we’re the team behind TAWA GUARD.\n More SaaS products now ship an AI assistant or agent that reads customer content: tickets, emails, uploaded files, web pages. Hidden text in that content can act as an instruction to the model, and OWASP ranks prompt injection first among LLM application risks.\n So we built TAWA GUARD, a check that runs before the model reads anything. It answers allow, flag or block, shows which part of the input triggered it, and logs every decision. You set the policy. It’s one API call and works with any model.\n It’s a first version, one layer of your security stack.\n There’s a free API key if you want to try it on your own inputs, and we’d value your feedback.\n Video: https://www.youtube.com/watch?v=yR6p7nnrtUc \n Free API key: https://tawaguard.com/ \n &#32; submitted by &#32; /u/TawaGuard \n &#32;",
+    "score": 2.9,
+    "ageHours": 3.8,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "B2B SaaS founders shipping a developer tool with a live landing page, exactly the audience Ryan serves, and the thread will be read by other SaaS builders.",
+      "potential": 7,
+      "options": [
+        "Congrats on shipping. One thing to think about as you iterate: 'allow, flag or block, shows which part triggered it' is your strongest line, and I'd lead the homepage with that concrete behavior instead of the OWASP framing. Buyers trust a tool faster when they see the exact decision output first, context second.",
+        "Nice launch. Curious who you see deploying this first: is it the SaaS team adding one AI feature to an existing product, or security teams at bigger companies? The answer changes a lot about how the first-time setup experience should work, self-serve API key vs. a guided onboarding."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xlol4r",
+    "subreddit": "SaaS",
+    "title": "The Solo Founder Trap: Busy but Not Growing",
+    "author": "/u/Boring_Commercial437",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xlol4r/the_solo_founder_trap_busy_but_not_growing/",
+    "updated": "2026-11-02T05:11:20+00:00",
+    "body": "I think one of the biggest traps for solo founders is doing too many things right, but none of them at a scale that actually moves the needle.\n For example, right now I could:\n Post content on LinkedIn Join conversations on X Promote my product in Facebook communities Reach out to potential users directly Experiment with Reddit Keep improving my landing page and onboarding Every single one of these activities makes sense.\n But here&#39;s the problem: together, they can easily consume my entire day without generating meaningful growth.\n And the tricky part is that being busy feels like making progress. \n I&#39;m starting to think that doing fewer things consistently, at a meaningful scale, might be far more effective than trying to be everywhere.\n Curious how other solo founders approach this. Do you focus on one acquisition channel at a time, or try to grow across several?\n https://preview.redd.it/ba053a5cu4zh1.png?width=1672&amp;format=png&amp;auto=webp&amp;s=9bb2fc0c9c50251c0fb2eeea88029b3c39fff7c4 \n &#32; submitted by &#32; /u/Boring_Commercial437 \n &#32;",
+    "score": 5.3,
+    "ageHours": 7.7,
+    "hits": [
+      "landing page",
+      "onboarding"
+    ],
+    "draft": {
+      "why": "Solo founder with a SaaS deciding where to spend time, including landing page and onboarding work, so design advice lands and the thread is visible to other founders.",
+      "potential": 6,
+      "options": [
+        "One channel at a time, but give it a real test: 4 to 6 weeks of consistent volume before you judge it. Most founders abandon channels after 5 posts, which tells you nothing. In my experience the one thing worth doing across all channels is direct outreach, because the conversations double as customer research.",
+        "Worth separating the list into acquisition and product work. LinkedIn, X, Reddit, outreach are all bets on attention, but landing page and onboarding only matter once attention exists. If you're getting under a few hundred visits a week, pause the page tweaks entirely and put those hours into one channel until it either converts or clearly doesn't."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xlu3a4",
+    "subreddit": "SaaS",
+    "title": "“does chatgpt recommend us?” is a harder question to answer than i thought",
+    "author": "/u/monkwhosoldsomething",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xlu3a4/does_chatgpt_recommend_us_is_a_harder_question_to/",
+    "updated": "2026-11-02T10:53:22+00:00",
+    "body": "client asked me this a while back. i checked chatgpt once, they weren’t there. reworded the question, they showed up second. perplexity, not there. gemini, bottom of the list. so my first answer was basically useless lol\n what we do now: write 20 to 30 specific questions buyers actually ask, run each one 3 to 4 ways on chatgpt, perplexity, gemini and ai overviews, and log who gets mentioned and what sources get cited.\n the sources were the surprise. competitors often show up because of some comparison blog or reddit thread, not their own site.\n anyone else tracking this? is ai search sending you actual signups yet?\n (disclosure: co-founder of a tool that automates this, not linking it)\n &#32; submitted by &#32; /u/monkwhosoldsomething \n &#32;",
+    "score": 2.5,
+    "ageHours": 2,
+    "hits": [
+      "signups"
+    ],
+    "draft": {
+      "why": "Poster runs a SaaS tool in the AI-visibility space and is engaging founders; a sharp reply could surface a design need for their own product's positioning or onboarding.",
+      "potential": 5,
+      "options": [
+        "The sources point tracks with what I've seen. Your own marketing site rarely gets cited because LLMs favor pages that compare or list options, so the move is making sure third-party listicles and comparison posts describe you accurately, then making your site quotable with specific claims instead of vague positioning.",
+        "Curious how you handle variance over time. If the same question 3 different ways flips the answer, does a single run tell a client anything, or do you report some kind of share-of-voice average across runs?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xlndy7",
+    "subreddit": "SaaS",
+    "title": "What's one thing you wish you had validated before building your SaaS?",
+    "author": "/u/Tushar_Yadav2008",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xlndy7/whats_one_thing_you_wish_you_had_validated_before/",
+    "updated": "2026-11-02T04:06:07+00:00",
+    "body": "&#x200B;\n I&#39;ve been building a SaaS recently, and one thing I&#39;ve started realizing is how easy it is to spend weeks building features based on assumptions.\n You think users need a dashboard, integrations, automated reports and dozens of features.\n But sometimes the actual problem is much simpler.\n I&#39;m trying to get better at validating problems before investing more time in development.\n For founders who&#39;ve already launched something:\n What assumption did you get completely wrong?\n Did you build a feature nobody ended up using?\n What&#39;s one thing you would validate before writing your first line of code if you could start again?\n Would love to hear some real experiences, especially from indie hackers and bootstrapped founders.\n &#32; submitted by &#32; /u/Tushar_Yadav2008 \n &#32;",
+    "score": 1.6,
+    "ageHours": 8.8,
+    "hits": [
+      "dashboard"
+    ],
+    "draft": {
+      "why": "Active r/SaaS discussion where a concrete validation answer can get visibility with early-stage founders, though the poster looks like a first-timer without budget.",
+      "potential": 4,
+      "options": [
+        "The assumption I got wrong was that a 'not now' from a landing page test meant weak demand. It usually meant the page explained the feature, not the painful moment that triggers the search. When I rewrote it around the trigger moment, same product, signups roughly tripled. Validate the message before you validate the product.",
+        "The thing nobody tells you: people will validate your idea enthusiastically and still never pay, because 'that's a real problem' and 'I'd budget for a fix this quarter' are different questions. Now I ask how they're solving it today and what that workaround costs them. If the answer is 'nothing, we just live with it,' I walk away."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xlu5hq",
+    "subreddit": "SaaS",
+    "title": "I’m building a real-time auction platform with a 4-second sniper timer & ticket-based bidding. Looking for feedback on the core concept!",
+    "author": "/u/Spirited_Artist6217",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xlu5hq/im_building_a_realtime_auction_platform_with_a/",
+    "updated": "2026-11-02T10:56:58+00:00",
+    "body": "Hey everyone! 👋\n As a software engineer I’m currently building real-time auction platform designed around a very fast-paced, high-stakes bidding mechanic, and I wanted to run the core idea by you guys to see what you think.\n 🎲 How the Auction Mechanic Works:\n Tickets &amp; Bids: Users buy a ticket, which gives them a specific allocation of bids they can use. The 4-Second Timer: Every time a new bid is placed, the countdown timer resets to just 4 seconds . Winning: If the timer hits zero and no one outbids the current leader, they win the item completely without paying any extra amount. 🎯 What I’d Love to Hear From You:\n What do you think about this auction model?\n Would you personally use or try a platform like this?\n 🚀 Launching Soon\n The core MVP is almost ready. If this sounds like something you&#39;d want to test or check out when it goes live, drop a comment below , and I’ll make sure to ping you the moment the early access is up!\n Thanks for reading, and I&#39;d love to hear your thoughts or critiques! 👇\n &#32; submitted by &#32; /u/Spirited_Artist6217 \n &#32;",
+    "score": 10,
+    "ageHours": 2,
+    "hits": [
+      "feedback",
+      "mvp"
+    ],
+    "draft": {
+      "why": "Founder pre-launch asking for feedback on an auction mechanic, so design feedback on trust and UI is relevant, but it is a consumer product with unclear monetization.",
+      "potential": 3,
+      "options": [
+        "The 4-second reset is a penny-auction mechanic, and that model has a trust problem more than a fun problem. Your UI needs to make bid costs and ticket spend brutally transparent in real time, or users will churn fast and leave angry reviews. I'd show a running 'you've spent X tickets' counter right next to the bid button.",
+        "Who's your first user, and what's the item mix? If it's electronics and gift cards you'll get compared to the old penny-auction sites that burned people. If it's niche collectibles or community-run auctions, the same mechanic reads as exciting instead of predatory, and that positioning choice matters more than the timer length."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xlskoy",
+    "subreddit": "SaaS",
+    "title": "I'm shelving my SaaS after 8 weeks of selling it. The founders who liked it had no customers",
+    "author": "/u/lmfresneda",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xlskoy/im_shelving_my_saas_after_8_weeks_of_selling_it/",
+    "updated": "2026-11-02T09:19:48+00:00",
+    "body": "I&#39;m stopping work on HAGGIN, a tool I launched in September. It lets a SaaS put a link where customers usually leave (end of trial, cancel flow) so they can make an offer instead of just going. The product works and stays online, I&#39;m just not building on it anymore. Posting this because the reasons might save someone else a few months.\n I wrote to close to 300 SaaS founders one by one, mostly on X, gave 60 days of the paid plan free to anyone who answered (later the first month for $1), and set up the page myself for whoever said yes. After 8 weeks I had 18 signups, 11 pages live and 0 paying customers. The only 2 deals were $0 swaps with other founders.\n The people who said yes were almost all indie founders with tiny SaaS and no customers yet. Some were trying anything that might get them a first customer, some wanted to meet other founders. I don&#39;t blame them, I do it too. But nobody in that group had a pricing problem, because nobody was paying them yet.\n The founders with paying customers mostly didn&#39;t need it. They already had a win-back process, or low churn, or trials that converted fine, or they didn&#39;t want their price to be negotiable at all. The one that stuck with me was a company with around 20% churn. I offered it free and they passed. They wanted fewer people to leave in the first place, and that&#39;s where their time was going.\n Nobody asked about the price before I mentioned it, and nobody who tried it came back to use it a second time. N",
+    "score": 3.9,
+    "ageHours": 3.6,
+    "hits": [
+      "churn",
+      "signups"
+    ],
+    "draft": {
+      "why": "Thoughtful post-mortem in a founder-heavy subreddit; good visibility for a sharp comment, but the poster has shelved the product and has no budget, so client potential is low.",
+      "potential": 3,
+      "options": [
+        "The signal was in the signup flow itself: you were doing concierge setup for every page, which means the people who said yes were buying your effort, not the tool. If you'd made setup fully self-serve, the 'yes' list would have been much smaller but way more honest.",
+        "The 20% churn company passing is the real lesson. Churn tools get bought by teams with retention budget, and they measure success before the cancel click, not after. Did any of the 300 founders you wrote to actually fit that profile, or were you mostly reaching indie hackers by channel choice?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xlrp59",
+    "subreddit": "SaaS",
+    "title": "Would you pay for a tool that turns your screenshots into ready-to-post social media content?",
+    "author": "/u/ayiren",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xlrp59/would_you_pay_for_a_tool_that_turns_your/",
+    "updated": "2026-11-02T08:21:52+00:00",
+    "body": "I have a question for people who regularly create content or post on social media.\n How often do you come across a screenshot of a tweet, Reddit post, article, chart, or interesting piece of information and think, &quot;I could turn this into a great post&quot;?\n But then you have to manually extract the text, understand the context, come up with an interesting angle, and write the post yourself.\n Would you pay for a tool that does all of this for you?\n The idea is simple:\n Upload a screenshot. The tool understands the context. It generates different post variations, such as hot takes, questions, statistics-based posts, and threads. It refines your writing and makes it ready to publish. I&#39;m curious:\n Would you actually pay for something like this? What features would make it worth paying for? Would you prefer a monthly subscription? Honest feedback is appreciated!\n &#32; submitted by &#32; /u/ayiren \n &#32;",
+    "score": 3.5,
+    "ageHours": 4.5,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Founder doing early idea validation in r/SaaS; could become a client later but no concrete design problem yet and the product targets individual content creators, not B2B budgets.",
+      "potential": 3,
+      "options": [
+        "The screenshot-to-text part is a commodity now, any LLM does it. What people actually pay for is the angle generation sounding like them, so I'd validate that first: can it learn someone's voice from their past posts? That's the feature that separates a tool from a gimmick.",
+        "Who's the buyer you're picturing, a solo founder doing founder-led content or a social media manager? That changes the pricing completely. Managers expense tools that save them hours, solo founders churn the moment a free ChatGPT prompt gets 80% of the way there."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xlszj4",
+    "subreddit": "SaaS",
+    "title": "Literally I got 80 users in 24 hours idk how",
+    "author": "/u/Desperate-Cell2521",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xlszj4/literally_i_got_80_users_in_24_hours_idk_how/",
+    "updated": "2026-11-02T09:46:21+00:00",
+    "body": "Recently me and my cousin launched a pdf editor tool. Listen this might sound shh but yes we made our own pdf tool and we were using it from last 2/3 months. We used it at our own construction company to sign documents and contracts and edit pdf in any way. \n The we purchased a domain “pdfella” and when I added posthog I saw like 500/600 events were happening in a day. Like what? Simply I made the landing page and all entirely by claude and did a bit of SEO and AEO. Yesterday I introduced sign in and after 24 hrs I have 80 hrs.\n Things we have is nothing new really. There are many things that you need to pay are for free that’s only thing but you can find every features in every other pdf tool but without shouting anything we got users and this surprised me.\n &#32; submitted by &#32; /u/Desperate-Cell2521 \n &#32;",
+    "score": 2.9,
+    "ageHours": 3.1,
+    "hits": [
+      "landing page"
+    ],
+    "draft": {
+      "why": "Early-stage tool founder surprised by traction, but it's a free PDF editor competing with giants, no revenue model or budget signal",
+      "potential": 3,
+      "options": [
+        "Those 500-600 events before you added login are your real signal. Set up a Posthog funnel from landing to first completed PDF action, not just signups, because 80 accounts means nothing if nobody finishes an edit. Then figure out which feature drives the most completed actions and make that the hero on the landing page.",
+        "Curious why construction was the original use case, because that might be your actual edge. 'PDF editing for contractors who sign contracts in the field' is a much stronger wedge than a free generic editor fighting Adobe. Have you looked at whether your early users are coming from that world or from the SEO traffic?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xltgvc",
+    "subreddit": "SaaS",
+    "title": "Never thought someone would pay for my productivity app.",
+    "author": "/u/Fantastic_Serve__",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xltgvc/never_thought_someone_would_pay_for_my/",
+    "updated": "2026-11-02T10:16:03+00:00",
+    "body": "Yeah, I know many of you say &quot;another productivity app.&quot;\n I&#39;m a history graduate and didn&#39;t know anything about tech I started learning vibe coding 6 months ago I built the app and published it on the Play Store, and someone paid for it. It really makes me happy.\n Every time I saw a new productivity app launched on Reddit, it made me feel: why am I doing this? Will someone actually pay for it, or am I just wasting my time?\n But one thing always pushed me forward: even if I don&#39;t earn anything from this app, at least I have learned so much from it.\n • I never knew anything about databases or tech stuff. I learned about caching, better indexing, Redis, and many other things.\n • I learned some UX parts, like how to hide the loading, optimistic UI and skeleton screens. I know for many of you this is nothing, but as a history graduate I didn&#39;t know anything. \n • I learned from the analytics how users actually use the app, what I can do better to retain users longer, and how good and personalised onboarding helps users stay longer on the app.\n It&#39;s not about the UI or having so many features. It&#39;s all about solving the problem the user is looking for.\n With these learnings, I&#39;m building another app, and this time it&#39;s not a productivity app. This time app building is not taking as long as I take earlier, and I&#39;m handling things more easily.\n &#32; submitted by &#32; /u/Fantastic_Serve__ \n &#32;",
+    "score": 6.4,
+    "ageHours": 2.6,
+    "hits": [
+      "onboarding",
+      "ux",
+      "ui"
+    ],
+    "draft": {
+      "why": "Heartfelt solo-dev milestone post; consumer productivity app, no budget or B2B angle, but a chance to give one concrete useful observation.",
+      "potential": 2,
+      "options": [
+        "You already found the thing most first-time founders miss: onboarding personalization beats features. In my experience the biggest retention jump comes from asking one question in the first session (what are you trying to get done?) and tailoring the first screen to that answer.",
+        "Congrats on the first paying user, that moment never gets old. One question worth digging into before app number two: what did that paying user do in their first session that non-payers didn't? That behavior is your real onboarding goal."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xlq8ec",
+    "subreddit": "SaaS",
+    "title": "Naruto Uzumaki just signed up for my SaaS 😭🍥",
+    "author": "/u/ChanceGlittering6323",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xlq8ec/naruto_uzumaki_just_signed_up_for_my_saas/",
+    "updated": "2026-11-02T06:48:27+00:00",
+    "body": "I was checking new signups on my SaaS, Humanize AI Writer, and saw a user named Naruto Uzumaki.\n Bro, what are you trying to humanize? 💀\n Your Hokage inauguration speech? Or a 500-word essay convincing Sasuke to come back to the Hidden Leaf Village? 😭\n For context, I built Humanize AI Writer to let people compare leading AI humanizers side by side.\n Never thought the Seventh Hokage would be part of my target audience 😂\n What&#39;s the funniest username you&#39;ve seen sign up for your product?\n &#32; submitted by &#32; /u/ChanceGlittering6323 \n &#32;",
+    "score": 2.7,
+    "ageHours": 6.1,
+    "hits": [
+      "sign up",
+      "signups"
+    ],
+    "draft": {
+      "why": "Lighthearted thread from a SaaS founder, good for a quick laugh reply but the product is consumer-leaning AI humanizer tooling, not a B2B design prospect.",
+      "potential": 2,
+      "options": [
+        "Fake anime names are a blessing in disguise, they make it easy to spot which signups will never convert. I filter obvious joke emails out of my activation metrics or the funnel numbers lie to you.",
+        "Funniest part is these signups still count in your MRR-adjacent dashboards unless you filter them. Do you scrub test and joke accounts from your signup count, or just let Naruto inflate the numbers?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1298623",
+    "platform": "producthunt",
+    "title": "Display 1.0",
+    "author": "Ott Ilves",
+    "url": "https://www.producthunt.com/products/display-dev",
+    "updated": "2026-10-30T08:28:49-07:00",
+    "body": "Create docs and apps with any agent, in one workspace",
+    "score": 0.6,
+    "ageHours": 69.4,
+    "hits": [
+      "workspace"
+    ],
+    "draft": {
+      "why": "Launch-day visibility on PH means the founder and other makers will read comments; a sharp question can start a conversation with a funded SaaS-adjacent team.",
+      "potential": 6,
+      "options": [
+        "Congrats on the launch! Quick question: when someone lands in the workspace for the first time, what's the very first thing you want them to do, create a doc or connect an agent? Curious how you handle that blank-canvas moment.",
+        "Happy launch day! The tagline covers a lot of ground, so I'm wondering who this is really for: is the wedge teams replacing Notion plus an agent tool, or individuals who just want one place to run agents? Picking one clearly could sharpen the page a lot."
+      ]
+    }
+  }
+]
