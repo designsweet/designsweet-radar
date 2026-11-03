@@ -1,0 +1,413 @@
+[
+  {
+    "platform": "reddit",
+    "id": "t3_1xmn8xq",
+    "subreddit": "SaaS",
+    "title": "SaaS founders: What branding and design deliverables should I request from a designer before launching my product?",
+    "author": "/u/IamHeartTea",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xmn8xq/saas_founders_what_branding_and_design/",
+    "updated": "2026-11-03T08:08:14+00:00",
+    "body": "Hi everyone,\n I’m a first-time SaaS founder, and we’ve reached an important milestone in our product development.\n The core functionality is now implemented. Our frontend, backend, database, and primary UX flows are working as expected. The application is functional and ready for users.\n We’re now shifting our focus from product development to branding, marketing, and preparing for a public launch. \n As part of this, we’re planning to hire a freelance UI/visual designer or branding specialist to establish a consistent visual identity for our SaaS product.\n However, I’m relatively new to this side of building a business, and I’m unsure what design deliverables I should request.\n What I’m trying to figure out: \n Before approaching designers for quotations, I want to prepare a clear scope of work that lists all the branding and visual design assets we might need.\n Some examples that come to mind:\n Brand identity: Logo, logo variations, color palette, typography, brand guidelines, etc.\n Website design: Marketing homepage, landing pages, pricing page, feature pages, etc.\n Product branding: App icons, favicons, branded UI elements, illustrations, empty-state graphics, etc.\n Marketing assets: Social media templates, promotional banners, product announcement graphics, etc.\n Other assets: Email templates, presentation templates, product screenshots, and anything else typically required for a SaaS launch.\n These are just examples. I’m not even sure whether all of them are necessary or ",
+    "score": 14.7,
+    "ageHours": 4.8,
+    "hits": [
+      "pricing page",
+      "ux",
+      "ui",
+      "design",
+      "designer"
+    ],
+    "draft": {
+      "why": "First-time SaaS founder with a working product and budget about to hire a designer, exactly Ryan's client profile, asking in a founder-heavy sub.",
+      "potential": 8,
+      "options": [
+        "Your list is roughly right, but sequence matters more than completeness. For launch you only need identity basics (logo, colors, type, one-page brand sheet), the marketing site, and email templates. Social templates and illustrations can wait, and skipping them often cuts the quote by a third or more.",
+        "One thing to add that founders always forget: ask for a lightweight component library or at least a Figma file of the UI elements, not just static assets. Otherwise every new page or feature after launch means going back to the designer, which gets expensive fast."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xmqme7",
+    "subreddit": "SaaS",
+    "title": "MVP Launch - Should I charge/discount my first customers?",
+    "author": "/u/CursedCog",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xmqme7/mvp_launch_should_i_chargediscount_my_first/",
+    "updated": "2026-11-03T11:34:33+00:00",
+    "body": "Hello,\n I have several companies wanting to pilot a new product on launch (i know them personally or in a past employment capacity). However, I can&#39;t decide if to reduce all friction and just to get some active users on the platform (for feedback, reviews, bug discovery, etc) and as a big thank you. As to if I should provide the platform to them as an early bird type offer:\n free for life or a defined amount of months 20%/50%/70%+ discount for 6 months Limited to X clients Every org gets 30 days free trial as standard anyway.\n What would be your recommended strategy?\n Thanks.\n &#32; submitted by &#32; /u/CursedCog \n &#32;",
+    "score": 8.8,
+    "ageHours": 1.3,
+    "hits": [
+      "feedback",
+      "mvp"
+    ],
+    "draft": {
+      "why": "Early-stage B2B SaaS founder with real pilot customers asking about pricing strategy, a classic moment where design and packaging advice lands and the poster likely has budget.",
+      "potential": 7,
+      "options": [
+        "Charge them, but heavily discounted (50%+ off for 6-12 months) rather than free. Free-for-life creates anchors you can never escape and, worse, free users give you softer feedback because they have no skin in the game. Even a token payment filters for companies that actually value the product.",
+        "The bigger risk in your list is 'free for life' because those early logos become your reference customers and you'll be justifying that $0 invoice forever. One question worth asking: are these pilots you'd want as public case studies? If yes, a steep time-boxed discount in exchange for a testimonial is usually worth more than the revenue you'd lose."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xm9c6h",
+    "subreddit": "UXDesign",
+    "title": "Are Product Designer roles becoming obsolete, or are we just entering a new era of product design?",
+    "author": "/u/Acceptable-Spite5915",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xm9c6h/are_product_designer_roles_becoming_obsolete_or/",
+    "updated": "2026-11-02T20:59:56+00:00",
+    "body": "I&#39;m curious to hear other designers&#39; perspectives on something happening at my current company.\n We&#39;re starting to see a shift where Product Managers are being encouraged to take on more design responsibilities, including learning how to use Figma and create UI/UX through Claude skills that I&#39;ve actually built for the team.\n There&#39;s also a discussion about combining Product Management and Product Design responsibilities into hybrid roles, rather than having dedicated Product Designers.\n This got me thinking about the future of our profession, especially with how quickly AI tools are evolving.\n I&#39;d love to hear from Product Designers, Design Leads, and PMs:\n Are you seeing similar changes in your companies? Are PMs increasingly expected to handle design work themselves? Do you think dedicated Product Designer roles will remain relevant in 2027 and beyond? Is this the evolution of our profession, or are companies gradually moving away from dedicated design roles? I&#39;m genuinely interested in hearing your experiences and opinions, especially from people working in teams going through similar changes\n &#32; submitted by &#32; /u/Acceptable-Spite5915 \n &#32;",
+    "score": 10.1,
+    "ageHours": 15.9,
+    "hits": [
+      "ux",
+      "ui",
+      "design",
+      "figma",
+      "designer"
+    ],
+    "draft": {
+      "why": "Interesting career-level discussion in a design community; Ryan can share practitioner experience but the poster isn't a buyer, and readers are mostly designers, not founders.",
+      "potential": 3,
+      "options": [
+        "In my experience the PM-design hybrid works until the first complex flow breaks it. PMs with Figma and AI tools can ship fine-looking UI, but the moment you hit permission states, edge cases, or information architecture across 40 screens, the cost shows up as rework, not in the design file. Dedicated designers survive by owning systems and decision quality, not pixels.",
+        "Curious what your PMs are actually producing with those Claude skills: are they shipping production UI, or prototyping to communicate intent? Those are very different futures. If it's the first, watch what happens to your design debt in six months, because that answer usually predicts whether the role gets cut or redefined."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xmjbwz",
+    "subreddit": "design_critiques",
+    "title": "Need some honest feedback on my website design",
+    "author": "/u/No_Copy7822",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xmjbwz/need_some_honest_feedback_on_my_website_design/",
+    "updated": "2026-11-03T04:21:28+00:00",
+    "body": "&#32; submitted by &#32; /u/No_Copy7822 \n &#32;",
+    "score": 9.9,
+    "ageHours": 8.5,
+    "hits": [
+      "feedback",
+      "design"
+    ],
+    "draft": {
+      "why": "Vague critique request with no link or details, but design_critiques posters sometimes include founders with real sites.",
+      "potential": 3,
+      "options": [
+        "Happy to give honest feedback, but I don't see a link or screenshots here. Share the URL and tell me what the site's main goal is (signups, sales, portfolio) and I'll give you specifics.",
+        "Before anyone can give useful critique: who's the site for and what's the one action you want visitors to take? 'Looks good' vs 'converts well' are very different reviews, and the second one is usually the one worth paying attention to."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xmqbui",
+    "subreddit": "SaaS",
+    "title": "Would you use a simple automated testing tool for AI agents? Looking for honest feedback",
+    "author": "/u/Raj_walker",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xmqbui/would_you_use_a_simple_automated_testing_tool_for/",
+    "updated": "2026-11-03T11:17:47+00:00",
+    "body": "&#x200B;\n I&#39;m exploring a SaaS idea and would love feedback from developers who are building AI agents.\n The problem I&#39;m trying to solve: \n AI agents can behave unpredictably. A small change to a system prompt, model or tool integration can break previously working behaviour.\n For example:\n An agent starts calling the wrong tool.\n It gives incorrect answers after a prompt update.\n It enters an unnecessary tool-calling loop.\n It performs an action without following the expected sequence.\n Its response quality decreases after deployment.\n Traditional unit tests don&#39;t always catch these issues.\n My proposed solution: AgentGuard \n A lightweight AI agent regression-testing platform that would allow developers to:\n Create test scenarios for their AI agents.\n Automatically execute those tests.\n Validate tool calls and execution sequences.\n Detect behavioural regressions after prompt or code changes.\n Compare test results across different versions.\n Integrate testing into GitHub Actions before deployment.\n The idea is to make testing AI agents as straightforward as running automated tests for traditional software.\n I&#39;m considering targeting independent AI developers and small AI startups rather than enterprise customers.\n I&#39;d appreciate honest feedback: \n How do you currently test your AI agents?\n Do you face problems with behavioural regressions or incorrect tool calls?\n Are you already using tools like LangSmith, Langfuse, Braintrust or Promptfoo?\n What features",
+    "score": 7.5,
+    "ageHours": 1.6,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Founder validating a dev-tool SaaS idea in r/SaaS; engaged audience but the product is a testing platform, not something with a design problem Ryan fixes, and the poster is pre-revenue.",
+      "potential": 3,
+      "options": [
+        "The regression angle is real, but your hardest problem isn't detection, it's defining what 'correct' looks like for non-deterministic agents. I'd lead with one concrete scenario, like the wrong-tool-call case, and show exactly what a failing test looks like before listing the whole platform.",
+        "Honest question: what's your wedge against Promptfoo and LangSmith, since most devs building agents already have one of them in their stack? If the answer is simplicity, your onboarding has to be under 10 minutes to first passing test or people won't switch."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xmr8gf",
+    "subreddit": "SideProject",
+    "title": "A stranger read what my app wrote about her and said she felt \"triggered, embarrassed almost.\" Best feedback I've ever had.",
+    "author": "/u/Ecstatic-Tower4913",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xmr8gf/a_stranger_read_what_my_app_wrote_about_her_and/",
+    "updated": "2026-11-03T12:06:40+00:00",
+    "body": "I build a small iPhone app with my partner. You put in your birthday, it writes a long report on how you work, then there&#39;s a journal that reads your entries against it. Tiny team. Two of us. It&#39;s called Natus.\n Back in March a woman I&#39;d never met emailed me after reading her report. First line of her reaction:\n &quot;I felt triggered, embarrassed almost, because it felt as if I read things about myself that I myself could not really articulate that well yet.&quot;\n I thought it was a complaint. Then she kept going. She&#39;d done years of therapy and knew all these personality systems. Still said she learned new things. The part she pointed at was a pattern: wanting to open up or be seen, then pulling back. Her words: &quot;lol, oops, that&#39;s me.&quot;\n And this line: &quot;It felt like you translated something I already knew into language I couldn&#39;t quite access myself.&quot;\n That one email changed how I talk about the product. I&#39;d been calling it a journaling app. Nobody wants a journaling app. People want words for the thing they keep doing. I rewrote our bio from her email.\n Honest question for people who build stuff around feelings: how do you sell &quot;it made me uncomfortable in a good way&quot; without sounding like a horoscope?\n &#32; submitted by &#32; /u/Ecstatic-Tower4913 \n &#32;",
+    "score": 6.8,
+    "ageHours": 0.8,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Thoughtful post about positioning emotional products, but it's a consumer iPhone app with a two-person team and no B2B budget.",
+      "potential": 3,
+      "options": [
+        "The difference between a horoscope and what you described is specificity plus cost. A horoscope fits everyone; her reaction happened because the report named a pattern she could verify against her own memory. Sell the verification, not the insight: 'you'll know within two pages whether this is about you or not.'",
+        "I'd stop trying to sell the discomfort and sell the artifact instead. 'A report you'll disagree with parts of' is more credible than any promise of transformation, and people who push back on it are still reading it. Out of curiosity, does the report ever land wrong? That answer is your positioning too."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xlzmvn",
+    "subreddit": "design_critiques",
+    "title": "Need honest UI/UX feedback on my job application tracker's expanded details view",
+    "author": "/u/valentynfyi",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xlzmvn/need_honest_uiux_feedback_on_my_job_application/",
+    "updated": "2026-11-02T15:06:33+00:00",
+    "body": "I&#39;m building a local-first job application tracker using Leptos and Axum.\n I have difficulties figuring out good UI for expanded view of the application/ edit flow.\n You can see it here: https://jobs-tracker.valentyn.fyi/ \n It&#39;s Vercel-hosted version with phony backend (local storage).\n I&#39;d appreciate criticism of the current design, particularly:\n Is the information hierarchy intuitive? Does the expanded section feel too dense or too empty? Are the editing controls easy to discover? Is inline expansion or a separate side panel better (currently using inline expansion)? What would you change first? CV versions are currently tracked in private repo but will accept ideas on better flow.\n It&#39;s not promotional post, just asking for help with design.\n All criticism is welcome.\n &#32; submitted by &#32; /u/valentynfyi \n &#32;",
+    "score": 12.1,
+    "ageHours": 21.8,
+    "hits": [
+      "feedback",
+      "ux",
+      "ui",
+      "design"
+    ],
+    "draft": {
+      "why": "Developer side project asking for genuine UI critique, but it's a personal tool with no budget behind it.",
+      "potential": 2,
+      "options": [
+        "For edit flows like this, inline expansion usually wins over a side panel when people edit one row at a time, because side panels tempt you to keep the old row visible and double the layout complexity. My one rule: the expanded area should commit or cancel edits with keyboard (Enter/Esc) so power users never touch the mouse.",
+        "Can't load the link from here, so one sharp question: how often does someone edit versus just glance at an application? If glancing dominates, the expanded view should be read-first with edit behind a click, not a form by default."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xm3agx",
+    "subreddit": "UXDesign",
+    "title": "Any opinions on this UX I designed for my mobile app. Should I change anything?",
+    "author": "/u/SBM_Products",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xm3agx/any_opinions_on_this_ux_i_designed_for_my_mobile/",
+    "updated": "2026-11-02T17:20:24+00:00",
+    "body": "I&#39;d love some honest UX feedback on my mobile app, Noter. \n I designed the UI around 10 months ago, and since then I&#39;ve been curious about how an experienced UX designer would evaluate it.\n Noter is a note-taking and productivity app that combines notes, tasks, events, habits, and budget tracking.\n I&#39;m particularly interested in feedback on:\n Visual hierarchy: Is the most important information easy to identify, or does the screen feel cluttered? Navigation: Is it intuitive to move between different sections of the app? Consistency: Do the components, spacing, typography, and icons feel consistent throughout the experience? Usability: Are there any interactions or design decisions that could confuse a first-time user? Overall experience: Does the interface feel polished and cohesive, or are there areas that look amateurish? I designed the interface myself and have spent time refining it, but I haven&#39;t had the opportunity to get feedback from a professional UX designer.\n I&#39;m not necessarily looking for compliments. I&#39;d genuinely appreciate constructive criticism, even if something needs a complete redesign.\n I&#39;ve attached screenshots of the interface, including the dark theme. There&#39;s also a light theme available.\n Thanks in advance to anyone willing to share their thoughts!\n &#32; submitted by &#32; /u/SBM_Products \n &#32;",
+    "score": 10.9,
+    "ageHours": 19.6,
+    "hits": [
+      "feedback",
+      "ux",
+      "ui",
+      "design",
+      "redesign",
+      "designer"
+    ],
+    "draft": {
+      "why": "Solo developer seeking free UX critique on a consumer note app, no indication of budget or B2B context.",
+      "potential": 2,
+      "options": [
+        "The biggest UX risk in a 5-in-1 app like this isn't visual polish, it's mode switching. Notes, tasks, habits, and budget all want different default views, so I'd test whether a first-time user can create something in under 10 seconds from a cold open. If they have to pick a section first, that's your friction point.",
+        "Happy to dig in, but the screenshots didn't come through on my end, so I can't give you anything specific yet. One question that would sharpen any feedback you get: which of the five features do your actual users open most, and is that the thing the home screen is built around?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xly5dd",
+    "subreddit": "design_critiques",
+    "title": "Made two more sections for my ramen landing page — looking for feedback",
+    "author": "/u/divyaART",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xly5dd/made_two_more_sections_for_my_ramen_landing_page/",
+    "updated": "2026-11-02T14:08:26+00:00",
+    "body": "I&#39;m continuing my ramen landing page project and recently finished these two sections: “Meet the Ramen” and the final CTA section.\n I wanted to avoid making them feel like typical card-based website sections, so I experimented with the layout, product visuals, and the CTA composition.\n This is still a learning project, so I&#39;d really appreciate feedback on the layout, visual hierarchy, spacing, and overall consistency.\n What would you change or improve?\n &#32; submitted by &#32; /u/divyaART \n &#32;",
+    "score": 10,
+    "ageHours": 22.8,
+    "hits": [
+      "feedback",
+      "landing page"
+    ],
+    "draft": {
+      "why": "Design student learning project with no budget, but a reply is easy and builds community presence.",
+      "potential": 2,
+      "options": [
+        "On the final CTA, the biggest wins usually come from hierarchy, not layout novelty: one clear headline, one button, and cut anything else competing near it. If your 'Meet the Ramen' section leads into it, make sure the CTA headline continues the thought from that section instead of resetting to a generic 'Order now'.",
+        "What are you anchoring spacing on between these two sections? In my experience, mismatched section padding (say 80px above, 120px below) is the first thing that makes experimental layouts feel inconsistent, so picking one vertical rhythm and sticking to it tends to fix more than any layout tweak."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xm0eqx",
+    "subreddit": "design_critiques",
+    "title": "I Created a 7-Image Amazon Skincare Listing Design — Looking for Honest Feedback",
+    "author": "/u/Create_Graphics",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xm0eqx/i_created_a_7image_amazon_skincare_listing_design/",
+    "updated": "2026-11-02T15:35:16+00:00",
+    "body": "Hi everyone!\n I&#39;m a graphic designer, and I recently created this Amazon product listing design concept for an Aloe Vera skincare range.\n The goal was to create a clean, natural, and premium visual style while making product information easy to understand.\n For this project, I focused on:\n Consistent green color palette and typography Product-focused infographic layouts Ingredient and benefit highlights Lifestyle imagery A cohesive visual identity across the listing I&#39;d love to hear your thoughts!\n What would you improve about the typography, visual hierarchy, or overall layout? \n Constructive feedback is always appreciated. Thanks for taking a look!\n &#32; submitted by &#32; /u/Create_Graphics \n &#32;",
+    "score": 9.2,
+    "ageHours": 21.3,
+    "hits": [
+      "feedback",
+      "design",
+      "designer"
+    ],
+    "draft": {
+      "why": "Portfolio-style feedback request from a fellow designer, not a B2B SaaS founder with budget; low client potential but a quick sharp reply keeps Ryan visible.",
+      "potential": 2,
+      "options": [
+        "Can't see the images here, but one thing that matters more than palette on Amazon listings: the first image's readability at thumbnail size, since most shoppers never click through. If your benefit callouts aren't legible in a search results grid, the premium styling won't get a chance to work.",
+        "Quick question before giving feedback: are these meant to win the click in search results, or convert once someone's already on the listing? Those are different design problems, and 'clean and premium' often fights against the bold hierarchy Amazon thumbnails need."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xmpgi9",
+    "subreddit": "UXDesign",
+    "title": "I GOT A JOB after a long unemployment (Entry level UX Designer)",
+    "author": "/u/groot_route",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xmpgi9/i_got_a_job_after_a_long_unemployment_entry_level/",
+    "updated": "2026-11-03T10:27:08+00:00",
+    "body": "Hi everyone,\n I am an UX designer with almost 1 year experience\n I was laid off 8 months ago and after 250 -300 applications later i finally got the job\n It was brutal, one of the toughest thing was investing so much of my energy and sleep into doing so many take home assignments and getting ghosted by companies, i can have a long rant.\n but i am finally feel happy in a way, i finally got the job 😁\n If you are an entry level design reading this, stay motivated, have patience and keep on improving your portfolio every month, learn new skills/tools, stay strong :) and network with people if u can.\n &#32; submitted by &#32; /u/groot_route \n &#32;",
+    "score": 8.4,
+    "ageHours": 2.5,
+    "hits": [
+      "ux",
+      "design",
+      "designer"
+    ],
+    "draft": {
+      "why": "Feel-good entry-level story with no design problem to solve and no budget in sight, but an easy chance to be visible and encouraging in a founder-adjacent design community.",
+      "potential": 2,
+      "options": [
+        "Congrats, 250 applications is a grind most people underestimate. If you ever write up what changed in your portfolio between rejection #100 and the offer, that post would help a lot of people here.",
+        "The take-home assignment ghosting is the part nobody warns you about. In my experience the strongest filter is asking upfront how many hours they expect and whether the work gets reviewed live, it weeds out the worst offenders."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xmr080",
+    "subreddit": "SideProject",
+    "title": "I made a plugin for obsidian. For writing, transcription & more. It's opensource & I would love feedback",
+    "author": "/u/Ok-Hat2304",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xmr080/i_made_a_plugin_for_obsidian_for_writing/",
+    "updated": "2026-11-03T11:55:40+00:00",
+    "body": "https://community.obsidian.md/plugins/ink-notebook \n I wanted to be able to draw, annotate academic papers downloaded from arXiv, and sketch flow diagrams so I could learn and work more efficiently. I didn’t like the existing plugins, so I made my own. I wanted an experience like the Boox Notes app or Goodnotes, where I can select paper types, add my own content and transcribe my handwriting.\n What I added: \n Writing \n - Selectable paper types\n - Multiple pens\n - Shapes and flowcharts\n Downloading \n - Academic papers from arXiv through a new interface built into the plugin, with metadata saved to the note and annotation available\n Transcribing \n - Handwritten notes are transcribed to text through an Azure integration. All I have to do is create an Azure AI Vision resource and add the endpoint and key to get 5,000 free recognitions per month.\n &#32; submitted by &#32; /u/Ok-Hat2304 \n &#32;",
+    "score": 6.8,
+    "ageHours": 1,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Side project plugin with no budget behind it, but feedback threads like this can still surface product-minded founders later.",
+      "potential": 2,
+      "options": [
+        "Nice set of features. One thing to watch: requiring users to create an Azure resource and paste in an endpoint and key will lose most people before they ever see the transcription work. Even a short setup walkthrough inside the plugin, or bundling a demo key for the first few pages, would lift activation a lot.",
+        "The arXiv download flow with metadata saved to the note is the most differentiating piece here. Are you positioning this as a handwriting tool that happens to grab papers, or a research annotation tool that happens to support handwriting? Those attract pretty different users."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1301524",
+    "platform": "producthunt",
+    "title": "MachineMail",
+    "author": "Kyle",
+    "url": "https://www.producthunt.com/products/machinemail",
+    "updated": "2026-11-02T02:33:33-08:00",
+    "body": "Real inboxes for AI agents, with trust built in",
+    "score": 1,
+    "ageHours": 26.3,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "PH launch in the hot AI agent infra space; founders here often become B2B SaaS clients and the thread is visible to many builders.",
+      "potential": 7,
+      "options": [
+        "Congrats on the launch! Quick question on the first-time experience: when an AI agent spins up its first inbox, what does the human approving that flow actually see? That trust moment feels like the thing to nail.",
+        "Congrats on launching! Curious who you see as the core user here: is it developers building agent products, or ops teams giving agents email access? The tagline reads dev-tool, but the trust angle sounds like it's pitched at the buyer, not the builder. Which is it?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1302042",
+    "platform": "producthunt",
+    "title": "People Search by Context.dev",
+    "author": "Ely",
+    "url": "https://www.producthunt.com/products/context-dev",
+    "updated": "2026-11-02T11:12:57-08:00",
+    "body": "People Search API: Find People by Role, Company & Location",
+    "score": 2.3,
+    "ageHours": 17.7,
+    "hits": [
+      "api",
+      "company"
+    ],
+    "draft": {
+      "why": "B2B API launch on PH where the makers are likely founders with budget, and sales/recruiting data products often need landing page and onboarding help.",
+      "potential": 6,
+      "options": [
+        "Congrats on the launch! Quick question: who's the first user you built this for, recruiters, sales teams, or other devs building on top? Curious because that choice changes a lot about how you'd show off the results.",
+        "Happy launch day! My read is this is aimed at devs building outbound or recruiting tools rather than end users doing searches themselves. Is that right? If so, I'd expect the docs and a quick live query demo to carry the homepage more than the API description.",
+        "Nice launch! What does the first 5 minutes look like for a new signup: do they get a working query result right away, or is there setup friction first? That first result moment usually decides whether an API like this sticks."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1302528",
+    "platform": "producthunt",
+    "title": "NEXUPIRA",
+    "author": "JO TUNG WU",
+    "url": "https://www.producthunt.com/products/nexupira",
+    "updated": "2026-11-02T22:48:10-08:00",
+    "body": "AI teammates that hand back finished work",
+    "score": 1.8,
+    "ageHours": 6.1,
+    "hits": [
+      "team"
+    ],
+    "draft": {
+      "why": "AI agents are a hot PH category and the founder will be reading every comment today; a sharp question can start a conversation with a funded B2B founder who will need onboarding and landing page design.",
+      "potential": 6,
+      "options": [
+        "Congrats on the launch! The tagline 'hand back finished work' is a strong promise, so I'm curious what the first-time experience looks like. Does a new user get a finished deliverable in the first session, or is there setup and training before the teammates are useful?",
+        "Happy launch day! Quick positioning question: are you aiming this at solo founders who want to offload whole tasks, or at teams where the AI teammate slots into an existing workflow? 'Finished work' reads like the former, but 'teammates' reads like the latter, and those are pretty different buyers."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1302296",
+    "platform": "producthunt",
+    "title": "One Roof",
+    "author": "Gaurav Narasimhan",
+    "url": "https://www.producthunt.com/products/one-roof",
+    "updated": "2026-11-02T17:06:08-08:00",
+    "body": "A new way to build with agents. You stay in charge.",
+    "score": 1.3,
+    "ageHours": 11.8,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "Launching an agent-building tool on PH; the founder likely owns the launch narrative and could need landing page help, plus the tagline leaves positioning questions worth engaging with.",
+      "potential": 4,
+      "options": [
+        "Congrats on the launch! Who's the person you picture opening One Roof first, a developer wiring up agents or a non-technical founder trying to automate ops? That answer changes a lot about what the first session should look like.",
+        "The 'you stay in charge' line suggests you're positioning against fully autonomous agent tools rather than other builders. Is that the wedge, control for people burned by agents going off-script?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1301911",
+    "platform": "producthunt",
+    "title": "Akema",
+    "author": "Jason Young",
+    "url": "https://www.producthunt.com/products/akema",
+    "updated": "2026-11-02T09:06:41-08:00",
+    "body": "Read-only Kafka message inspection & analytics",
+    "score": 1.5,
+    "ageHours": 19.8,
+    "hits": [
+      "analytics"
+    ],
+    "draft": {
+      "why": "Dev-tool launch, not a design client, but a launch-day comment costs little and Kafka engineers do talk to each other.",
+      "potential": 3,
+      "options": [
+        "Congrats on the launch! Who's the first user you had in mind: the on-call engineer digging through a broken consumer group, or more of an analytics person exploring topics they don't own?",
+        "Nice to see read-only called out in the tagline, that's usually the first objection from platform teams. Are you positioning this as a replacement for the kafka-console-consumer workflow, or as something that sits next to existing tooling like Kowl/Redpanda Console?"
+      ]
+    }
+  }
+]
