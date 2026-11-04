@@ -1,0 +1,413 @@
+[
+  {
+    "platform": "reddit",
+    "id": "t3_1xnhoab",
+    "subreddit": "microsaas",
+    "title": "I need some honest feedback from SaaS founders, developers, and marketers.",
+    "author": "/u/Silly_Ad_4008",
+    "url": "https://www.reddit.com/r/microsaas/comments/1xnhoab/i_need_some_honest_feedback_from_saas_founders/",
+    "updated": "2026-11-04T07:04:24+00:00",
+    "body": "I&#39;ve been building a SaaS product called Jukebox. It allows customers at cafés, bars, and restaurants to scan a QR code and request songs from playlists selected by the venue.\n I recently launched the website and spent around 2,000 TRY on Instagram ads, bringing in over 900 visitors.\n But here&#39;s the problem: only 4 visitors reached the /admin/login page. Almost everyone left without proceeding.\n I&#39;m trying to understand what&#39;s going wrong.\n Is the value proposition unclear? Is the landing page failing to communicate the product? Does the website lack trust? Is the signup process discouraging people? Or am I simply attracting the wrong audience? I&#39;d really appreciate it if you could take a quick look at the website and share your honest opinion.\n I&#39;m particularly interested in feedback from SaaS founders, growth marketers, developers, and UX/UI designers.\n Website: https://jukebox.net.tr \n I&#39;m not looking for compliments. I&#39;d genuinely like to know what&#39;s wrong and what I should improve.\n Thanks in advance!\n &#32; submitted by &#32; /u/Silly_Ad_4008 \n &#32;",
+    "score": 12.9,
+    "ageHours": 5.8,
+    "hits": [
+      "feedback",
+      "landing page",
+      "ux",
+      "ui"
+    ],
+    "draft": {
+      "why": "Founder with ad budget and a concrete landing-page conversion problem, exactly what Ryan fixes, in a founder-heavy subreddit.",
+      "potential": 8,
+      "options": [
+        "A 0.4% click-through to signup with 900 visitors usually means the ad promise and the landing page don't match. Pull up your ad creative next to your hero and check if the first screen answers the exact thing the ad teased, in the same words. Also: if your CTA goes straight to /admin/login, that's a dead end for new visitors. Send them to a signup or a demo video first.",
+        "One thing worth checking before redesigning anything: who clicked the ads? Venue owners are a tiny slice of Instagram traffic, so 900 random visitors bouncing says more about targeting than your page. What does your hero say in the first 3 seconds, and is it written for the bar owner who pays, not the customer who scans?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xnb6iv",
+    "subreddit": "design_critiques",
+    "title": "Humbly seeking feedback on my website - please and thank you!",
+    "author": "/u/Textapp",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xnb6iv/humbly_seeking_feedback_on_my_website_please_and/",
+    "updated": "2026-11-04T01:22:01+00:00",
+    "body": "Here is my site: https://textapp.co \n Background: The product is apps you text. I get a lot of visitors to this site from my ads, but the call to action is texting a number. Very few people right now take the step to text the number, so I&#39;m trying to polish up the website as much as I can to establish trust and interest in people on their first visit.\n Thanks!!\n Top of landing page \n &#32; submitted by &#32; /u/Textapp \n &#32;",
+    "score": 10.8,
+    "ageHours": 11.5,
+    "hits": [
+      "feedback",
+      "landing page"
+    ],
+    "draft": {
+      "why": "Founder with live ads and traffic, concrete conversion problem on a landing page CTA, exactly Ryan's territory.",
+      "potential": 7,
+      "options": [
+        "Texting a number is a high-friction first step because visitors don't know what happens after they hit send. Show a screenshot or short GIF of an actual conversation right next to the CTA, with a line like 'text it like you'd text a friend, no app to install', so people can picture the experience before committing.",
+        "Quick question: does the page explain what the first text should say? In my experience the biggest drop-off with text-a-number CTAs isn't trust, it's ambiguity about what to type. Try putting a tappable prefilled message ('Text DEMO to 55555') so the visitor's only decision is tapping, not composing."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xnh5l7",
+    "subreddit": "SaaS",
+    "title": "I’ve built a SaaS productivity and workflow management platform – looking for honest feedback before pushing growth",
+    "author": "/u/AdCritical999",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xnh5l7/ive_built_a_saas_productivity_and_workflow/",
+    "updated": "2026-11-04T06:32:51+00:00",
+    "body": "I’ve been working on a SaaS product called LedgerHours ( https://ledgerhours.com ).\n The idea behind it is to help people take control of their workload, organise their tasks, track their progress and work more efficiently without burning themselves out.\n I’ve put a lot of time into building the platform, and I’m now at the stage where I want to get real users involved and understand whether I’m solving a problem people genuinely have.\n I’d love some honest feedback from other SaaS founders:\n ● Does the concept make sense?\n ● Is the value proposition clear?\n ● What would make you actually use something like this?\n ● What features would make it worth paying for?\n I’m not looking for compliments. I’d genuinely appreciate criticism, suggestions and ideas.\n Website: https://ledgerhours.com \n Thanks!\n &#32; submitted by &#32; /u/AdCritical999 \n &#32;",
+    "score": 6.8,
+    "ageHours": 6.3,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Founder with a live B2B-ish SaaS asking for feedback before a growth push, so landing page and positioning fixes could turn into paid work.",
+      "potential": 6,
+      "options": [
+        "Honest take: 'productivity and workflow management' puts you up against Notion, Todoist, and Asana, all free or cheap. Your homepage needs to name one specific person and one specific painful moment, like freelancers losing billable hours, instead of the broad burnout angle. Right now I can't tell who it's for in the first 5 seconds, and that's the thing to fix before any growth spend.",
+        "The name LedgerHours suggests time tracking or invoicing, but your description is task management and burnout prevention. Which is it actually? Picking one lane and making the pricing page answer 'why pay for this instead of the tool I already have' would do more for you than any new feature."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xnbvjk",
+    "subreddit": "UXDesign",
+    "title": "Good examples of b2b saas conversational ux?",
+    "author": "/u/EEnoobseekinghelp",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xnbvjk/good_examples_of_b2b_saas_conversational_ux/",
+    "updated": "2026-11-04T01:56:01+00:00",
+    "body": "I think a conversational ux combined with static + dynamic UIs is the future of onboarding\n Any good examples? Specifically in the b2b space? I’ve seen HubSpot’s which is decent\n &#32; submitted by &#32; /u/EEnoobseekinghelp \n &#32;",
+    "score": 7.1,
+    "ageHours": 10.9,
+    "hits": [
+      "onboarding",
+      "ux"
+    ],
+    "draft": {
+      "why": "Poster is researching conversational onboarding in B2B SaaS; Ryan can share real examples and build credibility with SaaS designers reading, though the poster themselves is unlikely a buyer.",
+      "potential": 4,
+      "options": [
+        "Intercom's own product tour flow and Linear's setup are two of the better B2B examples. One caution from experience: conversational onboarding works for declaring intent (what's your role, what do you want to do first), but falls apart for actual configuration. Stripe learned this and kept chat only for triage, then dropped users into a tailored static dashboard.",
+        "The pattern that tends to work is a short conversational layer to segment the user, then a dynamically assembled static UI based on their answers. Full chat-as-onboarding usually tests worse because it's slow for impatient B2B users. Are you designing this for a specific product, or just researching patterns?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xnmzb7",
+    "subreddit": "SideProject",
+    "title": "Anti Scroll - October Update / Second 5* Review",
+    "author": "/u/ShabsDev24",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xnmzb7/anti_scroll_october_update_second_5_review/",
+    "updated": "2026-11-04T12:29:45+00:00",
+    "body": "Second 5 star review. After a year of building, it’s good to see some people are liking the app and it’s helping people.\n Numbers \n Installs: 637 (607)\n Visitors per day: 5.9 (6.7)\n Conversion rate: 18.8% (19.9%)\n Daily acquisitions: 1.46 (1.39)\n Daily user loss: 1.50 (1.86)\n Week 1 retention: 14.1% (23.9%)\n Week 2 retention: 9.8% (11.7%)\n What went well \n Last month I said I was losing users faster than I was getting them. That’s almost even now. Uninstalls dropped from 63 to 46 and daily active users went up. The lock screen also got hit 50% more than September, so the people who stay are actually using it.\n Not so great \n Retention dropped back after September’s jump. Cohorts are tiny so it swings a lot month to month, but people leaving in the first week is still the main problem. Engagement dipped a bit too (3m46s vs 4m29s).\n What I shipped \n 1.6.0, which fixed the analytics bugs people reported last month.\n Checking October’s plan \n Analytics bugs, done. User loss is almost even now, though I can’t take much credit for that. Onboarding tracking and Product Hunt didn’t happen. Product Hunt has slipped every month since August, so I’m being honest about that one.\n November plan \n Onboarding and event tracking to find where new users drop off, store listing changes so the app actually shows up in search, making it clearer that only the apps you pick get locked, plus bug fixes and a few other features.\n &#32; submitted by &#32; /u/ShabsDev24 \n &#32;",
+    "score": 9,
+    "ageHours": 0.4,
+    "hits": [
+      "onboarding",
+      "conversion",
+      "users drop"
+    ],
+    "draft": {
+      "why": "Solo dev sharing honest metrics with a real retention problem Ryan could speak to, but it's a consumer app with tiny numbers and no budget signal.",
+      "potential": 3,
+      "options": [
+        "Losing people in week 1 with a 19% store conversion usually means the gap is between install and first lock, not the app itself. Before building tracking, I'd watch 5 people onboard and count the taps to their first locked app, then cut that to under a minute.",
+        "The 'only the apps you pick get locked' fix might be doing more work than you think. If new users expect a hard block and get a picker, that mismatch alone could explain the week 1 drop. Have you asked any uninstallers what they expected it to do?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xngewr",
+    "subreddit": "design_critiques",
+    "title": "Built a tool that turns a client’s gut reactions to images into a taste profile. Does the idea hold up?",
+    "author": "/u/nathanc5202",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xngewr/built_a_tool_that_turns_a_clients_gut_reactions/",
+    "updated": "2026-11-04T05:49:47+00:00",
+    "body": "I&#39;m a brand designer with a fond interest in AI. Lately I&#39;ve been vibe-coding fun ways to make the workflow a little easier. Sometimes the hardest part of branding is decoding and deciphering what client&#39;s actually like.\n So I created Patina, an AI Taste Generator that improves overtime (hence the name Patina). Clients react to AI-generated Images, (like/dislike, think like Tinder, Pinterest and Midjourney Taste Profiles had a baby), and it builds a documented taste profile to agree on direction before any design work starts.\n It&#39;s early and I&#39;d appreciate some feedback from designers.\n Would this genuinely help you save time, or revisions with clients? What would make you not trust the result? What else do you want to see in Patina? Link in comments or dm me if you want to try it.\n &#32; submitted by &#32; /u/nathanc5202 \n &#32;",
+    "score": 8,
+    "ageHours": 7,
+    "hits": [
+      "feedback",
+      "design",
+      "designer"
+    ],
+    "draft": {
+      "why": "Designer asking for feedback on their own tool, worth a genuine design answer but unlikely to convert to a client.",
+      "potential": 3,
+      "options": [
+        "The weak link is assuming taste reactions to mood-board imagery survive contact with real constraints like type pairing, accessibility, and brand voice. A client who likes moody photography may hate the actual logo it implies. Consider capturing reactions to real brand systems (sites, wordmarks) instead of abstract images, so the profile maps to decisions you actually have to make.",
+        "Curious how it handles disagreement: in my experience the hardest client conversations are not 'what do you like' but 'you said you liked minimal, so why are you rejecting the minimal direction.' If the profile just records preferences without weighting them, designers will still end up re-decoding everything. What would make you trust the output enough to show it to the client as the agreed direction?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xnm0zu",
+    "subreddit": "SideProject",
+    "title": "Looking for 20 iPhone beta testers for REWRD. An app that turns focus games into screen time",
+    "author": "/u/mili220",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xnm0zu/looking_for_20_iphone_beta_testers_for_rewrd_an/",
+    "updated": "2026-11-04T11:38:56+00:00",
+    "body": "Hey everyone!\n I am creating REWRD, an iPhone app that takes an approach to doomscrolling.\n Instead of just blocking distracting apps REWRD lets you play short concentration games earn Sparks and use those Sparks to get extra minutes on the apps you want to limit.\n One of the games Impulse challenges you to tap when you should.. Hold back when you shouldn’t.\n I need 20 people who&#39;re willing to test the beta and give honest feedback.\n What I would love you to try: \n - Complete the onboarding and set up Screen Time permissions.\n - Play a few concentration games.\n - Earn Sparks and try unlocking an app.\n - Tell me what felt confusing, frustrating or genuinely useful.\n The beta is free to test. No purchase or positive review is required.\n I especially appreciate feedback from people who struggle with scrolling.\n Thanks, for helping shape REWRD!\n &#32; submitted by &#32; /u/mili220 \n &#32;",
+    "score": 7.2,
+    "ageHours": 1.2,
+    "hits": [
+      "feedback",
+      "onboarding",
+      "confusing"
+    ],
+    "draft": {
+      "why": "Consumer focus app seeking beta testers; indie hobby project with no budget signal, but the mechanic is concrete enough for a useful design observation.",
+      "potential": 3,
+      "options": [
+        "One thing worth testing hard: the moment someone earns Sparks and goes to unlock an app, that friction is where your whole concept lives or dies. If the unlock flow takes more than a couple of taps, people will feel punished and churn, so I'd watch beta testers specifically at that step rather than general onboarding.",
+        "How are you handling the failure case where someone plays the games, earns Sparks, and then feels like the app is just another slot machine rewarding them with more scrolling? Curious if you've thought about a ceiling or streak mechanic so the reward loop doesn't undermine the focus goal."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xnl99e",
+    "subreddit": "SideProject",
+    "title": "Looking for feedback on my developer portfolio!",
+    "author": "/u/gss_007",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xnl99e/looking_for_feedback_on_my_developer_portfolio/",
+    "updated": "2026-11-04T10:54:09+00:00",
+    "body": "Hey everyone! I&#39;ve recently built my personal developer portfolio and would love to hear your honest thoughts.\n I&#39;m open to suggestions regarding the design, UI/UX, projects, and overall presentation.\n Feel free to point out anything that needs improvement!\n 🔗 Portfolio: garvsaxena.vercel.app \n Thanks for your feedback!\n &#32; submitted by &#32; /u/gss_007 \n &#32;",
+    "score": 12.4,
+    "ageHours": 2,
+    "hits": [
+      "feedback",
+      "ux",
+      "ui",
+      "design"
+    ],
+    "draft": {
+      "why": "Portfolio feedback request from an individual developer, not a B2B SaaS founder with budget; low client potential but a fair place to leave a useful design note.",
+      "potential": 2,
+      "options": [
+        "The strongest thing you can do on a dev portfolio is cut the number of projects and write two sentences of context per project: what problem, what you chose, what happened. Five deep projects beat ten screenshots with tech-stack badges.",
+        "Which projects do you actually want someone to click? Right now I'd guess the page treats them all equally, and equal weight usually means nothing stands out. Lead with the one that best matches the jobs you're applying for."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xneqaa",
+    "subreddit": "UXDesign",
+    "title": "Solo Game dev realizing my UI looks terrible. Need help.",
+    "author": "/u/Diligent_Speak",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xneqaa/solo_game_dev_realizing_my_ui_looks_terrible_need/",
+    "updated": "2026-11-04T04:18:52+00:00",
+    "body": "I’ve been building my Android Game solo, and while the core gameplay is looks good, the UI is an eyesore. I tried using AI placeholders, and it looks like generic slop you&#39;d expect.\n I really want this project to look intentional and intuitive rather than thrown together, but design just isn’t my strong suit.\n Full disclosure: the game isn&#39;t monetized, so I have zero budget right now. If someone looking to build their game UX portfolio wants to team up, you’ll get a permanent mention in the game&#39;s credit section and a genuinely shipped title to show off.\n Otherwise, if you’re a designer willing to just tear my current screens apart in the comments, I&#39;d deeply appreciate the critique.\n Game Link: https://play.google.com/store/apps/details?id=com.taapgames.glowgrid \n &#32; submitted by &#32; /u/Diligent_Speak \n &#32;",
+    "score": 10.7,
+    "ageHours": 8.5,
+    "hits": [
+      "ux",
+      "ui",
+      "design",
+      "looks",
+      "designer"
+    ],
+    "draft": {
+      "why": "Solo game dev with zero budget asking for free portfolio work or critique; no paying client potential, but a reply can still be genuinely useful.",
+      "potential": 2,
+      "options": [
+        "The fastest fix for AI-slop UI isn't new assets, it's constraints: pick one font, two colors, and a single 8px spacing grid, then rebuild every screen using only those. Most 'thrown together' looks come from inconsistency, not bad taste, and games are forgiven for simple UI if it's consistent and readable at a glance.",
+        "You'd get sharper critique if you posted 2 or 3 screenshots of your worst screens instead of the store link, since most designers won't download a game to review it. Which screen feels most broken to you right now, the HUD or the menus?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xng44r",
+    "subreddit": "design_critiques",
+    "title": "Looking for Honest Feedback: Would These AI-Generated Stock Images Be Useful in Real Commercial Projects?",
+    "author": "/u/adhikaryalex",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xng44r/looking_for_honest_feedback_would_these/",
+    "updated": "2026-11-04T05:33:03+00:00",
+    "body": "Hello everyone!\n I&#39;m an independent Adobe Stock contributor specializing in AI-generated commercial visuals, including photorealistic food photography, creative illustrations, professional backgrounds, lifestyle concepts, and business-oriented stock imagery. I create high-quality visual assets for real-world creative and commercial use. I&#39;d genuinely appreciate feedback from professional designers, marketers, business owners, content creators, and stock photography buyers.\n I&#39;d love to hear your honest opinions: \n How would you rate the overall quality of these images out of 10? Would you consider using any of these visuals in an actual commercial project? Which images or categories have the strongest commercial potential? What technical or creative improvements would you recommend? What types of AI-generated stock images do you think businesses and designers actually need? I&#39;m particularly interested in understanding whether my work meets real-world design and marketing requirements, rather than simply looking visually attractive.\n My Adobe Stock Portfolio: \n https://stock.adobe.com/contributor/213277739/Alex \n All constructive criticism and professional opinions are welcome. I&#39;m here to learn, improve my work, and better understand what real buyers are looking for.\n Thank you for your time and feedback!\n &#32; submitted by &#32; /u/adhikaryalex \n &#32;",
+    "score": 10,
+    "ageHours": 7.3,
+    "hits": [
+      "feedback",
+      "design"
+    ],
+    "draft": {
+      "why": "Stock contributor asking for portfolio feedback, not a founder with a design budget; low client potential but a reply can show expertise to lurking buyers.",
+      "potential": 2,
+      "options": [
+        "The images that sell on stock are the ones with obvious negative space for text and headline placement, since most buyers are dropping them into ads and landing pages. I'd audit your top 20 and check how many actually leave a clean zone for copy, because that's the difference between pretty and purchased.",
+        "Quick question that matters more than quality ratings: which of your images have actually sold, and in what categories? Download data will tell you what businesses need faster than designer opinions will, since buyers vote with licenses."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xn2a0r",
+    "subreddit": "design_critiques",
+    "title": "Graphic designers who make Reels — what would you improve about mine?",
+    "author": "/u/LissaDefort",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xn2a0r/graphic_designers_who_make_reels_what_would_you/",
+    "updated": "2026-11-03T19:17:59+00:00",
+    "body": "Hey everyone! I&#39;m a brand designer experimenting with short redesign Reels, and I&#39;d love some honest feedback.\n I recently made a NutriPop packaging redesign video, but I&#39;m still figuring out how to make design content more engaging without sacrificing the actual design process. What would you change about the hook, pacing, editing, or storytelling? Does the video communicate the value of the redesign clearly?\n Here&#39;s the Reel: https://www.instagram.com/reel/DfSX1_2PTFH/ \n The packaging redesign is my own work, and the lifestyle mockups are AI-assisted. Not looking for views, genuinely interested in improving the format. Don&#39;t hold back!\n &#32; submitted by &#32; /u/LissaDefort \n &#32;",
+    "score": 9,
+    "ageHours": 17.6,
+    "hits": [
+      "feedback",
+      "design",
+      "redesign",
+      "designer"
+    ],
+    "draft": {
+      "why": "Solo brand designer asking for Reel format feedback, not a business with a design problem or budget.",
+      "potential": 2,
+      "options": [
+        "The most common mistake with redesign reels is spending the hook on the before shot. Lead with the boldest after frame for 1-2 seconds, then cut back to show how you got there, since the transformation is the only reason a scroller stops.",
+        "One thing to decide first: are you making this for potential clients or for other designers? Clients only care about the outcome and why it sells more product, so the process shots can go. Designers want the process, but they will never hire you.",
+        "Hard to give edit-level notes without knowing your target viewer, but one thing worth checking: does the reel work muted? Most people watch without sound, so if your design rationale only lives in the voiceover or a trending audio, it is invisible."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xnjjjp",
+    "subreddit": "design_critiques",
+    "title": "Coming back for MORE feedback",
+    "author": "/u/Alternative_Push9375",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xnjjjp/coming_back_for_more_feedback/",
+    "updated": "2026-11-04T09:04:16+00:00",
+    "body": "Hi everyone, thank you to everyone that has given me advice on the first iteration of my portfolio. I have taken a lot of suggestions into consideration. Please feel free to comment some more as i always aim to improve myself (yes i will add my full name to the cover page once everything else is finalized) Thank you &lt;3\n &#32; submitted by &#32; /u/Alternative_Push9375 \n &#32;",
+    "score": 8.7,
+    "ageHours": 3.8,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Portfolio review request from what looks like a design student, so low client potential, but a chance to give useful feedback.",
+      "potential": 2,
+      "options": [
+        "Without seeing the actual piece it's hard to say much, but one thing I'd check: does every project show the problem, your process, and the outcome, or just final screens? Reviewers skim, so lead each case study with the before/after and one metric or decision you made.",
+        "Since you mention the cover page still isn't final, what's the one project in there you want to be hired on the strength of? I'd restructure the whole portfolio around that piece and cut anything that doesn't support it."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1303230",
+    "platform": "producthunt",
+    "title": "Basedash Verified dashboards",
+    "author": "Max Musing",
+    "url": "https://www.producthunt.com/products/basedash",
+    "updated": "2026-11-03T08:49:46-08:00",
+    "body": "Show your team which dashboards to trust",
+    "score": 3.6,
+    "ageHours": 20,
+    "hits": [
+      "dashboard",
+      "team"
+    ],
+    "draft": {
+      "why": "B2B SaaS launch with a clear data-team pain point; the founding team likely has budget and cares about first-time UX and positioning.",
+      "potential": 6,
+      "options": [
+        "Congrats on the launch! Verification is a real pain in data teams. Curious who you see as the buyer here: is this for the data team enforcing trust, or for the business users deciding which dashboard to open?",
+        "Congrats on launching! My guess is the hard part isn't marking dashboards as verified, it's keeping that status fresh as things break. Does verification expire or re-check automatically, or is it on the team to maintain?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1302799",
+    "platform": "producthunt",
+    "title": "QualityLayer",
+    "author": "Max Ritter",
+    "url": "https://www.producthunt.com/products/qualitylayer",
+    "updated": "2026-11-03T02:58:04-08:00",
+    "body": "Plan, build and review software with your coding agents",
+    "score": 1,
+    "ageHours": 25.9,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "Developer tool launching on PH in the hot coding-agent space; if it targets B2B teams, the founders may need landing page and onboarding design help.",
+      "potential": 6,
+      "options": [
+        "Congrats on the launch! Curious who you built this for first: solo devs already using agents daily, or team leads trying to get their whole team onto agent workflows? The onboarding for those two is wildly different.",
+        "Congrats on launching! The name sounds like a QA/review tool, but the tagline says plan and build too. Are you positioning as the full agent workflow layer, or is code review the wedge you expect people to try first?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1302689",
+    "platform": "producthunt",
+    "title": "Resum",
+    "author": "Williams Isaac",
+    "url": "https://www.producthunt.com/products/resum",
+    "updated": "2026-11-03T01:29:19-08:00",
+    "body": "API and SDK for live conversations",
+    "score": 0.6,
+    "ageHours": 27.4,
+    "hits": [
+      "api"
+    ],
+    "draft": {
+      "why": "Launch day comment on a dev-tool product; founders building API/SDK products often need landing page and onboarding design help, and PH threads get founder eyes.",
+      "potential": 6,
+      "options": [
+        "Congrats on the launch! Quick question: when a developer lands on your docs for the first time, what's the moment you expect them to say 'oh, this is what it's for'? Curious how much of that story the homepage has to carry versus the SDK itself.",
+        "Congrats on the launch! Honest question on positioning: 'API and SDK for live conversations' could mean voice AI, chat, or in-app messaging depending on who's reading. Are you targeting a specific one of those, or intentionally staying broad at first?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1300934",
+    "platform": "producthunt",
+    "title": "KREV AI",
+    "author": "Rohan Chaubey",
+    "url": "https://www.producthunt.com/products/krev",
+    "updated": "2026-11-01T14:23:58-08:00",
+    "body": "An AI team that runs your ecommerce brand",
+    "score": 1.1,
+    "ageHours": 62.5,
+    "hits": [
+      "team",
+      "brand"
+    ],
+    "draft": {
+      "why": "Ecommerce founders are a decent adjacent audience for Ryan, and launch-day comments on ambitious AI products get read by other founders scanning the thread.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch! Curious who you picture as the first ideal user: a solo founder doing everything themselves, or a brand with a small team that wants to offload specific functions? That answer changes a lot about how the first-time experience should work.",
+        "Congrats! Honest question on positioning: 'runs your brand' is a big promise, so I'm wondering if leading with one painful job it fully owns (say, ad creative or email flows) would land harder than the whole-team framing. Have you tested which hook converts better?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1303399",
+    "platform": "producthunt",
+    "title": "Hindsight Models and Inference API",
+    "author": "Chris Bartholomew",
+    "url": "https://www.producthunt.com/products/vectorize",
+    "updated": "2026-11-03T11:30:48-08:00",
+    "body": "Small, fast models for reranking, embeddings and decisions",
+    "score": 0.8,
+    "ageHours": 17.3,
+    "hits": [
+      "api"
+    ],
+    "draft": {
+      "why": "Launch-day visibility on an infra product with B2B buyers in the audience, though the makers are devs, not typical design clients.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch! Curious who you're picturing as the first user: is this for teams already running RAG in production who need a cheaper reranker, or folks just starting to wire up retrieval?",
+        "Happy launch day! I'm wondering about the positioning: 'models and inference API' reads broad, and my guess is you'd convert better leading with one killer use case (reranking?) rather than the full menu. Is that intentional, or still being tested?"
+      ]
+    }
+  }
+]
