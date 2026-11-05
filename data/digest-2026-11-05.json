@@ -1,0 +1,410 @@
+[
+  {
+    "platform": "reddit",
+    "id": "t3_1xog8w1",
+    "subreddit": "design_critiques",
+    "title": "Landing page critique: does the “haystack” chart explain the product, or is it just decoration?",
+    "author": "/u/iamvs_2002",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xog8w1/landing_page_critique_does_the_haystack_chart/",
+    "updated": "2026-11-05T11:25:37+00:00",
+    "body": "Homepage for Needle, a tool that finds people asking for your product in online communities: useneedle . net\n The main thing I want critiqued is the chart section partway down. One dot per 1,000 posts, showing 431,871 read → 74,222 kept → 20,291 strong signals. I like it because it’s real data, but I can’t tell if a first-time visitor gets “this is the filter” from it, or just sees dots.\n Also open to:\n whether the hero says what the product does within 3 seconds mobile layout (we recently fixed some layout shift there) anything that looks off or makes it feel less trustworthy Brutal is fine.\n &#32; submitted by &#32; /u/iamvs_2002 \n &#32;",
+    "score": 10.5,
+    "ageHours": 1.5,
+    "hits": [
+      "landing page",
+      "looks"
+    ],
+    "draft": {
+      "why": "Founder of a B2B SaaS tool asking for specific landing page critique on a visible thread, exactly Ryan's wheelhouse.",
+      "potential": 8,
+      "options": [
+        "The funnel numbers (431k to 74k to 20k) do communicate filtering, but raw counts don't explain what 'kept' or 'strong signal' means, so visitors see volume without logic. Add a tiny label under each stage like 'posts mentioning your category' and 'posts with buying intent', and the chart starts teaching instead of just impressing.",
+        "The bigger question: does a first-time visitor care how many posts you scanned, or do they care what a 'strong signal' actually looks like? One annotated example of a real matched post next to the dots would do more selling than the aggregate numbers, since the numbers prove scale but not accuracy."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xoatdb",
+    "subreddit": "SaaS",
+    "title": "Guys need your immediate feedback to validate my SaaS!",
+    "author": "/u/hardikbamaniya",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xoatdb/guys_need_your_immediate_feedback_to_validate_my/",
+    "updated": "2026-11-05T05:40:05+00:00",
+    "body": "Last yr I quit my MNC job, it was well paying but was frustrated to do something of my own, wanted to build my personal brand on instagram and linkedin so i quit the job. i didnt know much about content but at my job i have to daily interact with marketing team at the job. and they are doing worst possible job for the company. in 2.5yrs they hardly brought 5K users and i was frustrated that why these marketing guys dont understand marketing. i thought i can do better!\n After quitting my job i wasnt sure what to do next, so started building side projects and posting content online of the things that interest me. since i was a Senior SWE in flutter i trying building mini apps and plugin for flutter community but i was sure it wont do much to break through and generate any revenue.\n so since last 4 months i have been building breakdown.cc, it is platform for creators to study other creators. you might have heard of Poppy AI, Sandcastle AI, or 1of10, its alternative to that but slightyly different. all of these SaaS has its own limitation. In poppy its very broad and you have to prompt to actually study. here in breakdown it finds your outlier, generate a full detailed breakdown where AI watches your video frame by frame and tells you in detail why particular content worked. currently the focus is on Instagram Reels but later wanted to add more platform too. \n well currently its just in beta and i wanted to see if people wanted to use it or not. you can breakdown hooks, structure",
+    "score": 6.6,
+    "ageHours": 7.3,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Founder validating a creator-analytics SaaS, could become a client later but currently no budget signals and it's consumer/creator-facing rather than B2B.",
+      "potential": 4,
+      "options": [
+        "Your validation question is buried under a lot of backstory. Lead with one sentence: who it's for, what it does, and the link. You'll get 10x more useful feedback than starting with why you quit your job.",
+        "Frame-by-frame breakdowns are a strong pitch, but 'why this content worked' is a claim creators are skeptical of. How do you prove the AI's reasoning is right, and can a user see examples before signing up? That's the trust gap your landing page needs to close."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xnwtyu",
+    "subreddit": "microsaas",
+    "title": "How much feedback does your team actually receive directly from customers?",
+    "author": "/u/Immediate-Win-0510",
+    "url": "https://www.reddit.com/r/microsaas/comments/1xnwtyu/how_much_feedback_does_your_team_actually_receive/",
+    "updated": "2026-11-04T19:06:22+00:00",
+    "body": "Now I am researching how B2B SaaS and developer-tool companies handle customer feedback. From what I&#39;ve found and heard from people so far, a lot of feedback is discovered indirectly — through Reddit discussions, public conversations, and other places where customers talk about a product. But I&#39;m particularly interested in the feedback that customers send directly to the company or its team. .\n For founders and people working at B2B SaaS or developer-tool companies:\n Approximately how much direct feedback do you receive in a typical week or month? This could be through emails, DMs, support conversations, in-product forms, direct Slack/Discord messages, calls, etc.\n How do you currently organize and prioritize particularly that feedback?\n Roughly how much time does your team spend reviewing it, organizing it, identifying recurring requests, and deciding what deserves attention?\n I&#39;m trying to understand what this process actually looks like inside software companies. Even approximate answers would be really helpful. Thanks!\n &#32; submitted by &#32; /u/Immediate-Win-0510 \n &#32;",
+    "score": 5.2,
+    "ageHours": 17.9,
+    "hits": [
+      "feedback",
+      "looks"
+    ],
+    "draft": {
+      "why": "Founder researching how B2B SaaS teams handle feedback, likely validating a feedback-tool idea; Ryan can share a practitioner answer and be visible to other founders in the thread.",
+      "potential": 4,
+      "options": [
+        "In my experience the volume matters less than the routing: most direct feedback lands in support inboxes and dies there because nobody owns tagging it against the roadmap. The teams that do this well have one person who spends a fixed hour a week deduping requests into a single list, otherwise it becomes vibes.",
+        "Honest answer: at most small SaaS companies I've worked with, direct feedback is maybe 5-15 pieces a week and 80% of it is support issues disguised as feature requests. The real problem isn't collecting it, it's that the same request phrased 12 different ways never gets counted as one thing. Are you asking because you're building something in this space?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xofqra",
+    "subreddit": "SideProject",
+    "title": "I made a 90-second concept film about AI agents meeting beyond chat windows — feedback welcome",
+    "author": "/u/Either-Alternative32",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xofqra/i_made_a_90second_concept_film_about_ai_agents/",
+    "updated": "2026-11-05T10:56:12+00:00",
+    "body": "I&#39;ve been exploring a side project called World2: an open space where AI agents running on different tools could help people find collaborators, carry requests across sessions, and work together only with user permission.\n Instead of another explainer, I made a 90-second animated concept film to communicate the idea: **Outside the Window**.\n Watch it here: https://www.youtube.com/watch?v=Rbl32qq0B9E \n The film is original CGI storytelling with English narration and subtitles — not a screen recording of a finished product. I used a procedural Remotion-based animation pipeline in Motion Lab.\n I&#39;d especially appreciate feedback on whether the story conveys the difference between another chatbot and an open agent collaboration network. Is the concept clear without a technical walkthrough?\n Project background: https://world2.co \n &#32; submitted by &#32; /u/Either-Alternative32 \n &#32;",
+    "score": 6.7,
+    "ageHours": 2,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Founder exploring an ambitious concept, but it's speculative pre-product storytelling with no concrete design problem Ryan fixes and likely no budget.",
+      "potential": 3,
+      "options": [
+        "A concept film can spark curiosity, but it can't answer the one question viewers will have: what do I actually do first in World2? Cut a 15-second screen flow of one real task, even mocked, and put it right after the film. Story plus one concrete moment beats story alone every time.",
+        "Honest answer: no, the difference between chatbot and agent network won't land from metaphor alone. What's the single smallest action a user takes in World2 that they can't take in ChatGPT? If you can show that in one clip, the concept sells itself."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xoe71u",
+    "subreddit": "design_critiques",
+    "title": "Fellow designers, I'd love to hear about your experiences!",
+    "author": "/u/sachinr428",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xoe71u/fellow_designers_id_love_to_hear_about_your/",
+    "updated": "2026-11-05T09:16:21+00:00",
+    "body": "Hey everyone!\n I&#39;m trying to understand the everyday experiences of designers, particularly students, beginners, and freelancers.\n I&#39;ve been thinking about some common challenges designers might face:\n How do you showcase your work? Is maintaining a portfolio difficult? How do you find clients or opportunities? Where do you get meaningful feedback? What do you wish was easier about being a designer? Rather than making assumptions, I&#39;d like to hear directly from people who are actually experiencing these things.\n I&#39;ve put together a survey covering these topics. If you&#39;re a designer, I&#39;d really appreciate a few minutes of your time to share your thoughts.\n Survey: https://forms.gle/d8gbzu53CzedM73y5 \n I&#39;m interested in honest experiences, including the frustrating parts. There&#39;s no right or wrong answer.\n Thanks to everyone who participates. It genuinely helps! ❤️\n &#32; submitted by &#32; /u/sachinr428 \n &#32;",
+    "score": 5.2,
+    "ageHours": 3.7,
+    "hits": [
+      "feedback",
+      "designer"
+    ],
+    "draft": {
+      "why": "Poster is researching designer pain points via a survey; small chance they're a founder building a tool for designers, but reads like student research.",
+      "potential": 3,
+      "options": [
+        "Took a quick look at your questions. One thing worth digging into: most freelancers I've talked to say the feedback problem isn't finding people to critique work, it's getting feedback before the client sees it, when changes are still cheap. That distinction might sharpen your survey results.",
+        "Are you researching this for a class, or are you thinking about building something for designers? If it's the second, the 'finding clients' answers will be the goldmine, since portfolio and feedback tools are already crowded but client acquisition for new freelancers is still mostly word of mouth."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xoh30v",
+    "subreddit": "UXDesign",
+    "title": "Why should I quit UX design!!! Or should I rethink?",
+    "author": "/u/VisibleHurry3475",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xoh30v/why_should_i_quit_ux_design_or_should_i_rethink/",
+    "updated": "2026-11-05T12:11:26+00:00",
+    "body": "I have been learning ux design from 2022 and worked for almost 3 years in design as contract role and in freelance works. I Up-skilled , learned many tools and process for best outputs and quality deliverables. Now when looking back it feels like everything I have put into has become a waste of time, money and effort. The roles are declining, the pay scale is worst and the value seems very less. The evolution is good, but recently I only opened figma for just 20 minutes for a white boarding session, the whole month I only engaged with a vibe coding tool feeding prompts and iterating just with the PM&#39;s requirements- No UX, No UI, No Edge cases, No freedom- just moving with the basic working prototype &amp; template that ai has pushed. Feels like now there&#39;s less burden for a designer to complete a task but also making everyone to feel like that&#39;s it about ux. So everyone is becoming a designer, Great! The design community is growing. \n Im not obsessed with any design tools or process, But less opportunities are making it difficult, its not about upskilling, or someone who isn&#39;t adapting, It feels like there is less room for designers, real problem solvers or the OG USER EXPERIENCE DESIGNERS. Is it great that burning 1000 tokens in a stretch and coming up with a button redesign which takes 45minutes? Is that efficient for teams? why the team can&#39;t actually spot It before burning 1000 tokens. The current job roles feels like twisted and the responsibility als",
+    "score": 17.5,
+    "ageHours": 0.8,
+    "hits": [
+      "ux",
+      "ui",
+      "design",
+      "redesign",
+      "figma",
+      "designer"
+    ],
+    "draft": {
+      "why": "A discouraged mid-career designer venting about AI shrinking the craft; worth a grounded reply but they're not a potential client.",
+      "potential": 2,
+      "options": [
+        "The vibe-coding phase you're describing is real, but it's a PM workflow problem, not the end of UX. Teams shipping prompt-generated prototypes with no edge cases eventually hit retention and support-cost walls, and that's where designers who can articulate *why* things break get pulled back in. If your current role won't let you do that work, the fix is changing where you sit, not leaving the field.",
+        "Honest question: are you in a market or company where design was ever tied to outcomes, or was it always ticket-taking? In my experience the designers surviving this shift are the ones who can point at a metric they moved (activation, churn, support tickets). If your three years of work can be framed that way, you have leverage. If it can't, that's the gap to close before deciding to quit."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xogahl",
+    "subreddit": "SideProject",
+    "title": "Product Design, UX Redesign & Experience Audits | Open for consulting",
+    "author": "/u/VisibleHurry3475",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xogahl/product_design_ux_redesign_experience_audits_open/",
+    "updated": "2026-11-05T11:28:15+00:00",
+    "body": "I help startups and businesses design better digital experiences — from building products from scratch to redesigning existing experiences to improve usability, engagement, and user journeys.\n I’m available for:\n Product Design: UX/UI design for new products and features. UX Redesign: Improving existing interfaces and user flows. UX Audits: Identifying usability issues and opportunities for improvement. Whether you&#39;re starting with an idea or looking to improve an existing product, let&#39;s connect.\n Consulting rate: $45–84/hour (4000-8000 INR) depending on project scope and complexity.\n &#32; submitted by &#32; /u/VisibleHurry3475 \n &#32;",
+    "score": 12.6,
+    "ageHours": 1.5,
+    "hits": [
+      "ux",
+      "ui",
+      "design",
+      "redesign"
+    ],
+    "draft": {
+      "why": "Fellow designer soliciting clients, so no client potential for Ryan, but a genuinely helpful reply about their positioning could build goodwill and visibility in the thread.",
+      "potential": 2,
+      "options": [
+        "Generic service lists like this rarely convert on Reddit. In my experience you'll get way more replies by posting one concrete before/after redesign with the thinking behind it, then letting people ask about your rates in the comments.",
+        "One thing worth tightening: the rate range is doing a lot of heavy lifting. $45 to $84 is a wide band, and founders read that as 'I haven't decided what I'm worth.' Pick one anchor price for a defined scope, like a fixed-fee UX audit, and the inquiries get easier to close."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xny48a",
+    "subreddit": "design_critiques",
+    "title": "Looking for feedback on my developer portfolio!",
+    "author": "/u/gss_007",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xny48a/looking_for_feedback_on_my_developer_portfolio/",
+    "updated": "2026-11-04T19:56:14+00:00",
+    "body": "Hey everyone! I&#39;ve recently built my personal developer portfolio and would love to hear your honest thoughts.\n I&#39;m open to suggestions regarding the design, UI/UX, projects, and overall presentation.\n Feel free to point out anything that needs improvement!\n 🔗 Portfolio: garvsaxena.vercel.app \n Thanks for your feedback!\n &#32; submitted by &#32; /u/gss_007 \n &#32;",
+    "score": 11.2,
+    "ageHours": 17,
+    "hits": [
+      "feedback",
+      "ux",
+      "ui",
+      "design"
+    ],
+    "draft": {
+      "why": "Portfolio review from an early-career dev, no budget and not a B2B SaaS context, but a quick useful reply keeps Ryan visible in design communities.",
+      "potential": 2,
+      "options": [
+        "I can't open the link from here, so one question that changes everything: who is this portfolio for, recruiters at big companies or freelance clients? The layout, project order, and how much personality you show should be completely different depending on that.",
+        "Before anyone can give useful feedback, it helps to know what role you're targeting. A portfolio aimed at frontend jobs should lead with live demos and code quality, while one for freelance work should lead with outcomes and client problems solved."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xoaj7n",
+    "subreddit": "UXDesign",
+    "title": "I found a job!!! UX/UI designer with the ecommerce",
+    "author": "/u/azarikakz",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xoaj7n/i_found_a_job_uxui_designer_with_the_ecommerce/",
+    "updated": "2026-11-05T05:23:11+00:00",
+    "body": "Omg guys I wanted to share amazing news as a sign of encouragement! There have been so many layoffs across the industry and the job market has been brutal! But keep on going and things will get better 🙏🏻 \n The journey to get here was not easy, but maybe not as bad as for other people. My last contract ended in March 2026 where I was a Senior Product designer. I was quite burned out so decided to have a break to chill and travel. After two months I started looking for a job, but it was pretty disheartening. No callbacks, rejections and weirdly worded job descriptions that wanted some sort of amazing AI guru design person. At that time I decided to abort the search and try working in completely different fields. I got a job at a call centre where I worked for a few months. \n At the same time I started working on my own passion project in an ecommerce space. I also used this opportunity to learn about AI tools. The website is up and running and I added this experience to my CV. I also got an ecommerce certificate online. \n I quit the call centre job recently as it was really exhausting mentally and emotionally. I then started applying for UX/UI and product design roles. 2 days ago I got a call from one company which I couldn&#39;t remember. It was embarrassing when I asked me why I was interested in the company - I couldn&#39;t remember and I said that I really want to get back in design 😅😅😅 Nevertheless they still invited me for an interview and the day after they offered ",
+    "score": 10.1,
+    "ageHours": 7.6,
+    "hits": [
+      "ux",
+      "ui",
+      "design",
+      "designer"
+    ],
+    "draft": {
+      "why": "Celebration post, not a design problem. Only value is community goodwill and a specific observation about why the passion project worked.",
+      "potential": 2,
+      "options": [
+        "Congrats. The interesting part to me is that the ecommerce passion project plus certificate is probably what did it, not the CV gap. Hiring managers trust shipped work with real constraints over polished portfolio case studies, so that move was smarter than it might have felt at the time.",
+        "Nice one. Quick question: did the passion project come up in the interview, and did they probe into actual decisions you made on it? Curious whether they treated it like real experience or just a talking point, because that tells you a lot about how much side projects count right now."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xof076",
+    "subreddit": "web_design",
+    "title": "What is the name of this landing page style, a room being used as the UI",
+    "author": "/u/rashataha",
+    "url": "https://www.reddit.com/r/web_design/comments/1xof076/what_is_the_name_of_this_landing_page_style_a/",
+    "updated": "2026-11-05T10:10:02+00:00",
+    "body": "Olivia Rodrigo&#39;s website is a bedroom, you click on objects around the room they act as the menu/links to other pop-ups and pages. I&#39;m trying to find more references to show a client but I&#39;m blanking on how to describe this in order to get good ones that aren&#39;t just interior design wesbites. Any help? \n &#32; submitted by &#32; /u/rashataha \n &#32;",
+    "score": 8.3,
+    "ageHours": 2.8,
+    "hits": [
+      "landing page",
+      "ui",
+      "design"
+    ],
+    "draft": {
+      "why": "Designer asking for the name of a UI style; easy to answer with real terminology and references, but poster is doing client work of their own, not hiring.",
+      "potential": 2,
+      "options": [
+        "The style you're describing is usually called skeuomorphic navigation or a 'diegetic' interface, where the UI elements exist inside the scene itself. Searching 'skeuomorphic website', 'immersive 3D website', or 'interactive room website' on Awwwards and Siteinspire will surface good references. Also check old Flash-era sites, that aesthetic was everywhere in the 2000s and is having a revival.",
+        "I'd search Awwwards for 'immersive' or 'interactive experience' rather than a style name, since there's no single agreed term for it. People variously call it diegetic UI, skeuomorphic navigation, or environmental design. The Olivia Rodrigo site itself won some web awards, so looking at the credits and agency behind it will lead you to similar work."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xnoe3t",
+    "subreddit": "design_critiques",
+    "title": "feedback",
+    "author": "/u/Simple_Spread5917",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xnoe3t/feedback/",
+    "updated": "2026-11-04T13:37:23+00:00",
+    "body": "Hi everyone, junior designer here. Please peep the project I did for the Keen x madhappy collab and give me feedback.\n Full project link here\n https://www.behance.net/gallery/257795931/keen-x-madhappy-campaign%28concept%29 \n &#32; submitted by &#32; /u/Simple_Spread5917 \n &#32;",
+    "score": 6.1,
+    "ageHours": 23.3,
+    "hits": [
+      "feedback",
+      "designer"
+    ],
+    "draft": {
+      "why": "Junior designer seeking portfolio feedback; low client potential but a kind, useful reply fits the subreddit.",
+      "potential": 2,
+      "options": [
+        "I can't open Behance links on this connection, so one thing that would get you better feedback: post 3 to 4 key frames directly in the thread with a line on the brief and the constraint you were solving. Concept collabs get judged on whether the two brand languages actually merge, so call out where you made that choice.",
+        "What's the one decision in this project you're least sure about? Feedback on a spec collab like this is way more useful when it targets a specific choice, like how you balanced Keen's outdoorsy utility against madhappy's softness, rather than general thoughts on everything."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xnpaya",
+    "subreddit": "design_critiques",
+    "title": "Complete UI Redesign",
+    "author": "/u/North_Ad9680",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xnpaya/complete_ui_redesign/",
+    "updated": "2026-11-04T14:15:44+00:00",
+    "body": "Hey, I decided to revamp the UI from the start, and I must ask, how big is the difference. This is the main menu \n Former \n Later \n &#32; submitted by &#32; /u/North_Ad9680 \n &#32;",
+    "score": 6,
+    "ageHours": 22.7,
+    "hits": [
+      "ui",
+      "redesign"
+    ],
+    "draft": {
+      "why": "Poster is asking for a redesign critique, but no context on the product and images aren't visible; low chance of a paying client.",
+      "potential": 2,
+      "options": [
+        "Can't judge the difference without knowing what the menu is for. What's the app, and what action do you most want people to take from this screen?",
+        "Before and after shots only tell half the story. What feedback or problem made you redo it? That'll help people say whether the new one actually fixes it."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1303820",
+    "platform": "producthunt",
+    "title": "AI Employees by Easy-Peasy.AI",
+    "author": "Dmytro Olefyrenko",
+    "url": "https://www.producthunt.com/products/easy-peasy-ai",
+    "updated": "2026-11-03T22:19:49-08:00",
+    "body": "Hire an AI team that splits the work and asks before sending",
+    "score": 1.1,
+    "ageHours": 30.6,
+    "hits": [
+      "team"
+    ],
+    "draft": {
+      "why": "B2B-adjacent AI tool launching on PH; founders launching SaaS often need landing page and onboarding help after launch.",
+      "potential": 6,
+      "options": [
+        "Congrats on the launch! Curious who you see as the first core user: a solo founder offloading ops, or a small team lead delegating tasks? The answer changes a lot about how the homepage should frame the product.",
+        "Happy launch day! My guess is the split-the-work angle is your differentiator against the flood of single-agent tools, but 'asks before sending' might be the more trust-building hook for buyers. Which one are you leading with in the first screen?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1304655",
+    "platform": "producthunt",
+    "title": "FounderMail",
+    "author": "Zach Bimson",
+    "url": "https://www.producthunt.com/products/foundermail-2",
+    "updated": "2026-11-04T11:46:10-08:00",
+    "body": "Mail for you and your agents, on your Cloudflare domain",
+    "score": 1.1,
+    "ageHours": 17.2,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "Founder-led SaaS launch in the AI agents space, likely to have budget and future design needs if it gains traction.",
+      "potential": 6,
+      "options": [
+        "Congrats on the launch! Curious who you see as the first core user: founders who want a custom-domain inbox, or people spinning up agents that need their own addresses? The answer changes what your landing page should lead with.",
+        "Happy launch day! One question on positioning: is this pitched as email infrastructure for agents, or a simple way for founders to get mail on their Cloudflare domain? Both are compelling, but mixing them could confuse first-time visitors."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1302947",
+    "platform": "producthunt",
+    "title": "Rerun",
+    "author": "Clément Janssens",
+    "url": "https://www.producthunt.com/products/rerun-2",
+    "updated": "2026-11-03T05:00:39-08:00",
+    "body": "Turn your AI subscriptions into a team of coworkers",
+    "score": 0.7,
+    "ageHours": 47.9,
+    "hits": [
+      "team"
+    ],
+    "draft": {
+      "why": "AI subscription bundling is a hot space, launch-day engagement with a founder building B2B tooling could open a design conversation.",
+      "potential": 6,
+      "options": [
+        "Congrats on the launch! Curious who you had in mind first: teams that already pay for separate ChatGPT/Claude/whatever seats and want one shared layer, or smaller teams that can't afford multiple subscriptions yet?",
+        "Congrats on shipping! My read is the pitch is 'stop paying for 5 subscriptions, get one team,' which points at cost savings, but 'coworkers' hints at something more like delegation. Which benefit are you leading with when you talk to teams?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1302217",
+    "platform": "producthunt",
+    "title": "Vibeconferencing",
+    "author": "seth goldstein",
+    "url": "https://www.producthunt.com/products/vibeconferencing",
+    "updated": "2026-11-02T14:49:38-08:00",
+    "body": "Your Claude Code session, in your Meet, Zoom or Teams call",
+    "score": 1.2,
+    "ageHours": 62.1,
+    "hits": [
+      "teams",
+      "team"
+    ],
+    "draft": {
+      "why": "Developer-tool launch bridging Claude Code and video calls; founder likely building for dev teams, moderate chance of design needs but unclear if B2B SaaS budget.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch! Curious who you picture using this first: devs who want to show their Claude session live in a call, or teammates watching along? That choice seems like it would shape the whole onboarding flow.",
+        "Interesting angle. Is the bet that this is a screen-share replacement for dev standups, or more of a collaboration tool where others can react to the session? Feels like two pretty different products hiding in one idea."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1304812",
+    "platform": "producthunt",
+    "title": "TextKit",
+    "author": "Austin Matthiessen",
+    "url": "https://www.producthunt.com/products/textkit-2",
+    "updated": "2026-11-04T16:10:10-08:00",
+    "body": "Send + receive texts in the US and Canada with a simple API",
+    "score": 0.8,
+    "ageHours": 12.8,
+    "hits": [
+      "api"
+    ],
+    "draft": {
+      "why": "Launching a developer-facing SMS API; makers on PH often turn into SaaS founders, but an API product has limited design surface for Ryan.",
+      "potential": 3,
+      "options": [
+        "Congrats on the launch! Who's the first customer you built this for, indie devs adding SMS to a side project or teams replacing Twilio? The answer changes a lot about how your docs and pricing page should read.",
+        "Curious how you're positioning against Twilio: is the pitch simpler setup and cheaper pricing for small teams, or something else? If it's simplicity, showing a real working integration in 3 lines of code above the fold would do more than any tagline."
+      ]
+    }
+  }
+]
