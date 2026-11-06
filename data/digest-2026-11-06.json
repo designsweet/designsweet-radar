@@ -1,0 +1,409 @@
+[
+  {
+    "platform": "reddit",
+    "id": "t3_1xpb5su",
+    "subreddit": "SideProject",
+    "title": "I’m building an AI phone receptionist for small businesses - would love early feedback",
+    "author": "/u/ayiren",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xpb5su/im_building_an_ai_phone_receptionist_for_small/",
+    "updated": "2026-11-06T12:05:31+00:00",
+    "body": "Hey everyone! I’ve been working on a tool that answers phone calls for clinics, salons, and small offices using AI. It books, confirms, and reschedules appointments 24/7 so business owners stop losing customers to missed calls.\n The idea came from watching my local dentist’s receptionist juggle 3 phone lines while checking people in. Half the calls went to voicemail. Most never called back.\n Still early - looking for small business owners or anyone who’s dealt with this problem to tell me if this actually solves something real for them.\n Happy to share the landing page if anyone wants to check it out. Would love honest feedback on the concept.\n &#32; submitted by &#32; /u/ayiren \n &#32;",
+    "score": 10.1,
+    "ageHours": 0.8,
+    "hits": [
+      "feedback",
+      "landing page"
+    ],
+    "draft": {
+      "why": "Founder building a real B2B tool for appointment businesses, explicitly asking for landing page feedback, which is exactly Ryan's wheelhouse.",
+      "potential": 7,
+      "options": [
+        "The missed-call angle is your strongest asset, so lead the landing page with a number: 'X% of callers who hit voicemail never call back' hits harder than any feature list. Then show one concrete booking conversation instead of describing the AI, skeptical owners want proof it won't fumble a real call.",
+        "The thing I'd test early is trust, not features: a clinic owner hears 'AI receptionist' and immediately pictures it botching a call with a loyal patient. Do you have any recordings or a live demo number people can call? That single artifact would do more for conversions than anything else on the page."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xp4yjt",
+    "subreddit": "indiehackers",
+    "title": "About eight onboarding screens before the paywall: is that helping or killing activation?",
+    "author": "/u/seviniryusuf",
+    "url": "https://www.reddit.com/r/indiehackers/comments/1xp4yjt/about_eight_onboarding_screens_before_the_paywall/",
+    "updated": "2026-11-06T05:34:32+00:00",
+    "body": "Follow-up to my earlier post about people backing out at the payment sheet. The thread pushed me to look at what happens before the paywall, so here is the actual flow.\n A new user goes through roughly eight screens: welcome, the problem we solve, interests, a starter watchlist, then four short showcase screens. On the last one they pick a stock and see the app score it live. Then comes the paywall, and sign-in after that.\n The idea was to give them one real &quot;aha&quot; before asking for money. But eight screens is a lot of tapping for someone who just wants to look around.\n Questions for people who&#39;ve tuned onboarding on a consumer subscription app:\n Did cutting onboarding screens help or hurt your trial starts? Any rough numbers you&#39;re comfortable sharing? Would you move the &quot;score your own stock&quot; moment to screen two and cut the rest? Interest and watchlist questions: worth asking up front for personalisation, or better asked later inside the app? I&#39;ll test one change at a time, so I&#39;d rather know which one to try first.\n &#32; submitted by &#32; /u/seviniryusuf \n &#32;",
+    "score": 11.1,
+    "ageHours": 7.3,
+    "hits": [
+      "onboarding",
+      "activation"
+    ],
+    "draft": {
+      "why": "Poster is actively A/B testing onboarding on a subscription app with a concrete flow problem, and the thread will attract other founders with the same issue.",
+      "potential": 5,
+      "options": [
+        "Move the live stock score to screen two. That's your only real 'aha', and every screen before it is a chance to lose people who never reach it. Keep interests and watchlist for after signup, since answers are better once someone has seen the product and you can pre-fill with sensible defaults.",
+        "Eight screens isn't the problem by itself, it's that seven of them are you talking and only one is the user doing something. Have you measured drop-off per screen? My guess is the showcase screens bleed the most, and collapsing them into one would beat cutting the personalization questions."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xp8wuw",
+    "subreddit": "UXDesign",
+    "title": "Where do you draw the line between \"playful\" and \"unusable\" in UI?",
+    "author": "/u/Repulsive-Beach4801",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xp8wuw/where_do_you_draw_the_line_between_playful_and/",
+    "updated": "2026-11-06T09:48:30+00:00",
+    "body": "I&#39;ve been designing a hand-drawn UI style: wobbly outlines, slightly tilted elements, sticker-like buttons, colors picked by feel instead of a strict scale.\n The rule I set myself was to break visual conventions but never accessibility ones : AA contrast on every color pair, full keyboard access, no status shown by color alone, and every animation off under reduced motion.\n Where I&#39;m unsure:\n Tilt: does rotated text hurt scanning, even at small angles like 1–2°? Feedback: is a &quot;squish&quot; on press helpful, or just noise by the 10th press? Commitment: should a playful style be opt-in (a theme), or is committing to it part of the charm? How do you decide this in products people use every day? Any research or examples you&#39;ve found useful?\n &#32; submitted by &#32; /u/Repulsive-Beach4801 \n &#32;",
+    "score": 7.3,
+    "ageHours": 3.1,
+    "hits": [
+      "feedback",
+      "ui"
+    ],
+    "draft": {
+      "why": "Designer wrestling with a real style-system tradeoff; good visibility in r/UXDesign, but unclear if it's a paid B2B context.",
+      "potential": 4,
+      "options": [
+        "On tilt: 1-2 degrees on containers and cards is fine, but keep the text itself unrotated. Reading speed measurably drops once glyphs are off-axis, and it's the one place users can't adapt. Rotating the chrome around straight text gives you the hand-drawn feel without touching legibility.",
+        "On commitment: make it opt-in if this is a daily-use product. Playful styles age fast under repetition, and the people who love it on day one are often the ones filing 'how do I turn this off' requests by month three. A theme also gives you a clean fallback when a screen gets genuinely dense and the wobbly borders start fighting the content."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xp7tsg",
+    "subreddit": "SaaS",
+    "title": "Feedback needed",
+    "author": "/u/Content-Option-2365",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xp7tsg/feedback_needed/",
+    "updated": "2026-11-06T08:36:22+00:00",
+    "body": "Hey everyone,\n For a while now I&#39;ve been working on a small project called Veyraflow. It started because I was tired of jumping between 3-4 different tools for making asset prototypes.\n Right now it does:\n 3D model generation\n Sound effects (SFX)\n Text-to-speech for voice lines\n I&#39;m also working on a feature that generates whole asset packs in one go (for now only 3D models, and it is designed to create packs ready for selling) It&#39;s available as a preorder for now.\n You don&#39;t need to subscribe to anything. If you just click around and try it, that already helps me a lot. I&#39;m mostly curious what feels clunky, what&#39;s missing, and what you&#39;d actually use in your workflow.\n Happy to answer questions about how it works. And if you think it&#39;s useless for your use case, tell me that too. That&#39;s valuable feedback as well.\n &#32; submitted by &#32; /u/Content-Option-2365 \n &#32;",
+    "score": 7.1,
+    "ageHours": 4.3,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Solo founder actively asking for UX feedback on a tool with a preorder model, so they care about conversion and first-run experience, but it's a game-asset tool aimed at hobbyists with unclear budget.",
+      "potential": 4,
+      "options": [
+        "The preorder-before-trying flow is your biggest risk. People who make asset prototypes want to see output quality first, so I'd put a free sample generation (one 3D model, one SFX) in front of any payment ask, otherwise most visitors will bounce before you learn anything from them.",
+        "Who's the primary user you're picturing: indie game devs prototyping for themselves, or people building packs to sell? Those two want pretty different onboarding and pricing, and right now the pitch seems to straddle both."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xp8ecg",
+    "subreddit": "UXDesign",
+    "title": "Trying to catch up re AI skills in UX in the context of fintech/B2B Saas. Which is best to learn for this niche: Claude, Figma MCP, Repit etc?",
+    "author": "/u/valportdes",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xp8ecg/trying_to_catch_up_re_ai_skills_in_ux_in_the/",
+    "updated": "2026-11-06T09:13:58+00:00",
+    "body": "Title\n &#32; submitted by &#32; /u/valportdes \n &#32;",
+    "score": 8.2,
+    "ageHours": 3.7,
+    "hits": [
+      "ux",
+      "figma"
+    ],
+    "draft": {
+      "why": "Designer asking a concrete tooling question in a fintech/B2B SaaS context, which matches Ryan's niche, but they're a peer learning skills rather than a founder with budget.",
+      "potential": 3,
+      "options": [
+        "For fintech/B2B SaaS specifically, skip Replit and start with Figma MCP plus a chat model like Claude. The value in that niche is turning dense tables and workflows into specs fast, and MCP lets the model read your actual components instead of you re-describing them.",
+        "Are you designing or building? If you're a designer in fintech, Claude for research synthesis and Figma MCP for design-to-code handoff covers 90% of the workflow. Replit only matters if you're also shipping front-end yourself."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xp9m1s",
+    "subreddit": "SideProject",
+    "title": "Looking for honest feedback on my free color palette app for developers and designers",
+    "author": "/u/RelativeVisit3468",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xp9m1s/looking_for_honest_feedback_on_my_free_color/",
+    "updated": "2026-11-06T10:32:27+00:00",
+    "body": "Hi everyone,\n I recently released Shade Shaker, a free Mac app for making color palettes. You generate a palette, see it straight away in real mobile and web app screens (in light and dark), and copy theme code for your framework: Flutter, HTML/CSS, Tailwind, React, SwiftUI, Jetpack Compose and a few more.\n I am the developer. It is completely free, with no account or tracking, so this isn&#39;t a sales pitch. I would just like to hear from people who work with color before I plan the next version. A few things I&#39;m especially curious about:\n In your first minute, was it clear what to do? Where did you get stuck?\n Does seeing the palette in a real app help you choose colors, or does it get in the way?\n If you copied code for your framework, would you paste it into a project as it is? What would you change?\n What&#39;s missing that would make you use it instead of what you use now?\n Anything that looks off or feels clunky, however small.\n Harsh feedback is welcome. I would much rather hear it now.\n https://shadeshaker.app (macOS 14 or later; a Windows version is coming)\n Thanks for taking a look. I will reply to every comment.\n &#32; submitted by &#32; /u/RelativeVisit3468 \n &#32;",
+    "score": 7.8,
+    "ageHours": 2.4,
+    "hits": [
+      "feedback",
+      "looks"
+    ],
+    "draft": {
+      "why": "Solo developer asking for UX feedback on a free consumer tool; good practice ground but little client potential.",
+      "potential": 3,
+      "options": [
+        "The real-app preview is your strongest feature, so lead with it in the first screen instead of the palette generator. Most color tools stop at swatches, and showing contrast on actual components is what makes people trust the output enough to paste the code.",
+        "On the code export question: I'd paste Tailwind or CSS variables directly, but Flutter and SwiftUI snippets usually need to match an existing theme structure. Do you let people map palette roles (primary, surface, error) before export, or is it a fixed slot order?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xpb3tl",
+    "subreddit": "SideProject",
+    "title": "I launched KUT: Soul Compass on iOS — Human Design charts and meditation in four languages",
+    "author": "/u/Professional_Yak1353",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xpb3tl/i_launched_kut_soul_compass_on_ios_human_design/",
+    "updated": "2026-11-06T12:02:34+00:00",
+    "body": "Hi everyone — I&#39;m the developer of KUT: Soul Compass, and it&#39;s now live on the App Store for iPhone and iPad.\n KUT brings Human Design charts, meditation audio, daily moon/energy themes, relationship compatibility and symbolic palm readings into a dark, cosmic interface. It supports English, Turkish, Spanish and French.\n The chart uses birth date, time and place to show type, profile, authority and centers. There are also AI-assisted interpretations and a separately purchased personal digital wisdom book. These are intended for reflection and entertainment, not scientific diagnoses or predictions. AI features need an internet connection and permission to share the relevant data.\n Pricing: the download is free, with Premium subscriptions and separate in-app purchases. The personal book is not included in Premium. Local prices are shown in the app.\n App Store: https://apps.apple.com/app/id6823820408 \n Privacy: https://mcaappstudio.com/en/kut/legal/privacy \n I&#39;d appreciate candid feedback on the first-run experience: is it clear what you can explore before subscribing, and which feature would you try first? If Human Design is new to you, I&#39;d especially like to know whether the chart explanation makes sense.\n Happy to answer questions about the project or hear what feels confusing.\n &#32; submitted by &#32; /u/Professional_Yak1353 \n &#32;",
+    "score": 7.2,
+    "ageHours": 0.9,
+    "hits": [
+      "feedback",
+      "design",
+      "confusing"
+    ],
+    "draft": {
+      "why": "Solo dev asking for onboarding feedback, but it's a consumer spirituality app with no path to B2B design work for Ryan.",
+      "potential": 3,
+      "options": [
+        "The biggest first-run risk with apps like this is hitting people with a paywall before they've seen their own chart. Let them generate their chart free, then gate the AI interpretations and the book behind Premium, because the chart itself is the hook that makes the paid stuff feel worth it.",
+        "Is the Human Design explanation shown before or after someone enters their birth details? If it's before, I'd move it after, since explaining type and authority makes way more sense when the person is looking at their own chart instead of an abstract diagram."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xopdqm",
+    "subreddit": "design_critiques",
+    "title": "Brutal UI/UX feedback wanted: \"Stakeholder\", a playful app for tracking shareholder meetings and rating the buffet",
+    "author": "/u/RoutineBeach9026",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xopdqm/brutal_uiux_feedback_wanted_stakeholder_a_playful/",
+    "updated": "2026-11-05T17:55:05+00:00",
+    "body": "Stakeholder (like the steak) tracks German shareholder meetings and lets you rate the free buffet. Playful tone on purpose.\n Looking for harsh, design-only feedback: What works, what looks amateur, what would you change?\n Also: I&#39;m self-taught and considering going into UI/UX professionally. Based on this, would you say that&#39;s a realistic direction, or not yet?\n Screenshots and a short video below. Thanks.\n &#32; submitted by &#32; /u/RoutineBeach9026 \n &#32;",
+    "score": 13.4,
+    "ageHours": 19,
+    "hits": [
+      "feedback",
+      "ux",
+      "ui",
+      "design",
+      "looks"
+    ],
+    "draft": {
+      "why": "Fun side project from a self-taught designer asking for critique and career validation, but it's a consumer hobby app with no budget behind it.",
+      "potential": 2,
+      "options": [
+        "One thing to watch with playful products: the joke has to survive the boring states. Empty meeting lists, error screens, and a buffet with zero ratings still need to feel intentional, that's where amateur work usually shows. If those states look as considered as the happy path, you're further along than most self-taught folks.",
+        "Quick clarifying question before judging career readiness: did you design the data model and flows yourself, or mainly the screens? Hiring managers care a lot more about whether you can reason through the meeting-tracking workflow than whether the buffet rating UI is cute."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xp8hpx",
+    "subreddit": "UXDesign",
+    "title": "Recrutement de profils UX/UI et Design à Paris, Lyon, Bordeaux (France)",
+    "author": "/u/nairobibi",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xp8hpx/recrutement_de_profils_uxui_et_design_à_paris/",
+    "updated": "2026-11-06T09:20:05+00:00",
+    "body": "Hello,\n Mon entreprise recrute des profils Design Strategist, Lead Product Designer, Product Designer, UX/UI Designer en France (Paris, Lyon, Bordeaux).\n On recherche des gens avec une expérience dans un environnement industriel (énergie, aéronautique, aérospatial, automobile, BTP, etc.) et ayant idéalement travaillé sur la conception d&#39;applications métiers B2E (Business to Employee). Je suis dispo par MP.\n N&#39;hésitez pas à me dire si ce sub n&#39;est pas le plus adapté.\n Merci ! \n &#32; submitted by &#32; /u/nairobibi \n &#32;",
+    "score": 11.1,
+    "ageHours": 3.6,
+    "hits": [
+      "ux",
+      "ui",
+      "design",
+      "designer"
+    ],
+    "draft": {
+      "why": "Job posting by a recruiter, not a design problem; little chance of client work for Ryan.",
+      "potential": 2,
+      "options": [
+        "Quick tip: posts like this get way more traction on r/france's weekly emploi thread or r/uxfr, since this sub skews English-speaking and portfolio advice. Including the company name and salary range would also get you much better candidates.",
+        "Is there a reason the company is posted anonymously? In my experience senior designers rarely reply to MP-only offers, sharing the name and salary band upfront usually doubles response quality."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xp9a73",
+    "subreddit": "design_critiques",
+    "title": "process as therapy feedback",
+    "author": "/u/--yuvraaj--",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xp9a73/process_as_therapy_feedback/",
+    "updated": "2026-11-06T10:11:49+00:00",
+    "body": "https://preview.redd.it/b0x4kwopuyzh1.png?width=506&amp;format=png&amp;auto=webp&amp;s=5203dac0547aaa106374f51ed1e06c2ef7d90dfb \n https://www.behance.net/gallery/258127995/Process-as-Therapy \n &#32; submitted by &#32; /u/--yuvraaj-- \n &#32;",
+    "score": 8.9,
+    "ageHours": 2.7,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Student/portfolio-style process writeup seeking feedback, low client value but a fair critique fits Ryan's voice.",
+      "potential": 2,
+      "options": [
+        "The process documentation is thorough, but for a case study like this I'd cut it to the 3-4 decisions that actually changed the outcome and show a before/after for each. Right now a reader can't tell which step mattered most.",
+        "What's the one decision in this project you'd defend hardest if a client pushed back? Lead the case study with that instead of the full linear process, it's what makes a portfolio memorable."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xpa2bl",
+    "subreddit": "web_design",
+    "title": "Feedback Thread",
+    "author": "/u/AutoModerator",
+    "url": "https://www.reddit.com/r/web_design/comments/1xpa2bl/feedback_thread/",
+    "updated": "2026-11-06T11:00:57+00:00",
+    "body": "Our weekly thread is the place to solicit feedback for your creations. Requests for critiques or feedback outside of this thread are against our community guidelines. Additionally, please be sure that you&#39;re posting in good-faith. Attempting to circumvent self-promotion or commercial solicitation guidelines will result in a ban. \n Feedback Requestors Please use the following format:\n URL : \n Purpose : \n Technologies Used : \n Feedback Requested : (e.g. general, usability, code review, or specific element) \n Comments :\n Post your site along with your stack and technologies used and receive feedback from the community. Please refrain from just posting a link and instead give us a bit of a background about your creation.\n Feel free to request general feedback or specify feedback in a certain area like user experience, usability, design, or code review.\n Feedback Providers Please post constructive feedback. Simply saying, &quot;That&#39;s good&quot; or &quot;That&#39;s bad&quot; is useless feedback. Explain why. Consider providing concrete feedback about the problem rather than the solution. Saying, &quot;get rid of red buttons&quot; doesn&#39;t explain the problem. Saying &quot;your site&#39;s success message being red makes me think it&#39;s an error&quot; provides the problem. From there, suggest solutions. Be specific. Vague feedback rarely helps. Again, focus on why. Always be respectful Template Markup **URL**: **Purpose**: **Technologies Used**: **Feedback Requested**: ",
+    "score": 7.5,
+    "ageHours": 1.9,
+    "hits": [
+      "feedback",
+      "design"
+    ],
+    "draft": {
+      "why": "This is a generic weekly feedback megathread with no specific site or poster to engage, so there is nothing concrete to reply to and little client signal.",
+      "potential": 2,
+      "options": [
+        "Since there's no specific site here, the most useful thing I can add is a pattern I see constantly in feedback threads: people ask for general feedback when they'd get 10x better answers by naming the one action they want visitors to take. If you're posting a site, say what success looks like for it first.",
+        "Quick tip for anyone giving feedback this week: describe the problem before the fix. Saying 'your nav has 9 items and I couldn't tell where to click first' lands way better than 'simplify the nav,' because it tells the designer why it matters."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xoq10b",
+    "subreddit": "design_critiques",
+    "title": "Looking for feedback on my editorial layout and typography",
+    "author": "/u/Miserable_Link_2419",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xoq10b/looking_for_feedback_on_my_editorial_layout_and/",
+    "updated": "2026-11-05T18:19:18+00:00",
+    "body": "Hi everyone! I&#39;m working on an editorial layout for Beatrice Warde&#39;s The Crystal Goblet and wanted to get some outside feedback.\n I&#39;m especially interested in how the typography, spacing, and overall page layout work together. Does the hierarchy feel clear? Is the text easy to follow, and does the design feel visually balanced?\n I&#39;d appreciate any constructive criticism or suggestions for improvement. Thank you \n https://preview.redd.it/gh82isdw5uzh1.png?width=2566&amp;format=png&amp;auto=webp&amp;s=a6bdb8386e7a5378255d4a34ab9cde2fc94e81d4 \n https://preview.redd.it/2uinerdw5uzh1.png?width=2566&amp;format=png&amp;auto=webp&amp;s=d68f3a6a5cde95a3aa4548506787a1e1565b3776 \n https://preview.redd.it/3badyrdw5uzh1.png?width=2568&amp;format=png&amp;auto=webp&amp;s=c23bca0779a7cb855a658af5214c0da4fa0dd066 \n &#32; submitted by &#32; /u/Miserable_Link_2419 \n &#32;",
+    "score": 7.3,
+    "ageHours": 18.6,
+    "hits": [
+      "feedback",
+      "design"
+    ],
+    "draft": {
+      "why": "Classic student typography critique post; useful to demonstrate craft but zero client potential.",
+      "potential": 1,
+      "options": [
+        "The wide outer margins are doing nice work, but the folio and header compete with the body text at the same optical size, so the hierarchy flattens. Try dropping the header size or graying it down so the body column reads first.",
+        "Your rag looks uneven in places, which suggests the measure is a bit too long for this type size. Tighten the column to roughly 60 to 70 characters and bump leading a point or two, and the whole spread will calm down."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1305568",
+    "platform": "producthunt",
+    "title": "Translucent AI",
+    "author": "Yashas Gunderia",
+    "url": "https://www.producthunt.com/products/translucent-ai",
+    "updated": "2026-11-05T06:57:51-08:00",
+    "body": "Test infrastructure for hardware teams",
+    "score": 2.8,
+    "ageHours": 21.9,
+    "hits": [
+      "teams",
+      "team"
+    ],
+    "draft": {
+      "why": "Hardware test infrastructure for B2B teams is a niche with real budgets, and launch threads often include the founders directly.",
+      "potential": 6,
+      "options": [
+        "Congrats on the launch! Curious who you see as the first customer: is it a small hardware startup still doing manual testing, or a bigger team replacing an in-house rig? That answer probably shapes your whole landing page.",
+        "Happy launch day! Quick hypothesis: 'test infrastructure' can sound like enterprise software to a hardware founder, so are you positioning as something a 5-person team can set up in a day, or as a platform they grow into?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1305524",
+    "platform": "producthunt",
+    "title": "Rankfender v3.0",
+    "author": "Imed Radhouani",
+    "url": "https://www.producthunt.com/products/rankfender",
+    "updated": "2026-11-05T06:05:15-08:00",
+    "body": "The SEO/GEO operating system, built for people and AI agents",
+    "score": 2.4,
+    "ageHours": 22.8,
+    "hits": [
+      "agents",
+      "seo"
+    ],
+    "draft": {
+      "why": "SEO tooling founders on PH often have budget and ongoing design needs for dashboards and landing pages; a friendly reply with a sharp question builds visibility with the maker.",
+      "potential": 6,
+      "options": [
+        "Congrats on the launch! Curious who you picture as the core user here, an in-house marketer running SEO themselves or an agency managing multiple clients? That choice usually shapes the whole dashboard design.",
+        "Congrats on v3! The 'for people and AI agents' framing is interesting. Do you see agents becoming the primary users over time, with humans mostly reviewing outputs, or is it more of a copilot model? Wondering how that split shows up in the product."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1305009",
+    "platform": "producthunt",
+    "title": "Thunderduck Inc.",
+    "author": "Yildirim Adiguzel",
+    "url": "https://www.producthunt.com/products/thunderduck-inc",
+    "updated": "2026-11-04T21:38:06-08:00",
+    "body": "Modular Data Warehouse for Agentic Data Teams",
+    "score": 2.3,
+    "ageHours": 31.3,
+    "hits": [
+      "teams",
+      "team"
+    ],
+    "draft": {
+      "why": "B2B data infrastructure launch with budget potential, and PH commenters include many SaaS founders; a sharp question could surface positioning or onboarding design needs.",
+      "potential": 6,
+      "options": [
+        "Congrats on the launch! Curious who you picture setting this up first: is the first-time experience aimed at a data engineer building pipelines, or can a non-technical founder get value out of it on day one?",
+        "Congrats! The tagline 'agentic data teams' is interesting. Are you positioning this as infrastructure for AI agents to query autonomously, or as a warehouse for human teams that happen to use agents? That framing will shape a lot of how the landing page lands."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1304371",
+    "platform": "producthunt",
+    "title": "OrgSync",
+    "author": "Kaustubh Dhotre",
+    "url": "https://www.producthunt.com/products/orgsync-2",
+    "updated": "2026-11-04T07:12:38-08:00",
+    "body": "Company brain for Claude, ChatGPT & Codex teams",
+    "score": 2.2,
+    "ageHours": 45.7,
+    "hits": [
+      "teams",
+      "company",
+      "team"
+    ],
+    "draft": {
+      "why": "Founder launching a B2B tool for AI-assisted teams; potential SaaS client with a live product that will need onboarding and landing page design soon.",
+      "potential": 6,
+      "options": [
+        "Congrats on the launch! Quick question: when a new team connects OrgSync, what does the first hour look like before they see real value, and where do people usually drop off?",
+        "Happy launch day! Curious how you're positioning this: is OrgSync a shared memory layer for teams already deep in Claude/ChatGPT, or is the real buyer the eng lead trying to standardize AI use across the org? Those feel like pretty different pitches."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1306342",
+    "platform": "producthunt",
+    "title": "Letterpress-1",
+    "author": "Mathew Pregasen",
+    "url": "https://www.producthunt.com/products/letterpress-1",
+    "updated": "2026-11-05T23:15:25-08:00",
+    "body": "One script install to automate growth for your website",
+    "score": 1.8,
+    "ageHours": 5.7,
+    "hits": [
+      "your website"
+    ],
+    "draft": {
+      "why": "Launch-day PH comment on a vague 'growth automation' script; the tagline is unclear, so a sharp question could spark a conversation, but budget and fit for design work are uncertain.",
+      "potential": 3,
+      "options": [
+        "Congrats on the launch! Quick question: when the script runs for the first time on a fresh site, what does the user actually see change? 'Automate growth' is doing a lot of work in that tagline and I'd love one concrete example.",
+        "Congrats on shipping! Honest question on positioning: is this aimed at indie founders who want a set-and-forget tool, or marketers who'll tweak settings? The tagline reads like the first, but 'one script install' feels like it sells to developers. Curious who you had in mind."
+      ]
+    }
+  }
+]
