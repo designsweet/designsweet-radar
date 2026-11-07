@@ -1,0 +1,62 @@
+[
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1307289",
+    "platform": "producthunt",
+    "title": "Trace by Context.dev",
+    "author": "Ely",
+    "url": "https://www.producthunt.com/products/context-dev",
+    "updated": "2026-11-06T20:05:08-08:00",
+    "body": "Weekly web scraping API benchmark",
+    "score": 0.9,
+    "ageHours": 8.6,
+    "hits": [
+      "api"
+    ],
+    "draft": {
+      "why": "Developer tool launch with a founder who may later need landing page help; PH comment is low-commitment visibility.",
+      "potential": 3,
+      "options": [
+        "Congrats on the launch! Benchmarks like this live or die on trust, so I'm curious who you see as the core user: devs picking a scraping API for the first time, or teams trying to justify switching?",
+        "Happy launch day! My guess is you're positioning this as the 'Wirecutter for scraping APIs' rather than a one-off report. Is the plan for it to become the default reference people check before committing to a provider?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1306062",
+    "platform": "producthunt",
+    "title": "Instagram Edits for Desktop",
+    "author": "Justin Jincaid",
+    "url": "https://www.producthunt.com/products/instagram",
+    "updated": "2026-11-05T16:46:05-08:00",
+    "body": "Instagram's free desktop video editor with AI agents",
+    "score": 0.8,
+    "ageHours": 35.9,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "Launch day visibility is decent, but this is a consumer-facing tool from Instagram, so the maker is unlikely to be a design client and the audience skews creators over B2B founders.",
+      "potential": 2,
+      "options": [
+        "Congrats on the launch. Curious who you're building this for first: casual creators editing Reels on a bigger screen, or social media managers who live in desktop tools like CapCut all day? The onboarding probably needs to pick one.",
+        "Happy launch day! My read is the AI agents angle positions this against CapCut's desktop app rather than against pro editors. Is that the intent, to win the 'fast, good-enough' workflow for people posting daily?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1305334",
+    "platform": "producthunt",
+    "title": "OpenVisio",
+    "author": "Daniel Adewale",
+    "url": "https://www.producthunt.com/products/openvisio",
+    "updated": "2026-11-05T02:54:48-08:00",
+    "body": "One workspace for your team and its AI coding agents",
+    "score": 1.7,
+    "ageHours": 49.8,
+    "hits": [
+      "agents",
+      "workspace",
+      "team"
+    ]
+  }
+]
