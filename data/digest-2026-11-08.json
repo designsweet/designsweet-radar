@@ -1,0 +1,313 @@
+[
+  {
+    "platform": "reddit",
+    "id": "t3_1xqiijk",
+    "subreddit": "SaaS",
+    "title": "Emplio, an AI coworker for a whole team. Looking for feedback on the pricing idea",
+    "author": "/u/AshishKulkarni1411",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xqiijk/emplio_an_ai_coworker_for_a_whole_team_looking/",
+    "updated": "2026-11-07T22:18:05+00:00",
+    "body": "It&#39;s one AI coworker everyone on a team talks to, on the web or Telegram. It has its own computer and browser, a shared memory, a task list it chases people on, and it works in Gmail, Drive, Sheets and Zoho.\n The part I&#39;d like opinions on: we charge one price per business, not per seat. Add your whole team at no extra cost, you pay for how much work it does. Our thinking was that per-seat pricing punishes exactly the thing we want, which is everyone using it. But it makes the price harder to compare with other tools, and I&#39;m not sure people get it at a glance.\n It&#39;s also open source (AGPL), so anyone can self-host it for free. The paid version is us running it for you.\n https://emplio.app \n Does one-price-per-business make sense to you, or would you rather see per seat?\n &#32; submitted by &#32; /u/AshishKulkarni1411 \n &#32;",
+    "score": 5.5,
+    "ageHours": 14.4,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "B2B SaaS founder with a live product asking a concrete pricing page question, exactly the kind of conversion/design problem Ryan fixes, in a visible founder-heavy sub.",
+      "potential": 8,
+      "options": [
+        "One price per business is right for this product, the trick is making it legible at a glance. Anchor it on your pricing page with something like 'less than one seat of X per month' so people instantly know if it's cheap, then show usage tiers as the comparison dimension instead of seats.",
+        "Per-business pricing works, but 'pay for how much work it does' is the fuzzy part, not the seat model. What does a buyer actually see on the pricing page right now, a fixed monthly number or a usage meter? Fixed number wins, even if you meter quietly on the backend."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xqn85y",
+    "subreddit": "SaaS",
+    "title": "From 0 to 25 signups in 3 weeks. Now what?",
+    "author": "/u/CopsAreHere",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xqn85y/from_0_to_25_signups_in_3_weeks_now_what/",
+    "updated": "2026-11-08T02:09:23+00:00",
+    "body": "I&#39;ve been building my B2B SaaS product for the past few weeks, and I wanted to share where things are at and get some feedback from other founders.\n So far, I&#39;ve managed to get around 25 signups within 3 weeks.\n A few users have returned to use the platform, but the majority haven&#39;t come back yet. So while getting people to sign up has been encouraging, I&#39;m still trying to figure out how to get them to consistently use the product.\n A few things I&#39;ve experienced along the way:\n Getting users is one thing. Retaining them is another. I&#39;ve managed to get some initial traction, but repeat usage is still a challenge. I&#39;m trying to understand whether it&#39;s a product issue, a lack of urgency, or simply that users haven&#39;t found enough value yet.\n Things break unexpectedly. I&#39;ve encountered quite a few technical hiccups. Sometimes features break in ways I didn&#39;t anticipate. I&#39;ve had to go back, investigate, and fix things along the way.\n It&#39;s been a learning experience, especially when you&#39;re responsible for both building and maintaining the product.\n No payment system yet. I haven&#39;t implemented payments at this stage.\n Instead, I&#39;m relying on an option for users to click &quot;Get Notified&quot; if they&#39;re interested in subscribing. I want to understand whether there&#39;s genuine willingness to pay before putting more effort into the payment infrastructure.\n Wearing two different hats. I find myself constantly switch",
+    "score": 8.2,
+    "ageHours": 10.5,
+    "hits": [
+      "feedback",
+      "sign up",
+      "signups"
+    ],
+    "draft": {
+      "why": "Early B2B SaaS founder with a real activation/retention problem, which is squarely an onboarding design issue Ryan fixes; r/SaaS threads like this get read by other founders.",
+      "potential": 7,
+      "options": [
+        "25 signups with low return rate usually means the first session never delivered a win. Before touching retention, watch where users stop in the first 10 minutes: if they sign up, poke around, and leave without completing one core action, your onboarding is the leak, not the product.",
+        "What do the few returning users do differently in their first session compared to the ones who never came back? That gap is usually the fastest way to find your activation moment, and once you know it, you can redesign onboarding to push everyone toward it."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xq5maf",
+    "subreddit": "UXDesign",
+    "title": "How are you actually using Claud for design in companies with no design system in place?",
+    "author": "/u/Large-Culture-3719",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xq5maf/how_are_you_actually_using_claud_for_design_in/",
+    "updated": "2026-11-07T12:50:07+00:00",
+    "body": "I’ve been seeing more discussions about designers moving from Figma to Claude, ideating directly there, and shipping UI through PRs.\n I’m genuinely curious how this works in real-world enterprise environments, rather than small projects or startups.\n For context, imagine a B2B company with:\n • An ecosystem of multiple interconnected products\n • Different FE frameworks and component libraries across products\n • 20+ development teams\n • No unified design system\n • Years of legacy UI and inconsistent design patterns\n Management is now pushing design to clone existing product repositories and vibe-code new interfaces by reusing whatever components already exist in each codebase. I’m trying to understand how this is supposed to work at scale\n So if anyone has experience with something like this, I’d really appreciate any feedback on: \n How does Claude understands existing UI patterns when there’s no design system or single source of truth?\n How do designers work across different repositories, frameworks, and component libraries without making even more inconsistencies?\n Are designers actually building production-ready UI and submitting PRs, or is Claude primarily used for prototyping?\n How do you handle collaboration with devs, code reviews, and long-term maintenance?\n How do you handle product managers who bypass designers, vibe-code entire solution themselves, and hand it directly to devs without any design review or alignment? I’m particularly interested in hearing from designe",
+    "score": 9.3,
+    "ageHours": 23.8,
+    "hits": [
+      "feedback",
+      "ui",
+      "design",
+      "design system",
+      "figma"
+    ],
+    "draft": {
+      "why": "Senior designer at a B2B enterprise wrestling with AI-driven UI workflows and no design system, exactly the messy-consistency problem Ryan solves for clients.",
+      "potential": 6,
+      "options": [
+        "The uncomfortable answer: Claude can't invent consistency where none exists. In codebases like yours it will happily reuse whatever local components it finds, which means it amplifies existing inconsistencies rather than fixing them. The realistic play is a thin shared layer first (tokens, naming, a handful of core components per framework), then let AI-assisted work build on that. Without it you're vibe-coding 20 slightly different products faster.",
+        "On the PM question: I'd stop fighting it on principle and instead define what design review means post-vibe-code. If a PM prototypes the whole flow, treat it as the best brief you've ever received, then redesign against real constraints before devs touch it. The teams I've seen handle this well made 'PM prototypes are inputs, not specs' an explicit written norm, otherwise you end up doing cleanup design forever."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xqtqmn",
+    "subreddit": "SaaS",
+    "title": "NZ small business tax: bookkeeping software with an accountant built in, one monthly price. Would you pay for this? Pricing feedback wanted",
+    "author": "/u/OneRun2772",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xqtqmn/nz_small_business_tax_bookkeeping_software_with/",
+    "updated": "2026-11-08T08:36:29+00:00",
+    "body": "**The three groups** - **Confident.** They do their own books and type the GST return into myIR. The software is enough. - **Not quite sure.** They do the books but want a qualified accountant to look before anything is filed. - **Hands-off.** They want an accountant to own the returns, but still want receipts and bank lines in one place. **What exists today** - Self-serve software: bank statement import or a read-only bank feed, a category and GST treatment on every line, receipt scanning, invoices, GST return figures laid out by myIR box, IR3/IR4 figures, payroll with the payday file. There&#39;s a free plan; paid plans are $10 to $40 a month including GST. - &quot;Ask an accountant&quot; on every plan, free included. A qualified NZ accountant replies in the app, usually within two business days. Each business also gets one free health check of its books. - Flat-price accountant packages, bought separately: one GST return review $219, a sole trader IR3 $599, a company IR4 with financial statements $1,199 (all plus GST). - Accounting firms can sign up and get verified (we check the registration or CA membership). They pick up these jobs, open the client&#39;s books in the app, review, sign off, and file in myIR as tax agent. The firm gets about 80% of the package price. - The app itself never files to IRD. You do, or the firm does. **What I&#39;m proposing** Fold the accountant work into one monthly subscription: - Do it yourself: $0 to $40 a month, as now. - Checked, sole t",
+    "score": 8.4,
+    "ageHours": 4,
+    "hits": [
+      "feedback",
+      "sign up"
+    ],
+    "draft": {
+      "why": "Founder building a SaaS+service bundle asking for pricing feedback; a sharp answer about bundling strategy could surface a future design or pricing page client.",
+      "potential": 6,
+      "options": [
+        "Bundling the accountant fee into the subscription blurs your cleanest story, which is 'software cheap, accountant when you need it.' I'd keep the monthly tiers as software-only and show the annual accountant packages as a visible add-on during signup, since a $599 IR3 folded into $50ish/month still costs the same but now anchors against Xero's $30 and looks expensive.",
+        "What's the actual problem you're solving with the bundle: cash flow smoothing for customers, or higher attach rates for you? If it's attach rates, the fix is probably placement, like prompting the health check right after someone's first GST return draft, not a restructure of pricing."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xqrrqv",
+    "subreddit": "SaaS",
+    "title": "I spent months building a SaaS for freelancers and small businesses. Now I'm questioning whether it solves a real problem. Looking for brutally honest feedback.",
+    "author": "/u/Fresh_Balance_5678",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xqrrqv/i_spent_months_building_a_saas_for_freelancers/",
+    "updated": "2026-11-08T06:28:20+00:00",
+    "body": "Hey everyone!\n I&#39;m a solo software engineer currently working on a SaaS product called PortalKit .\n The original idea was to create an all-in-one workspace for freelancers, independent professionals, small agencies and service-based businesses.\n The concept is to bring several everyday business activities into one place:\n Client management and client portals Project and milestone tracking Quotations and proposals Contracts and agreements Invoicing and payment tracking Client communication and collaboration File sharing and document approvals Basic business analytics The problem I initially wanted to solve was that freelancers and small businesses often rely on multiple disconnected tools, spreadsheets, emails and messaging apps to manage their work.\n My assumption was that bringing these workflows together could save time, reduce administrative work and provide a better experience for both businesses and their clients.\n But after spending months developing the product, I&#39;ve started questioning whether that assumption is strong enough to build a sustainable business around. \n There are already established products like HoneyBook, Bonsai, Dubsado and Zoho offering overlapping functionality.\n And honestly, simply putting existing features together doesn&#39;t necessarily give people a compelling reason to switch.\n So before investing more time and money, I want to understand how freelancers and small agencies actually operate.\n A few questions for freelancers, agency own",
+    "score": 6.8,
+    "ageHours": 6.2,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Founder questioning product direction, not a design problem, but a reply could still surface UX/positioning angles with a solo SaaS founder.",
+      "potential": 4,
+      "options": [
+        "Honest take: 'all-in-one' is a weak hook because switching costs are the real competitor. Freelancers won't move invoices, contracts and active clients at once, so pick the one workflow that is genuinely painful (usually proposals-to-payment) and make that 10x better first.",
+        "One question worth answering before writing more code: have you watched 5 freelancers actually run a client through your portal start to finish? In my experience the tool consolidation pitch sounds great in theory, but the moment a client has to log in to approve something, behavior breaks in ways you can't predict from a feature list."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xqsxlp",
+    "subreddit": "SaaS",
+    "title": "backlnk.com now has a free MCP server: your agent checks a page for SEO/AEO, fixes it, then re-checks",
+    "author": "/u/RoundCaptain4954",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xqsxlp/backlnkcom_now_has_a_free_mcp_server_your_agent/",
+    "updated": "2026-11-08T07:43:02+00:00",
+    "body": "A few days ago I shared backlnk.com , a &quot;Completely free&quot; technical SEO/AEO checker whose findings you can download as JSON or CSV and hand to your AI agent. \n The obvious next question was: why download anything? So now there&#39;s a free MCP server. Connect it to Claude Code, Cursor or VS Code and your agent runs the checks itself. \n The part I like most is the loop. The agent checks a page, fixes what it finds, and after you deploy it re-checks and tells you what&#39;s actually fixed, what&#39;s new and what&#39;s still open. So you&#39;re not just trusting it when it says &quot;done!&quot; \n I tested it on a pricing page I broke on purpose. First check: 3 issues and 13 warnings. After the fixes: 10 fixed, 0 new, 6 still open (server headers I left alone on purpose, and it kept flagging them). It also caught that OAI-SearchBot was blocked by mistake, which happens a lot when people try to block AI training bots. \n Setup is one command in Claude Code: \n claude mcp add --transport http backlnk https://backlnk.com/mcp --header &quot;Authorization: Bearer YOUR_KEY&quot;\n You get the key at backlnk.com/developers. It&#39;s free, you just enter your email. No card, no subscription. There are 100 checks per key per day, and a full check plus re-check used about 10. \n It only reads public pages and never touches your site; your agent makes the edits. \n Still free and forever be free, still adding things, so honest feedback is very welcome. What would you want your agent ",
+    "score": 5.6,
+    "ageHours": 4.9,
+    "hits": [
+      "feedback",
+      "pricing page"
+    ],
+    "draft": {
+      "why": "Founder shipping a free SEO tool with a real feedback ask, but it's not a design problem and the tool is free-forever, so client potential is low.",
+      "potential": 3,
+      "options": [
+        "The re-check loop is the strongest part here, so I'd lead your landing page with the before/after numbers (3 issues, 10 fixed, 6 still open) instead of the feature list. Concrete proof of the loop beats 'AI-powered SEO checker' every time.",
+        "How do you handle pages that need auth or are behind a staging password? That's where I'd actually want this loop most, since production re-checks come a day after the mistake ships."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xqipaa",
+    "subreddit": "SaaS",
+    "title": "Business Owners: What Type of Website Would You Be Willing to Test and Give Feedback On?",
+    "author": "/u/SjsleouniversalLLC",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xqipaa/business_owners_what_type_of_website_would_you_be/",
+    "updated": "2026-11-07T22:26:43+00:00",
+    "body": "&#x200B;\n I&#39;m a freelance web developer, and I&#39;m curious about something.\n If someone offered to build a working website concept for your type of business and let you test it, what would you actually want to see?\n Would it be an online store, service-based business website, booking website, portfolio, or something completely different?\n I&#39;m interested in hearing what business owners actually need rather than assuming what would be useful.\n I&#39;m considering developing a few website concepts for people to explore, test, and provide honest feedback on.\n What type of website would you want to try, and what features would matter most to you?\n &#32; submitted by &#32; /u/SjsleouniversalLLC \n &#32;",
+    "score": 5.5,
+    "ageHours": 14.2,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Freelance dev polling for website ideas; vague ask, no concrete design problem or budget signal.",
+      "potential": 3,
+      "options": [
+        "Honestly, I'd flip the question: pick one business type and build the demo for it, then show it. People give much sharper feedback on a real booking site or store than on the abstract idea of one.",
+        "What are you hoping to get out of the testing, portfolio pieces or paid work? The answer changes which concept is worth building, since a demo for plumbers looks nothing like a demo for SaaS founders."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xqpjcm",
+    "subreddit": "design_critiques",
+    "title": "Feedback on a competition piece",
+    "author": "/u/Winter_Flower_9066",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xqpjcm/feedback_on_a_competition_piece/",
+    "updated": "2026-11-08T04:15:55+00:00",
+    "body": "I&#39;ve got a deadline for a competition in roughly 30 days? So I wanted to collect as much feedback as I could from just strangers since I&#39;m feeling pretty stuck on it right now.\n &#32; submitted by &#32; /u/Winter_Flower_9066 \n &#32;",
+    "score": 7.8,
+    "ageHours": 8.4,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Student or hobbyist competition piece, not a business with budget, but a light-touch reply can build goodwill in a design subreddit.",
+      "potential": 2,
+      "options": [
+        "Without seeing the brief it's hard to give useful feedback, so start there: what's the judging criteria for the competition? The piece should be built backwards from how it's being scored, not just what looks good.",
+        "Feeling stuck 30 days out usually means the concept isn't locked yet, not that the execution needs polish. Can you share the brief and the one thing you want judges to feel? That would make feedback a lot more targeted."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xqpvoh",
+    "subreddit": "UXDesign",
+    "title": "Frustrated and losing my passion for design",
+    "author": "/u/Dexter2376",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xqpvoh/frustrated_and_losing_my_passion_for_design/",
+    "updated": "2026-11-08T04:35:24+00:00",
+    "body": "I have a quick rant for this field that I&#39;m passionate in and just started my career. I&#39;m really thankful that I was able to start my first full time product designer role right after graduating from college a few months ago. I studied Informatics that didn&#39;t have much to do with design but still covered bits of UX and basic coding. I was so interested in the design process and love how it was able to directly solve problems people were facing while still being able to be creative in the process. But after 4 months and all the advancements in AI, I feel like I&#39;m trying to stay a float on a sinking ship in this field. \n I see that engineers are building things so quickly and they are able to include some UI/UX principles as they are building. The things I can see designers being helpful for is in the research phase of discovering the problem users are facing but when it comes to the prototyping and building, I feel like it gets done by engineers easily now. \n What happens when engineers start learning more UX principles? Start using AI for helping with the research side after they&#39;ve talked to users about the product they are building? Does that eliminate the use for a designer? I&#39;m really not sure if I should hone in on learning more about how to use AI better as a designer, learn more of the engineering side, or switch to a different role. Maybe my understanding of product design is limited since I just started and I&#39;m looking at this whole thing ",
+    "score": 7,
+    "ageHours": 8.1,
+    "hits": [
+      "ux",
+      "ui",
+      "design",
+      "designer"
+    ],
+    "draft": {
+      "why": "Junior designer anxious about AI making design obsolete; Ryan can offer a practitioner's reality check, but no client potential here.",
+      "potential": 2,
+      "options": [
+        "Four months in is too early to judge the field by what your current engineers ship. Engineers moving fast with AI mostly produce interfaces that look fine but fall apart on flows, empty states, and edge cases, which is exactly where designers earn their keep. The skill worth doubling down on isn't prettier prototyping, it's problem framing: being the person who can say why the thing shouldn't be built that way at all.",
+        "I've watched this cycle before with every new tool that was supposed to replace designers, and the pattern is the same: the execution floor rises, the judgment ceiling stays put. Instead of learning engineering or chasing AI tools, get really good at the messy middle, turning vague stakeholder requests and conflicting user feedback into a clear direction. That's the part nobody's automated, and it takes years, which is good news for you."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xqemtb",
+    "subreddit": "SaaS",
+    "title": "Building an AI-powered MSME Loan Assessment Platform – Need Feedback from Banking Professionals",
+    "author": "/u/coolthingsarehappens",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xqemtb/building_an_aipowered_msme_loan_assessment/",
+    "updated": "2026-11-07T19:25:37+00:00",
+    "body": "Hey everyone!\n I&#39;m a college student working on a FinTech hackathon project. We&#39;re exploring an AI-powered platform to help banks assess MSME loan applications more efficiently.\n Some of the things we&#39;re exploring:\n - Historical bank cash flow and transaction analysis.\n - Credit score, existing EMIs and liabilities.\n - Udyam, GST and business document verification.\n - Business assets and owner&#39;s financial position.\n - Customer payment behaviour and outstanding receivables.\n - Loan purpose and projected business performance.\n The idea is to consolidate this information, identify inconsistencies and generate an explainable assessment report to assist loan officers.\n A few questions:\n How are MSME loan applications assessed in real-world banking?\n Which parts of the process are still manual or time-consuming?\n Are existing tools already capable of handling all these assessments?\n What important factors do banks struggle to verify?\n What gaps do you see in existing loan assessment software?\n Would especially appreciate feedback from bank employees, loan officers, credit analysts, CAs and MSME owners.\n We&#39;re looking for honest criticism, not just validation. If something like this already exists, we&#39;d love to know about it.\n TL;DR: We&#39;re exploring an AI-powered MSME loan assessment platform that analyses financial history, verifies business documents, evaluates repayment capacity and assesses loan purpose to help banks make better-informed lending decis",
+    "score": 5.1,
+    "ageHours": 17.2,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Student hackathon project seeking validation, no budget or design buying potential, but a sharp reply can still showcase expertise.",
+      "potential": 2,
+      "options": [
+        "The hard part usually isn't generating the score, it's getting the loan officer to trust it. If your report shows the 3 specific data points that drove each flag, like a GST return mismatch or a receivables spike, you'll have something actually usable instead of another black box.",
+        "One thing worth digging into: in my experience MSME assessment breaks down on document quality, not analysis. A lot of applicants have informal or inconsistent records, so how does the platform handle applicants whose data is thin or messy rather than just verifying what's there?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xqrbv0",
+    "subreddit": "UXDesign",
+    "title": "Breaking into UX/early career: job hunting, how-tos/education/work review — 11/08/26",
+    "author": "/u/AutoModerator",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xqrbv0/breaking_into_uxearly_career_job_hunting/",
+    "updated": "2026-11-08T06:00:48+00:00",
+    "body": "This is a career questions thread intended for people interested in starting work in UX, or for designers with less than three years of formal freelance/professional experience. \n Please use this thread to ask questions about breaking into the field, choosing educational programs, changing career tracks, and other entry-level topics.\n If you are **not currently working in UX**, use this thread to ask questions about:\n Getting an internship or your first job in UX Transitioning to UX if you have a degree or work experience in another field Choosing educational opportunities, including bootcamps, certifications, undergraduate and graduate degree programs Finding and interviewing for internships and your first job in the field Navigating relationships at your first job, including working with other people, gaining domain experience, and imposter syndrome Portfolio reviews, particularly for case studies of speculative redesigns produced only for your portfolio When asking for feedback, please be as detailed as possible by \n Providing context Being specific about what you want feedback on, and Stating what kind of feedback you are NOT looking for If you&#39;d like your resume/portfolio to remain anonymous, be sure to remove personal information like:\n Your name, phone number, email address, external links Names of employers and institutions you&#39;ve attended. Hosting your resume on Google Drive, Dropbox, Box, etc. links may unintentionally reveal your personal information, so we",
+    "score": 7.9,
+    "ageHours": 6.6,
+    "hits": [
+      "feedback",
+      "ux"
+    ],
+    "draft": {
+      "why": "It's a recurring auto-mod career thread for aspiring UX designers, not a specific person with a problem to solve.",
+      "potential": 1,
+      "options": [
+        "If you're posting a portfolio for review here, lead your case study with the problem and the outcome, not the process artifacts. Reviewers skim, so make the first screen show what changed because of your work.",
+        "For anyone transitioning from another field: what's the one project closest to a real business problem you've worked on? That's usually a stronger portfolio piece than a speculative redesign, even if it was small."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xqrbvb",
+    "subreddit": "UXDesign",
+    "title": "Experienced job hunting, portfolio/case study/resume questions and review — 11/08/26",
+    "author": "/u/AutoModerator",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xqrbvb/experienced_job_hunting_portfoliocase_studyresume/",
+    "updated": "2026-11-08T06:00:49+00:00",
+    "body": "This is a career questions thread intended for Designers with three or more years of professional experience, working at least at their second full time job in the field. \n If you are early career (looking for or working at your first full-time role), your comment will be removed and redirected to the the correct thread: \n Please use this thread to:\n Discuss and ask questions about the job market and difficulties with job searching Ask for advice on interviewing, whiteboard exercises, and negotiating job offers Vent about career fulfillment or leaving the UX field Give and ask for feedback on portfolio and case study reviews of actual projects produced at work (Requests for feedback on work-in-progress, provided enough context is provided, will still be allowed in the main feed.)\n When asking for feedback, please be as detailed as possible by \n Providing context Being specific about what you want feedback on, and Stating what kind of feedback you are NOT looking for If you&#39;d like your resume/portfolio to remain anonymous, be sure to remove personal information including:\n Your name, phone number, email address, external links Names of employers and institutions you&#39;ve attended. Hosting your resume on Google Drive, Dropbox, Box, etc. links may unintentionally reveal your personal information, so we suggest posting your resume to an account with no identifying information, like Imgur. This thread is posted each Sunday at midnight EST.\n &#32; submitted by &#32; /u/AutoMo",
+    "score": 5.6,
+    "ageHours": 6.6,
+    "hits": [
+      "feedback",
+      "ux"
+    ],
+    "draft": {
+      "why": "This is an automated weekly thread template with no actual poster or problem to reply to, so there is nothing specific to engage with.",
+      "potential": 1,
+      "options": [
+        "This is just the auto-posted thread template, so there is no question here yet. Worth waiting for real comments with actual portfolios or career questions before replying.",
+        "No actionable content in this one. If you want, I can scan the comments under this thread for a senior designer asking about portfolio positioning for B2B SaaS roles, which is where a reply could actually land."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1307984",
+    "platform": "producthunt",
+    "title": "Agent Clan",
+    "author": "鄭策（TSETSE）",
+    "url": "https://www.producthunt.com/products/agent-clan",
+    "updated": "2026-11-07T09:52:26-08:00",
+    "body": "Command your Claude Code and Codex agents with gestures",
+    "score": 1.1,
+    "ageHours": 18.8,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "Launching a tool for devs orchestrating AI coding agents; founder likely technical and may need design help on onboarding or positioning, though audience skews dev-tool not B2B SaaS buyer.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch! Gesture control for agents is a fun angle. Who's the first user you built this for: someone running a handful of agents locally, or teams managing bigger fleets?",
+        "Congrats on launching! I'm curious how you're positioning this: is the gesture part the core product, or is it the entry point to a broader agent command center? That choice will shape a lot of your messaging."
+      ]
+    }
+  }
+]
