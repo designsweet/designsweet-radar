@@ -1,0 +1,316 @@
+[
+  {
+    "platform": "reddit",
+    "id": "t3_1xrox4i",
+    "subreddit": "SaaS",
+    "title": "AI helped you build your SaaS. Now you're stuck figuring out how the actual product should work?",
+    "author": "/u/420ajay69",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xrox4i/ai_helped_you_build_your_saas_now_youre_stuck/",
+    "updated": "2026-11-09T11:06:58+00:00",
+    "body": "I&#39;ve noticed an interesting pattern recently.\n Founders are building impressive prototypes with Lovable, Bolt and Cursor in days.\n But once the initial excitement wears off, the difficult questions start:\n The onboarding technically works, but does it make sense? Users can access features, but do they understand how everything connects? The dashboard looks good, but does it help users make decisions? There are 20 features on the roadmap. Which 5 actually matter? What happens when the product starts getting real users? I&#39;ve seen this firsthand.\n One of my clients initially built his product using Lovable. He had something working, but needed help turning it into an actual product.\n We started working on the flows and UX. Two years later, I&#39;m still involved in product design and roadmap decisions.\n My takeaway:\n AI has dramatically reduced the cost of getting something built. But product judgment, prioritization and understanding user behaviour are still incredibly important.\n Curious: For those building SaaS with AI tools, what&#39;s been harder for you , building the initial version or figuring out what the product should actually become? \n &#32; submitted by &#32; /u/420ajay69 \n &#32;",
+    "score": 11.3,
+    "ageHours": 1.9,
+    "hits": [
+      "onboarding",
+      "ux",
+      "design",
+      "dashboard",
+      "looks"
+    ],
+    "draft": {
+      "why": "Thread full of B2B SaaS founders with budget discussing UX and prioritization gaps, exactly Ryan's wheelhouse, but the OP is a competitor selling the same service so the audience, not the poster, is the target.",
+      "potential": 7,
+      "options": [
+        "The pattern I keep seeing is that the AI-built v1 answers 'can it exist' but not 'what job does it do first.' Before touching flows, I'd ask founders one question: what's the single moment where a user gets value, and how many steps sit between signup and that moment. Cutting that path in half usually fixes more than any redesign.",
+        "Honestly the prioritization problem is the harder one. Anyone can generate 20 features now, but deciding which 5 matter requires watching real users, and AI tools can't do that part. What's worked for me is shipping the core flow deliberately thin and letting the first 20 users' confusion write the roadmap."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xrpbf8",
+    "subreddit": "SideProject",
+    "title": "Capacity Pulse - Would this help with data centre capacity planning?",
+    "author": "/u/JadeSunforge",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xrpbf8/capacity_pulse_would_this_help_with_data_centre/",
+    "updated": "2026-11-09T11:30:18+00:00",
+    "body": "Hi everyone, my co-founder and I are working on Capacity Pulse, an early proof of concept to help data centre teams track equipment power use, capacity that could be freed up and equipment being taken out of service.\n CAPACITY PULSE \n We’re exploring whether a small, focused tool could help teams that rely on spreadsheets and emails but don’t need a full data centre infrastructure management (DCIM) system. We’re sharing it to hear different perspectives before deciding what to develop next.\n We’d appreciate your thoughts on any of these:\n What’s your first impression? Is it clear what the tool is for? What seems useful, confusing or unnecessary? What would you change? How do you manage this today, and where would this help or fall short compared with a spreadsheet or an existing tool? You don’t need a data centre background to comment. Feedback on the layout, navigation or the idea itself is welcome.\n Thanks for taking a look.\n &#32; submitted by &#32; /u/JadeSunforge \n &#32;",
+    "score": 9,
+    "ageHours": 1.5,
+    "hits": [
+      "feedback",
+      "confusing",
+      "first impression"
+    ],
+    "draft": {
+      "why": "Co-founded B2B tool in active validation mode, explicitly asking for feedback on clarity and layout, which is Ryan's lane; data centre niche means real budgets if they proceed.",
+      "potential": 7,
+      "options": [
+        "Your first-impression problem is the three jobs fighting for attention: power tracking, reclaimable capacity, and decommissioning. Pick the one a spreadsheet handles worst (my bet: freed-up capacity, since that needs a live view) and make it the headline, with the other two as supporting features. Tools that do one thing clearly get trialled; tools that do three things vaguely get compared to Excel and lose.",
+        "Sharp question worth answering before you build more: who feels this pain most, the ops engineer or the capacity planner? They want different things from the same data, and your landing page currently reads like it's talking to both at once, which usually means it lands with neither. Which one is actually opening the spreadsheet today?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xrnvdq",
+    "subreddit": "SaaS",
+    "title": "How can I do personally onboarding?",
+    "author": "/u/BoysenberryNo5650",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xrnvdq/how_can_i_do_personally_onboarding/",
+    "updated": "2026-11-09T10:04:13+00:00",
+    "body": "The product that I’ve built started to get some attention and sign ups but people leave without using it. The reason is probably because of the longer setup time. Since I couldn’t reduce this duration, I decided to personally onboard people who are interested. So I cant throw the product out there and expect people to become a long term user. But how can I get people to trust me and be patient before finishing the setup?\n &#32; submitted by &#32; /u/BoysenberryNo5650 \n &#32;",
+    "score": 7.4,
+    "ageHours": 2.9,
+    "hits": [
+      "onboarding"
+    ],
+    "draft": {
+      "why": "Founder with real signups losing users to a long setup, a classic activation problem Ryan fixes, and the thread sits in front of other SaaS founders.",
+      "potential": 7,
+      "options": [
+        "The trick with personal onboarding is not getting people to be patient, it's showing them the payoff before they commit. Send a 2-minute Loom walking through what their account looks like at the end of setup, using their own data or use case if you can. People tolerate a long setup when they can see the finish line.",
+        "In my experience people don't drop off because setup is long, they drop off because nothing valuable happens during it. Can you restructure setup so they get one small win in the first session (first import, first result, first anything) and defer the rest? What does your setup actually involve, out of curiosity?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xrqm6y",
+    "subreddit": "SaaS",
+    "title": "Am I overthinking feedback collection for my SaaS? Google Forms vs in-app feedback?",
+    "author": "/u/Interesting_Userr",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xrqm6y/am_i_overthinking_feedback_collection_for_my_saas/",
+    "updated": "2026-11-09T12:38:48+00:00",
+    "body": "One thing I recently learned while building my SaaS: collecting feedback is easy. Getting people to actually share it is the hard part. 😅\n I&#39;m building Ternloop, an email marketing SaaS, and so far I&#39;ve kept feedback collection super simple with Google Forms.\n Initially, it was just ONE field asking users to share their feedback.\n Someone on X suggested adding more questions, so I recently changed it to three fields, keeping only one mandatory.\n But now I&#39;m stuck thinking about the bigger question:\n Should feedback live inside the product, or outside it?\n Here are the two approaches I&#39;m considering:\n External feedback form (current approach) - Simple Google Form.\n - Doesn&#39;t interrupt the user&#39;s workflow.\n - Easy to update questions.\n - But users have to leave the product to share feedback.\n In-app feedback - Users can share feedback without leaving the platform.\n - Potentially easier to capture contextual feedback.\n - But popups and feedback widgets can become annoying if they&#39;re poorly timed.\n And honestly, I don&#39;t want Ternloop to become another SaaS that keeps asking users to rate things when they&#39;re just trying to get their work done.\n I&#39;m building this mostly on my own, so I want to keep things simple while still learning from actual users.\n Would love to hear what has actually worked for you.\n Trying to learn from people who&#39;ve already figured this out! 🚀\n &#32; submitted by &#32; /u/Interesting_Userr \n &#32;",
+    "score": 7.5,
+    "ageHours": 0.3,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Solo B2B SaaS founder asking a concrete UX question Ryan answers for clients, with visible thread potential in r/SaaS.",
+      "potential": 6,
+      "options": [
+        "One field was actually the right call, and going to three usually drops completion more than the extra answers are worth. In my experience the best setup is a tiny in-app link (not a popup) that opens your form with context pre-filled, like which page they were on. You get the simplicity of Google Forms with the context of in-app feedback.",
+        "The external vs in-app question matters less than when you ask. What triggers the ask right now, is it after they send their first campaign, or just a link in the menu? For an email tool, asking right after a user hits a real win will beat either format you're debating."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xrpt2o",
+    "subreddit": "SideProject",
+    "title": "Capacity Pulse - Would this help with data centre capacity planning?",
+    "author": "/u/JadeSunforge",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xrpt2o/capacity_pulse_would_this_help_with_data_centre/",
+    "updated": "2026-11-09T11:58:07+00:00",
+    "body": "Hi everyone, my co-founder and I are working on Capacity Pulse, an early proof of concept to help data centre teams track equipment power use, capacity that could be freed up and equipment being taken out of service.\n CAPACITY PULSE \n We’re exploring whether a small, focused tool could help teams that rely on spreadsheets and emails but don’t need a full data centre infrastructure management (DCIM) system. We’re sharing it to hear different perspectives before deciding what to develop next.\n We’d appreciate your thoughts on any of these:\n What’s your first impression? Is it clear what the tool is for? What seems useful, confusing or unnecessary? What would you change? How do you manage this today, and where would this help or fall short compared with a spreadsheet or an existing tool? You don’t need a data centre background to comment. Feedback on the layout, navigation or the idea itself is welcome.\n Thanks for taking a look.\n &#32; submitted by &#32; /u/JadeSunforge \n &#32;",
+    "score": 9,
+    "ageHours": 1,
+    "hits": [
+      "feedback",
+      "confusing",
+      "first impression"
+    ],
+    "draft": {
+      "why": "Founder building a B2B tool for data centre teams, explicitly asking for first-impression and clarity feedback, which is exactly Ryan's lane.",
+      "potential": 5,
+      "options": [
+        "The concept is clear, but your three jobs (power use, reclaimable capacity, decommissioning) fight for attention on first view. I'd pick the one teams feel most pain on, probably stranded capacity, and make that the default screen with the other two a click away.",
+        "Sharp question: who inside the data centre team actually opens this weekly, the capacity planner or the ops tech? Your pitch reads like it's for both, but a spreadsheet replacement usually wins by being perfect for one person's Monday routine first."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xrn1sr",
+    "subreddit": "SaaS",
+    "title": "Am I solving a real SaaS problem, or building something nobody needs?",
+    "author": "/u/ScienceDue6173",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xrn1sr/am_i_solving_a_real_saas_problem_or_building/",
+    "updated": "2026-11-09T09:11:56+00:00",
+    "body": "Hi everyone!\n I’m building a SaaS product, and I’d really appreciate some honest feedback from SaaS founders, product managers, and customer success professionals. The idea came from exploring how SaaS businesses manage different parts of the user experience, such as imagine having these features in one place:\n Product tours &amp; onboarding: Guide new users through your product. In-app announcements: Let users know about new features and updates. In-app surveys &amp; NPS: Understand user satisfaction and collect feedback. Feature requests: Let customers share ideas and vote on features. Live chat: Communicate with users directly. Analytics: Understand user engagement and product adoption. The goal is to help SaaS companies manage these activities without needing multiple separate tools.\n I want to ask a few straightforward questions:\n Is this something your SaaS business would actually find useful? Do you prefer an all-in-one platform, or individual tools for each function? Which of these features would be most valuable to your business? What important feature or capability do you think is missing? What would make you choose a platform like this over established alternatives? However, I’m still learning about the actual needs of SaaS teams, and I’d love to understand whether this approach would be helpful in practice.\n Any thoughts, suggestions, or even criticism would mean a lot. I’m here to learn from your experience. Thanks for reading!\n &#32; submitted by &#32; /u/Scienc",
+    "score": 7.2,
+    "ageHours": 3.8,
+    "hits": [
+      "feedback",
+      "onboarding"
+    ],
+    "draft": {
+      "why": "Founder validating an all-in-one user engagement SaaS, could become a paying client and the thread is founder-heavy.",
+      "potential": 5,
+      "options": [
+        "The hard truth is this bundle already exists: Pendo, Intercom, Chameleon, Userpilot, CommandBar. Your answer to 'why pick this over established tools' can't be 'all in one' because that's exactly their pitch too, so the wedge has to be a segment they ignore or a price point they can't hit.",
+        "What's missing from your list is any sharp opinion about who this is for. 'All SaaS teams' means competing with Intercom on day one, but 'onboarding and NPS for bootstrapped SaaS under $1k MRR' is a fight you can actually win. Who did you picture when you picked these six features?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xr7u9y",
+    "subreddit": "design_critiques",
+    "title": "Roast my small business website. I promise I won't get offended. https://rocketmoving.com",
+    "author": "/u/RocketMovingServices",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xr7u9y/roast_my_small_business_website_i_promise_i_wont/",
+    "updated": "2026-11-08T20:10:44+00:00",
+    "body": "&#32; submitted by &#32; /u/RocketMovingServices \n &#32;",
+    "score": 7,
+    "ageHours": 16.8,
+    "hits": [
+      "roast my"
+    ],
+    "draft": {
+      "why": "Small business owner openly asking for a site critique, a direct fit for conversion-focused design advice, though it's a local service business not SaaS.",
+      "potential": 5,
+      "options": [
+        "Before roasting, one question that changes everything: what do you want a visitor to do first, call you or fill out the quote form? Pick one and make that the only obvious action above the fold, because most moving company sites fail by offering both with equal weight.",
+        "Quick one to check on your end: load the site on your phone over cell data, not wifi. Moving company customers are almost always on mobile and often mid-move stress, so if the phone number isn't tappable and visible without scrolling, that's the first fix before anything visual."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xrn1hb",
+    "subreddit": "UXDesign",
+    "title": "Been auditing onboarding flows and the failure point is almost never where teams think it is",
+    "author": "/u/ExtensionClimate2045",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xrn1hb/been_auditing_onboarding_flows_and_the_failure/",
+    "updated": "2026-11-09T09:11:22+00:00",
+    "body": "So I&#39;ve been observing that most onboarding post-mortems focus on the first screen, but that&#39;s rarely where things go wrong. Screen one is usually fine as teams obsess over it. The drop happens at screen three or four, after the initial hook, when the app either asks for too much or loses the thread of why the user opened it.\n The other consistent pattern across top-grossing apps is in the way they handle permission requests. The weaker flows ask for notifications or location before the user has even seen anything worth protecting. The better ones either defer it or tie it to something the user already wants which is the way to go imo.\n Just some patterns I&#39;ve seen, I wonder what&#39;s the worst onboarding pattern you all keep seeing?\n &#32; submitted by &#32; /u/ExtensionClimate2045 \n &#32;",
+    "score": 5.8,
+    "ageHours": 3.8,
+    "hits": [
+      "onboarding"
+    ],
+    "draft": {
+      "why": "Thread about onboarding failure points in r/UXDesign; engaging discussion where a specific practitioner take can get visibility, though most readers are designers not buyers.",
+      "potential": 5,
+      "options": [
+        "The screen three/four drop is real, and in my experience it's usually a sequencing problem, not a content problem. Teams front-load account setup (email, password, company size) right when motivation is lowest, instead of letting the user hit one small win first. Moving even one aha moment before the signup wall tends to beat any redesign of the screens themselves.",
+        "Curious how you handle the counterargument on deferred permissions: some teams push early asks because opt-in rates drop hard once users settle into a flow without them. Have you seen data on whether the tied-to-intent approach actually wins on total opt-ins, or just on retention?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xrq3b1",
+    "subreddit": "UXDesign",
+    "title": "Design and build the design system",
+    "author": "/u/SilverSentinel56",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xrq3b1/design_and_build_the_design_system/",
+    "updated": "2026-11-09T12:12:12+00:00",
+    "body": "Work in a medtech company, building products with react tailwind and Qt. Have been building the tokens for their design system and now moving to build their components. After that, I was told to build those components in code and eventually move into a\n &quot;full-stack designer&quot; who knows how to do both design, components and use them in projects.\n For context, I got a CS degree however these past years haven&#39;t touched much of code except Claude Code for some very small projects (if that counts 🤣)\n Any tips, resources, mentorships, anything that can help me teach myself the necessary skills? \n &#32; submitted by &#32; /u/SilverSentinel56 \n &#32;",
+    "score": 10.5,
+    "ageHours": 0.8,
+    "hits": [
+      "design",
+      "design system",
+      "designer"
+    ],
+    "draft": {
+      "why": "Designer asking for career/learning advice, not a founder with a design problem, so little client potential but an easy helpful reply.",
+      "potential": 2,
+      "options": [
+        "Since you already have the tokens, start by building one component end to end (button or input) in React with Tailwind, including states and a Storybook story. That single loop teaches you props, variants, and docs, which covers 80% of design system work. Reference Radix or shadcn/ui source to see how production components handle accessibility.",
+        "The Qt side is the sneaky hard part since QML components won't share code with your React ones, only tokens. Keep your tokens in one JSON source and generate both Tailwind config and Qt-friendly output with Style Dictionary, otherwise the two systems will drift within months. Ask your team early who owns that pipeline, because it usually falls on the full-stack designer by default."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xr791f",
+    "subreddit": "design_critiques",
+    "title": "Honest feedback on my tumbler logo design?",
+    "author": "/u/manuelsella25",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xr791f/honest_feedback_on_my_tumbler_logo_design/",
+    "updated": "2026-11-08T19:47:07+00:00",
+    "body": "Hi everyone!\n I&#39;m developing a new tumbler brand called CORKÉ STEEL ART, and I&#39;d appreciate your honest feedback.\n This is a digital mockup, not a physically manufactured product.\n Does the logo look professional and premium? What would you improve about the colors, typography, or overall design?\n Constructive criticism is welcome. Thanks!\n &#32; submitted by &#32; /u/manuelsella25 \n &#32;",
+    "score": 9.1,
+    "ageHours": 17.2,
+    "hits": [
+      "feedback",
+      "design"
+    ],
+    "draft": {
+      "why": "Consumer tumbler brand asking for logo feedback, no image visible, unlikely B2B SaaS client.",
+      "potential": 2,
+      "options": [
+        "Without seeing the mark I can't give you specifics, but one thing that trips up premium drinkware brands is typography that works on the product but falls apart small on Amazon thumbnails. Test your logo at 100px wide before you lock it in.",
+        "A tumbler logo lives engraved or printed tiny on a curved surface, so fine details and tight letterspacing are usually the first casualty. Which part are you least sure about: the wordmark, the colors, or the icon?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xr8gfb",
+    "subreddit": "UXDesign",
+    "title": "Game UX portfolios vs. traditional UX portfolios - what's different?",
+    "author": "/u/FairlyPopcorn",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xr8gfb/game_ux_portfolios_vs_traditional_ux_portfolios/",
+    "updated": "2026-11-08T20:36:58+00:00",
+    "body": "Since there&#39;s no specific game UX sub, hope this is okay here! I&#39;m trying to get a better sense of the industry, and just to clarify, I&#39;m referring specifically to product/UX designers working on games (sometimes titled Experience Designers), rather than game designers focused on mechanics or gameplay.\n We don&#39;t see much discussion on game UX in this sub, but I&#39;ve noticed that expectations for the portfolios seem quite different in gaming compared to traditional product UX. For example, visual polish and UI seem to play a much bigger role in games, whereas in other industries like fintech, I&#39;ve sometimes been told that being too visually focused can actually be a negative.\n For those working in game UX, what sets expectations for a strong game UX designer apart from traditional product/UX? What skills or aspects of the work do you expect to see in a strong game UX case study showcase that might be less emphasized or overlooked in other industries?\n As someone looking to transition into game UX, I&#39;d love to hear from people working in the field!\n &#32; submitted by &#32; /u/FairlyPopcorn \n &#32;",
+    "score": 6.1,
+    "ageHours": 16.4,
+    "hits": [
+      "ux",
+      "ui",
+      "designer"
+    ],
+    "draft": {
+      "why": "Career-transition question in games, not a B2B SaaS founder with a design problem, so low client potential but worth a brief helpful reply.",
+      "potential": 2,
+      "options": [
+        "The biggest difference is that in games the UI is part of the fantasy, so reviewers want to see you handle diegetic vs non-diegetic choices, HUD hierarchy during intense gameplay, and controller navigation. A fintech-style 'reduced drop-off by 12%' case study lands flat if there's no evidence you can design under those constraints.",
+        "In my experience the thing traditional portfolios miss is flow states: menus, matchmaking, onboarding into a live game. If you're transitioning, I'd rebuild one case study around a playable flow, even a fan redesign of an existing game's inventory or settings screen, and show motion, not just statics."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xr1glg",
+    "subreddit": "UXDesign",
+    "title": "First time doing portfolio walkthrough for a Senior UX Designer role",
+    "author": "/u/tabbytabby__",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xr1glg/first_time_doing_portfolio_walkthrough_for_a/",
+    "updated": "2026-11-08T15:48:58+00:00",
+    "body": "I have a 30min interview with a VP on Friday and I was told to prepare for a case study walkthrough. This will be my first time to do it and I have some questions on how to do it better.\n - I&#39;m planning to create presentation deck. Is it okay to present only 1 case study?\n - I have 2 case studies, 1st one is a 0-1 but it&#39;s more of a B2C, but the company is B2B, so I&#39;m thinking of presenting a redesign of the main feature of a B2B web app that I did recently. The B2B one has more positive outcome too. However, it&#39;s not 0-1, but I conducted UX Research, journey mapping, and user testing. Is it better to present the B2B?\n &#32; submitted by &#32; /u/tabbytabby__ \n &#32;",
+    "score": 5.9,
+    "ageHours": 21.2,
+    "hits": [
+      "ux",
+      "redesign",
+      "designer"
+    ],
+    "draft": {
+      "why": "Senior UX designer prepping for a case study interview, a common question Ryan can answer well, but the poster is a job seeker not a buyer.",
+      "potential": 2,
+      "options": [
+        "Present the B2B one. VPs hire for relevance, and a redesign with research, journey mapping, and testing gives you more to talk about than a 0-1 with no measured outcome. Just frame it around the constraints you inherited and how you decided what to change, that's what senior interviewers probe for.",
+        "One case study is fine for 30 minutes if you structure it tight: 5 min context and problem, 15 min process and decisions, 5 min outcomes, leaving 5 for questions. The mistake most people make is narrating every screen instead of explaining two or three hard tradeoffs and why they made them."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1306799",
+    "platform": "producthunt",
+    "title": "Arcjet AI security models",
+    "author": "fmerian",
+    "url": "https://www.producthunt.com/products/arcjet",
+    "updated": "2026-11-06T07:23:25-08:00",
+    "body": "A family of custom-trained security models for coding agents",
+    "score": 0.5,
+    "ageHours": 69.6,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "Arcjet is a funded dev-tools startup with budget; a visible PH launch thread puts Ryan in front of dev-tool founders, though design may not be their felt pain today.",
+      "potential": 6,
+      "options": [
+        "Congrats on the launch! Curious about the first-time experience: when a developer plugs this into their coding agent, what's the moment they first see the value, a blocked prompt, a report, something in CI?",
+        "Congrats on shipping! How are you positioning this against the security layers the agent platforms are starting to build in-house? My guess would be depth and model quality over their default guardrails, is that the bet?"
+      ]
+    }
+  }
+]
