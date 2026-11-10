@@ -1,0 +1,420 @@
+[
+  {
+    "platform": "reddit",
+    "id": "t3_1xshbkx",
+    "subreddit": "SaaS",
+    "title": "Rate My Public pages and provide feedback (DESIGN/UI)",
+    "author": "/u/BodybuilderOne1023",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xshbkx/rate_my_public_pages_and_provide_feedback_designui/",
+    "updated": "2026-11-10T08:06:36+00:00",
+    "body": "I&#39;m looking for honest feedback on the public pages of my SaaS.\n I&#39;d appreciate it if you could review the design and UI, including the overall layout, visual appeal, typography, spacing, consistency, navigation, and user experience.\n What looks good? What needs improving? Are there any areas that feel unprofessional, cluttered, or unfinished?\n I&#39;m particularly interested in constructive criticism and suggestions that could make the pages look and feel more polished and professional. This is just design btw not anything else getting contructive feedback before sending to devs to create\n All feedback is appreciated. Thanks!\n LINK: https://quotemateydesign.framer.website/ \n &#32; submitted by &#32; /u/BodybuilderOne1023 \n &#32;",
+    "score": 15.3,
+    "ageHours": 4.8,
+    "hits": [
+      "feedback",
+      "ui",
+      "design",
+      "looks"
+    ],
+    "draft": {
+      "why": "Founder with a B2B SaaS design in Framer, actively seeking design critique before handing to developers, so a useful reply lands right before budget is spent.",
+      "potential": 7,
+      "options": [
+        "Before anyone can give useful feedback, what's the one action you want a first-time visitor to take? Most SaaS landing pages I critique have decent typography and spacing but three competing CTAs, and that matters more than polish. Also, a static mock will always look cleaner than the real thing, so design your empty states and longest-possible headline now before the devs build it.",
+        "Since this is pre-dev, the highest-value feedback isn't visual, it's structural: does your hero say what QuoteMate does and for who in one line, with a quote example visible above the fold? For a quoting tool, showing an actual finished quote (the output) converts better than any feature list. Happy to dig into specifics if you confirm the target user, tradespeople or agencies?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xsg9l3",
+    "subreddit": "SaaS",
+    "title": "Improving the onboarding process",
+    "author": "/u/curatedpapers",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xsg9l3/improving_the_onboarding_process/",
+    "updated": "2026-11-10T07:00:01+00:00",
+    "body": "Hi all,\n Every 2nd user that creates an account ends up deleting it even without trying the product, and more than 75% of users that keep their account end up not using it... Is that an industry standard or an actual problem? users are arriving from organic traffic / social efforts.\n The product is an AI workspace for academic research, where a researcher can upload his sources and map out the literature, create claims and verify them against the sources etc. and save all cited notes in a hierarchical structure - a mindmap (or indented outline).\n I know the product has value over current solutions (many simply use claude code), because I do have users / users are creating accounts, and I am a researcher myself :) One can even connect claude via MCP and it will allow claude to work with hundreds of sources and synthesize academic text more precisely, it has workflows for AI review, and many other useful features. The conversation rate of the website is &gt; 3%.\n I believe there&#39;s a problem with the onboarding process. Just for trying the product, someone will be required to upload some PDFs (made very very easy), and then working with the agent, about 10 minutes just to get the hang of it, I&#39;m not sure how to get around this. I have tried 2-3 approaches but I wasn&#39;t able to find out something that works cleanly, I do not have enough traffic for A-B testing.\n I got generic feedback from users that the interface is perhaps overwhelming or too complex, but once you ge",
+    "score": 8.2,
+    "ageHours": 5.9,
+    "hits": [
+      "feedback",
+      "onboarding"
+    ],
+    "draft": {
+      "why": "Founder with a live SaaS, real traffic, and a concrete onboarding/activation problem Ryan fixes for a living.",
+      "potential": 7,
+      "options": [
+        "That 50% delete-without-trying rate is not industry standard, it usually means the first session asks for work before showing value. For a research tool, I'd preload a demo workspace with 3-4 sample papers and a pre-built claim map so a new user can click around a finished example before ever uploading a PDF. Seeing the end state first reframes the 10-minute setup as 'how do I get this' instead of a chore.",
+        "One thing worth checking before redesigning anything: of the users who did complete one full workflow (upload, claim, verify), how many stuck around? If retained users almost all crossed that line, your goal isn't a simpler UI, it's engineering the shortest possible path to that single moment, even if it means hiding 80% of features on day one."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xsktbk",
+    "subreddit": "SideProject",
+    "title": "I built DNStracr to monitor DNS beyond basic record checks. Looking for honest feedback.",
+    "author": "/u/Large_Protection_151",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xsktbk/i_built_dnstracr_to_monitor_dns_beyond_basic/",
+    "updated": "2026-11-10T11:45:29+00:00",
+    "body": "Hey,\n I&#39;ve been working on a side project called DNStracr : https://dnstracr.com \n The idea came from a problem I&#39;ve encountered repeatedly while working with DNS infrastructure: checking whether a DNS record exists doesn&#39;t necessarily tell you whether DNS is actually working correctly.\n A record might look fine at your DNS provider, but authoritative nameservers and public resolvers can return different answers. Changes can be difficult to track, and figuring out what happened after something breaks isn&#39;t always straightforward.\n So I started building a tool that focuses on:\n Monitoring DNS records and detecting changes Comparing responses from authoritative nameservers and public DNS resolvers Identifying inconsistencies and potential DNS issues Keeping a history of changes and incidents Integrating with Cloudflare to compare configured DNS records with actual responses I&#39;m also exploring geographically distributed DNS checks and ways to visualize DNS propagation.\n The project is publicly accessible, and there&#39;s a free plan available.\n I&#39;d really appreciate some feedback: \n Is this something you&#39;d actually use? What DNS-related problems would you want a tool like this to detect? Is the website clear about what the product does? Is there anything that feels confusing, unnecessary, or missing? I&#39;m especially interested in critical feedback, whether it&#39;s about the idea, the functionality, or the website itself.\n Thanks for taking a look!",
+    "score": 9,
+    "ageHours": 1.2,
+    "hits": [
+      "feedback",
+      "confusing"
+    ],
+    "draft": {
+      "why": "Founder with a working product explicitly asking for website clarity feedback, which is Ryan's lane, though it's a side project with unclear budget.",
+      "potential": 5,
+      "options": [
+        "The propagation visualization idea is your most interesting differentiator, so I'd lead with that on the homepage instead of the change detection. Every DNS tool monitors records, but almost none show you propagation across resolvers visually, and that's the part people will actually remember and share.",
+        "Who are you picturing as the primary user: sysadmins managing a few critical domains, or agencies/MSPs juggling dozens of client domains? The answer changes your homepage completely, because the first wants depth and alerting detail while the second wants a fleet overview and white-labeled reports."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xsarqk",
+    "subreddit": "UXDesign",
+    "title": "Print Designer Clashing with Developer - Need Advice",
+    "author": "/u/Frosty-Vegetable-385",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xsarqk/print_designer_clashing_with_developer_need_advice/",
+    "updated": "2026-11-10T02:05:26+00:00",
+    "body": "Hi everyone, I work as the director of communications for a small company. We have one designer on staff who has worked at the company for a decade, and one full-stack developer who has been at the company for about a year and a half.\n Now, the problem: The designer is trained strictly in print design, and we are embarking on a website redesign. The designer will only work in InDesign and Photoshop, but the developer believes the work must be done in Figma to avoid having to guess at the spacing, sizing, etc. Neither seem willing to budge, and it is clear that the designer is not familiar with digital design best practices, including accessibility.\n My background is more in writing/marketing, so I am a bit outside my depth. Is there a path to resolution here without one feeling like they are “doing the job” of the other?\n &#32; submitted by &#32; /u/Frosty-Vegetable-385 \n &#32;",
+    "score": 9.6,
+    "ageHours": 10.9,
+    "hits": [
+      "design",
+      "redesign",
+      "figma",
+      "designer"
+    ],
+    "draft": {
+      "why": "Common tooling conflict where a practitioner with real print-to-digital transition experience can add genuinely useful advice.",
+      "potential": 4,
+      "options": [
+        "The developer is right about Figma, but frame it as a handoff problem, not a skills referendum. A practical middle path: let the designer explore layout in the tools they know, then pair them with the dev for one working session to rebuild the final direction in Figma together. After two or three rounds the designer usually starts sketching directly in Figma because rebuilding is the annoying part.",
+        "One thing worth checking first: does the designer actually refuse Figma, or do they refuse to learn it alone under deadline? In my experience print designers resist because the first web project doubles as their training, and that feels exposed. A small budget for a Figma course plus one low-stakes internal page before the real redesign usually unsticks this faster than any tooling mandate."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xsbqhn",
+    "subreddit": "UXDesign",
+    "title": "I redesigned the onboarding for a fitness app. Which design direction would you choose?",
+    "author": "/u/Any-Flower-5844",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xsbqhn/i_redesigned_the_onboarding_for_a_fitness_app/",
+    "updated": "2026-11-10T02:52:21+00:00",
+    "body": "I&#39;m redesigning the onboarding for a fitness app I&#39;m building and experimenting with four different visual styles.\n The goal is to make the experience feel engaging, intuitive, and polished without overwhelming new users.\n I&#39;d love to get some outside opinions before committing to a direction.\n A few questions:\n Which style would you choose: 1, 2, 3, or 4? Which one feels the most polished and trustworthy? Which would make you most interested in continuing through the onboarding? Feel free to be brutally honest. I&#39;m especially interested in first impressions and visual hierarchy.\n Thanks in advance for any feedback!\n &#32; submitted by &#32; /u/Any-Flower-5844 \n &#32;",
+    "score": 12.4,
+    "ageHours": 10.1,
+    "hits": [
+      "feedback",
+      "onboarding",
+      "design"
+    ],
+    "draft": {
+      "why": "Designer asking for feedback on onboarding visuals, but it's a consumer fitness app side project with no budget signal.",
+      "potential": 3,
+      "options": [
+        "Since I can't see the four styles, the thing I'd check first is whether the hierarchy answers the new user's only real question in the first 5 seconds: what do I do next. Whichever direction makes that one action obvious without reading anything is the winner, regardless of which looks most polished.",
+        "Quick question before picking: what's the single action you want a new user to complete by the end of onboarding? In my experience the 'most polished' style is rarely the one that converts best, so the goal should pick the direction, not first impressions."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xsgsno",
+    "subreddit": "UXDesign",
+    "title": "How are you staying relevant as a UX designer who doesn’t want to become an engineer?",
+    "author": "/u/rzwart",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xsgsno/how_are_you_staying_relevant_as_a_ux_designer_who/",
+    "updated": "2026-11-10T07:32:46+00:00",
+    "body": "I’ve been working in UX for almost 20 years now, currently at a large government organization. Slow, bureaucratic, and change management is always a struggle. But when I look at my network, the field is changing fast.\n I see UX designers who don’t open Figma anymore and do pull requests instead. And front-end devs complaining that designers now deliver bad code, and that this used to be their job. It feels like UX and front-end are slowly turning into one role. Which makes sense in a way. \n We used to sketch something first and then have it rebuilt, and now one person can do both. But it also means I see front-end devs who have started doing UX themselves.\n I’d rather anticipate than wait until my role quietly disappears. The obvious answer seems to be “become an AI engineer”. Problem is, I hate programming. It’s one of the reasons I chose UX in the first place, 20 years ago :)\n So I&#39;m curious how others are dealing with this. What skills are you working on to stay relevant? And how do you decide what&#39;s worth learning? I hope it&#39;s not programming :) \n &#32; submitted by &#32; /u/rzwart \n &#32;",
+    "score": 10.4,
+    "ageHours": 5.4,
+    "hits": [
+      "ux",
+      "figma",
+      "designer"
+    ],
+    "draft": {
+      "why": "Thoughtful career discussion from a senior UXer; good visibility thread to share a practitioner angle, but poster isn't a potential client.",
+      "potential": 3,
+      "options": [
+        "The designers I see staying relevant without coding are the ones who got better at the parts engineering can't absorb: talking to users, framing the problem, and defending decisions to stakeholders. In my experience with B2B SaaS teams, the skill that's quietly become rare is turning vague founder anxiety into a clear problem statement before anyone opens Figma. If your role is merging with front-end, your leverage moves upstream, not into the codebase.",
+        "Honest question: in 20 years, what's the thing stakeholders kept asking you for that a pull request will never cover? I'd bet it's research judgment, facilitation, or knowing why a flow fails for real users. That answer usually points at what to double down on. Coding is one path, but so is becoming the person who decides what's worth building."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xs56yq",
+    "subreddit": "design_critiques",
+    "title": "Redesigning the icon for my countdown app to (hopefully) improve App Store conversions. Which of these 3 looks best to you?",
+    "author": "/u/Spirited_Resort_6471",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xs56yq/redesigning_the_icon_for_my_countdown_app_to/",
+    "updated": "2026-11-09T22:02:03+00:00",
+    "body": "Hello and happy Monday!\n I have built a countdown app, yes another countdown app, but mine is slightly different (obviously!), instead of focusing on numbers, it reveals the background image day by day with different styles, and I tried to show that with my current icon (Icon B) but I don&#39;t think that translated very well (my conversion rate is abysmal low for this app, so yes screenshots are probably also to blame but I figured I start with the icon). \n So I was thinking of trying a more traditional (hourglass or calendar) countdown icon, but instead of just trying different icons, I was hoping I could get some feedback here? Which version do you think is best? \n If not yet completely obvious, I&#39;m not very good at design, so happy for any feedback, even if that means all of them are bad, and I need to start from new. \n &#32; submitted by &#32; /u/Spirited_Resort_6471 \n &#32;",
+    "score": 9.2,
+    "ageHours": 14.9,
+    "hits": [
+      "feedback",
+      "conversion",
+      "design",
+      "looks"
+    ],
+    "draft": {
+      "why": "Solo dev iterating on App Store icon for a consumer countdown app; real design problem but consumer app with likely no budget for a B2B designer.",
+      "potential": 3,
+      "options": [
+        "Before swapping styles, test the icon at 60px on a crowded home screen, because the image-reveal concept almost certainly turns to mush at that size. An icon's only job is to stop the scroll and say 'countdown', so a simple hourglass with one bold color will likely beat all three of these on conversion, even if it feels less clever.",
+        "Honest question: how do you know the icon is the problem and not the screenshots? Icons rarely move conversion much unless yours is actively confusing, so I'd run a cheap A/B test in something like SplitMetrics before committing to a redesign. If screenshots are also weak, that's usually where the bigger lift is."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xsjwzl",
+    "subreddit": "SideProject",
+    "title": "I built two gentle learning apps and need feedback on making them clearer for young children",
+    "author": "/u/JihadiOnline",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xsjwzl/i_built_two_gentle_learning_apps_and_need/",
+    "updated": "2026-11-10T10:52:34+00:00",
+    "body": "Hi, I’m Qasim, the developer behind Listen Think Do and Little Logic. I’m working on early-learning apps with a calmer, low-stimulation approach: spoken guidance, simple interactions and room to try again.\n I’d appreciate a maker’s eye on whether that comes through in the experience, especially from anyone who is also a parent or works with young children.\n Listen Think Do focuses on following spoken directions, sorting, sequencing and short real-world activities. It has no scores, timers or competitive leaderboards.\n https://apps.apple.com/us/app/listen-think-do-little-steps/id6828905950 \n Little Logic covers counting, shapes, patterns, tracing and simple science, with uncluttered screens and no ads.\n https://apps.apple.com/us/app/little-logic-gentle-learning/id6797458466 \n Both are live on the App Store and free to download with free activities. Optional monthly or yearly subscriptions unlock more content. There’s no purchase needed to give feedback.\n The part I’d most like help with is clarity: do the instructions and visuals make the next step obvious, and where does the experience feel busy, confusing or repetitive? Even a reaction to the store screenshots is useful if you don’t want to download anything.\n I’m looking for honest input to help decide what to improve. Comments here are fine. Thanks for taking a look.\n &#32; submitted by &#32; /u/JihadiOnline \n &#32;",
+    "score": 9,
+    "ageHours": 2.1,
+    "hits": [
+      "feedback",
+      "confusing"
+    ],
+    "draft": {
+      "why": "Solo dev with a real clarity question Ryan can answer well, but it's a consumer kids app, not a B2B client.",
+      "potential": 3,
+      "options": [
+        "For young kids the biggest clarity win is usually one clear visual focal point per screen: if the thing they need to tap is also the biggest and most colorful thing on screen, instructions almost don't matter. Also consider a quick hand-pointer animation that demos the first interaction instead of relying only on spoken guidance, since kids this age often aren't listening yet.",
+        "One thing that trips up calm learning apps is what happens after a wrong answer. If there's no scores or timers, how do you show a kid their attempt didn't work without it feeling like failure? Curious how you're handling that feedback loop right now."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xrrgti",
+    "subreddit": "design_critiques",
+    "title": "Looking for an honest, in-depth UI/UX critique of a digital agency website",
+    "author": "/u/webdevper",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xrrgti/looking_for_an_honest_indepth_uiux_critique_of_a/",
+    "updated": "2026-11-09T13:19:54+00:00",
+    "body": "Looking for an honest, in-depth UI/UX critique of a digital agency website \n Hey everyone!\n I&#39;ve recently designed and developed a website for a digital marketing agency, and I&#39;d love to get some genuine, unbiased feedback from this community.\n The design direction is intentionally dark, modern and experimental. I&#39;ve tried to create something visually distinctive rather than following the usual corporate agency website layout.\n However, I&#39;m interested in understanding whether the design actually works from a professional UI/UX perspective.\n Website: https://agency-portfolio-omega-wheat.vercel.app/ \n I&#39;m particularly looking for criticism in the following areas:\n 1. Visual Design &amp; Aesthetics \n Does the overall visual identity feel professional and cohesive?\n How are the typography, colour palette, spacing and visual hierarchy?\n Are there sections that look visually weak, cluttered or inconsistent?\n Does the design feel premium or unnecessarily complicated?\n 2. UI/UX &amp; Usability \n Is the website intuitive to navigate?\n Are there any confusing, unnecessary or difficult-to-use sections?\n Is the information structured in a way that makes sense?\n Are the interactions, animations and transitions helping or hurting the experience?\n Are there any usability issues that might frustrate visitors?\n 3. Hero Section &amp; Messaging \n Does the hero section immediately communicate what the agency offers?\n Is the primary CTA noticeable and compelling?\n Is the messa",
+    "score": 8.7,
+    "ageHours": 23.6,
+    "hits": [
+      "feedback",
+      "ux",
+      "ui",
+      "design",
+      "confusing"
+    ],
+    "draft": {
+      "why": "Designer seeking critique on an agency portfolio site, not a founder with a budget and a business problem",
+      "potential": 3,
+      "options": [
+        "One thing to check first: does the hero say what the agency does and who it serves within 5 seconds, without scrolling or animation finishing? Experimental dark designs often bury the answer in a tagline, and for an agency site the hero is the whole pitch, so clarity there matters more than distinctiveness anywhere else.",
+        "Are you showing this to actual agency clients or is it a spec project? The critique changes a lot depending on that. If it's for real clients, the biggest UX question isn't the visuals, it's whether a skeptical founder can find pricing signals, past results, and a contact path without fighting the experimental layout."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xrx0gx",
+    "subreddit": "design_critiques",
+    "title": "[UI/UX Critique] Looking for feedback on LeiaABiblia.org – A Bible-reading platform",
+    "author": "/u/PracticalBell583",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xrx0gx/uiux_critique_looking_for_feedback_on/",
+    "updated": "2026-11-09T16:57:21+00:00",
+    "body": "Hi everyone,\n I’m looking for some constructive criticism and feedback on the UI/UX design of a website I’ve been working on my free time: leiaabiblia.org .\n It’s a clean and minimalist platform designed to help people read, study, and engage with the Bible online. Since the main goal of the website is long-form reading, user comfort and clarity are the top priorities.\n I would love to get your thoughts on a few specific areas:\n Typography &amp; Readability: Is the font choice, spacing, and contrast comfortable for long reading sessions? Navigation &amp; Layout: Is it easy to find specific books, chapters, or features? Does the overall structure feel intuitive? Visual Hierarchy: Do the clean, minimalist aesthetics work well for this type of platform, or does it feel like it’s lacking visual interest? Mobile Experience: If you check it out on your phone, how does the responsive layout feel? Any feedback regarding accessibility, spacing, or overall look and feel is highly appreciated.\n Thank you in advance for your time and honest critiques!\n &#32; submitted by &#32; /u/PracticalBell583 \n &#32;",
+    "score": 12.9,
+    "ageHours": 20,
+    "hits": [
+      "feedback",
+      "ux",
+      "ui",
+      "design"
+    ],
+    "draft": {
+      "why": "Free-time non-commercial Bible reading site; good design practice but no budget or business behind it.",
+      "potential": 2,
+      "options": [
+        "For long-form reading, the two highest-leverage fixes are line length and line height: cap the text column around 65-75 characters and set line-height near 1.6. If verses run full-width on desktop, comfort will suffer no matter how good the font choice is.",
+        "How are you handling navigation between books and chapters on mobile? That's the make-or-break interaction for a Bible app, since readers jump around constantly, and a flat list of 66 books gets painful fast."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xsk35e",
+    "subreddit": "design_critiques",
+    "title": "Feedback on my artist business card designs",
+    "author": "/u/Cheza_Sengoku_Artist",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xsk35e/feedback_on_my_artist_business_card_designs/",
+    "updated": "2026-11-10T11:02:41+00:00",
+    "body": "Please be brutal with your honesty! So I am a start-out pet portrait artist and I draw fun fantasy-like creatures. Trying to work out how to advertise that on 1 business card so I figured I do a double sided card job. 1 side pet portraits then the other side my fantasy side. Or is it better to do 2 separate business cards? Thoughts? \n &#32; submitted by &#32; /u/Cheza_Sengoku_Artist \n &#32;",
+    "score": 9,
+    "ageHours": 1.9,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Hobby artist asking for card feedback, no B2B SaaS or budget signal, low visibility to founders.",
+      "potential": 2,
+      "options": [
+        "Do two separate cards. A pet portrait client and a fantasy art fan are different audiences, and handing someone a card that shows both dilutes the one thing you want them to remember. Print small batches of each and hand out whichever fits the conversation.",
+        "One card, one audience. The question I'd ask first: who actually gets this card most often? If 80% of your paid work will be pet portraits, make that the card and let fantasy art live on your Instagram instead of competing for space on 3.5 inches."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xrrovz",
+    "subreddit": "design_critiques",
+    "title": "Looking for an honest, in-depth UI/UX critique of a digital agency website",
+    "author": "/u/webdevper",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xrrovz/looking_for_an_honest_indepth_uiux_critique_of_a/",
+    "updated": "2026-11-09T13:30:13+00:00",
+    "body": "Hey everyone!\n I&#39;ve recently designed and developed a website for a digital marketing agency, and I&#39;d love to get some genuine, unbiased feedback from this community.\n The design direction is intentionally dark, modern and experimental. I&#39;ve tried to create something visually distinctive rather than following the usual corporate agency website layout.\n However, I&#39;m interested in understanding whether the design actually works from a professional UI/UX perspective.\n Website: https://agency-portfolio-omega-wheat.vercel.app/ \n I&#39;m particularly looking for criticism in the following areas:\n 1. Visual Design &amp; Aesthetics \n Does the overall visual identity feel professional and cohesive?\n How are the typography, colour palette, spacing and visual hierarchy?\n Are there sections that look visually weak, cluttered or inconsistent?\n Does the design feel premium or unnecessarily complicated?\n 2. UI/UX &amp; Usability \n Is the website intuitive to navigate?\n Are there any confusing, unnecessary or difficult-to-use sections?\n Is the information structured in a way that makes sense?\n Are the interactions, animations and transitions helping or hurting the experience?\n Are there any usability issues that might frustrate visitors?\n 3. Hero Section &amp; Messaging \n Does the hero section immediately communicate what the agency offers?\n Is the primary CTA noticeable and compelling?\n Is the messaging clear enough for someone visiting for the first time?\n 4. User Journey &",
+    "score": 8.8,
+    "ageHours": 23.4,
+    "hits": [
+      "feedback",
+      "ux",
+      "ui",
+      "design",
+      "confusing"
+    ],
+    "draft": {
+      "why": "Designer seeking portfolio critique, not a business owner with a design problem or budget.",
+      "potential": 2,
+      "options": [
+        "One thing that decides this genre fast: does the hero pass the 5-second test? If a first-time visitor can't say what the agency does and who it's for within five seconds, the experimental visuals are working against you, no matter how cohesive they look.",
+        "Quick question that shapes any real critique: who is this site actually for? A demo portfolio piece and a real agency's client acquisition site have opposite constraints, and the answer changes whether 'experimental' is a feature or a bug."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1310787",
+    "platform": "producthunt",
+    "title": "Seldon",
+    "author": "Tom Charman",
+    "url": "https://www.producthunt.com/products/seldon",
+    "updated": "2026-11-09T17:18:21-08:00",
+    "body": "Behavioral QA agents that use your product like customers do",
+    "score": 4.6,
+    "ageHours": 11.6,
+    "hits": [
+      "customers",
+      "agents",
+      "customer"
+    ],
+    "draft": {
+      "why": "Launch-day visibility for a B2B QA tool, and the founders' target buyers are SaaS teams Ryan could serve later.",
+      "potential": 6,
+      "options": [
+        "Congrats on the launch! Quick question: when an agent 'uses the product like a customer,' what does the first-time setup look like for a team? Do I need to map user flows myself, or do the agents discover them on their own?",
+        "Congrats on the launch! Is this aimed more at pre-launch teams trying to catch UX issues, or mature products with big regression suites? Feels like the positioning could go either way, and I'm curious who you're seeing sign up first."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1310547",
+    "platform": "producthunt",
+    "title": "Willder",
+    "author": "Tri Nguyen",
+    "url": "https://www.producthunt.com/products/willder-with-will-wield-the-wilder",
+    "updated": "2026-11-09T12:05:59-08:00",
+    "body": "The context layer that syncs your apps, agents and teams",
+    "score": 4.2,
+    "ageHours": 16.8,
+    "hits": [
+      "teams",
+      "agents",
+      "team"
+    ],
+    "draft": {
+      "why": "Launch day for an infra-style SaaS product; founders on PH threads often become clients, though the tagline is vague about the audience.",
+      "potential": 6,
+      "options": [
+        "Congrats on the launch! Syncing apps, agents and teams covers a lot of ground. Who's the first person you want signing up, the dev wiring agents together or the ops lead trying to keep tools in sync? Curious how the first-time experience differs for each.",
+        "Happy launch day! Genuine question on positioning: 'context layer' sounds like infrastructure, but teams implies an end-user product. Are you selling to builders who embed Willder, or to teams who use it directly? Nailing that distinction on the landing page usually matters more than the feature list."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1310790",
+    "platform": "producthunt",
+    "title": "openring",
+    "author": "Alan Rocha",
+    "url": "https://www.producthunt.com/products/openring",
+    "updated": "2026-11-09T17:26:14-08:00",
+    "body": "Open-source voice AI agents with no platform fee",
+    "score": 2.9,
+    "ageHours": 11.5,
+    "hits": [
+      "platform",
+      "agents"
+    ],
+    "draft": {
+      "why": "Launching an open-source voice AI tool on PH; founders could become SaaS clients if they commercialize, though open-source dev tools have lower design spend.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch! Who's the first user you built this for: indie devs experimenting with voice, or teams replacing a paid platform they already use? Curious how that shapes the onboarding docs.",
+        "Congrats! Quick positioning question: are you pitching this as 'the open-source alternative to Vapi/Retell' or as its own thing? I find the former converts faster on launch day but can box you in later."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1310843",
+    "platform": "producthunt",
+    "title": "Dover Startup Jobs",
+    "author": "George Carollo",
+    "url": "https://www.producthunt.com/products/dover",
+    "updated": "2026-11-09T18:53:06-08:00",
+    "body": "Where great startups meet great candidates",
+    "score": 1.7,
+    "ageHours": 10.1,
+    "hits": [
+      "startup"
+    ],
+    "draft": {
+      "why": "Launch-day comment on a hiring marketplace for startups; founder likely values UX feedback and may need design help as the product grows.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch! Curious who you see using this first: founders hiring their earliest roles, or candidates browsing by startup stage? The answer changes a lot about how the first-time experience should be structured.",
+        "Congrats on launching! My guess is candidates' biggest hesitation with startup jobs is trust in the role actually being funded and stable. Is that something you're leaning into on the job pages, like showing funding or team size?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1310190",
+    "platform": "producthunt",
+    "title": "Daytwo",
+    "author": "Simon Demeulemeester",
+    "url": "https://www.producthunt.com/products/daytwo-2",
+    "updated": "2026-11-09T07:17:34-08:00",
+    "body": "Let your team change your custom site without touching code",
+    "score": 1.4,
+    "ageHours": 21.6,
+    "hits": [
+      "team"
+    ],
+    "draft": {
+      "why": "B2B SaaS-adjacent tool launching on PH; the maker is reachable and other founders reading the thread may have the exact problem Daytwo solves, which is a design conversation starter.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch! Curious who you see as the first user inside a team: the marketer who wants to tweak copy, or the founder who wants to stop being the bottleneck for every small change?",
+        "Congrats on launching! I'm wondering if you're positioning this against the traditional CMS or against dev handoff tools, since 'edit a custom site without code' could read as either depending on who's buying. Which one are you leading with?"
+      ]
+    }
+  }
+]
