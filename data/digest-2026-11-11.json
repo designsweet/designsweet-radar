@@ -1,0 +1,365 @@
+[
+  {
+    "platform": "reddit",
+    "id": "t3_1xsoc8l",
+    "subreddit": "microsaas",
+    "title": "Roast my landing page: PingLoom, phone alerts for small dev teams (pre-launch)",
+    "author": "/u/Ok-Chair-2861",
+    "url": "https://www.reddit.com/r/microsaas/comments/1xsoc8l/roast_my_landing_page_pingloom_phone_alerts_for/",
+    "updated": "2026-11-10T14:30:28+00:00",
+    "body": "Two days into building this in public and I&#39;d like the page torn apart before more people see it.\n What it is: your server, cron job or script sends one HTTP request, your phone buzzes, and the alert goes into an inbox your team shares. One tap on &quot;I&#39;ve got this&quot; and everyone else knows it&#39;s handled. Alerts can also ask a question (Deploy / Wait / Roll back) and the answer goes back to your script.\n One decision I keep second guessing: the whole thing runs on Postgres only. No Redis, no queue service. Every alert is written in the same transaction as its delivery job, and the worker wakes up on LISTEN/NOTIFY. Fewer moving parts for one person to run, but I keep wondering if I&#39;ll regret it at scale.\n What I&#39;m unsure about on the page: \n does the first screen tell you what it does in 5 seconds? does mentioning AI agents help, or does it make it sound like another AI wrapper? would you join a waitlist for this, or bounce? Page is here: pingloom.dev . Be harsh, that&#39;s the point.\n &#32; submitted by &#32; /u/Ok-Chair-2861 \n &#32;",
+    "score": 6.7,
+    "ageHours": 28.7,
+    "hits": [
+      "roast my",
+      "landing page",
+      "bounce"
+    ],
+    "draft": {
+      "why": "Pre-launch B2B dev tool founder actively asking for landing page critique, exactly the kind of person who hires for conversion help.",
+      "potential": 7,
+      "options": [
+        "I can't load the page from here, but judging by your description the hero almost certainly leads with the mechanism (one HTTP request) instead of the outcome. Try a headline like 'Your server breaks, your phone buzzes, someone on your team claims it in one tap' and put the shared inbox and 'I've got this' flow in the first screen, since that's the part PagerDuty-style tools make clunky for small teams.",
+        "On the AI agents question: mentioning them helps only if an agent is a concrete actor in the example, like an agent that pings for human approval before deploying. If it's just a buzzword in the copy, cut it, because 'works with AI agents' with no demo reads as wrapper noise to exactly the devs you want."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xtbryz",
+    "subreddit": "microsaas",
+    "title": "How do you validate a SaaS idea when nobody seems willing to give you feedback?",
+    "author": "/u/dorian_aloomi",
+    "url": "https://www.reddit.com/r/microsaas/comments/1xtbryz/how_do_you_validate_a_saas_idea_when_nobody_seems/",
+    "updated": "2026-11-11T07:41:45+00:00",
+    "body": "I’m currently trying to validate a SaaS idea before investing too much more time into it, but I’m struggling to get people to engage.\n For context, I’m not starting completely from scratch. I already have a working MVP that I can demo, a landing page, and a pretty clear idea of who I’m targeting.\n My approach so far has been mostly cold outreach. I’ve been emailing freelancers and independent professionals who could potentially be part of my target audience. I’m not trying to sell them anything. I simply explain that I’m building something in their space and would love to get 15-20 minutes of their time to understand how they currently manage certain aspects of their business and get their feedback.\n But I’m getting almost no replies.\n I’ve also given Meta Ads a quick try to drive traffic to my landing page and collect early signups. I spent around CHF 20, but honestly, I wasn’t even convinced that this was the right strategy in the first place. I found it hard to imagine people signing up for a product they didn’t know much about, especially at such an early stage. So I stopped the campaign rather than keep spending money without a clear strategy.\n What I find frustrating is the advice you constantly hear: don’t build before validating, talk to potential customers, understand their pain points, etc.\n But what happens when you’ve actually built something, have a demo to show, and still can’t get people to give you 15 minutes of their time?\n At some point, you need feedback to",
+    "score": 11.6,
+    "ageHours": 11.6,
+    "hits": [
+      "feedback",
+      "landing page",
+      "mvp",
+      "signups"
+    ],
+    "draft": {
+      "why": "Founder with MVP and landing page struggling with validation; good visibility thread in microsaas and likely to need landing page/conversion help.",
+      "potential": 6,
+      "options": [
+        "Cold asking for 15-20 minutes of a stranger's time is a big commitment before they trust you, and 'not trying to sell you anything' often reads as the opposite. What worked better for me: lead with a 2-line description plus a screenshot or 30-second demo clip, and ask one specific question they can answer by replying to the email. People who engage async will happily jump on a call after.",
+        "Quick question before the tactics matter: are the freelancers you're emailing actually feeling the pain your product solves, or did you pick them because they're easy to find? If outreach to your assumed target gets near-zero replies, that silence is itself validation data that the problem might not be urgent for them."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xtfnnw",
+    "subreddit": "design_critiques",
+    "title": "Design critique request — visual system for a simulation node editor",
+    "author": "/u/Silver_Hold7983",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xtfnnw/design_critique_request_visual_system_for_a/",
+    "updated": "2026-11-11T11:43:41+00:00",
+    "body": "Hi! I’m working on the design system for Fluvio360, a visual simulation editor. Users build models by connecting nodes such as Source, Process, Sink, Resource, and Agent. They need to tell those nodes apart, recognize valid connections, and spot warnings while working on a crowded canvas.\n I’m exploring a restrained soft UI style. I want the nodes to feel like molded plastic parts, with a shallow recess and a defined edge. The current design uses cool gray surfaces, colored icon backgrounds, shaped ports, a violet selection outline, and an orange warning tab that sits behind the node body.\n I’d appreciate feedback on any of these questions:\n Material and depth. Do the nodes read as objects sitting on the canvas? At actual size, which details communicate depth, and do any shadows make the nodes feel heavy or sunken? Canvas and readability. Does the cool background and grid give the nodes and connections enough separation? What becomes hard to read when you zoom out or when several nodes sit close together? Node types, icons, and labels. How quickly can you distinguish Source, Sink, Process, Resource, and Agent? What do you recognize first: the silhouette, the icon, its colored background, or the label? Do any icons or labels feel ambiguous? Color semantics. Is it clear which colors identify a node type, which identify a connection type, and which indicate a warning or selection? In particular, could the warm resource ports be confused with the orange warning? Ports and placeme",
+    "score": 11.1,
+    "ageHours": 7.5,
+    "hits": [
+      "feedback",
+      "ui",
+      "design",
+      "design system"
+    ],
+    "draft": {
+      "why": "A founder or designer building a node-based simulation tool with real depth and color-semantics problems, and B2B simulation software often has budget for design help.",
+      "potential": 5,
+      "options": [
+        "The warm resource port vs orange warning conflict is your biggest risk: never signal two different meanings with hues from the same family, especially when one sits behind the node edge and is mostly hidden. Keep warnings the only warm orange in the whole system, move resources to a distinct hue or a neutral fill with a shaped port, and differentiate warnings by behavior (pulse, badge, broken edge) rather than color alone, since colorblind users and zoomed-out canvases will lose the distinction.",
+        "On a crowded canvas, what carries node identification at 50% zoom in your testing: the icon's colored background or the label? In my experience with node editors, color-coded icon tiles collapse into noise once you have 20+ nodes, so the silhouette and port shape end up doing the real work, which argues for giving each node type a distinct outline rather than relying on the icon."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xthak9",
+    "subreddit": "design_critiques",
+    "title": "A or B? Landing page for a free online PDF tools site, which one would you trust and use?",
+    "author": "/u/Chemical_Pudding_454",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xthak9/a_or_b_landing_page_for_a_free_online_pdf_tools/",
+    "updated": "2026-11-11T13:07:54+00:00",
+    "body": "I’m deciding between two homepage designs for a free PDF toolkit (compress, merge, convert, sign, 24 PDF tools + ~50 utility tools). Screenshots attached: desktop UI \n Imagine you landed here from Google needing to compress a PDF under 100 KB for a form upload :\n Which one gets you to the action faster? Which one feels more trustworthy for uploading a file? Anything confusing or off-putting in either? Just “A” or “B” + one reason is super helpful. Thanks!\n &#32; submitted by &#32; /u/Chemical_Pudding_454 \n &#32;",
+    "score": 13,
+    "ageHours": 6.1,
+    "hits": [
+      "landing page",
+      "ui",
+      "confusing"
+    ],
+    "draft": {
+      "why": "Poster is actively choosing between two landing page designs, a design decision Ryan could weigh in on, but it's a free consumer PDF tool with unclear budget.",
+      "potential": 4,
+      "options": [
+        "Since I can't see the screenshots here, the general answer for this exact use case: whichever version has the compress tool as a visible, labeled drop zone above the fold wins. Someone arriving from Google with a 100 KB limit in mind doesn't want to scan a grid of 24 tools, they want the one box that says 'drop your PDF here.'",
+        "One thing that kills trust on free PDF tools regardless of layout: not saying what happens to the file. A single line near the upload area like 'files are deleted automatically after 1 hour' does more for trust than any visual polish, especially for a sign or convert flow."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xt6m87",
+    "subreddit": "UXDesign",
+    "title": "How is your team handling Eng/PM/Design collaboration in the AI transition?",
+    "author": "/u/SquashSilly2730",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xt6m87/how_is_your_team_handling_engpmdesign/",
+    "updated": "2026-11-11T02:56:24+00:00",
+    "body": "I know most companies are probably going through this “figuring out” “fast-paced” “ambiguous” phase currently at this AI transition period. However, it also feels like an excuse of bad organization / prioritization ability.\n I am seeking people’s recommendations or experiences on how your teams’ collaboration process handled the transition.\n I am a product designer with more than 15 years of experience and started a new role at a large financial corporation at AI team a few months ago. From Product design perspective, the company has been traditionally led by engineers and only in recent past year has been expanding its design practice and hired a lot of designers. However, people seem to have the expectation that the designers will now do jobs including user researcher, information architect, data analyst, content stagiest, copy writer, product manager in addition to design job. There is really no planning or alignment and everything is expected to be done asap. So the time for launching a project had been condensed (i know it is expected as AI evolves) with much more responsibility. I am surprised that Engineers and PM have minimal communication with designers and as now it seems designers are just being treated as prompting UI even through we are doing much more. There is no time to build logics, validate ux flows or refine UI. It feels we are just building for the sake of building massive products without actually building an usable product.\n I am curious if anyone is exp",
+    "score": 6.9,
+    "ageHours": 16.3,
+    "hits": [
+      "ux",
+      "ui",
+      "design",
+      "designer"
+    ],
+    "draft": {
+      "why": "Designer at a large financial corporation venting about AI-era role chaos; interesting discussion but not a buying situation, and the audience is designers not founders.",
+      "potential": 3,
+      "options": [
+        "One thing that's worked in my experience: pick one project and run it properly end to end, with validation and a real flow pass, then use its outcomes as the reference point when leadership asks why design needs time. Arguing for process in the abstract gets you labeled slow, but a concrete before-and-after is hard to dismiss.",
+        "The 'designers absorb every missing role' pattern usually means the org never decided what design is for, not that timelines genuinely can't fit a flow pass. Is there a design leader at your company pushing back on this, or are you the most senior design voice in the room? The fix looks very different depending on that answer."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xtpdqz",
+    "subreddit": "SideProject",
+    "title": "I've started creating digital guides alongside running my business – would love some feedback",
+    "author": "/u/CameronsEventsUK",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xtpdqz/ive_started_creating_digital_guides_alongside/",
+    "updated": "2026-11-11T18:22:36+00:00",
+    "body": "I&#39;ve been running my own events business for a while now, and recently decided to try something completely different on the side.\n I&#39;ve started creating downloadable digital guides that people can buy and use in their own time.\n It&#39;s been interesting learning about digital products, especially how different it is from running a service-based business.\n I&#39;m still figuring out what makes a guide genuinely worth paying for, how to present it properly and how to reach the right audience.\n For anyone who&#39;s launched a digital product, what was the biggest thing you learnt from your first few sales or attempts?\n I&#39;d also be happy to hear what puts you off buying a digital guide.\n Any honest feedback would be appreciated!\n &#32; submitted by &#32; /u/CameronsEventsUK \n &#32;",
+    "score": 6.8,
+    "ageHours": 0.9,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "First-time digital product seller asking what makes a guide worth paying for; adjacent to Ryan's world but not a B2B SaaS with a design budget.",
+      "potential": 3,
+      "options": [
+        "Biggest thing I learned from early sales: people pay for an outcome, not a document. If the guide's title says what they'll be able to do after reading it (and the first page shows them that outcome is achievable fast), conversions beat any amount of page-count padding.",
+        "What puts me off buying: no preview of what's inside and a landing page that talks about the guide instead of my problem. One sharp question back at you: who specifically is this for, and what's the one thing they can do the day they finish it that they couldn't do before?",
+        "In my experience the first few sales teach you that presentation is the product for digital goods. If the sales page looks like an afterthought, buyers assume the content is too, no matter how good it actually is. Get one testimonial from a real user early and put it above everything else."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xtqnpx",
+    "subreddit": "UXDesign",
+    "title": "How do you communicate design impact without post-launch metrics?",
+    "author": "/u/TessaDesigns",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xtqnpx/how_do_you_communicate_design_impact_without/",
+    "updated": "2026-11-11T19:10:18+00:00",
+    "body": "I’m revisiting my portfolio and noticing that I mostly describe what I did -&gt; research, testing, design iterations, and handoff instead of the outcomes post launch. \n On these volunteer projects, I moved on after my involvement ended and didn’t track post-launch performance. Aside from knowing that one was pulled from the market and the other remains live but the team isn’t responsive. I think they may have abandoned it or are close to abandoning it. 😬\n I do have usability-testing findings and examples of how those informed design changes, but no follow-up measurements showing whether the changes worked.\n What evidence helps demonstrate your contribution when you don’t have retention, conversion, or other post-launch metrics? \n &#32; submitted by &#32; /u/TessaDesigns \n &#32;",
+    "score": 6.3,
+    "ageHours": 0.1,
+    "hits": [
+      "conversion",
+      "design"
+    ],
+    "draft": {
+      "why": "Solid portfolio question in a design community, but volunteer projects and no business context mean low client potential.",
+      "potential": 3,
+      "options": [
+        "Pre-launch evidence counts more than people think. Frame your usability findings as measurable deltas: task success went from 40% to 90% between rounds, time on task dropped, error count fell. 'Redesigned checkout flow; task completion in testing improved from 3/10 to 9/10 participants' reads as an outcome even without live data.",
+        "One thing that works: do a small post-launch audit yourself. Even if the team went quiet, you can run a quick heuristic review or 5-user test on the live product and show before/after against your designs. It shows you care about outcomes, not just handoff, which is exactly what hiring managers are scanning for."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xtpsss",
+    "subreddit": "design_critiques",
+    "title": "I’m a musician, definitely not a graphic designer, but I love trying to do everything myself. So I came up with a few different cover designs for the debut album of my new electro-funk pop project. I’d love to hear your honest feedback! What do you think?",
+    "author": "/u/davidepanettalbasso",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xtpsss/im_a_musician_definitely_not_a_graphic_designer/",
+    "updated": "2026-11-11T18:38:31+00:00",
+    "body": "Which of the three do you prefer? 1, 2 o 3?\n Both the logo and the album cover were made entirely by hand using geometric shapes in Apple’s Freeform app on my iPhone.\n &#32; submitted by &#32; /u/davidepanettalbasso \n &#32;",
+    "score": 13.5,
+    "ageHours": 0.6,
+    "hits": [
+      "feedback",
+      "designer"
+    ],
+    "draft": {
+      "why": "Hobbyist musician asking for album cover taste feedback; no budget, no B2B design problem, low client potential.",
+      "potential": 2,
+      "options": [
+        "Design 1 reads strongest at thumbnail size, which is where most people will actually see it on Spotify. The other two get muddy when shrunk, so I'd test them at 100px wide before deciding.",
+        "Quick question before voting: is the logo going to be used separate from the cover, like on social avatars? If so, whichever option holds up as a standalone mark should win, even if it looks slightly weaker as a full cover."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xtok57",
+    "subreddit": "design_critiques",
+    "title": "Does this design feel too simple for a T-shirt, or is that actually a good thing?",
+    "author": "/u/Individual_Video8927",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xtok57/does_this_design_feel_too_simple_for_a_tshirt_or/",
+    "updated": "2026-11-11T17:52:23+00:00",
+    "body": "I&#39;ve been working on a few ideas for a small clothing project, and there&#39;s one design I keep going back and forth on. At first, I wanted to create something with several elements, more detailed artwork, and a bit of text to give it a stronger identity. But after trying different layouts, I started leaning toward a much cleaner and simpler direction.\n The current version has a small graphic with minimal text and plenty of empty space around it. I personally like the subtle look because it doesn&#39;t feel like every part of the shirt is competing for attention. At the same time, I&#39;m wondering if it&#39;s too plain and whether someone would actually notice it when scrolling through different clothing designs.\n Another thing I&#39;m struggling with is how the design will translate onto an actual garment. It looks balanced on my screen, but the final result could feel different depending on the shirt color, fabric texture, print size, and placement. I&#39;m also trying to avoid adding details just for the sake of making it look more complicated.\n I think there&#39;s a fine line between a design that feels minimal and one that simply looks unfinished, but I&#39;m having trouble figuring out where that line is.\n I&#39;d really appreciate some honest feedback. Would you keep the design simple and let the garment itself add to the overall look, or would you introduce another visual element to make it more memorable? What usually makes you feel that a T-shirt design is com",
+    "score": 10.5,
+    "ageHours": 1.4,
+    "hits": [
+      "feedback",
+      "design",
+      "looks"
+    ],
+    "draft": {
+      "why": "Poster is genuinely wrestling with a real design tension, but it's a hobby clothing project with no path to B2B SaaS design work.",
+      "potential": 2,
+      "options": [
+        "The line between minimal and unfinished is usually intent: a minimal design has one strong focal point and everything else removed on purpose, an unfinished one feels like elements are missing. Print a mockup at actual size on the shirt color you're considering, because placement and print scale change everything, and a small graphic that reads well on screen often feels lost on a chest.",
+        "Simple designs sell well on tees, but only if the one element is strong enough to carry the whole garment. What does the graphic look like from two meters away? If it still reads clearly at that distance, your empty space is doing its job."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xtd2cz",
+    "subreddit": "design_critiques",
+    "title": "Tattoo artist of 12 years transitioning into digital design – I'd love some honest portfolio feedback",
+    "author": "/u/dueztattoos",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xtd2cz/tattoo_artist_of_12_years_transitioning_into/",
+    "updated": "2026-11-11T09:02:12+00:00",
+    "body": "&#32; submitted by &#32; /u/dueztattoos \n &#32;",
+    "score": 9.5,
+    "ageHours": 10.2,
+    "hits": [
+      "feedback",
+      "design"
+    ],
+    "draft": {
+      "why": "Portfolio review request from a career-changer; helpful conversation but very unlikely to yield a paying SaaS client.",
+      "potential": 2,
+      "options": [
+        "The tattoo background is an asset, so lean into it: strong linework and composition translate well to illustration-driven branding and editorial design. Curate hard though. 6 to 8 projects where each one shows a different skill beats 20 pieces of flash art.",
+        "What's the target role, product design, branding, or illustration? The answer changes the whole portfolio. A product design book with zero case studies or process won't land interviews no matter how strong the visuals are, so pick a lane before you polish the layout."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xtl7xx",
+    "subreddit": "design_critiques",
+    "title": "What do you think about this UI design? I'm creating a UI kit, how can I make it sellable?",
+    "author": "/u/Adventurous-Set7679",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xtl7xx/what_do_you_think_about_this_ui_design_im/",
+    "updated": "2026-11-11T15:50:29+00:00",
+    "body": "&#32; submitted by &#32; /u/Adventurous-Set7679 \n &#32;",
+    "score": 7.4,
+    "ageHours": 3.4,
+    "hits": [
+      "ui",
+      "design"
+    ],
+    "draft": {
+      "why": "Designer building a UI kit to sell, low budget and not a SaaS founder, but a sharp reply could still get visibility.",
+      "potential": 2,
+      "options": [
+        "Sellability comes from solving one niche really well, not breadth. Pick a target like SaaS dashboards or fintech apps and make every component actually production-ready there, since generic kits get buried on every marketplace.",
+        "What problem does your kit solve that the big free ones like Untitled UI or Tailwind UI don't? If you can't answer that in one sentence, that's the thing to fix before worrying about polish."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xtnb71",
+    "subreddit": "UXDesign",
+    "title": "Does anyone have any UX youtube channel or podcast recommendations?",
+    "author": "/u/BreadfruitKind",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xtnb71/does_anyone_have_any_ux_youtube_channel_or/",
+    "updated": "2026-11-11T17:07:30+00:00",
+    "body": "Im looking to expand my knowledge as a UX designer and have something playing in the background while I work. I’m currently subscribed to the NNg podcast and youtube channel. Does anyone have other Youtube and Podcast recommendations for UX content? \n &#32; submitted by &#32; /u/BreadfruitKind \n &#32;",
+    "score": 6.9,
+    "ageHours": 2.1,
+    "hits": [
+      "ux",
+      "designer"
+    ],
+    "draft": {
+      "why": "Low client potential, but a quick recs comment builds community presence among designers.",
+      "potential": 2,
+      "options": [
+        "Beyond NNg, I get a lot out of the Rosenfeld Review podcast and AJ&Smart's YouTube channel, plus Lenny's Podcast for the product side. Tip: save the YouTube videos and watch at 1.5x, most of the value is in a few segments.",
+        "Honestly the best UX content I find these days isn't UX-branded. Try Design Details, the Figma blog videos, and teardown videos where someone redesigns a real app. Do you want more research/process content or visual/UI craft?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1311862",
+    "platform": "producthunt",
+    "title": "Mitra MCP",
+    "author": "Sai Mandava",
+    "url": "https://www.producthunt.com/products/mitra-5",
+    "updated": "2026-11-10T10:52:46-08:00",
+    "body": "Give your AI agents access to your personal phone line",
+    "score": 1,
+    "ageHours": 24.4,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "PH launch in the AI agent tooling space, likely founder with budget and SaaS-adjacent product, but unclear if B2B or consumer.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch! Curious who you see as the core user: is this for developers building agent workflows, or regular folks who want their AI assistant to answer calls? That choice changes a lot about how the landing page should frame it.",
+        "Happy launch day! My guess is the tricky part isn't the MCP plumbing, it's the first five minutes: what does a new user actually do to connect their phone line and hear the agent pick up for the first time?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1310331",
+    "platform": "producthunt",
+    "title": "ZUS",
+    "author": "Jason",
+    "url": "https://www.producthunt.com/products/zus-2",
+    "updated": "2026-11-09T09:01:49-08:00",
+    "body": "AI-native IDE: agents code with human review",
+    "score": 0.5,
+    "ageHours": 50.2,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "AI IDE launches draw huge founder and dev-tool attention on PH, and the team may need design help with onboarding or positioning if the launch goes well.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch! Curious how the human review step actually works in practice: does the reviewer see a diff-style view per agent change, or more of a summary they approve in batches? That UX feels like the make-or-break for trust.",
+        "Congrats on launching! Quick positioning question: are you going after solo devs who want speed, or teams that need the review layer for compliance and code quality? The human review angle feels like your real wedge against Cursor, so I'd lean into the team story if that's the bet."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1310375",
+    "platform": "producthunt",
+    "title": "OpenVibe",
+    "author": "Mathieu KERBEL",
+    "url": "https://www.producthunt.com/products/openvibe-2",
+    "updated": "2026-11-09T09:34:57-08:00",
+    "body": "A canvas of real terminals for your AI coding agents",
+    "score": 0.5,
+    "ageHours": 49.7,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "Dev tool launch on PH, likely founder-led; if this becomes a B2B dev SaaS the founder may need landing page and onboarding design help.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch! Who's the first user you built this for: solo devs running a couple of agents, or teams juggling a bunch at once? Asking because the first-run experience probably looks very different for each.",
+        "Congrats on the launch! Curious on positioning: are you framing this as a terminal upgrade or as mission control for agents? The second feels like the bigger story, but it probably needs a different first-time experience to land."
+      ]
+    }
+  }
+]
