@@ -1,0 +1,411 @@
+[
+  {
+    "platform": "reddit",
+    "id": "t3_1xuh85v",
+    "subreddit": "SaaS",
+    "title": "151 signups, 8 paying users. What should I focus on next?",
+    "author": "/u/Basic-Improvement657",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xuh85v/151_signups_8_paying_users_what_should_i_focus_on/",
+    "updated": "2026-11-12T16:26:13+00:00",
+    "body": "I&#39;m building a tool that turns long videos into short clips with captions for social media. I&#39;ve got some paying users, but I&#39;m unsure where to focus next.\n Current numbers:\n 151 registered accounts. 8 paying subscribers. Two have cancelled renewal but still have access until their billing periods end. Google Search Console: 256 clicks and 4,740 impressions. Bing: 79 clicks and 944 impressions. The search numbers cover roughly the last three months. SEO is the only marketing I&#39;ve been doing, with no paid ads.\n There&#39;s a hard paywall right now. People can sign up, but they can&#39;t process videos without paying, so most signups haven&#39;t actually tried the product.\n A few things I&#39;m wondering:\n Would you keep focusing on SEO and improving the product, or focus on converting people who&#39;ve already signed up? I&#39;m considering emailing unpaid users and offering 60 minutes of video processing for free. Has something like this helped you get paying users or useful feedback? Would you add some limited free features, or keep the hard paywall? I want people to try it, but I&#39;m worried about processing costs and people abusing free accounts. Paying users are using the product, but they don&#39;t reply when I email asking how it&#39;s going or what I could improve. Would you follow up once, ask inside the app, or leave them alone? I find constant product emails annoying myself. If you&#39;ve been at this stage, what helped you figure out what to do ne",
+    "score": 9.8,
+    "ageHours": 3.1,
+    "hits": [
+      "feedback",
+      "sign up",
+      "signups"
+    ],
+    "draft": {
+      "why": "Early-stage SaaS founder with real revenue and a concrete conversion problem (hard paywall blocking all activation), exactly the kind of onboarding/paywall design issue Ryan fixes.",
+      "potential": 6,
+      "options": [
+        "Your biggest leak is the hard paywall, not traffic. 151 signups who never touched the product means you have zero data on whether the tool actually delivers, so I'd swap the paywall for a small free allowance (one short video, or 10-15 min of processing with a watermark) before any email campaign. Processing costs on a handful of trial users will be trivial compared to flying blind on activation.",
+        "Skip the email blast and ask inside the product at the moment of success instead. When a paying user downloads their first clip, show a one-question prompt like 'what almost stopped you from paying today?' Response rates on that beat cold emails by a mile, and the answer tells you exactly what to fix on your signup flow. Are you tracking where the 143 unpaid signups drop off right now?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xtv4ue",
+    "subreddit": "design_critiques",
+    "title": "Not a designer. Went with a dark Tokyo nights look for my job search site instead of the usual clean template….how bad is it lol?",
+    "author": "/u/cobrachris69",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xtv4ue/not_a_designer_went_with_a_dark_tokyo_nights_look/",
+    "updated": "2026-11-11T22:05:04+00:00",
+    "body": "Hello all - I’ve been working on a site I’m really passionate about and have been spending the lion’s share of my time on the back end of it. UI and design is an area where I’ve always struggled… almost comically bad ha. So I was a bit nervous to share with the community, but would really appreciate some feedback! \n For no reason other than me loving the aesthetic…I went for a lofi rainy Tokyo night vibe. \n The goal is just to get them to start a free scan.\n Am I screwing myself by making this page unnecessarily “unique” / is the design straight up offensive to the eyes haha?\n Would love blunt feedback on:\n -Can you tell what it does in a few seconds?\n -Would you trust it with your resume?\n -Does it look intentional or amateur?\n First pic is desktop, the rest are phone. Live at michimatch.com if you want to click around.\n Appreciate y’all and I’m scared for this likely reality check ha….\n &#32; submitted by &#32; /u/cobrachris69 \n &#32;",
+    "score": 7.9,
+    "ageHours": 21.5,
+    "hits": [
+      "feedback",
+      "ui",
+      "design",
+      "designer"
+    ],
+    "draft": {
+      "why": "Founder with a live B2C-ish product asking blunt conversion and trust questions on a visible thread, exactly the kind of landing page problem Ryan fixes.",
+      "potential": 6,
+      "options": [
+        "The vibe isn't the risk, the trust is: neon-rain styling makes people wonder if a real company is behind it before they'll upload a resume. Keep the Tokyo look but add one very plain, conventional block above the fold: what the scan checks, who built it, and what happens to their data. Unique skin, boring reassurance.",
+        "Quick test: show the page to someone for 5 seconds and ask what they'd get by clicking the button. If they can't say 'a free scan of my resume that tells me X,' the aesthetic is doing the talking instead of the value prop. What does the headline above the scan button currently say?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xuid2t",
+    "subreddit": "indiehackers",
+    "title": "Who the hell will pay for indie products when building them is so easy?",
+    "author": "/u/fredrik_motin",
+    "url": "https://www.reddit.com/r/indiehackers/comments/1xuid2t/who_the_hell_will_pay_for_indie_products_when/",
+    "updated": "2026-11-12T17:08:14+00:00",
+    "body": "Most indie hackers I know have more apps than customers, and I have more domains and apps than I have customers. While I have had some customers at various times over the years, it&#39;s so hard to actually get someone to convert. I have six apps and a seventh in the making. They&#39;re so fast to do that I create a new app every two weeks and try a new approach.\n And I really like the apps I&#39;m building. Every single one is based on a real pain point, a real need for a real target market, and I use them myself. The accounting prep one deletes all the worries I used to have about accounting prep every month, I use another one to look at my finances and pay my bills, and the one I use for hours every day helps me build the growth system for the rest of them.\n Because yes, I&#39;m doing all the best practice stuff, using AI every day: creating SEO content, adding to listings and registries, improving the product based on feedback, talking with friends and acquaintances to learn what could be relevant for them, building prospect lists, polishing copy, posting in various subreddits. I&#39;m okay with it being a slow grind and I expect this to take months, but I wouldn&#39;t expect it to be this slow. I keep getting very poor conversion rates, and I can&#39;t even get my friends to test these things.\n It seems like everybody is building their own apps these days, and nobody is interested in trying somebody else&#39;s product until it&#39;s established, with tons of users, and s",
+    "score": 6.2,
+    "ageHours": 2.4,
+    "hits": [
+      "feedback",
+      "conversion"
+    ],
+    "draft": {
+      "why": "Founder with real SaaS products and a conversion problem, exactly the kind of person who eventually pays for landing page and onboarding help.",
+      "potential": 6,
+      "options": [
+        "The giveaway is that you can't get friends to test them. If even warm contacts won't try it, the problem isn't competition from other builders, it's that the pitch or first-run experience doesn't create enough pull to overcome the effort of switching. I'd kill six of the apps, pick the one you use hours a day, and spend the next three months only on its landing page and onboarding.",
+        "Building a new app every two weeks means each one gets two weeks of distribution and polish, and conversion problems usually live in the details nobody reaches in two weeks. What does your funnel actually look like on the best performer: visitors to signup, signup to first real use, first use to paid? That number will tell you where to dig."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xujdlw",
+    "subreddit": "SideProject",
+    "title": "CounterWeight - turning our shop’s Hobart scale workflow into a local desktop app (demo and feedback)",
+    "author": "/u/WinkleBerryArts",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xujdlw/counterweight_turning_our_shops_hobart_scale/",
+    "updated": "2026-11-12T17:45:39+00:00",
+    "body": "I&#39;m Jason, owner of Winkle Berry. Our side project came from a fairly specific shop problem: managing products and labels on a Hobart HTi retail scale without spending so much time entering everything at its touchscreen.\n CounterWeight now has product search/add/edit workflows, ingredient lookup with review, measured packaging tare presets, flashkey arrangement, backup tools and label previews. Our own HTi-7LS25 running application 3.3.0 is the tested scale. A second Windows machine has passed the read-only connection, product, backup, label-preview and flashkey-display checks. Independent customer installations are still untested.\n 80-second demo: https://www.reddit.com/r/POS/comments/1xujcc9/hobart_hti_owners_would_a_onetimepurchase_scale/ \n The demo uses actual interface screenshots and training examples, not one continuous live recording. Phone/remote viewing shown requires an additional local bridge; the current portable Windows test package does not include a remote viewer.\n I&#39;m considering a one-time-purchase, self-service desktop edition with local data, an offline business license and no required hosted CounterWeight subscription. Price and launch date are undecided, and we aren&#39;t taking payments. Calibration, firmware updates and service unlocks are outside the scope. Ingredient results must be checked against packaging.\n I&#39;d appreciate feedback on two things: does the demo make the product&#39;s purpose clear, and what would you need in onboarding b",
+    "score": 10.1,
+    "ageHours": 1.8,
+    "hits": [
+      "feedback",
+      "onboarding"
+    ],
+    "draft": {
+      "why": "Owner actively asking for onboarding and demo-clarity feedback, which is exactly the kind of design feedback Ryan gives well, though the niche hardware market limits client potential.",
+      "potential": 5,
+      "options": [
+        "For onboarding, the biggest trust moment will be the first connection to the scale: a guided 'connect, pull your existing products, preview before anything writes back' flow with a visible read-only safe mode would calm the fear of breaking an expensive piece of shop equipment. The 80-second demo explains features well but I'd open on the pain (typing PLUs on the touchscreen) for 5 seconds before showing the app, so people instantly know why it exists.",
+        "Onboarding question worth deciding early: when someone connects for the first time, do you sync their existing scale data into CounterWeight, or start them with a clean library and let them push? That choice shapes the whole first-run experience. Also, for a one-time purchase, I'd show the backup tool in the demo's first 30 seconds since data safety is the main reason shop owners hesitate on third-party software."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xtr8s7",
+    "subreddit": "UXDesign",
+    "title": "High level questions to ask users to determine scope of UX issues?",
+    "author": "/u/roundabout-design",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xtr8s7/high_level_questions_to_ask_users_to_determine/",
+    "updated": "2026-11-11T19:32:11+00:00",
+    "body": "Being brought in to help fix a product that is being built rapidly that has ran into some push back from users. \n My immediate goal is to wrangle what the &#39;big picture&#39; issue is. Mainly trying to figure out &quot;Is is UI level issues? Is it bigger UX flow/journey issues? Is it just that it&#39;s different than what they are used to?&quot;\n This is a very high level broad type of question that I don&#39;t have a lot of experience with. I&#39;m usually down in the weeds fixing very specific issues. \n With a very limited timeline and schedule, any advice on broad approaches to take to try and get the best feedback from users? \n Trying to figure out better ways to ask &quot;Is it the user interface you don&#39;t like, or how the whole thing flows?&quot; \n &#32; submitted by &#32; /u/roundabout-design \n &#32;",
+    "score": 6.6,
+    "ageHours": 24,
+    "hits": [
+      "feedback",
+      "ux",
+      "ui",
+      "design"
+    ],
+    "draft": {
+      "why": "UX practitioner facing a real scoping problem Ryan solves often, and a good answer builds credibility with other B2B folks reading the thread.",
+      "potential": 5,
+      "options": [
+        "Skip the direct question entirely, users can't reliably diagnose UI vs flow. Ask them to walk you through the last time they used it and narrate what they were trying to do, then watch where the story stalls: if they describe the task fine but stumble on finding things, it's UI; if they can't explain what happens next or why, it's the flow. Five of these walkthroughs usually makes the pattern obvious.",
+        "A trick I use is asking 'what were you trying to accomplish when it went wrong?' then coding each answer as navigation, comprehension, or task-completion failure. Comprehension complaints ('I don't get what this does') point to UI, task-completion complaints ('I gave up halfway') point to the journey. Also worth asking: who's complaining? If it's mostly new users, it may genuinely just be unfamiliarity, which changes your whole approach."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xu61kl",
+    "subreddit": "SaaS",
+    "title": "I launched my first real SaaS today: an all-in-one workspace for job seekers.",
+    "author": "/u/Share-Longjumping",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xu61kl/i_launched_my_first_real_saas_today_an_allinone/",
+    "updated": "2026-11-12T06:59:55+00:00",
+    "body": "I’ve been building folioV for 5 months. So its not a vibe coded developed in 24 hours app. So the care has been given \n The idea: job searching means juggling a CV tool, a job board, a portfolio site and a cover letter generator and none of them know about each other.\n So it’s one place: portfolio, CV studio with an ATS checker, job finder, role evaluations, interview practice, cover letters.\n Stack is Next.js, Supabase, Vercel. Free plan is real (ATS check, 3 evaluations, portfolio, job search), paid plans unlock the heavier AI stuff.\n I’m after blunt feedback on the landing page and the onboarding. One solo builder requesting help from other builders.\n foliov.com \n &#32; submitted by &#32; /u/Share-Longjumping \n &#32;",
+    "score": 7,
+    "ageHours": 12.5,
+    "hits": [
+      "feedback",
+      "landing page",
+      "onboarding"
+    ],
+    "draft": {
+      "why": "Solo founder asking for blunt landing page and onboarding feedback on a live product; consumer audience but there's a real conversion problem to solve.",
+      "potential": 4,
+      "options": [
+        "The biggest risk with all-in-one positioning is the landing page reads as six shallow tools instead of one strong one. Pick the single feature a job seeker feels pain about weekly (probably the ATS checker) and lead with that, then let the rest feel like a bonus once they're in.",
+        "Onboarding question: what's the first thing a new user does after signup? In my experience job seekers churn fast if the aha moment isn't in the first session, so I'd route everyone straight into one ATS check with their real CV before showing them anything else."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xu7s1n",
+    "subreddit": "design_critiques",
+    "title": "Feedback on design and usability? Free tools site for engineers",
+    "author": "/u/Lubik_____",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xu7s1n/feedback_on_design_and_usability_free_tools_site/",
+    "updated": "2026-11-12T08:49:05+00:00",
+    "body": "Hi, I built [qmbench.com]( http://qmbench.com ), a free toolset for quality engineers (charts, calculators, PDF reports). Built it myself after work, so I&#39;d love fresh eyes on the design side, not the content.\n What I&#39;d like to know:\n \\- Is it easy to read? Font size, contrast, spacing\n \\- Does the layout make sense, can you find a tool quickly?\n \\- Charts and tables: clear or messy?\n \\- Anything broken or awkward on mobile?\n \\- Light vs dark mode, does either look off?\n You don&#39;t need to know anything about quality engineering. Just click around for 2 minutes and tell me what annoys you. Thanks!\n &#32; submitted by &#32; /u/Lubik_____ \n &#32;",
+    "score": 11,
+    "ageHours": 10.7,
+    "hits": [
+      "feedback",
+      "design"
+    ],
+    "draft": {
+      "why": "Solo dev asking for design critique on a free tools site; practice for Ryan's critique voice but poster has no budget and it's not B2B SaaS.",
+      "potential": 3,
+      "options": [
+        "Quick question that shapes the whole critique: what's the one action you want a first-time visitor to take, and how many clicks is it from the homepage right now? Most tool sites bury the actual tools under an intro nobody reads.",
+        "For tool grids like this, the biggest usability win is usually grouping: put the 2 or 3 most-used tools at top with real labels like 'Control chart' instead of internal names, and cut everything else behind a filter. If you share a screenshot of the homepage I can point at specifics."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xub5d7",
+    "subreddit": "SaaS",
+    "title": "Devs, what do you test before each app update?",
+    "author": "/u/Sweet_Onion4245",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xub5d7/devs_what_do_you_test_before_each_app_update/",
+    "updated": "2026-11-12T12:10:03+00:00",
+    "body": "Last month I pushed an update that messed up onboarding on some android devices and I didn’t find out for days and nobody emailed me I just noticed signups dropped and couldn’t figure out why. \n i am a solo founder with around 3.5k users, shipping most weeks through EAS and before each update I go through a checklist in my notes app on my iphone and one old android and that’s the whole QA process.\n My checklist only covers what I remember to check on devices I actually own and the bugs that hurt are always the ones I didn’t think of on a phone I’ve never held. I tried setting up automated tests once and gave up after a week because maintaining them was harder than just testing manually.\n how do you guys handle the devices you don’t have or are you like me and just ship and figure out later???\n &#32; submitted by &#32; /u/Sweet_Onion4245 \n &#32;",
+    "score": 5.5,
+    "ageHours": 7.4,
+    "hits": [
+      "onboarding",
+      "signups"
+    ],
+    "draft": {
+      "why": "Solo founder with real QA pain, but consumer-ish app and small budget, so mostly a chance to be genuinely useful in a visible thread.",
+      "potential": 3,
+      "options": [
+        "The cheapest fix here isn't more testing, it's an alarm. Pipe your signup funnel into a daily digest (PostHog or even a Slack webhook) and alert yourself if completions drop 30%+ day over day, so you find out in hours instead of weeks. For devices you don't own, Firebase Test Lab's free tier runs your app on 10+ real devices daily, no test writing needed.",
+        "Before buying more devices, look at your analytics: which Android models and OS versions are your actual users on? Most solo devs find 3 devices cover 80% of their base, so you test those on real hardware via Firebase Test Lab and stop worrying about the long tail. The dropped-signups-for-days thing is the real problem though, set up a funnel alert before anything else."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xubtia",
+    "subreddit": "UXDesign",
+    "title": "Good lofi ui kits for patter/ anatomy visualisation",
+    "author": "/u/FloggingHank",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xubtia/good_lofi_ui_kits_for_patter_anatomy_visualisation/",
+    "updated": "2026-11-12T12:44:15+00:00",
+    "body": "Need to visualize UX patterns in a lofi non-branded way. Think greyscale, blockstyle text but all the components that you might need \n There’s al Lot of offer and a lot of them are lacking things or are to big and become design system libraries. Anyone here has good experience with a kit?\n &#32; submitted by &#32; /u/FloggingHank \n &#32;",
+    "score": 8.5,
+    "ageHours": 6.8,
+    "hits": [
+      "ux",
+      "ui",
+      "design",
+      "design system"
+    ],
+    "draft": {
+      "why": "A practitioner asking for lo-fi wireframe kit recommendations, easy to answer from experience, but low client potential since it's a tooling question from another designer.",
+      "potential": 2,
+      "options": [
+        "I've had the best luck with just building my own kit over time, one frame with maybe 40 components covering the patterns I actually reuse. Every big kit I've tried (Wireframy, Untitled UI's wireframe kit) ends up bloated exactly like you say. The trick is keeping text styles at like 3 sizes and forcing yourself to use blocks instead of real copy.",
+        "If you want something off the shelf, check out Kits by konceptapp or the basic FigJam wireframe library, both stay properly greyscale and pattern-focused without turning into a design system. That said, what's the deliverable here, a pattern library doc for a team or just fast exploration? That changes what I'd recommend."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xtzuf0",
+    "subreddit": "design_critiques",
+    "title": "Feedback for new web designer",
+    "author": "/u/magicgummyworm",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xtzuf0/feedback_for_new_web_designer/",
+    "updated": "2026-11-12T01:32:42+00:00",
+    "body": "&#32; submitted by &#32; /u/magicgummyworm \n &#32;",
+    "score": 7.5,
+    "ageHours": 18,
+    "hits": [
+      "feedback",
+      "designer"
+    ],
+    "draft": {
+      "why": "New designer asking for feedback but no work shown yet; low client potential since this reads as a hobbyist or beginner, not a SaaS founder with budget.",
+      "potential": 2,
+      "options": [
+        "Happy to take a look, but there's no link or images in the post. Drop your portfolio or the specific project you want critiqued and I'll give you a couple of concrete notes.",
+        "What's the goal of the feedback, landing your first clients or just improving your skills? The advice I'd give is pretty different depending on which one it is."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xtqtap",
+    "subreddit": "UXDesign",
+    "title": "What's one thing about working as a UX/product designer that you wish someone had properly taught you?",
+    "author": "/u/Soc_Ziv",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xtqtap/whats_one_thing_about_working_as_a_uxproduct/",
+    "updated": "2026-11-11T19:15:59+00:00",
+    "body": "So I have been reflecting on my career in UX/product design and something I&#39;ve been considering writing about is the experience of navigating a career without much consistent management, guidance or support.\n When I started out, I didn&#39;t really have a dedicated manager helping me develop. I was fortunate to have other designers around me who offered advice and shared their experience, but I&#39;ve had some sort of weird coincidence of formal management and career guidance often sitting with director levels who weren&#39;t particularly involved in my day-to-day work or development.\n Over the years, I&#39;ve experienced different working environments, some better than others. I&#39;ve worked in teams where support and opportunities felt unevenly distributed, experienced constantly changing management, and at one company had 6 different managers over a short period to the point it felt like people were &#39;trying out&#39; managing someone as an experiment.\n At one point, I was even placed on a performance improvement plan, but the actual guidance and engagement to help me improve were largely absent since I shouldn&#39;t have been on it in the first place. ( I did it half assed and &quot;impressed&quot; the manager as if I knew how to design or something) \n I&#39;m not sharing this to blame managers or employers. I recognise there are things I could have done better myself, too. But it did make me question my own abilities and whether I was actually progressing as a des",
+    "score": 5.6,
+    "ageHours": 24.3,
+    "hits": [
+      "ux",
+      "design",
+      "designer"
+    ],
+    "draft": {
+      "why": "Discussion thread from a designer reflecting on career growth, not a founder with a design problem to fix.",
+      "potential": 2,
+      "options": [
+        "In my experience, the thing nobody teaches you is how to get useful feedback when your manager can't give it. I started doing short async walkthroughs of my work for engineers and PMs instead, and their reactions told me more about whether the design was working than any review ever did.",
+        "One thing I wish someone told me earlier: your career growth is your own project, and waiting for a manager to drive it is like waiting for a stakeholder to write your research plan. Once I started treating my development like a design problem, with goals and regular check-ins I set myself, the manager churn stopped mattering as much."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xugcmj",
+    "subreddit": "design_critiques",
+    "title": "Graphic Design Noob Here! Would love some feedback on these movie posters 😊",
+    "author": "/u/Popular-Reading-1113",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xugcmj/graphic_design_noob_here_would_love_some_feedback/",
+    "updated": "2026-11-12T15:53:42+00:00",
+    "body": "I just like to play around and design things for fun, still, I’d like things to be decent! Please let me know how I can improve :) \n &#32; submitted by &#32; /u/Popular-Reading-1113 \n &#32;",
+    "score": 13,
+    "ageHours": 3.6,
+    "hits": [
+      "feedback",
+      "design"
+    ],
+    "draft": {
+      "why": "Hobby designer looking for poster feedback; fun to help but no client potential.",
+      "potential": 1,
+      "options": [
+        "Pick one poster and post it solo instead of a batch. You'll get way more useful feedback, and it's easier to point at specifics like hierarchy: right now the eye should land on the title first, then the imagery, then the credits block, in that order.",
+        "A quick exercise that helped me: shrink your poster to thumbnail size. If you can't read the title and tell what the movie is at that scale, the contrast or type size needs work. Which poster of the set do you think is strongest, and why?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1312833",
+    "platform": "producthunt",
+    "title": "Insight7 Voice AI Agents",
+    "author": "Clinton Folaranmi",
+    "url": "https://www.producthunt.com/products/insight7",
+    "updated": "2026-11-11T05:19:50-08:00",
+    "body": "AI voice agents that call your customers for you",
+    "score": 3.2,
+    "ageHours": 30.2,
+    "hits": [
+      "customers",
+      "agents",
+      "customer"
+    ],
+    "draft": {
+      "why": "B2B-adjacent launch whose buyers are SaaS founders, so a thoughtful comment gets seen by people with design budgets.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch! Who's the ideal first customer here, support teams offloading routine calls or founders doing outbound? That answer would change a lot about how I'd position the landing page.",
+        "Curious about the first-time experience: do people get to hear their own agent handle a real call within minutes of signing up? I'd guess instant proof of the voice quality is what converts skeptics, is that the hook you're leading with?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1313278",
+    "platform": "producthunt",
+    "title": "Foxpit",
+    "author": "Yiğit Güldal",
+    "url": "https://www.producthunt.com/products/foxpit",
+    "updated": "2026-11-11T12:10:39-08:00",
+    "body": "Run Claude Code, Codex & OpenCode as one AI team",
+    "score": 1.4,
+    "ageHours": 23.4,
+    "hits": [
+      "team"
+    ],
+    "draft": {
+      "why": "AI dev tooling launch with likely founder budget; a good question here gets visibility with other SaaS builders in the thread.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch! Curious who you see as the core user here: a solo dev running agents in parallel on side projects, or teams trying to standardize how they use these tools? The onboarding for those two looks pretty different.",
+        "Congrats! My guess is the first-run experience makes or breaks this, since setting up three agents at once could feel like config hell. What's the moment where a new user first sees the payoff of running them as one team?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1312557",
+    "platform": "producthunt",
+    "title": "⌘+L",
+    "author": "Garry Tan",
+    "url": "https://www.producthunt.com/products/l",
+    "updated": "2026-11-11T01:27:27-08:00",
+    "body": "Edit your website like Figma!",
+    "score": 1.1,
+    "ageHours": 34.1,
+    "hits": [
+      "your website"
+    ],
+    "draft": {
+      "why": "Launch-day comment on a website-editing tool that founders and marketers will browse; a sharp question can start a conversation with the maker, a potential SaaS client.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch! Who's the primary user here, marketers tweaking copy without filing dev tickets, or founders editing their own sites? The answer changes a lot about how the editing UI should work.",
+        "Congrats on shipping! Curious how you're positioning this against just editing in Webflow or Framer directly. Is the bet that people already have a site on another stack and want Figma-style editing on top of it?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1313530",
+    "platform": "producthunt",
+    "title": "Oxagen",
+    "author": "Mac Anderson",
+    "url": "https://www.producthunt.com/products/oxagen",
+    "updated": "2026-11-11T18:12:33-08:00",
+    "body": "Mission control for agents to share + maintain context",
+    "score": 1.1,
+    "ageHours": 17.3,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "AI agent tooling is a hot category on PH right now, and the founders building these tools often need design help with complex dashboards and onboarding.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch! Curious who you see as the primary user here: the developer running agents locally, or a team lead trying to keep shared agent context sane across a company? The answer probably changes your whole onboarding flow.",
+        "Congrats on shipping! My read is you're positioning this as shared memory for agents rather than another agent builder, which is a smart wedge. Is that the framing you're leading with, or are users finding it through a different use case?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1313259",
+    "platform": "producthunt",
+    "title": "Grok Bot 1.0",
+    "author": "Ankit Sharma",
+    "url": "https://www.producthunt.com/products/grok",
+    "updated": "2026-11-11T11:38:45-08:00",
+    "body": "Bots work together alongside your team",
+    "score": 1.3,
+    "ageHours": 23.9,
+    "hits": [
+      "team"
+    ],
+    "draft": {
+      "why": "AI team-bot launches attract B2B SaaS founders, but the tagline is vague so a sharp question could start a conversation with the makers.",
+      "potential": 4,
+      "options": [
+        "Congrats on the launch! Curious who you had in mind first: small teams that want bots to take over repetitive tasks, or bigger orgs where the bots coordinate with each other across departments?",
+        "The multi-bot angle is interesting. Are you positioning this as one bot that plugs into existing workflows, or as a small team of specialized bots people configure themselves? Asking because the answer changes who signs up on day one."
+      ]
+    }
+  }
+]
