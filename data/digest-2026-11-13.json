@@ -1,0 +1,422 @@
+[
+  {
+    "platform": "reddit",
+    "id": "t3_1xv5uqp",
+    "subreddit": "design_critiques",
+    "title": "I built my company’s website, but something feels off. Can you roast my UI/UX?",
+    "author": "/u/enough_jainil",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xv5uqp/i_built_my_companys_website_but_something_feels/",
+    "updated": "2026-11-13T11:51:19+00:00",
+    "body": "Hey everyone!\n I built my company’s website: https://juhenza.com/ \n I’m a developer, not really a UI/UX designer. I tried my best with whatever design knowledge I have, and honestly, I’m a bit frustrated right now.\n Every time I open the website, I feel like it looks good at first, but then something just doesn’t feel right. I can’t even explain what exactly is wrong.\n Especially the homepage and service pages. Individually, some sections look fine, but when everything comes together, it feels like they don’t really belong together, if that makes sense.\n I’ve been staring at it for so long that I genuinely can’t tell what’s good and what’s bad anymore, lol.\n I went with a mostly text-based, minimal design because I wanted it to look clean and professional. But now I’m wondering if I’ve made it too plain, too repetitive, or just poorly structured.\n I keep thinking about changing things, but I don’t even know where to start. And I don’t want to randomly redesign everything without understanding what’s actually wrong.\n So I’d really appreciate some honest feedback.\n What feels wrong to you? Is it the layout, typography, spacing, colors, visual hierarchy, or just the overall flow of the website?\n And if you know any websites, design references, or resources that you think I should look at, please share them. I’d love to learn how other designers approach this kind of problem.\n You don’t have to sugarcoat anything. Roast it if you want, lol. Just tell me why something doesn’t work",
+    "score": 18.6,
+    "ageHours": 7.3,
+    "hits": [
+      "feedback",
+      "roast my",
+      "ux",
+      "ui",
+      "design",
+      "redesign",
+      "looks",
+      "designer"
+    ],
+    "draft": {
+      "why": "Founder/dev with a live company site asking for UX critique on homepage and service pages, exactly the kind of concrete conversion problem Ryan fixes.",
+      "potential": 7,
+      "options": [
+        "The 'sections don't belong together' feeling is almost always inconsistent spacing and type scale, not the sections themselves. Pick one vertical spacing rhythm (say 80px between sections, 24px between heading and body) and one type scale, then audit every page against it. I'd bet half the unease disappears without redesigning anything.",
+        "That 'good at first, then something's off' reaction usually means the hierarchy is flat, so nothing tells the eye where to go first. On your homepage, what is the single action you want a visitor to take, and is that visually the loudest thing above the fold?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xvg7s7",
+    "subreddit": "ProductManagement",
+    "title": "State of UX design in an AI-optimized delivery system",
+    "author": "/u/brauxpas",
+    "url": "https://www.reddit.com/r/ProductManagement/comments/1xvg7s7/state_of_ux_design_in_an_aioptimized_delivery/",
+    "updated": "2026-11-13T18:50:17+00:00",
+    "body": "In my org, product and eng are heavily leaning on AI to get more done, test things faster, deploy faster, etc. My engineering and product teams are now complaining that the UX team is the bottleneck in our delivery flow.\n Admittedly we have had a historical rhythm of designing everything to 100% before handing off to dev to execute. This has been driven at least in part by the fact that we work in an industry that is very sensitive to dates and needs a lot of advance notice for changes. This means we rely heavily on good initial estimates for planning, hence wanting full designs in hand before starting work.\n I&#39;m pushing our designers to properly build out our design system in tools like Claude Design so that we can more rapidly iterate with accurate on-spec UI, but I&#39;ve been hitting some walls with them continuing to work very manually in the old way of doing things. \n Here&#39;s where my head is at and I&#39;d love outside perspective.\n 1) UX is still incredibly important to me, I don&#39;t want to sacrifice it\n 2) In today&#39;s world, developing UI is the cheap and easy part with AI tools.\n 3) Changing our product creation process could look like this:\n --PM generates reference UI within tools like Claude, using our design system \n --We review workflow with UX and Engineering, and once agreed on the basics, hand off to both simultaneously to work on. \n --UX iterates through final design and hands off to engineering when ready\n --Engineering implements backend and ",
+    "score": 9.2,
+    "ageHours": 0.3,
+    "hits": [
+      "ux",
+      "ui",
+      "design",
+      "design system"
+    ],
+    "draft": {
+      "why": "PM lead at a company actively restructuring their design process, exactly the kind of org that hires outside design help, and the thread is visible to many product leaders.",
+      "potential": 7,
+      "options": [
+        "The bottleneck usually isn't design speed, it's that 100% upfront design is doing estimation work, not design work. Split it: designers deliver a firm spec for the core flow (enough for your date-sensitive planning) and iterate on secondary screens in parallel with dev. In my experience that cuts the perceived bottleneck without touching quality, and it's an easier sell to your designers than asking them to change tools first.",
+        "One thing worth being careful about: if PMs generate reference UI and engineering starts building before UX weighs in, designers become reviewers of decisions already made, which is why they're resisting. Who on your UX team owns the design system itself right now? The teams I see make this work put designers in charge of the system's components and tokens, so AI-generated UI is fast precisely because it's constrained by their decisions."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xv6mtj",
+    "subreddit": "SaaS",
+    "title": "Does niching really make sense for my situation?",
+    "author": "/u/Such-Dragonfruit-987",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xv6mtj/does_niching_really_make_sense_for_my_situation/",
+    "updated": "2026-11-13T12:30:34+00:00",
+    "body": "I’m a founder in Spain and I’ve been going back and forth on this for weeks, so I’d like to hear how other people dealt with it and if they&#39;ve been in similar scenarios.\n We build invoicing software for self-employed people (freelancers, in Spain they’re called autónomos). I’m obviously biased, but I’m really proud of the product. It does the boring stuff that these people hate, and the feedback from the ones who actually use it has been great. Getting them to try it is the hard part, were still working in showing them the &#39;aha moment&#39; as early as possible.\n We have an acceptable budget for Meta ads and I’ve been running a lot of static ads, mostly by profession. Designers, architects, developers, that kind of thing to also try to experiment and end up receiving as much info as possible of our ideal customer to try to boost our efficiency in future ads and segmentation. Each profession gets its own ad copy, and I add specific words in the ad setup that I think that group would use or search for, plus a custom landing page that talks about their world (their kind of clients, their kind of invoices). The idea was to dominate one niche first, see which one converts best, and then go deeper there.\n And here’s the thing that’s driving me crazy. No matter how specific the ad is or how I set up the audience, the people who sign up come from everywhere. I make an ad for architects and I get a plumber, a photographer, a personal trainer and maybe one actual architect. Same",
+    "score": 7.9,
+    "ageHours": 6.7,
+    "hits": [
+      "feedback",
+      "landing page",
+      "sign up"
+    ],
+    "draft": {
+      "why": "Founder of an invoicing SaaS with real ad budget, struggling with niche targeting and aha-moment activation, which overlaps with Ryan's landing page and onboarding work.",
+      "potential": 7,
+      "options": [
+        "Your problem might not be the targeting, it might be the assumption that professions are the niche. Autónomos share the same invoicing pain regardless of job, so try niching on the moment instead: the first time someone has to send a factura with IRPF and gets confused. That message will pull plumbers and architects alike, and your signup mix stops looking like noise.",
+        "Worth checking where the aha moment actually happens in your product, because 'getting them to try it' and niching are the same problem. If the first thing a new user sees is an empty dashboard, no ad copy will save you. What does the first session look like today, and how fast do they send their first invoice?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xv9g7l",
+    "subreddit": "SaaS",
+    "title": "I built CASHNERA, a personal finance platform. Roast my landing page and onboarding.",
+    "author": "/u/Loose_Performer3161",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xv9g7l/i_built_cashnera_a_personal_finance_platform/",
+    "updated": "2026-11-13T14:33:49+00:00",
+    "body": "Hi everyone!\n I’m building CASHNERA, a personal finance platform designed to help people understand their financial health.\n It includes:\n A Financial Health Score.\n AI-powered spending analysis.\n A tool to identify potential unnecessary expenses.\n A financial decision simulator.\n The product is live, but I’m struggling with the most important part: getting the first users to sign up.\n I’d appreciate brutally honest feedback on:\n 1. Is it immediately clear what the product does?\n 2. Does the landing page build enough trust?\n 3. What would stop you from creating an account?\n 4. Which feature would make you want to try it?\n Website: https://cashnera.es \n I’m the founder, and I’m looking for honest criticism rather than compliments. Thanks!\n &#32; submitted by &#32; /u/Loose_Performer3161 \n &#32;",
+    "score": 16.5,
+    "ageHours": 4.6,
+    "hits": [
+      "feedback",
+      "roast my",
+      "landing page",
+      "onboarding",
+      "sign up"
+    ],
+    "draft": {
+      "why": "Founder explicitly asking for landing page and onboarding critique, which is Ryan's exact skill set, but the product is consumer fintech so budget and fit are weak.",
+      "potential": 4,
+      "options": [
+        "What would stop me from creating an account: you're asking people to hand over their financial data to an unknown brand, and nothing on the page addresses that. Put your security/data-handling story and a concrete score example (a screenshot with real-looking numbers, not a generic gauge) above the fold, since 'Financial Health Score' is abstract until someone sees theirs.",
+        "Quick clarity check: which of the four features is the actual hook? Right now the page sells a platform, but first users sign up for one outcome. In my experience 'find money you're wasting' converts far better than 'understand your financial health', so I'd lead with the unnecessary-expense finder and demote the rest."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xv7tcy",
+    "subreddit": "design_critiques",
+    "title": "Veteran-owned, scripture-inspired lifestyle brand. Excellent feedback offline, but trying to optimize our site for better exposure. Thoughts on product, layout?",
+    "author": "/u/wearHIStruth",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xv7tcy/veteranowned_scriptureinspired_lifestyle_brand/",
+    "updated": "2026-11-13T13:25:35+00:00",
+    "body": "Hey everyone, I’ve relaunched my brand, Wear His Truth. I&#39;m looking for honest critique on my products, website layout, aesthetics, and user experience.\n [NOTE: The brand is scripture-inspired. You may not agree with the message, I get that. I’m not looking for a theology discussion here—just genuine, constructive feedback on the brand, products, site structure, photography, aesthetics, and overall appeal.]\n When I get people to the site, the feedback on the designs and message is incredibly positive. My biggest hurdle right now is exposure/conversion volume.\n I’d love your thoughts on:\n First Impressions: Does the hero banner make you want to scroll down? Perceived Value: Does the photography and layout look premium, or does it feel like a generic template? Friction Points: If you were shopping, is there anything on this homepage that would make you hesitate to buy? Don&#39;t be afraid to really let me know what you think about the designs &amp; UX elements. I truly appreciate the feedback!\n https://preview.redd.it/lp926kng0fzh1.png?width=1169&amp;format=png&amp;auto=webp&amp;s=6ef7682eb4e70215933a826d9f05927bc8a432c2 \n &#32; submitted by &#32; /u/wearHIStruth \n &#32;",
+    "score": 13.8,
+    "ageHours": 5.7,
+    "hits": [
+      "feedback",
+      "conversion",
+      "ux"
+    ],
+    "draft": {
+      "why": "Solo founder with a live ecom brand actively asking for homepage conversion critique, which is close to Ryan's wheelhouse even if not B2B SaaS.",
+      "potential": 4,
+      "options": [
+        "The biggest friction point on most faith-based apparel homepages is the hero: it sells the mission instead of the product. Make sure your hero shows the actual shirts clearly with a shop now button, and move the scripture story to a section below, because buyers decide in about three seconds whether the clothes themselves look good.",
+        "Quick question that changes the advice: are most of your visitors coming from social (cold, never heard of you) or from church/community word of mouth? If it's cold traffic, I'd lead with product photography and bestsellers first and save the brand story for lower on the page, since cold visitors buy the design before they buy the message."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xv9ghe",
+    "subreddit": "SaaS",
+    "title": "Launched a \"one workspace\" SaaS with a swappable AI layer. Looking for pricing and onboarding feedback",
+    "author": "/u/nitheeshrajendran",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xv9ghe/launched_a_one_workspace_saas_with_a_swappable_ai/",
+    "updated": "2026-11-13T14:34:10+00:00",
+    "body": "I&#39;m a solo/small-team founder. Naazhi is a workspace app (notes, tasks, journal, chat, calendar) where the AI provider can be swapped, brought by the user, or turned off.\n There are three plans: Subscription (₹99 a month, with a 7-day free trial and a monthly AI allowance), Pay as you go (no fee, you pay for the AI you use), and Bring your own key (no fee, your own AI provider key).\n Two questions for people who have launched before:\n Is a free trial without a card the right call for a productivity tool, or does it just attract people who never come back?\n What would make you trust a new workspace tool with your notes and journal?\n Website: https://naazhi.app \n Android: https://play.google.com/store/apps/details?id=com.setupsworks.naazhi \n Blunt feedback is welcome.\n &#32; submitted by &#32; /u/nitheeshrajendran \n &#32;",
+    "score": 14.2,
+    "ageHours": 4.6,
+    "hits": [
+      "feedback",
+      "onboarding"
+    ],
+    "draft": {
+      "why": "Solo founder asking two answerable questions about trial design and trust, so Ryan can be genuinely useful, but it's a low-priced consumer-leaning productivity app, not a B2B SaaS with budget.",
+      "potential": 3,
+      "options": [
+        "Free trial without a card is fine, but the bigger leak in your setup is choice overload: three plans make a first-time user do pricing math before they've written a single note. I'd default everyone into the free trial, then surface pay-as-you-go and BYOK later as advanced options for the people who ask.",
+        "On trust: for notes and journal specifically, people want proof their data survives you. Ship an obvious one-click export to plain Markdown and say plainly on the landing page what you can and can't see server-side. That does more for conversion than any feature list."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xv1utb",
+    "subreddit": "design_critiques",
+    "title": "Are design portfolios showing sufficient information about the way someone works?",
+    "author": "/u/Batman_arrives_home",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xv1utb/are_design_portfolios_showing_sufficient/",
+    "updated": "2026-11-13T07:47:52+00:00",
+    "body": "Portfolios often only show the finished product. What decisions were taken? How did you react to any feedback? What limitations had to be overcome? How much of the final product did you contribute? this can be just as important as how visually appealing the designs are.\n Whilst platforms such as Behance, Meeboss and LinkedIn make it easy to show your finished projects do we need more ways for designers to show their creative processes? Would you prefer to assess a designer based on well presented pieces of work, detailed project descriptions or an actual conversation?\n &#32; submitted by &#32; /u/Batman_arrives_home \n &#32;",
+    "score": 9,
+    "ageHours": 11.4,
+    "hits": [
+      "feedback",
+      "design",
+      "designer"
+    ],
+    "draft": {
+      "why": "Discussion about portfolio process vs finished work; poster is likely a designer or student, not a B2B SaaS buyer, but Ryan has real hiring-side experience to add.",
+      "potential": 3,
+      "options": [
+        "In my experience the gap isn't the platform, it's that most portfolios skip the boring middle: the version that got rejected and why. One case study that shows a constraint, a wrong turn, and the feedback that changed the direction tells me more than ten polished shots.",
+        "A conversation, but only after the portfolio earns it. If a designer can't articulate one tradeoff they made in writing, the live chat usually turns into them describing what's already on the screen. What do you actually look for first when you're the one hiring?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xv25vn",
+    "subreddit": "design_critiques",
+    "title": "Hey guys, please review my UI/UX design portfolio .",
+    "author": "/u/Greedy-Pool2061",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xv25vn/hey_guys_please_review_my_uiux_design_portfolio/",
+    "updated": "2026-11-13T08:06:08+00:00",
+    "body": "Hi everyone,\n I just recently updated my Behance portfolio and I want you all to give your opinion and feedback on that. How does it look? About my projects and anything else you would like to say on that.\n https://www.behance.net/Chandar \n &#32; submitted by &#32; /u/Greedy-Pool2061 \n &#32;",
+    "score": 15.7,
+    "ageHours": 11.1,
+    "hits": [
+      "feedback",
+      "ux",
+      "ui",
+      "design"
+    ],
+    "draft": {
+      "why": "Portfolio review request from an individual designer; low client potential but a quick specific critique builds goodwill in a design community.",
+      "potential": 2,
+      "options": [
+        "The link is all we have to go on here, so tell us what you're aiming for: a first UX job, freelance clients, or a senior role? The same portfolio gets very different feedback depending on which hiring manager you want to impress.",
+        "Portfolio reviewers care about process more than polished screens. For each project, make sure you show the problem, one decision you made and why, and the outcome, not just final mockups. Which project on there do you think is your strongest case study right now?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xvdc6s",
+    "subreddit": "design_critiques",
+    "title": "Portfolio feedback",
+    "author": "/u/Old_Quality_6781",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xvdc6s/portfolio_feedback/",
+    "updated": "2026-11-13T17:03:48+00:00",
+    "body": "Hi, I recently moved to the US, I am a graphic designer with 7 years of experience and looking for design roles, looking for portfolio critique, here’s the link PORTFOLIO. \n Don’t hold back on your feedback be as honest as possible. \n &#32; submitted by &#32; /u/Old_Quality_6781 \n &#32;",
+    "score": 13.5,
+    "ageHours": 2.1,
+    "hits": [
+      "feedback",
+      "design",
+      "designer"
+    ],
+    "draft": {
+      "why": "Job-seeking graphic designer asking for portfolio critique; not a potential design client, but a visible critique thread.",
+      "potential": 2,
+      "options": [
+        "The link just says PORTFOLIO with no actual URL attached, so nobody can open it. Repost with the working link and you'll get way more useful feedback.",
+        "Since I can't see the actual work, one question that shapes any critique: are you targeting product/UX roles or brand/graphic roles? In my experience US hiring managers for each want very different things, and a portfolio that tries to cover both usually lands neither."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xv7i84",
+    "subreddit": "UXDesign",
+    "title": "Game design UI: What does a Tech UI Designer do?",
+    "author": "/u/True_N0rd",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xv7i84/game_design_ui_what_does_a_tech_ui_designer_do/",
+    "updated": "2026-11-13T13:11:35+00:00",
+    "body": "Can someone please explain to me what a Tech UI designer does?\n I work in games and I am a manager who used to work in game prog teams. All the game studios ive worked at never had tech UI Designers. We just had our artists learn integration. So if artists can do it, why do some game studios have UI Tech Designers to handle integration? Just seems like a waste of resources to me and this new game studio I work at has a tech UI designer and I dont understand what he does other than make shaders/materials (we use UMG) and make integration sound far more complicated than it needs to be (from my experience). \n I asked him to teach the artists everything he knows so I can make the transiston to have our artists handle all UI integration but now he&#39;s giving some pushback and I think he is starting to catch on. \n Before I elevate the issue, can someone give me clarity on what a UI tech artist even does or am I crazy for thinking this is a useless position? \n &#32; submitted by &#32; /u/True_N0rd \n &#32;",
+    "score": 10.3,
+    "ageHours": 6,
+    "hits": [
+      "ui",
+      "design",
+      "designer"
+    ],
+    "draft": {
+      "why": "Poster is a game studio manager about to make a costly org mistake, so a grounded reply could land well, but they are not a design client prospect.",
+      "potential": 2,
+      "options": [
+        "Tech UI designers usually own the stuff artists hit a wall on: performance, state management, data binding, localization edge cases, and making UI scale across platforms. If your artists handled integration fine before, it may be because your UI was simple enough that nobody noticed the gap yet.",
+        "Honest take: asking him to train his own replacements before you've validated the plan is how you lose the person and the knowledge at the same time. I'd map out what breaks if he leaves tomorrow before deciding the role is redundant, because shader work and 'making integration sound complicated' is often what preventing real problems looks like from the outside."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xv46px",
+    "subreddit": "UXDesign",
+    "title": "Disrespected as a product designer in the workplace",
+    "author": "/u/Necessary_Window_692",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xv46px/disrespected_as_a_product_designer_in_the/",
+    "updated": "2026-11-13T10:14:39+00:00",
+    "body": "I was hired by a b2b Saas company to design their MVP from a crap AI prototype they made with Claude. Mind you, a lot of those functions didn&#39;t even end up in the MVP due to to tech constraints. \n The biggest and brightest red flag was that the founders did not come from a tech background, and had no product thinking skills. They were so obsessed with Claude that they basically used it as their brain. \n As the sole designer without a designated product manager, I tried stepping into the strategic role and initiated many meetings to understand requirements and product market fit, but in those meetings everyone was constantly so clueless. I ultimately built a flow with whatever information I had from them and the prototype (I reached out to a usability testing meeting where I could test it with real people and get legit feedback). When the time came, I shipped the designs. The CEOs called me and completely insulted me in a meeting, saying it didn&#39;t look like 6 months of work, it was absolutely bad and it wasn&#39;t what they expected, yada yada yada. I was completely taken aback, saying that Figma screens had been available for months, in fact I sent them many screenshots in the time-being as they needed those for product pitches and so on. I was in contact with the marketing girl as well (who was the stepdaughter of one of the founders fyi). I honestly felt like leaving at that point, but stayed to make the changes that they wanted. \n The reality is that they only unde",
+    "score": 9.8,
+    "ageHours": 8.9,
+    "hits": [
+      "feedback",
+      "design",
+      "mvp",
+      "figma",
+      "designer"
+    ],
+    "draft": {
+      "why": "Vent post about disrespectful founders; community sympathy matters but the poster is a designer, not a buyer, so client potential is minimal.",
+      "potential": 2,
+      "options": [
+        "The real failure here happened before you touched Figma: founders who can't articulate requirements will judge your work against a picture in their head, which you can never match. Next time, get them to react to a rough wireframe in week one and make them write down what 'good' looks like, because signed-off milestones are your only protection against retroactive disappointment.",
+        "Did they ever give you concrete feedback during those months of screenshots, or was it silence until the blowup? In my experience the insults at the end are usually a proxy for anxiety about their own unclear product, and it lands on whoever shipped something visible."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xusbu7",
+    "subreddit": "design_critiques",
+    "title": "Feedback for new web designer",
+    "author": "/u/magicgummyworm",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xusbu7/feedback_for_new_web_designer/",
+    "updated": "2026-11-12T23:36:18+00:00",
+    "body": "Feedback for new web designer\n Hi! This is my first web design job and I know some things could be better. I think the color pallete is off and the information could be displayed in a better way. I’m using squarespace. There are a couple of other things I could add to the website as well but as far as how it is now I’d really love some feedback! Here is the website: https://kaylinmanning.com/ \n It is for a real estate agent in Montana. The client did specifically ask for some of this stuff to be on there like the square logo for her realty group in the nav bar and for the realty group to be prominently displayed like in the footer.\n &#32; submitted by &#32; /u/magicgummyworm \n &#32;",
+    "score": 9.8,
+    "ageHours": 19.6,
+    "hits": [
+      "feedback",
+      "design",
+      "designer"
+    ],
+    "draft": {
+      "why": "Beginner designer asking for critique on a client site; good place to show expertise but poster has no budget.",
+      "potential": 2,
+      "options": [
+        "The biggest quick win isn't the palette, it's the hierarchy on the hero: pick one action (probably 'view listings' or 'contact Kaylin') and make that button the only high-contrast element above the fold, everything else should be quieter. For a realtor site, I'd also swap the generic hero photo for a real Montana property shot, since that's what visitors actually came to see.",
+        "What's the one thing you want a visitor to do in the first 10 seconds? Right now the nav, logo, realty group branding, and hero all compete at similar visual weight, so the eye doesn't land anywhere. Once you decide the primary action, you can size and color everything else down around it."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1314456",
+    "platform": "producthunt",
+    "title": "Expo Simulators",
+    "author": "Exponent",
+    "url": "https://www.producthunt.com/products/expo",
+    "updated": "2026-11-12T10:34:18-08:00",
+    "body": "Cloud simulators built for agents",
+    "score": 1,
+    "ageHours": 24.6,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "Launch-day PH comment on a dev-tool product; builder audience, possible B2B SaaS founder, but niche infra product with unclear design budget.",
+      "potential": 4,
+      "options": [
+        "Congrats on the launch! Curious who you built this for first: agent developers testing workflows end to end, or teams demoing agents to clients? The first-run experience probably looks very different for each.",
+        "Congrats! My guess is the hard part is not the simulators themselves but the first 5 minutes: does a new user start from a blank canvas, or do you drop them into a prebuilt scenario so they see value immediately? Would love to know which way you went."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1314746",
+    "platform": "producthunt",
+    "title": "Pocket Studio for Supabase",
+    "author": "Tanay",
+    "url": "https://www.producthunt.com/products/pocket-studio-for-supabase",
+    "updated": "2026-11-12T17:38:33-08:00",
+    "body": "Supabase dashboard & SQL editor for Android",
+    "score": 2.3,
+    "ageHours": 17.5,
+    "hits": [
+      "dashboard"
+    ],
+    "draft": {
+      "why": "Dev tool for Supabase users, founder-led launch with an engaged audience; not a B2B SaaS design client target but adjacent community visibility.",
+      "potential": 3,
+      "options": [
+        "Congrats on the launch! Mobile SQL editing sounds tricky to get right. What does the first session look like, do I land in the editor or in a table view of my data?",
+        "Nice one, congrats! Curious who you see as the core user here: is this for quick production checks on the go, or are people actually writing queries from their phone?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1313146",
+    "platform": "producthunt",
+    "title": "Sluice",
+    "author": "Rachid Al Maach",
+    "url": "https://www.producthunt.com/products/sluice-2",
+    "updated": "2026-11-11T09:23:51-08:00",
+    "body": "Room to build on your Mac, even with 20 agents at once",
+    "score": 0.5,
+    "ageHours": 49.8,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "PH launch for a Mac dev tool for running multiple AI agents; founders are technical, unlikely design buyers, but a sharp question is safe.",
+      "potential": 3,
+      "options": [
+        "Congrats on the launch! Curious who you built this for first: solo devs running agent swarms on side projects, or teams coordinating agents in a shared codebase? The answer probably changes what the first-run experience should teach.",
+        "Congrats on launching! Positioning question: is the pitch 'your Mac can handle 20 agents' (a power/capacity story) or 'you can actually keep track of 20 agents' (an orchestration story)? Those feel like two different products to a first-time visitor, so I'd love to know which one resonates."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1313265",
+    "platform": "producthunt",
+    "title": "Gemini Decisions API",
+    "author": "Ankit Sharma",
+    "url": "https://www.producthunt.com/products/google",
+    "updated": "2026-11-11T11:44:51-08:00",
+    "body": "Fast, calibrated multimodal decisions",
+    "score": 0.3,
+    "ageHours": 47.4,
+    "hits": [
+      "api"
+    ],
+    "draft": {
+      "why": "Launch day for a developer API; founder is on PH and reachable, though it's an infra product rather than a design client fit.",
+      "potential": 3,
+      "options": [
+        "Congrats on the launch! Quick question on the first-time experience: when a dev hits the API for the first time, do they get a sample decision back instantly, or is there setup before they can see it work? That first 60 seconds usually decides whether they integrate or bounce.",
+        "Interesting positioning. Is the target buyer a team already running model calls in production who needs better calibration, or teams still hand-rolling decision logic? 'Multimodal decisions' reads differently to each, so curious which one you're leading with on the landing page."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1312481",
+    "platform": "producthunt",
+    "title": "Harness Memory",
+    "author": "Garry Tan",
+    "url": "https://www.producthunt.com/products/epsilla",
+    "updated": "2026-11-11T00:31:32-08:00",
+    "body": "Long-term memory for agents, across every harness",
+    "score": 0.5,
+    "ageHours": 58.6,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "AI dev tool launch with a technical audience; unlikely design clients but a warm, sharp comment costs little.",
+      "potential": 2,
+      "options": [
+        "Congrats on the launch! When an agent picks up memory from a different harness for the first time, what does that handoff actually look like for the developer setting it up?",
+        "Congrats on launching! Curious how you're positioning this: is the buyer the solo dev running agents across tools, or teams standardizing their agent stack? The tagline reads like the first, but 'across every harness' feels like a platform play."
+      ]
+    }
+  }
+]
