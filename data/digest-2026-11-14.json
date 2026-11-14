@@ -1,0 +1,346 @@
+[
+  {
+    "platform": "reddit",
+    "id": "t3_1xw4337",
+    "subreddit": "SaaS",
+    "title": "I got more than 100 signups but zero conversions",
+    "author": "/u/Alienate14",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xw4337/i_got_more_than_100_signups_but_zero_conversions/",
+    "updated": "2026-11-14T14:44:22+00:00",
+    "body": "So I launched my SaaS 2 weeks ago. It’s my first SaaS btw. I made a launch video posted on X and LinkedIn and got some users. Although I’m getting traction but none are paying. Got solid feedback, cleared all bugs and deployed useful features yet conversions are not happening. But I must say am getting 2-3 sometimes more signups each day. Well it’s true my tool is not a unique in market, but the agent is the value. I don’t know if am swimming in wrong ocean and attracting wrong fishes. I started cold DMs as well, not a lot of changes yet.\n It’s AI design agentic tool. Are people not interested in paying for AI SaaS anymore?\n You can share me what worked for you guys in the beginning?\n Let me know I’ll share my site maybe you guys can do a review as well.\n PS: here’s my tool\n postergrammar.com/ - I’ve built agent that solves static ads and product shoots. Video generation, MCP is not available yet. \n &#32; submitted by &#32; /u/Alienate14 \n &#32;",
+    "score": 8.3,
+    "ageHours": 2.9,
+    "hits": [
+      "feedback",
+      "design",
+      "signups"
+    ],
+    "draft": {
+      "why": "First-time SaaS founder with a live product, real signups, and an open invite to review his site, exactly the kind of design/conversion problem Ryan fixes.",
+      "potential": 7,
+      "options": [
+        "Two weeks and 100 signups with zero payments usually means the wrong signal, not the wrong product. Launch traffic from X and LinkedIn is mostly curious builders, so check your activation first: are signups actually generating an ad, or bouncing before they see output? If they're not reaching the aha moment, no pricing tweak will save you.",
+        "Quick question before anything else: are you charging at signup or offering a free tier? With 2-3 signups a day, I'd gate less and watch where the 100 dropped off, because 'zero conversions' in 2 weeks from cold launch traffic often just means you haven't talked to 5 users yet about what they expected to pay for."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xw24wo",
+    "subreddit": "UXDesign",
+    "title": "Can someone point me to research on new UI/UX in the AI era?",
+    "author": "/u/Dry_Author8849",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xw24wo/can_someone_point_me_to_research_on_new_uiux_in/",
+    "updated": "2026-11-14T13:14:33+00:00",
+    "body": "Pretty much what the title says.\n The new UI/UX experience in the AI era is either a chat UI (which I hate) or a chat sidebar (which doesn&#39;t work well).\n So, I was wondering if someone is thinking how to rewrite UI/UX in the AI era.\n I&#39;m also thinking about how to apply new concepts on complex systems people are forced to use, like ERPs. Systems with more than 2k menu options. An OS can also be a good candidate.\n AI allows to tackle more complexity than ever, so systems will have more features and options. Navigation is a concern, consistency, etc. So I&#39;m wondering how AI can blend better with UI causing a better UX.\n I have searched but what I have found is disappointing.\n So if someone can point me in the right direction or is working on this, just let me know.\n Have a nice one!\n &#32; submitted by &#32; /u/Dry_Author8849 \n &#32;",
+    "score": 8.3,
+    "ageHours": 4.4,
+    "hits": [
+      "ux",
+      "ui"
+    ],
+    "draft": {
+      "why": "Designer exploring AI-era UX patterns for complex enterprise systems, a real problem Ryan knows, but poster seems to be researching rather than hiring.",
+      "potential": 4,
+      "options": [
+        "The pattern that keeps working in my experience is treating AI as an intent layer on top of the existing UI, not a replacement for it: the user says what they want, the system navigates to and pre-fills the right screen, and the classic UI stays for review and correction. For a 2k-menu ERP that's far more realistic than a chat panel, because you keep consistency and learnability while killing the navigation cost.",
+        "Quick question, since the answer changes a lot depending on it: are you looking at AI as a navigation aid (find the right screen among 2k options) or as task completion (skip the screens entirely)? Research worth reading differs a lot between the two, and most of what's published right now only covers the chat-style second one, which is probably why your search feels disappointing."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xw6qz4",
+    "subreddit": "design_critiques",
+    "title": "Redesigned my homepage because it looked \"AI-made\". Does it still?",
+    "author": "/u/virtuous_Vea",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xw6qz4/redesigned_my_homepage_because_it_looked_aimade/",
+    "updated": "2026-11-14T16:36:21+00:00",
+    "body": "My English-learning site has about 500 pages. The old homepage stacked 13 sections, one under another, and a friend said it looked generated. I rebuilt it this week.\n What changed:\n 13 sections became 9. The page is about a third shorter. One row of 12 cards replaced five sections. Each card shows a real piece of the product (a real question, a real word with its photo) and links to each level. A generic &quot;us vs. traditional courses&quot; comparison and a fake dashboard preview are gone. It is plain HTML and CSS, with no framework.\n What I would like to know:\n Does the first screen tell you what the site is within five seconds? Does the card row read as content, or as decoration? What still looks templated to you? Screenshots attached (desktop). Harsh feedback is welcome.\n &#32; submitted by &#32; /u/virtuous_Vea \n &#32;",
+    "score": 8.3,
+    "ageHours": 1.1,
+    "hits": [
+      "feedback",
+      "dashboard",
+      "looks"
+    ],
+    "draft": {
+      "why": "Poster rebuilt a 500-page content site's homepage and wants critique; content sites like this often earn via ads or courses, so there's a small chance of budget, but it reads as a solo indie project.",
+      "potential": 4,
+      "options": [
+        "Can't see the screenshots here, so one thing on the structure itself: a 12-card row usually reads as decoration because every card has equal visual weight. Pick the one action a first-time visitor should take (probably 'start at my level') and make that card or section noticeably bigger, with the other 11 demoted. Hierarchy is what makes a page feel designed rather than generated.",
+        "The 'us vs. traditional courses' comparison and fake dashboard were the right things to cut, good instinct. One question: on the first screen, do you show an actual piece of content (a real question with its answer) or just a headline describing the site? Showing the thing itself is the fastest way to pass the five-second test and it's what AI-looking pages never do."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xw86h0",
+    "subreddit": "SideProject",
+    "title": "What’s your strongest activation lever",
+    "author": "/u/TheRizzock",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xw86h0/whats_your_strongest_activation_lever/",
+    "updated": "2026-11-14T17:33:43+00:00",
+    "body": "I’ve been working on tuning my apps marketing and onboarding, costs are starting to line up well, trial starts approaching target, so my next major hurdle is trial to paid, and actually getting consistent usage.\n From what I understand having a strong activation is key, but I review other apps in my niche and I really dont see much of an “activation” process. Onboarding is formulaic, left to right, but once you’re in its off to the races.\n My app is an agentic meal planner. What was key for you? Notifications types? Streak systems? In app CTAs? Guided tours?\n &#32; submitted by &#32; /u/TheRizzock \n &#32;",
+    "score": 6.3,
+    "ageHours": 0.1,
+    "hits": [
+      "onboarding",
+      "activation"
+    ],
+    "draft": {
+      "why": "Founder actively working on trial-to-paid activation, a real design problem, but it's a consumer side project with unclear budget.",
+      "potential": 3,
+      "options": [
+        "For a meal planner, activation is the first planned week, not a tour. If a new user ends onboarding with one actual meal scheduled for tonight, trial to paid moves way more than any streak or notification system will. The lever isn't engagement mechanics, it's collapsing time-to-first-real-plan to under 2 minutes.",
+        "The reason you don't see activation in competitor apps is that it's usually invisible: it's the aha moment wired into the core flow, not a layer on top. What's the single action in your app that, when a trial user does it, most correlates with them paying? Find that in your data first, then design onboarding backwards from it."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xvjp6d",
+    "subreddit": "design_critiques",
+    "title": "First time building my own portfolio (PM using Google Stitch, Figma & v0). Looking for honest feedback on layout and UX flow.",
+    "author": "/u/GoodNoteSus2",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xvjp6d/first_time_building_my_own_portfolio_pm_using/",
+    "updated": "2026-11-13T21:04:37+00:00",
+    "body": "Hey guys,\n I come from a product management background, but I decided to try building my own portfolio site from scratch for once. Used Google Stitch, Figma, v0, and GitHub to get through and definitely stubbed my toe at every stage, but it was a lot of fun getting it live.\n Since design and frontend aren&#39;t my day job, I’d love some honest and constructive critique before I start sharing it around:\n Visual hierarchy: Does the spacing, typography, and layout feel balanced, or do any sections feel cramped? Flow: Does the page guide you naturally from what I do then into my work and then the contact section? First impression: Anything that immediately feels &quot;off&quot; or amateurish? Thanks in advance for taking a look!\n Live Site: https://produit-portfolio.vercel.app \n &#32; submitted by &#32; /u/GoodNoteSus2 \n &#32;",
+    "score": 12.6,
+    "ageHours": 20.6,
+    "hits": [
+      "feedback",
+      "ux",
+      "design",
+      "figma",
+      "first impression"
+    ],
+    "draft": {
+      "why": "PM building a personal portfolio wants design feedback, but no budget or SaaS design problem here.",
+      "potential": 2,
+      "options": [
+        "A PM portfolio usually wins or loses on case study storytelling, not the site layout. Make sure each project opens with the problem and your specific decision, not a screenshot grid, since that's what hiring managers skim for. If sections feel cramped, 9 times out of 10 it's inconsistent vertical spacing, so pick one spacing scale and stick to it everywhere.",
+        "Quick question: who's the target audience, hiring managers or freelance clients? That changes the whole flow, since recruiters want role and impact above the fold while clients want outcomes. Can't critique flow honestly without knowing who you're guiding down the page."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xw80hw",
+    "subreddit": "SideProject",
+    "title": "15, building my 4th SaaS in public. Would love your honest feedback on it",
+    "author": "/u/BreakCandid5256",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xw80hw/15_building_my_4th_saas_in_public_would_love_your/",
+    "updated": "2026-11-14T17:27:01+00:00",
+    "body": "hey r/SideProject ,\n I’m 15 and I’ve been building small SaaS products for a while now. Three of them didn’t work out: a caching tool, a resume builder, and a code review thing. Nobody wanted them, and I mostly found that out after I’d built them.\n Number four is Ornymo (ornymo.com). It’s an AI chat widget for customer support on small websites. You add your FAQs, paste one line of code, and it answers visitors from your FAQs. If it isn’t sure, it emails you the question and doesn’t guess.\n It’s about 8 weeks old. One small site is using the free plan, no paying customers yet, and I’m still working out whether the pricing and limits make sense.\n What would help me most:\n Try it on a site or project of yours, even a throwaway one, and tell me what broke or confused you\n Tell me what a support widget would need before you’d actually trust it\n Roast the landing page if it’s bad\n I’m posting what I learn as I go on X ( https://x.com/hasnainornymo ), so a follow there is appreciated if you want to watch how it goes. Not required though, honest feedback here is worth more to me.\n &#32; submitted by &#32; /u/BreakCandid5256 \n &#32;",
+    "score": 10.1,
+    "ageHours": 0.2,
+    "hits": [
+      "feedback",
+      "landing page"
+    ],
+    "draft": {
+      "why": "Young builder asking for honest feedback on a support widget, no budget or business behind it, so client potential is near zero but a kind, specific reply fits the thread.",
+      "potential": 2,
+      "options": [
+        "The 'emails you instead of guessing' behavior is your strongest feature, so put it in the hero as the headline, not buried in the feature list. Small site owners are terrified of a chatbot saying something wrong to a customer, and 'it never makes things up' is the whole pitch.",
+        "One trust thing I'd want before installing: a way to see exactly what the bot answered each visitor, like a log or daily digest. Have you thought about what happens when a paying customer's FAQ answer is wrong and the bot confidently repeats it, who catches that?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xw8527",
+    "subreddit": "UXDesign",
+    "title": "Working overtime as a junior designer normal/worth it? How to avoid burn out",
+    "author": "/u/Winter-Fish8452",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xw8527/working_overtime_as_a_junior_designer_normalworth/",
+    "updated": "2026-11-14T17:32:12+00:00",
+    "body": "I am a junior level designer working contract for product designers. I have no formal or professional experience in UX design so this is basically an internship for me.\n I find that I work super slowly. This week in particular was really insane and I barely got anything done. I am tempted to work overtime so I can get back on track and try to upskill because I’m feeling very behind.\n The problem is that I have trouble drawing boundaries and I always burn out. So I guess I’m trying to gauge how much overtime is normal for someone in their first few months to a year of this role? When did you start feeling competent and eventually slowed down to a normal 40 hours?\n How can I quickly catch up to senior level designers? Obviously I don’t expect myself to be there in one year. Everyone on my team is senior level so the bar is high. What makes someone senior? I am neurodivergent, so it would be helpful to get advice in the form of concrete actions rather than something more vague.\n Because I am under qualified in comparison to others and with AI looming, I feel very pressured to try and keep up.\n Thanks in advance!\n &#32; submitted by &#32; /u/Winter-Fish8452 \n &#32;",
+    "score": 8.1,
+    "ageHours": 0.1,
+    "hits": [
+      "ux",
+      "design",
+      "designer"
+    ],
+    "draft": {
+      "why": "Junior designer asking for career advice, not a design buyer, so low client potential but an easy genuinely helpful reply.",
+      "potential": 2,
+      "options": [
+        "Don't use overtime to catch up, use it to close one specific gap at a time. Ask a senior to watch you work for 30 minutes once a week, because slow juniors are usually slow at one thing (file setup, naming, knowing which component to grab) and that's invisible to you but obvious to them. That fix compounds faster than extra hours.",
+        "The thing that makes someone senior isn't speed, it's knowing what not to design. Seniors cut scope early and check direction with rough work before polishing. Concrete version: before you spend more than an hour on anything, show someone the ugly version and confirm it's the right problem. That habit alone will make you look less junior than any overtime.",
+        "Feeling slow in your first months on a senior-heavy team is normal, not a signal you're behind. Track one metric for yourself: time from brief to first shareable draft. Aim to shrink that, not your total hours. Working overtime while burned out just teaches you to produce tired work faster."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xw1k74",
+    "subreddit": "UXDesign",
+    "title": "Is Design Leadership failing the industry?",
+    "author": "/u/Soc_Ziv",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xw1k74/is_design_leadership_failing_the_industry/",
+    "updated": "2026-11-14T12:45:39+00:00",
+    "body": "I&#39;m seeing more and more jobs being posted around AI requirements in using AI for design patterns, running systems single handedly or primarily focused on becoming a UI tweaker / Engineer. I&#39;ve seen max 2-3 jobs in the past 6 months actually asking for experience in real UX thinking and strategy.\n Is UX Leadership in companies not pushing back? Surely they are the ones signing off on these roles and pushing for everyone to become UI/Engineers? Isn&#39;t it Design leaders who keep tooting the horn of &quot;We need a seat at the table&quot;, but now they just kowtow to trends like everyone must build UI.\n &#32; submitted by &#32; /u/Soc_Ziv \n &#32;",
+    "score": 7.6,
+    "ageHours": 4.9,
+    "hits": [
+      "ux",
+      "ui",
+      "design"
+    ],
+    "draft": {
+      "why": "Frustrated designer venting about job market trends; no hiring intent or concrete design problem to solve.",
+      "potential": 2,
+      "options": [
+        "The market split is real, but I'd separate two things: companies cutting UX strategy roles and companies adding AI tooling to existing ones. The first is a leadership failure, the second is just tool drift, same as when Sketch became Figma became prompting. The roles asking for 'real UX thinking' still exist, they're just often titled Product Design Lead or Staff Designer now.",
+        "Honest question: are you seeing this at companies that ever had mature UX, or mostly at ones where design always reported into engineering? In my experience the 'everyone becomes a UI builder' push comes from orgs where design never had that seat to begin with, so there's no leader with enough leverage to push back."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xvhi8s",
+    "subreddit": "UXDesign",
+    "title": "Mid-level UX designer considering Portugal (Lisbon/Porto): how's the market really?",
+    "author": "/u/mindinpanic",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xvhi8s/midlevel_ux_designer_considering_portugal/",
+    "updated": "2026-11-13T19:38:45+00:00",
+    "body": "I&#39;m a product designer with 4 years in SaaS, mostly CRM platforms and enterprise tools. My work covers user research, product strategy, complex UI, prototyping, and design systems. I&#39;m already based in Lisbon and job hunting locally.\n For anyone who works or hires in Portugal:\n - Is demand for product designers with SaaS/CRM experience real here, or mostly agencies and consulting?\n - How much does Portuguese matter day to day? Are product teams English-first?\n - What are realistic mid-level salaries (gross and net, EUR), and how do they differ between Lisbon and Porto?\n - Which companies or types of companies (scale-ups, local SaaS, big tech offices, agencies) are worth targeting?\n - How long did your local search take, and what worked: LinkedIn, referrals, communities, job boards?\n Thanks in advance. Happy to compare notes with anyone doing the same search.\n &#32; submitted by &#32; /u/mindinpanic \n &#32;",
+    "score": 7.1,
+    "ageHours": 22,
+    "hits": [
+      "ux",
+      "ui",
+      "design",
+      "designer"
+    ],
+    "draft": {
+      "why": "Job-hunting designer asking about the Lisbon market; useful thread but the poster is a candidate, not a buyer.",
+      "potential": 2,
+      "options": [
+        "Portugal demand for SaaS product designers is real but concentrated: Talkdesk, Farfetch, OutSystems, Feedzai and the remote offices of US/EU companies pay decently, while local agencies and consultancies (Capgemini, Deloitte Digital) hire constantly but pay noticeably less. Product teams at scale-ups are almost all English-first; Portuguese matters more for life than for work.",
+        "In my experience the search here runs long through job boards and much faster through communities, so put your energy into referrals and the local UX/product meetups in Lisbon rather than LinkedIn Easy Apply. Also expect mid-level gross around 28-40k at local companies, and 45k+ only at international ones, so know which bucket you're targeting before you negotiate."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xw6fyx",
+    "subreddit": "SideProject",
+    "title": "I've been building a meal/recipe planner. Would love some honest feedback",
+    "author": "/u/Joanrra",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xw6fyx/ive_been_building_a_mealrecipe_planner_would_love/",
+    "updated": "2026-11-14T16:24:03+00:00",
+    "body": "Hi everyone. I&#39;m a developer and wanted to share what I&#39;ve been working on in my free time. I&#39;m really looking for feedback and opinions.\n I&#39;ll try to keep it short: it&#39;s a recipe planner (yes, another one).\n I tried to give it most of the tools that help: a weekly/monthly diet planner, a shopping list, nutritional information and lots of extras.\n The first idea was to make it international: with automatic translations, all recipes become available to everyone, and units are converted too.\n You can also save your own recipes: import them from a recipe blog, a YouTube video, an Instagram post or a photo (even a handwritten one), and share them with friends with a link.\n You&#39;ll also find a coffee corner and a cocktail section on the site.\n It&#39;s free and works in the browser: cocinoa.com \n The Android app is in Google Play&#39;s closed test and I still need 12 testers. If anyone wants to join, send me your email by PM. It would help a lot!\n &#32; submitted by &#32; /u/Joanrra \n &#32;",
+    "score": 6.8,
+    "ageHours": 1.3,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Developer seeking feedback on a free consumer recipe app; real product but no budget or B2B angle, so low client potential.",
+      "potential": 2,
+      "options": [
+        "Honest take: the feature list is the risk. Planner, shopping list, nutrition, translations, imports from four sources, coffee corner, cocktails. New users won't know what to do first. Pick the one flow that makes someone come back next week (probably plan week -> get shopping list) and make the homepage do only that.",
+        "What's the one thing you want a first-time visitor to do in their first 60 seconds? Right now it sounds like the site offers six things at once, and in my experience that kills activation faster than any missing feature. Which feature do your existing users actually use most?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xw26zf",
+    "subreddit": "design_critiques",
+    "title": "I was redesigning my portfolio but got carried away. Ended making a game",
+    "author": "/u/the_anecdotist135",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xw26zf/i_was_redesigning_my_portfolio_but_got_carried/",
+    "updated": "2026-11-14T13:17:27+00:00",
+    "body": "What started as a portfolio redesign somehow turned into building an entire interactive world.\n I wanted to do something different from the usual portfolio format, and one idea led to another. Before I knew it, I had a little world with its own activities, interactions and things to discover.\n Here&#39;s where you can find it: https://mobinos.pages.dev/ \n A few things you can do:\n 1.Pet the cat or dog. They occasionally show up when you least expect them.\n Turn the lights on and off, and give the plants a little brush.\n Look outside. The world changes based on your actual location, time and weather. If it&#39;s daytime where you are, it&#39;s daytime there too. It gets dark at night and even reflects rainy weather.\n Play some retro 8-bit games.\n Tune into the radio.\n Create your own pixel art in Pixel Studio, then save and share it.\n Explore pixel photographs and share them directly to social media.\n And somewhere in this little world, there&#39;s also a portfolio with my background, case studies and side projects. So it&#39;s not all just cats and games.\n This was a fun experiment in exploring how a portfolio could be more than just a collection of projects on a page.\n I&#39;d love for you to take a look, explore around and share your thoughts. Especially interested in feedback on the interactions, experience and usability.\n Fair warning: You might spend more time playing around than looking at my actual work. That&#39;s partly the point.\n I used opus 5.5 to build this all. ",
+    "score": 6.8,
+    "ageHours": 4.4,
+    "hits": [
+      "feedback",
+      "redesign"
+    ],
+    "draft": {
+      "why": "Designer built a playful interactive portfolio and wants UX feedback, but it's a personal project with no client potential.",
+      "potential": 2,
+      "options": [
+        "The core tension: recruiters spend about 60 seconds on a portfolio, so make sure the actual work is reachable in one click from the landing view, not hidden as a discovery. I'd add a persistent 'skip to work' button in the corner so the fun layer never blocks the hiring layer.",
+        "Quick question: what's the path for someone who lands here from a hiring manager's email with 30 seconds to spare? The world is charming, but if the case studies aren't accessible without exploring, you're optimizing for delight over the audience that actually pays you. Curious how you handled that tradeoff."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xw7qwq",
+    "subreddit": "SideProject",
+    "title": "Be discouraged or keep working",
+    "author": "/u/PickleComfortable798",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xw7qwq/be_discouraged_or_keep_working/",
+    "updated": "2026-11-14T17:16:24+00:00",
+    "body": "I have a strong belief that ideas are never truly your own. Most of the time they&#39;re built from old thoughts you forgot you had. It&#39;s rare to make something out of nothing, the same way they say you can&#39;t picture a face you&#39;ve never seen.\n Silly tangent, but it matters here. A few months ago I thought the app above ( Wanderjet ) was completely unique. I tunnelled in with no research, launched, and got torn apart when I found out the idea had been done many times over. Truthfully, I&#39;d probably seen the original ages ago and not thought much of it.\n I could have left the app as it was: no updates, no experiments, no listening to feedback. I kept going instead, and I&#39;m so glad I did.\n Recently i been inspired by loads of work on Twitter, and I added a 3D cabin for a more immersive experience, reworked the UI and UX, and added a lot more features. I&#39;d love to keep building it, and I&#39;d love for you to check it out: Wanderjet \n If you&#39;re interested in the stack, here it is. Enjoy &lt;3\n **Stack**\n - **App:** React Native 0.83 and Expo SDK 55, written in TypeScript (iOS)\n - **3D:** three.js through expo-gl for the globe and the cabin. The cabin was modelled in Blender, with the lighting baked into its textures so it runs smoothly on a phone\n - **Native iOS:** SwiftUI through expo/ui for Liquid Glass, expo-widgets for the home screen widgets and the lock screen Live Activity, expo-sensors for motion\n - **Backend:** Supabase (Postgres) for group fli",
+    "score": 5.9,
+    "ageHours": 0.4,
+    "hits": [
+      "feedback",
+      "ux",
+      "ui"
+    ],
+    "draft": {
+      "why": "Consumer travel side project with an encouraging story, but the builder is a hobbyist with no B2B design budget or business problem Ryan solves.",
+      "potential": 2,
+      "options": [
+        "Getting torn apart for an unoriginal idea is usually just feedback that you skipped the positioning step. The apps that survive a crowded category are the ones that pick one user and one moment they do better, not the ones with the longest feature list.",
+        "The 3D cabin sounds cool, but I'd be careful stacking immersive features before you know which one thing keeps people coming back. What does your retention look like on the core loop, and which feature actually drives it?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1315068",
+    "platform": "producthunt",
+    "title": "Businesses in ChatGPT",
+    "author": "Shivam Kushwaha",
+    "url": "https://www.producthunt.com/products/openai",
+    "updated": "2026-11-13T00:53:51-08:00",
+    "body": "Help customers discover your business through ChatGPT",
+    "score": 3.3,
+    "ageHours": 32.8,
+    "hits": [
+      "customers",
+      "business",
+      "customer"
+    ],
+    "draft": {
+      "why": "PH launch riding the ChatGPT discovery wave; founders browsing comments are B2B SaaS types, and the makers likely need landing page help as the product grows.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch! Curious who you're building this for first: local businesses, SaaS companies, or ecommerce brands? The answer probably changes a lot about how the first-time experience should work.",
+        "Congrats on launching! My guess is the real hook here isn't 'be discoverable in ChatGPT' but 'control what ChatGPT says about you', since businesses already show up in answers. Is that closer to the positioning you're going for?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1313358",
+    "platform": "producthunt",
+    "title": "Dex Semantics",
+    "author": "fmerian",
+    "url": "https://www.producthunt.com/products/dex-by-exmergo",
+    "updated": "2026-11-11T13:48:12-08:00",
+    "body": "Let your agent build analytics with 25% fewer errors",
+    "score": 0.6,
+    "ageHours": 67.9,
+    "hits": [
+      "analytics"
+    ],
+    "draft": {
+      "why": "AI analytics tooling for devs, likely a funded SaaS-adjacent launch with a visible PH thread and future design needs.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch. Curious about the first-run experience: when an agent builds its first analytics with Dex, what does the developer actually see that proves the 25% error reduction, a diff, a report, something else?",
+        "Quick positioning question: is this aimed at data teams who already distrust agent-generated queries, or at indie devs adding analytics for the first time? The tagline reads like the former, but the onboarding probably needs to win the latter."
+      ]
+    }
+  }
+]
