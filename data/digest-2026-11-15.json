@@ -1,0 +1,322 @@
+[
+  {
+    "platform": "reddit",
+    "id": "t3_1xwtm91",
+    "subreddit": "design_critiques",
+    "title": "UI critique: is the free route visually clear on my eStockes pricing screen?",
+    "author": "/u/Prior_Bat5628",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xwtm91/ui_critique_is_the_free_route_visually_clear_on/",
+    "updated": "2026-11-15T11:51:58+00:00",
+    "body": "I’m building eStockes, a web app for researching US stocks and ETFs. My earlier question here concerned understanding free access versus a trial. For this check I’m showing the actual public pricing screen and focusing on the visual hierarchy of its two actions.\n If you wanted to explore without starting a paid subscription, which button would you choose first, and what would you expect after clicking it? What in the layout, contrast or button wording led you there? A five-second first impression is useful; please don’t go through checkout.\n The screenshot was taken today with 365-day billing selected. The Pro offer shown is for eligible new customers; Pro is paid and Lite is free. I’m asking about the clarity of the choices, with no purchase requested.\n App context: https://estockes.com/dashboard?utm_source=reddit&amp;utm_medium=community&amp;utm_campaign=pricing_hierarchy_20261115&amp;utm_content=design_critiques \n Earlier question: https://www.reddit.com/r/design_critiques/comments/1xlxs4m/pricing_ui_critique_is_permanent_free_access/ \n https://preview.redd.it/cw8dilbvlr1i1.jpeg?width=1235&amp;format=pjpg&amp;auto=webp&amp;s=67946fe91fd52252bf57c04b14e333f20668f75c \n &#32; submitted by &#32; /u/Prior_Bat5628 \n &#32;",
+    "score": 12.2,
+    "ageHours": 6.6,
+    "hits": [
+      "ui",
+      "design",
+      "dashboard",
+      "first impression"
+    ],
+    "draft": {
+      "why": "Founder iterating a real pricing page with visible traffic, a concrete hierarchy question, and prior thread history showing they act on feedback.",
+      "potential": 7,
+      "options": [
+        "Can't see the screenshot clearly enough to judge contrast, but the most common failure here is the free option styled like a disabled button. If Lite is your free tier, give it a real secondary button with 'Start free, no card needed' and put 'Free forever' as microcopy above it, so the five-second read is 'two valid choices' not 'one button and a ghost'.",
+        "The wording matters more than the styling here: 'eligible new customers' and '365-day billing selected' suggests the Pro card is doing math in the user's head before they've chosen a plan. Would you consider putting the billing toggle after plan selection, or defaulting to monthly, so the free-vs-paid decision stays clean?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xwzl40",
+    "subreddit": "SaaS",
+    "title": "I've been building an AI video generation SaaS for 5 months – Here's where I'm at, and I'd love some honest feedback.",
+    "author": "/u/Annual-Try3956",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xwzl40/ive_been_building_an_ai_video_generation_saas_for/",
+    "updated": "2026-11-15T16:21:44+00:00",
+    "body": "I&#39;ve been building an AI video generation SaaS for 5 months – Here&#39;s where I&#39;m at, and I&#39;d love some honest feedback. Hey everyone!\n I&#39;m an indie founder from Morocco, and for the past 5 months I&#39;ve been working on a project called ViralStudio AI .\n Website: https://viralstudio-ai.com/ \n I started this project because I wanted to build something useful in the AI video generation space, especially for content creators, marketing agencies, e-commerce businesses, and people who need to produce video content regularly.\n I&#39;m building this mostly on my own, learning, experimenting, making mistakes, and trying to turn an idea into a real SaaS product.\n 🚀 What is ViralStudio AI? ViralStudio AI is an AI-powered video creation platform designed to help people create professional video content using AI.\n The main idea is to bring different AI video creation capabilities into one platform with a simple and accessible experience.\n ✅ What I&#39;ve built so far Over the last 5 months, I&#39;ve been working on several parts of the product:\n Built the website and main platform interface. Developed the core SaaS structure. Worked on the user authentication system. Built the dashboard and user experience. Worked on the credit-based payment and pricing system. Integrated and experimented with different AI tools and APIs. Designed the platform&#39;s visual identity and UI/UX. Worked on the backend infrastructure and database. Set up the foundation for connecting AI vi",
+    "score": 13.7,
+    "ageHours": 2.1,
+    "hits": [
+      "feedback",
+      "ux",
+      "ui",
+      "dashboard"
+    ],
+    "draft": {
+      "why": "Solo SaaS founder actively asking for feedback on his product and positioning, visible thread in r/SaaS.",
+      "potential": 6,
+      "options": [
+        "Your biggest risk right now is targeting creators, agencies, and e-commerce all at once. Pick one segment and rewrite the homepage headline and demo video for that person only; a creator wants viral speed, an agency wants client output, and those are two different landing pages.",
+        "What does a user see in the first 60 seconds after signing up? With AI video tools, the trial-to-paid conversion usually lives or dies on how fast they get their first good video, so if there's a setup wizard or blank dashboard before that first output, that's the thing to fix first."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xwre4p",
+    "subreddit": "microsaas",
+    "title": "I’ve revamped my onboarding and my conversion rate has increased a lot",
+    "author": "/u/ghostt2x",
+    "url": "https://www.reddit.com/r/microsaas/comments/1xwre4p/ive_revamped_my_onboarding_and_my_conversion_rate/",
+    "updated": "2026-11-15T09:34:08+00:00",
+    "body": "I posted here recently about getting signups but struggling to convert them into paying customers. Here’s what I’ve changed since, and what I’ve learned.\n After receiving some genuinely helpful feedback, I spent a lot of time digging through our entire funnel.\n I wanted to understand:\n Where exactly were people dropping off? Why were people signing up but not converting? What were users actually trying to achieve? For the people who did convert, where were they finding the most value? I also completely revisited our SEO, which has helped bring a lot more people through the door.\n For context, I’ve been building ( https://cicadalabs.io/ ) – multiplayer AI designed for everyday users. It connects to your apps through one-click OAuth, has persistent memory, and allows you to deploy AI agents to actually get things done.\n The biggest thing I identified was that we were putting too many barriers between someone discovering the product and actually experiencing it.\n Initially, users had to:\n Visit our website. Create an account. Add a payment card before accessing the platform. Only then start figuring out what they could actually do with it. Looking at it objectively, that’s a lot to ask of someone who has never used your product.\n So I made three changes:\n Increased our free credit allowance to 500. Previously, users didn’t have enough room to properly experiment and understand the product. I wanted people to be able to get meaningful value from Cicada straight away, rather than ",
+    "score": 10.7,
+    "ageHours": 8.9,
+    "hits": [
+      "feedback",
+      "onboarding",
+      "conversion",
+      "signups"
+    ],
+    "draft": {
+      "why": "Founder actively iterating on onboarding and conversion, receptive to design feedback, though it's a consumer AI product so budget fit is uncertain.",
+      "potential": 5,
+      "options": [
+        "Removing the card requirement was the biggest lever here, not the credit bump. In my experience, asking for payment before any value moment kills 40 to 60 percent of would-be trials on its own. Next thing I'd check: what's the first action a new user takes after signup, and can you shorten the path to that by one more step?",
+        "Curious what your data says about the 500-credit users vs paid converters: do people who burn through most of the free credits convert at a higher rate, or do they just churn out? That answer usually tells you whether to raise the free allowance further or gate it behind a small commitment."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xwe497",
+    "subreddit": "design_critiques",
+    "title": "Critique this landing page: small video-editing service, white redesign, before/afters in a phone frame",
+    "author": "/u/DoneEdit",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xwe497/critique_this_landing_page_small_videoediting/",
+    "updated": "2026-11-14T21:42:01+00:00",
+    "body": "I run the service (DoneEdit). I&#39;m here for a design critique of the landing page, not a pitch.\n We&#39;re a small, new talking-head editing service. Earlier this week people said the old page looked AI-generated and didn&#39;t show real work, so we redesigned it. It&#39;s white now. Right under the headline there are three real raw-vs-edited samples in a phone mockup, with an Edited/Raw switch. The main button is a free 60-second watermarked preview. If someone likes the preview, the full edit is $27 (first 20 customers, then $67).\n Screenshots are attached: desktop above the fold, the customer quotes section, and the mobile homepage. I&#39;m not putting a link in the post. The site is in my profile if you want to click around.\n I&#39;d like specific notes on: - What do you actually notice first, the person in the phone, the headline, or something else? - Do the before/after samples look like proof, or like decoration? - On mobile, is the offer clear before you have to scroll, or is it still too much text? - Is $27 easy to find and understand, including that it goes up after the first 20? - Anything that still makes it feel like a generic template?\n Please be honest. I&#39;d rather fix the page than hear that it&#39;s fine.\n https://preview.redd.it/21gyr9t5en1i1.png?width=1366&amp;format=png&amp;auto=webp&amp;s=392e65e1527c5473bafa062e1c4ce802dc1c072e \n https://preview.redd.it/xa8rlha8en1i1.png?width=1366&amp;format=png&amp;auto=webp&amp;s=aa44839d1b31c5df5b1f9ed315dba959",
+    "score": 9.7,
+    "ageHours": 20.8,
+    "hits": [
+      "landing page",
+      "design",
+      "redesign"
+    ],
+    "draft": {
+      "why": "Founder actively iterating a landing page with real conversion questions and a specific feedback checklist, good fit for Ryan's critique skills.",
+      "potential": 5,
+      "options": [
+        "The Edited/Raw toggle is doing your best work, so make sure it defaults to Raw. People trust a before/after more when they see the ugly version first and get to flip it themselves, it feels like proof instead of a slideshow.",
+        "Quick question on the price: where does the 'first 20 customers' line live? If it's only near the button, people reading top-down anchor on $27 and then feel tricked later. I'd put the $27/$67 comparison right next to the preview CTA so the urgency reads as honest, not countdown-timer-y."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xwgziz",
+    "subreddit": "microsaas",
+    "title": "I was struggling to get signups that convert & I revamped our onboarding.",
+    "author": "/u/ghostt2x",
+    "url": "https://www.reddit.com/r/microsaas/comments/1xwgziz/i_was_struggling_to_get_signups_that_convert_i/",
+    "updated": "2026-11-14T23:53:43+00:00",
+    "body": "I posted here recently about getting signups but struggling to convert them into paying customers. Here’s what I’ve changed since, and what I’ve learned. \n After receiving some genuinely helpful feedback, I spent a lot of time digging through our entire funnel.\n I wanted to understand:\n Where exactly were people dropping off?\n Why were people signing up but not converting?\n What were users actually trying to achieve?\n For the people who did convert, where were they finding the most value.\n I also completely revisited our SEO, which has helped bring a lot more people through the door.\n For context, I’ve been building Cicada – multiplayer AI designed for everyday users. It connects to your apps through one-click OAuth, has persistent memory, and allows you to deploy AI agents to actually get things done.\n The biggest thing I identified was that we were putting too many barriers between someone discovering the product and actually experiencing it.\n Initially, users had to:\n Visit our website.\n Create an account.\n Add a payment card before accessing the platform.\n Only then start figuring out what they could actually do with it.\n Looking at it objectively, that’s a lot to ask of someone who has never used your product.\n So I made three changes:\n 1. Increased our free credit allowance to 500. \n Previously, users didn’t have enough room to properly experiment and understand the product. I wanted people to be able to get meaningful value from Cicada straight away, rather than consta",
+    "score": 7.5,
+    "ageHours": 18.6,
+    "hits": [
+      "feedback",
+      "onboarding",
+      "signups"
+    ],
+    "draft": {
+      "why": "Founder actively fixing onboarding conversion, a problem Ryan works on, but it's a consumer-facing product with likely small budget.",
+      "potential": 5,
+      "options": [
+        "Removing the card requirement was the right call, but 500 credits only helps if the first session shows value before users spend them. In my experience the real drop-off moves from signup to 'what do I do now', so check whether your first OAuth connection leads to one obvious first task.",
+        "Curious what your onboarding looks like after account creation now. 'Connect your apps and deploy agents' is broad, so do you push new users toward one specific first win, or leave them to figure out a use case on their own?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xwsoi6",
+    "subreddit": "SaaS",
+    "title": "I mapped a SaaS business into 15 stages and 85 steps. The most useful part was seeing what can wait.",
+    "author": "/u/Spare-Examination238",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xwsoi6/i_mapped_a_saas_business_into_15_stages_and_85/",
+    "updated": "2026-11-15T10:55:52+00:00",
+    "body": "For a long time I learned the business side of SaaS one tip at a time: a thread on pricing, a video on SEO, a post about cold email. Each one made sense. Together they had no order, so I kept working on whatever I&#39;d read last.\n So I mapped the whole thing on one page: Product, Engineering, Go-to-Market, Marketing, Sales, Customer Success, Growth, Subscription Management, Metrics, Finance, Infrastructure &amp; Security, Support, People, Operations and KPIs. 85 steps in total.\n A few things I didn&#39;t expect once it was all laid out:\n Most of it can wait. Before product-market fit you need a small slice: positioning, pricing, a launch, a way to take money, onboarding, and a few metrics. SDR and AE roles, org design, SOC 2 and revenue operations come later. Seeing them on the map made it easier to ignore them on purpose instead of feeling behind.\n Churn isn&#39;t one problem. It shows up in five of the 15 stages: Retention in Customer Success, Retention Loops in Growth, Churn Management and Dunning in Subscription Management, Churn Rate and NRR in Metrics, and Logo Churn in KPIs. Treat it as a support problem and you miss most of it. Dunning, retrying failed card payments, is the most boring step and the easiest one to skip.\n Pricing isn&#39;t one decision either. Pricing and Packaging sit in Go-to-Market. Plans &amp; Tiers, Free Trials, and Upgrades &amp; Downgrades sit in Subscription Management. Setting a price is the easy part; how people move between plans is where it",
+    "score": 5.7,
+    "ageHours": 7.6,
+    "hits": [
+      "onboarding",
+      "churn",
+      "design"
+    ],
+    "draft": {
+      "why": "SaaS founder with a visible thread discussing onboarding and churn, areas adjacent to design work, though they are not asking for design help.",
+      "potential": 5,
+      "options": [
+        "Your pre-PMF slice is right, but onboarding is the one I'd weight heaviest. Most early churn I see isn't a product problem, it's users never reaching the first moment of value, and no amount of pricing or positioning fixes that.",
+        "Agree dunning is the most skipped step, but I'd push back on treating churn across five stages equally. In my experience involuntary churn from failed payments is the only one you can fully fix with tooling, so it's the one to automate first before you touch retention loops."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xx2f0r",
+    "subreddit": "design_critiques",
+    "title": "Been doing graffiti and design for years, finally got my portfolio together. Would love some honest feedback.",
+    "author": "/u/mrblue2800",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xx2f0r/been_doing_graffiti_and_design_for_years_finally/",
+    "updated": "2026-11-15T18:11:44+00:00",
+    "body": "Hey guys,\n So I’ve been doing graffiti since I was a teenager. Started back in 2012 and eventually got into calligraphy, graphic design, branding, and pretty much anything creative that caught my attention.\n Over the years I’ve worked on murals, festivals, live painting, branding projects, packaging, websites, and all kinds of commercial design work. I’ve also worked with different clients in Canada and internationally.\n I studied visual communication and have been working professionally as a designer for years now.\n Recently I spent a lot of time rebuilding my portfolio because I really want to take my career to the next level. I’d love to work with bigger brands, creative agencies, or companies that actually value good design and give designers room to experiment.\n But man, finding good freelance clients or even landing interviews lately has been frustrating as hell lol.\n And with all the AI slop flooding everything these days, I sometimes wonder where the industry is even heading. I’m not against AI. I actually use it in my workflow, but I still believe having your own style, experience, and creative thinking should mean something.\n Anyway, I finally got my website to a point where I’m pretty happy with it.\n Here’s my portfolio: https://farazdesign.com/ \n I’d love to hear what you guys think. Does my work look professional enough for bigger agencies and brands? Is there something I’m missing? Am I presenting myself the wrong way?\n Feel free to roast it if you want lol. Jus",
+    "score": 15.8,
+    "ageHours": 0.3,
+    "hits": [
+      "feedback",
+      "design",
+      "designer"
+    ],
+    "draft": {
+      "why": "Portfolio review from a multi-discipline designer, more peer feedback than client work, and the site isn't visible here.",
+      "potential": 3,
+      "options": [
+        "The spread you list (murals, calligraphy, packaging, websites) is the thing to fix, not the work itself. Agencies hiring for a role scan for one clear specialty in the first 10 seconds, so pick the two disciplines that match the jobs you want and bury the rest under a single 'other work' page.",
+        "Are you positioning yourself as a graffiti artist who does design, or a brand designer with a graffiti background? Those attract completely different clients, and the bigger brands you mention almost always hire the second one. The homepage headline should answer that question immediately."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xx2f7q",
+    "subreddit": "SideProject",
+    "title": "I shrank my game’s HUD after Reddit feedback. The updated demo is live.",
+    "author": "/u/PerspectivePersonal",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xx2f7q/i_shrank_my_games_hud_after_reddit_feedback_the/",
+    "updated": "2026-11-15T18:11:59+00:00",
+    "body": "I posted FrogPop here a couple of weeks ago. Since then, some Reddit feedback made it pretty clear that the screen was too busy.\n Yesterday I shipped a smaller HUD, toned down parts of the pond background, and reworked the first boss’s art and animation. I also cut the trailer to 32 seconds so it gets to the actual game faster.\n It’s an arcade roguelite inspired by Bubble Trouble: you’re a frog, your tongue pops bubbles, and the big ones split into smaller ones. Power Bugs change your attack and relics shape the run.\n Here’s an 11-second cut of the updated pond and first boss. It’s edited in-engine footage with arranged encounters. The game uses AI-assisted artwork.\n The free Windows demo has 10 waves and two bosses: https://store.steampowered.com/app/5067810/FrogPop/?utm_source=reddit&amp;utm_medium=community&amp;utm_campaign=stork_20261115&amp;utm_content=sideproject \n I’m still working on the full game. Does the smaller HUD leave enough room for the action, or is it now too hard to read?\n &#32; submitted by &#32; /u/PerspectivePersonal \n &#32;",
+    "score": 6.8,
+    "ageHours": 0.3,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Solo game dev iterating on HUD design; concrete design topic but a consumer game side project with no budget signal, so low client potential.",
+      "potential": 3,
+      "options": [
+        "Smaller HUD was the right call. The thing to watch now is whether your health and key info still read at a glance during the busiest moments, so test it during a heavy wave, not a calm one. If you have to consciously look at the HUD instead of just sensing it, it needs more contrast or a bump in size, not less.",
+        "Nice iteration loop. One thing I'd check: when big bubbles split and the screen fills up, does the HUD visually compete with the projectiles? A quick fix is dimming or fading HUD elements that aren't changing, so only the stuff that matters right now pops."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xx2gra",
+    "subreddit": "design_critiques",
+    "title": "First impressions and critique needed [AI-assisted]",
+    "author": "/u/mariejoechahine",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xx2gra/first_impressions_and_critique_needed_aiassisted/",
+    "updated": "2026-11-15T18:13:36+00:00",
+    "body": "Hi everyone! I’m a software developer, not a designer, I am building an app to expand my design and UI/UX skills after spending too much time focusing on the backend side of the development process. Looking for advice for the logo and branding of the app.\n For transparency: I created the initial drafts in Inkscape, then used AI image generation to explore refinements, lettering, and presentation. These are concept images rather than finished artwork. I’d appreciate a designer’s perspective on what works and what needs reconsidering.\n Before reading the context below, I’d love your first impressions:\n What do you see in the symbol? What kind of app would you expect? Which option do you like best and why? App context:\n It’s a flag-learning and quiz app for casual learners, including adults and children. Drawing and coloring flags are a central learning activity, alongside lessons, memory cues, and challenges. The intended feel is warm, creative, approachable, and educational. The icon will appear in app stores and social profiles; the full logo will appear inside the app, on a website, and in short quiz videos. \n &#32; submitted by &#32; /u/mariejoechahine \n &#32;",
+    "score": 7.8,
+    "ageHours": 0.3,
+    "hits": [
+      "ux",
+      "ui",
+      "design",
+      "designer"
+    ],
+    "draft": {
+      "why": "Hobby learning project from a developer practicing design, no budget signals, consumer app.",
+      "potential": 2,
+      "options": [
+        "I can't see the images here, but one thing worth deciding early: your icon has to survive at app store size, so test whichever option you pick at 48px. If the flag symbol turns to mush at that size, simplify it before you polish anything else.",
+        "Quick question since the images aren't loading for me: does the symbol lean more 'flag' or more 'drawing/coloring'? For a learning app the creative activity is your differentiator, so I'd bias toward whichever option reads as playful and hands-on rather than a generic flag icon."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xwztce",
+    "subreddit": "SaaS",
+    "title": "Built a no-signup hangout site with roasts, debates and 60-sec games. How would you monetize it, and what should I add?",
+    "author": "/u/Ok-Barracuda7479",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xwztce/built_a_nosignup_hangout_site_with_roasts_debates/",
+    "updated": "2026-11-15T16:30:53+00:00",
+    "body": "Hey! I’m a college student and I built Hearth Radar. You pick a username (no signup), and you can jump into live chat communities, make private rooms to share with friends, run roast rounds, debates, and 60-second mini games.\n Link: https://hearth-radar.vercel.app/ \n Two things I’d love your take on:\n Monetization: is there a way to earn from something like this without ruining it? Or is it better kept as a free project? Features: what would make you actually come back with friends? What should I add or cut? Also honest feedback on what’s confusing or boring. Be as harsh as you want.\n &#32; submitted by &#32; /u/Ok-Barracuda7479 \n &#32;",
+    "score": 6.3,
+    "ageHours": 2,
+    "hits": [
+      "feedback",
+      "confusing"
+    ],
+    "draft": {
+      "why": "College student with a consumer chat side project; low client potential, but a design-relevant question worth a quick useful reply.",
+      "potential": 2,
+      "options": [
+        "The retention problem with no-signup is there's nothing pulling people back, since there's no identity or history to return to. Before monetizing, give rooms a persistent URL and a simple 'remind me' via push or email so a group has a reason to come back together.",
+        "Honest answer: monetize later, fix the empty-room problem first. Social apps live or die on whether a new visitor lands in a room that's already active, so I'd cut features and put everything into seeding a few busy default rooms at peak hours."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xx239m",
+    "subreddit": "microsaas",
+    "title": "Creates zesume.in for freshers any feedback please",
+    "author": "/u/Several_Emotion_6198",
+    "url": "https://www.reddit.com/r/microsaas/comments/1xx239m/creates_zesumein_for_freshers_any_feedback_please/",
+    "updated": "2026-11-15T17:59:13+00:00",
+    "body": "Zesume is website for freshers , college students who looking for jobs . \n &#32; submitted by &#32; /u/Several_Emotion_6198 \n &#32;",
+    "score": 5.7,
+    "ageHours": 0.5,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Founder asking for feedback on a resume site, but targets freshers and students with no budget, so low client potential.",
+      "potential": 2,
+      "options": [
+        "The toughest part of resume tools for freshers isn't the builder, it's trust: students won't pay and recruiters won't adopt an unknown brand. I'd lead your homepage with one real before/after resume that got someone interviews, that proof does more than any feature list.",
+        "Who's actually paying here, students, colleges, or recruiters? That answer changes the whole design: a student-facing tool needs free-tier hooks and shareability, a college-facing one needs placement stats front and center. Which is it?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xwny4c",
+    "subreddit": "UXDesign",
+    "title": "Breaking into UX/early career: job hunting, how-tos/education/work review — 11/15/26",
+    "author": "/u/AutoModerator",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xwny4c/breaking_into_uxearly_career_job_hunting/",
+    "updated": "2026-11-15T06:00:55+00:00",
+    "body": "This is a career questions thread intended for people interested in starting work in UX, or for designers with less than three years of formal freelance/professional experience. \n Please use this thread to ask questions about breaking into the field, choosing educational programs, changing career tracks, and other entry-level topics.\n If you are **not currently working in UX**, use this thread to ask questions about:\n Getting an internship or your first job in UX Transitioning to UX if you have a degree or work experience in another field Choosing educational opportunities, including bootcamps, certifications, undergraduate and graduate degree programs Finding and interviewing for internships and your first job in the field Navigating relationships at your first job, including working with other people, gaining domain experience, and imposter syndrome Portfolio reviews, particularly for case studies of speculative redesigns produced only for your portfolio When asking for feedback, please be as detailed as possible by \n Providing context Being specific about what you want feedback on, and Stating what kind of feedback you are NOT looking for If you&#39;d like your resume/portfolio to remain anonymous, be sure to remove personal information like:\n Your name, phone number, email address, external links Names of employers and institutions you&#39;ve attended. Hosting your resume on Google Drive, Dropbox, Box, etc. links may unintentionally reveal your personal information, so we",
+    "score": 6.8,
+    "ageHours": 12.5,
+    "hits": [
+      "feedback",
+      "ux"
+    ],
+    "draft": {
+      "why": "This is a recurring automated megathread for entry-level career questions, not a post from a founder with a design problem. Audience is students and career changers, not buyers.",
+      "potential": 1,
+      "options": [
+        "Skip this one. It's a weekly mod-posted thread for people trying to break into UX, so there's no single poster with a problem to answer and nobody in the thread is hiring design help.",
+        "Not worth a reply. The thread itself has no question, and the audience is early-career designers looking for jobs, which is the opposite of a client profile."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1316064",
+    "platform": "producthunt",
+    "title": "ByteAsk Cloud Agents",
+    "author": "Garry Tan",
+    "url": "https://www.producthunt.com/products/byteask-cloud-agents",
+    "updated": "2026-11-13T22:54:44-08:00",
+    "body": "Find the fix in big codebases. Ship it from Slack.",
+    "score": 0.8,
+    "ageHours": 35.6,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "Launch day for a dev tool aimed at engineering teams, which overlaps with Ryan's B2B SaaS audience, but PH commenters here are founders and makers, not an obvious design client.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch. Curious what the first run looks like: does a new user point it at their repo and get something useful in the first session, or is there setup before it finds its first fix?",
+        "Launching from Slack is an interesting wedge. Is the bet that engineers want fixes delivered where they already talk about bugs, or that the agent does the reading so the human just approves in chat?"
+      ]
+    }
+  }
+]
