@@ -1,0 +1,383 @@
+[
+  {
+    "platform": "reddit",
+    "id": "t3_1xxkcbo",
+    "subreddit": "design_critiques",
+    "title": "Website UI critique: honest feedback on the design and plan layout of pluna.ai (an AI tool-matching app)",
+    "author": "/u/Embarrassed-Bell-979",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xxkcbo/website_ui_critique_honest_feedback_on_the_design/",
+    "updated": "2026-11-16T08:39:46+00:00",
+    "body": "Design to critique: https://pluna.ai (website UI, plus the step-by-step plan layout inside the app)\n Pluna learns thousands of AI tools so you don&#39;t have to. You tell it your goal, it picks the tools that fit you best and builds them into a simple step-by-step plan.\n I&#39;d like honest, constructive critique on: - The site design: first impression, hierarchy, typography, colour, spacing - The plan layout: is each step easy to scan and follow, and is it clear which tool is used where? - What&#39;s confusing, cluttered or missing\n Roast it if you need to. Specifics help most. Thanks!\n &#32; submitted by &#32; /u/Embarrassed-Bell-979 \n &#32;",
+    "score": 16.1,
+    "ageHours": 13,
+    "hits": [
+      "feedback",
+      "ui",
+      "design",
+      "confusing",
+      "first impression"
+    ],
+    "draft": {
+      "why": "Founder of an AI tool-matching app asking for honest critique of both marketing site and in-app plan layout, a real design problem with a likely budget.",
+      "potential": 6,
+      "options": [
+        "For the plan layout, the thing that usually breaks scannability in these step-by-step flows is inconsistent step anatomy: some steps are one line, others are paragraphs. Give every step the same skeleton (tool name as a labeled chip, one action sentence, expected outcome) and it'll read twice as fast.",
+        "Quick question before deep critique: on the plan view, does the user pick tools themselves or does the app lock them in? That changes whether each step should explain why that tool was chosen, which is usually the trust gap in AI-recommendation products."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xxtvs9",
+    "subreddit": "SaaS",
+    "title": "A bug silently broke sign-ups on my SaaS for 8 months and I didn't notice. Here's how I'm rebuilding traffic, and I'd love blunt feedback",
+    "author": "/u/vibinreji",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xxtvs9/a_bug_silently_broke_signups_on_my_saas_for_8/",
+    "updated": "2026-11-16T16:30:47+00:00",
+    "body": "I&#39;m a solo developer. In 2023 I launched AI Flowchart, a tool that turns text or code into editable flowcharts and diagrams. By 2024 it had steady users from the US, UK and Australia.\n In early 2025 I shipped a backend change that broke new-user registration. I wasn&#39;t tracking any metrics, so for about 8 months people visited, tried to sign up, and failed. By the time I found it, Google impressions had dropped from ~1,700 a day to ~100, and new sign-ups had dried up.\n What I&#39;ve done since: \n Added a daily health email (sign-ups, usage, errors), so this can never be silent again Rebuilt most of the product: code → flowchart with a step-by-step dry run, animated presenting, apps inside ChatGPT and Claude, and a GitHub app that diagrams pull requests Rewrote the site&#39;s SEO: clicks from Google went up ~2.4× in the last month Where I&#39;m stuck: \n The traffic coming back is mostly students outside the US. US visitors, who were my main users before, barely find me now. I rank around #30 for my main keywords there. The ChatGPT and Claude apps bring most of my new sign-ups, but I don&#39;t know how to reach people who use diagrams at work. What I&#39;d love from you: \n If you use flowcharts or diagrams at work, where do you go when you need one? Roast the landing page: what&#39;s confusing or missing? If you&#39;ve rebuilt traffic after a drop like this, what actually worked? Link if you want to look: aiflowchart.io \n Thanks for reading. Happy to answer anything abou",
+    "score": 14,
+    "ageHours": 5.1,
+    "hits": [
+      "feedback",
+      "landing page",
+      "sign up",
+      "confusing"
+    ],
+    "draft": {
+      "why": "Founder actively asking for landing page feedback and channel advice, but it's a solo dev with a low-price consumer/prosumer tool and student-heavy traffic, so budget for design help is unlikely.",
+      "potential": 4,
+      "options": [
+        "The channel question has a cheaper answer than SEO: your GitHub app that diagrams PRs is your best shot at reaching people who diagram at work, because it shows up inside the workflow instead of waiting for them to search. I'd pour effort into that integration and the Claude/ChatGPT apps rather than fighting for keyword rankings from #30.",
+        "On the landing page, lead with one concrete before/after: paste a snippet of code, show the flowchart it produces, above the fold. 'Turns text into diagrams' is abstract, and the people who pay for diagram tools (PMs, engineers writing docs) need to see their exact use case in about 5 seconds or they bounce."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xxw2b8",
+    "subreddit": "design_critiques",
+    "title": "Website and web app UI: Pluna, which builds your goal into a step-by-step plan with the right AI tools. What's confusing or missing?",
+    "author": "/u/Embarrassed-Bell-979",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xxw2b8/website_and_web_app_ui_pluna_which_builds_your/",
+    "updated": "2026-11-16T17:51:40+00:00",
+    "body": "Design link: https://pluna.ai \n Thousands of new AI tools launch every day. Nobody can keep up, so most people stick with the same two or three.\n Pluna keeps track so you don&#39;t have to. We learn each tool inside out: how to get around it, how to use it, what it&#39;s great at, where it falls short, and what it works well with.\n Tell Pluna your goal. It picks the tools that fit you best, puts them straight into a plan built for you, and breaks every step down as simply as possible. Most plans introduce you to about 3 tools you&#39;d never heard of.\n AI is only as good as the person using it. Pluna is the bridge between you and AI.\n Free on the Hobby plan.\n Roast it: what&#39;s confusing or missing in the site and the app?\n &#32; submitted by &#32; /u/Embarrassed-Bell-979 \n &#32;",
+    "score": 12.3,
+    "ageHours": 3.8,
+    "hits": [
+      "ui",
+      "design",
+      "confusing"
+    ],
+    "draft": {
+      "why": "Founder asking for a roast of their site and app copy, but it's a consumer AI tool in a critique subreddit, so low client odds.",
+      "potential": 3,
+      "options": [
+        "The tagline 'the bridge between you and AI' is doing no work, it could be on any AI product. Your strongest line is 'most plans introduce you to 3 tools you'd never heard of' because it's concrete. Lead with that and cut the bridge line.",
+        "What's the very first thing a new user sees after typing their goal? If it's a plan with unfamiliar tools and no context on why each was picked, trust breaks immediately. One line per tool on why it was chosen would fix that."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xxhnqa",
+    "subreddit": "UXDesign",
+    "title": "How to get good at app UI/UX the classic way",
+    "author": "/u/Moonmoonbae",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xxhnqa/how_to_get_good_at_app_uiux_the_classic_way/",
+    "updated": "2026-11-16T05:53:32+00:00",
+    "body": "Hi everyone, i am using AI to build mobile apps (as everyone is these days) but the constraint i found is that the UI/UX is very much AI slop.\n Even with MCPs like mobbin, the UI/UX doesn&#39;t improve that much. Well, at least not to the point where i am satisfied.\n The decision i have come to is i need to learn the foundations of Design Engineering as well as Product Engineering.\n Q: How can I improve in Design Engineering the tried and true way (low to none AI usage)? I have always wanted to be able to draw mockups on Figma, but UI/UX isn&#39;t my strong suit (yet)\n Looking forward to learning from the experts here!\n ---\n Edit: For more clarity -\n Things like:\n Micro interactions Haptics Core feature flow journey design Accessibility ... and many more! How does one person start to navigate these?\n ---\n Edit 2:\n Consolidating all feedback 📎\n 📚 Don’t Make Me Think by Steve Krug 📚 Refactoring UI by Tailwind Jakob Nielsen’s 10 Usability Heuristics Take one flow in your app and rebuild it with stock system components only. Then, read HIG page for each component used. Information architecture Nielsen Norman group information Pick 3 apps you think feel great and rebuild 5–6 of their screens pixel by pixel in Figma, then in code. Get feedback on every screen from someone better than you Human computer interaction &#32; submitted by &#32; /u/Moonmoonbae \n &#32;",
+    "score": 9.5,
+    "ageHours": 15.7,
+    "hits": [
+      "feedback",
+      "ux",
+      "ui",
+      "design",
+      "figma"
+    ],
+    "draft": {
+      "why": "Learner asking how to build real UI/UX skill without AI; genuine question but poster is a hobbyist vibe-coder, not a B2B founder with budget.",
+      "potential": 3,
+      "options": [
+        "The pixel-by-pixel rebuild exercise you already listed is the highest leverage one, but only if you interrogate each screen as you copy it: why is this label 13px, why is this button secondary, why does this flow take 3 steps not 5. Copying without asking why just trains your hand, not your judgment.",
+        "One thing missing from your consolidated list: constraints. Pick a real flow from one of your apps, write down the constraints first (screen size, one-handed use, accessibility target, latency), then design within them. AI slop happens partly because nothing is constraining the output, and learning to design against constraints is most of what juniors are missing."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xxyj9b",
+    "subreddit": "SaaS",
+    "title": "I made a free framework that guides AI to follow professional software engineering best practices and workflows. Feedback wanted",
+    "author": "/u/ed_sanz",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xxyj9b/i_made_a_free_framework_that_guides_ai_to_follow/",
+    "updated": "2026-11-16T19:24:03+00:00",
+    "body": "Disclosure: I made this. It&#39;s free and open source (MIT), no signup, nothing to buy.\n I&#39;ve been a developer for many years, working with software engineering frameworks and processes, and what keeps bugging me about AI coding agents is that they take the shortest path to whatever you asked. You get exactly what you asked for and nothing else. No tests unless you ask. No security check unless you ask. No peers reviewing the change.\n So I built the Vibe Quality Model (VibeQM). The idea is simple: &quot;done&quot; isn&#39;t done until those steps actually happen.\n Let’s say you ask your agent for a password reset page. Normally you get a page that works when you click through it. With VibeQM set up, the agent also writes down what the feature should do and checks it with you, writes tests and runs the old ones too, runs a security check, gets the change reviewed (by you, or by an AI from a different company than the one that wrote it), and keeps a note of what changed. Some of that is just instructions the agent follows. The parts that matter most are enforced, so if a check fails the change doesn&#39;t go through.\n There are five levels in the model. You run a self-assessment to see which level your project is at right now; it reads your project&#39;s files and history, no questionnaire. At Level 1 everything the AI writes is a draft you read line by line. At Level 2 the checks and a review run on every change, so you approve instead of rereading everything. At Level 4 ",
+    "score": 7.5,
+    "ageHours": 2.2,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Thoughtful OSS post in a busy founder subreddit, but it's a dev workflow tool, not a design problem, so client odds are low.",
+      "potential": 3,
+      "options": [
+        "The enforced-checks part is the real differentiator here, so I'd lead with that instead of the five levels. 'Agent-written code can't merge until tests, security scan, and a review pass' lands harder than a maturity model, which sounds like documentation homework.",
+        "How do you handle review fatigue at Level 2? In my experience the moment every change needs an approval, people start rubber-stamping, and the gate becomes theater. Curious if the self-assessment accounts for that or just measures which checks exist."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xxp2lf",
+    "subreddit": "microsaas",
+    "title": "Feedback please",
+    "author": "/u/OkCalligrapher7566",
+    "url": "https://www.reddit.com/r/microsaas/comments/1xxp2lf/feedback_please/",
+    "updated": "2026-11-16T13:15:47+00:00",
+    "body": "I launched Vellum. A PWA that is a alternative to paper business cards. Can anyone check and give me a feedback please? www.tryvellum.pro \n &#32; submitted by &#32; /u/OkCalligrapher7566 \n &#32;",
+    "score": 5.8,
+    "ageHours": 8.4,
+    "hits": [
+      "feedback"
+    ],
+    "draft": {
+      "why": "Founder asking for feedback on a launched microSaaS, but digital business cards skew consumer and budgets are small.",
+      "potential": 3,
+      "options": [
+        "The biggest thing I'd test is the moment someone receives your card link: if they need to download or allow anything before seeing your info, most will bounce. Make that first view instant and save the signup for after.",
+        "What's the actual use case you're betting on, events and conferences or everyday networking? The product and pricing page should read very differently depending on which one, so pick one and commit."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xxwq4z",
+    "subreddit": "design_critiques",
+    "title": "Design feedback for my clothing brand",
+    "author": "/u/et3rnalco",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xxwq4z/design_feedback_for_my_clothing_brand/",
+    "updated": "2026-11-16T18:16:30+00:00",
+    "body": "I&#39;ve been working on creating designs, vectors and typography from scratch for quite some time now to start my clothing brand et3rnal. This is where I am at right now with what I intend to be the first drop.\n From a design perspective, I am looking for any feedback and thoughts on what you see. And if I can improve from this point, how would that be? Do any specific designs stand out?\n I am a self taught screen printer who intends to print this whole collection myself, but I want to make sure the designs are good enough to sell first. Or if I should continue to work towards improvement.\n &#32; submitted by &#32; /u/et3rnalco \n &#32;",
+    "score": 13.1,
+    "ageHours": 3.4,
+    "hits": [
+      "feedback",
+      "design"
+    ],
+    "draft": {
+      "why": "Solo founder asking for design critique, but it's a clothing brand, not B2B SaaS, and no images are visible in the post, so specifics are impossible.",
+      "potential": 2,
+      "options": [
+        "Can't see the designs in the post, so hard to give real feedback. One thing that matters more than people expect for a first drop: can you describe your whole collection in one sentence? If the 5 pieces don't share an obvious visual idea, pick the strongest design and build the drop around that.",
+        "Since you're screen printing yourself, design for that constraint first: fewer colors, bold shapes, no fine gradients. Most first drops fail on print execution, not concept. Which design are you most confident you can actually print cleanly 20 times?"
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xxhbyq",
+    "subreddit": "design_critiques",
+    "title": "Portfolio Feedback...",
+    "author": "/u/Own_Grand1767",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xxhbyq/portfolio_feedback/",
+    "updated": "2026-11-16T05:34:07+00:00",
+    "body": "URL: https://srm-portfolio-eight.vercel.app/ \n Purpose: Personal developer portfolio to showcase my skills, experience, and projects.\n Technologies Used: Next.js, TypeScript, Tailwind CSS.\n Feedback Requested: Honest feedback on UI/UX, visual design, responsiveness, and overall user experience.\n Comments: Looking forward to your honest suggestions and constructive criticism!\n &#32; submitted by &#32; /u/Own_Grand1767 \n &#32;",
+    "score": 11.5,
+    "ageHours": 16.1,
+    "hits": [
+      "feedback",
+      "ux",
+      "ui",
+      "design"
+    ],
+    "draft": {
+      "why": "Portfolio review from a developer, low client potential but a reply keeps Ryan visible in design critique threads.",
+      "potential": 2,
+      "options": [
+        "One quick check before anything visual: open it on mobile and tap your nav and project links. On most dev portfolios I review, the tap targets and spacing are the first thing that breaks, and it matters more than the gradient choice. The other common miss is no clear one-line intro above the fold, so lead with what you do and who you do it for in the first viewport.",
+        "What do you want a visitor to do in the first 10 seconds: hire you, view one flagship project, or read your experience? Pick one, then make the hero section point only at that. Right now most portfolios split attention across three or four equal-weight CTAs and nothing wins."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xxoie1",
+    "subreddit": "design_critiques",
+    "title": "Can you please review my case study",
+    "author": "/u/Electrical_Click_558",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xxoie1/can_you_please_review_my_case_study/",
+    "updated": "2026-11-16T12:48:25+00:00",
+    "body": "I made this case study recently, I have one year experience as a ui/ux designer at a startup and now want to switch to a fintech company no matter what even as an intern so im building my portfolio around that. Here&#39;s the link please give me feedback so that i can improve.\n https://www.behance.net/gallery/258525191/Groww-Case-Study . \n &#32; submitted by &#32; /u/Electrical_Click_558 \n &#32;",
+    "score": 10.2,
+    "ageHours": 8.8,
+    "hits": [
+      "feedback",
+      "ux",
+      "ui",
+      "designer"
+    ],
+    "draft": {
+      "why": "Junior designer asking for a free case study critique, no budget or business problem, low client potential.",
+      "potential": 2,
+      "options": [
+        "I can't open the link from here, but the most common issue I see in 1-year-experience case studies is showing screens before showing the problem. Lead with the user pain, your constraints, and one decision you made with reasoning, then show visuals. Recruiters skim for thinking, not mockups.",
+        "Quick question before feedback: who is this case study for, hiring managers at fintech companies or other designers? If it's fintech recruiters, make sure it shows a metric or business outcome, even a small one, since that's what separates intern-level portfolios from junior hire ones."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xy1a3x",
+    "subreddit": "UXDesign",
+    "title": "Made a free UX course so you can find out if you actually like UX before paying for a bullshit bootcamp.",
+    "author": "/u/KKANGKKA_Chu",
+    "url": "https://www.reddit.com/r/UXDesign/comments/1xy1a3x/made_a_free_ux_course_so_you_can_find_out_if_you/",
+    "updated": "2026-11-16T21:06:44+00:00",
+    "body": "18 labs, about 10 minutes each, free. I built it for beginners, career switchers, devs and PMs. For transparency sake, the coding is done through Claude. Research and fact checking done in collaboration. Final decisions are made by me. \n https://provenanceof.design/friction-lab \n Go break some buttons and tell me which lab made you rage quit. Useful data for future updates. Thank you thank you. \n &#32; submitted by &#32; /u/KKANGKKA_Chu \n &#32;",
+    "score": 5.5,
+    "ageHours": 0.5,
+    "hits": [
+      "ux",
+      "design"
+    ],
+    "draft": {
+      "why": "Beginner UX course share, audience is students and career switchers, not B2B founders with budget. Low client potential but a genuine practitioner reply fits the thread.",
+      "potential": 2,
+      "options": [
+        "The 10-minute lab format is the right call. In my experience the thing that makes beginners quit UX courses is 40 minutes of theory before they touch anything, so leading with breaking stuff is exactly how you find out if someone likes the actual work. I'd add one lab on writing a findings summary though, because that's the part of the job nobody warns career switchers about.",
+        "Which lab do beginners fail most? That answer is more useful for their learning than which one they enjoy, since the failure point usually reveals the misconception they walked in with. If you're not tracking that yet, a simple 'where did you get stuck' prompt at the end of each lab would give you the data."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xxuczf",
+    "subreddit": "design_critiques",
+    "title": "Logo mascot design for a food brand",
+    "author": "/u/FAB_lc",
+    "url": "https://www.reddit.com/r/design_critiques/comments/1xxuczf/logo_mascot_design_for_a_food_brand/",
+    "updated": "2026-11-16T16:48:54+00:00",
+    "body": "Hi everyone! This is my first post here!\n I&#39;ve designed a mascot for a brand of heart-shaped cooking cubes. I&#39;m currently trying to make my way as a freelance brand designer, and this is one of the projects I&#39;m most proud of so far.\n Let me know if I have good reason to be proud, or feel free to tear it apart (I&#39;ll leave the Behance link here in case anyone wants to take a closer look: https://www.behance.net/gallery/258402515/A-Brand-New-Character-Cuoricini-Brand-identity )\n &#32; submitted by &#32; /u/FAB_lc \n &#32;",
+    "score": 5.1,
+    "ageHours": 4.8,
+    "hits": [
+      "design",
+      "designer"
+    ],
+    "draft": {
+      "why": "Portfolio review from an aspiring freelancer, consumer food mascot, no B2B SaaS client potential in sight.",
+      "potential": 2,
+      "options": [
+        "A mascot has to survive at tiny sizes, so test it at 16px as a favicon and on the cube packaging corner. If the heart shape and face details blur together there, simplify the silhouette before adding more personality.",
+        "Who's the buyer: kids' parents in the soup aisle, or home cooks? The mascot's expression and line weight should skew very differently for each, so knowing that target changes what 'good' looks like here."
+      ]
+    }
+  },
+  {
+    "platform": "reddit",
+    "id": "t3_1xxzi05",
+    "subreddit": "microsaas",
+    "title": "15 useful comments, 0 signups: launch posts reach builders, not buyers. What I check instead",
+    "author": "/u/hmamlook13",
+    "url": "https://www.reddit.com/r/microsaas/comments/1xxzi05/15_useful_comments_0_signups_launch_posts_reach/",
+    "updated": "2026-11-16T19:59:38+00:00",
+    "body": "I read a lot of posts from builders trying to get their first customers. This week the same pattern kept showing up: the effort is real, the feedback is kind, and nobody buys.\n A tool that updates local business websites by email: day 2, 44 real visitors, 0 signups. The founder&#39;s own line: &quot;Reddit is founders, not barbers.&quot; A team alert tool: 8 days of posts, 15 useful comments from strangers, 0 waitlist signups. A B2B product with about 3,000 site visits a month and no customer yet. An audit service: months of LinkedIn posts, zero inquiries. X brought 22 signups and one paying customer. None of these are bad products. The people reading were other builders, who are great at feedback and almost never the buyer.\n What I&#39;d check before posting anywhere else:\n Look at who engaged. If the comments came from founders, you got a product review, not a sales signal. Find where your buyer asks for help, not where builders hang out. Owners ask in trade groups and r/smallbusiness . Dev teams ask in GitHub issues and tool forums. When a big alerting tool announced it was shutting down, the teams moving off it started asking in public what to switch to. Look for the moment someone needs you. A new location, a job ad for the role you replace, a tool shutting down, a public outage write-up. If you can name the event, you can find 20 companies that hit it this month. Write to 20 named people, not 200 visitors. Twenty personal emails with the event in the first line tell you",
+    "score": 6.3,
+    "ageHours": 1.6,
+    "hits": [
+      "feedback",
+      "signups"
+    ]
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1316851",
+    "platform": "producthunt",
+    "title": "Centralize",
+    "author": "Michael Farr",
+    "url": "https://www.producthunt.com/products/centralize",
+    "updated": "2026-11-14T13:21:02-08:00",
+    "body": "Relationship Workspace for Enterprise Deal Teams",
+    "score": 2,
+    "ageHours": 48.3,
+    "hits": [
+      "teams",
+      "workspace",
+      "team"
+    ],
+    "draft": {
+      "why": "B2B SaaS launch targeting enterprise deal teams, founders likely have budget and will need design help as they grow.",
+      "potential": 6,
+      "options": [
+        "Congrats on the launch! Relationship workspace is a crowded idea, so I'm curious who your first ideal customer is: AEs managing a handful of big deals, or sales leaders trying to see across the whole team's pipeline?",
+        "Congrats on shipping! My read is the positioning sits between a CRM and a deal room, which could confuse buyers on day one. Are you pitching this as a layer on top of Salesforce/HubSpot, or a replacement for how deal teams track relationships today?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1317965",
+    "platform": "producthunt",
+    "title": "Puffin",
+    "author": "Divyanshu Rajput",
+    "url": "https://www.producthunt.com/products/puffin-2",
+    "updated": "2026-11-15T11:51:59-08:00",
+    "body": "Identity and inboxes for AI agents",
+    "score": 1,
+    "ageHours": 25.8,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "AI agent infrastructure is a hot space with funded builders reading PH comments, and a thoughtful question can start a conversation with the founding team.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch! Curious about the first-time experience: when a developer spins up their first agent inbox, what's the moment they see it working end to end? That's usually the part that decides if they stick around.",
+        "Congrats on launching! Quick positioning question: is this aimed at developers building agent products who need infra, or at teams deploying agents internally? The tagline could read either way, and those two buyers expect pretty different onboarding."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1318221",
+    "platform": "producthunt",
+    "title": "ByteVoice",
+    "author": "Zac Zuo",
+    "url": "https://www.producthunt.com/products/bytevoice",
+    "updated": "2026-11-15T17:45:10-08:00",
+    "body": "Talk to your coding agents and hear them back",
+    "score": 1.1,
+    "ageHours": 19.9,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "AI dev tool launching on PH; if it gains traction the founder may need landing page and onboarding design help, though dev-tool makers often DIY design.",
+      "potential": 4,
+      "options": [
+        "Congrats on the launch. Curious about the first-time experience: do people need to change how they prompt to get useful voice output, or does it just work with their existing agent setup?",
+        "Interesting angle. Are you positioning this for accessibility, or more for the 'eyes off the screen while code runs' workflow? That answer probably changes who you market to first."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1317488",
+    "platform": "producthunt",
+    "title": "UI SDK by Vercel",
+    "author": "Shivam Kushwaha",
+    "url": "https://www.producthunt.com/products/ui-sdk",
+    "updated": "2026-11-15T04:01:57-08:00",
+    "body": "Give AI agents the building blocks to create UI",
+    "score": 0.8,
+    "ageHours": 33.6,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "Big Vercel launch with lots of founder traffic, but the product is infra for devs, not a design client lead.",
+      "potential": 3,
+      "options": [
+        "Congrats on the launch. Curious who you see adopting this first: agent builders plugging it into their own products, or app teams letting end users generate UI on the fly?",
+        "Congrats to the team. My guess is the hard part isn't generating UI but keeping it on-brand, so is the positioning here a component library agents assemble, or a design system agents are constrained by?"
+      ]
+    }
+  }
+]
