@@ -1,0 +1,118 @@
+[
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1319369",
+    "platform": "producthunt",
+    "title": "Ballet",
+    "author": "Daniel Kimber",
+    "url": "https://www.producthunt.com/products/ballet",
+    "updated": "2026-11-16T11:55:26-08:00",
+    "body": "Deterministic AI workflow automation for Ops teams",
+    "score": 4.9,
+    "ageHours": 24.5,
+    "hits": [
+      "workflow",
+      "teams",
+      "automation",
+      "team"
+    ],
+    "draft": {
+      "why": "B2B SaaS launching on PH targeting Ops teams; founders who launch here often need landing page and onboarding design help soon after.",
+      "potential": 6,
+      "options": [
+        "Congrats on the launch. Curious who the ideal first user is: the Ops lead building the workflows, or the engineers who currently get pulled in to maintain them? That answer changes a lot about how you should onboard people.",
+        "Congrats on shipping. My read is 'deterministic' is your sharpest differentiator against the agent-style automation tools, but are you finding Ops buyers actually know that word, or do you translate it into a reliability promise on the landing page?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1319570",
+    "platform": "producthunt",
+    "title": "Agents API by Recall.ai",
+    "author": "YK Kim",
+    "url": "https://www.producthunt.com/products/recall-ai",
+    "updated": "2026-11-16T16:38:25-08:00",
+    "body": "Send your agent to meetings",
+    "score": 1.8,
+    "ageHours": 19.8,
+    "hits": [
+      "agents",
+      "api"
+    ],
+    "draft": {
+      "why": "Recall.ai is a funded B2B dev-tool company with a real launch audience, and launch threads attract founders who hire design help.",
+      "potential": 6,
+      "options": [
+        "Congrats on the launch. Curious who you expect to build on this first: teams adding meeting features to existing products, or folks building standalone meeting agents from scratch?",
+        "Congrats on shipping. My read is the hardest sell isn't the API itself but trust on the other side of the call, since the bot shows up as a participant. Is the positioning aimed at use cases where attendees already expect a notetaker, or are you betting people get comfortable with agents joining cold?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1316848",
+    "platform": "producthunt",
+    "title": "polyroom",
+    "author": "Rodrigo Lemela Duarte",
+    "url": "https://www.producthunt.com/products/polyroom",
+    "updated": "2026-11-14T13:15:38-08:00",
+    "body": "Where AI agents work together and your team decides",
+    "score": 1.1,
+    "ageHours": 71.2,
+    "hits": [
+      "agents",
+      "team"
+    ],
+    "draft": {
+      "why": "AI collaboration tool launch with an unclear audience, so a sharp positioning question could surface a founder conversation",
+      "potential": 5,
+      "options": [
+        "Congrats on launching! Quick question on the first-run experience: when someone signs up, do they start by setting up the agents themselves or by inviting their team first? That choice says a lot about who the product is really for.",
+        "The tagline splits the focus between agents and the team, which makes me wonder about positioning. Is the buyer an engineering lead managing AI workflows, or a non-technical team trying to delegate tasks to agents? Curious because the messaging probably needs to pick one first."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1319262",
+    "platform": "producthunt",
+    "title": "infaiw",
+    "author": "Dipankar Das",
+    "url": "https://www.producthunt.com/products/infaiw",
+    "updated": "2026-11-16T10:23:22-08:00",
+    "body": "Delegate work to sidecar agents that pass an approval script",
+    "score": 1,
+    "ageHours": 26.1,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "PH launch for an AI agent tool; founder is likely technical and reachable, and approval-flow UX is a real design surface.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch. Who's the first user you built this for: dev teams automating internal ops, or non-technical folks delegating tasks? The approval script idea sounds powerful but I'm curious how you make it feel safe on a first run.",
+        "Quick question on positioning: are you pitching this as 'agents you can trust' or 'agents you can audit'? The approval script angle suggests the second, which feels like a sharper wedge against the flood of autonomous agent tools. Curious which one resonates in your early conversations."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1318689",
+    "platform": "producthunt",
+    "title": "Pinecall",
+    "author": "Bernardo Castro",
+    "url": "https://www.producthunt.com/products/pinecall",
+    "updated": "2026-11-16T02:54:15-08:00",
+    "body": "The open-source platform for voice AI agents",
+    "score": 1.9,
+    "ageHours": 33.6,
+    "hits": [
+      "platform",
+      "agents"
+    ],
+    "draft": {
+      "why": "PH launch for an open-source voice AI platform, likely dev-facing, so low direct fit for Ryan's B2B SaaS design work, but founders in comments may be relevant.",
+      "potential": 3,
+      "options": [
+        "Congrats on the launch! Curious who you're picturing as the first user here: is it developers prototyping voice agents for fun, or teams shipping production phone agents at companies? The answer probably changes what the first-run experience should look like.",
+        "Happy launch day! Honest question on positioning: with the space this crowded, is open source the main hook, or is there a specific use case (like support calls or outbound) where you think Pinecall beats the closed platforms? That answer probably deserves to be front and center in the tagline."
+      ]
+    }
+  }
+]
