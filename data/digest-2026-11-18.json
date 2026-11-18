@@ -1,0 +1,117 @@
+[
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1320668",
+    "platform": "producthunt",
+    "title": "Arcade",
+    "author": "Caroline Clark",
+    "url": "https://www.producthunt.com/products/arcade",
+    "updated": "2026-11-17T10:17:21-08:00",
+    "body": "AI video generator for marketing teams",
+    "score": 3.9,
+    "ageHours": 25.7,
+    "hits": [
+      "teams",
+      "marketing",
+      "team"
+    ],
+    "draft": {
+      "why": "Launching an AI video tool for marketing teams, a founder with budget who cares about positioning and conversion, and the PH page is visible to other B2B founders.",
+      "potential": 6,
+      "options": [
+        "Congrats on the launch! Quick question on who this is for first: is the sweet spot performance marketers churning out ad variations, or brand teams making polished one-off videos? Those two buyers want pretty different things from the same product.",
+        "Happy launch day! My hypothesis is that 'AI video generator' is a crowded label, so the teams that win this category pick a sharper wedge, like 'product launch videos for SaaS' or 'ad creative testing'. Are you positioning Arcade as a general tool or going deep on one use case first?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1319278",
+    "platform": "producthunt",
+    "title": "Ody Ai Business Phone",
+    "author": "Raphael Marchand",
+    "url": "https://www.producthunt.com/products/ody-ai-business-phone",
+    "updated": "2026-11-16T10:36:57-08:00",
+    "body": "Shared workspace + manageable AI agents",
+    "score": 1.7,
+    "ageHours": 49.3,
+    "hits": [
+      "agents",
+      "business",
+      "workspace"
+    ],
+    "draft": {
+      "why": "B2B SaaS founder launching an AI phone product on PH, likely needs design help with landing page and onboarding if it gains traction.",
+      "potential": 6,
+      "options": [
+        "Congrats on the launch! Curious who you're targeting first: a small team sharing one business number, or a support org replacing a call center? The setup flow for each is really different, and the first-run experience usually decides if they stick.",
+        "Congrats on launching! My read is the shared workspace is the actual hook and the AI agents are the shiny part. Is that how you're positioning it, or are you leading with the agents? The framing changes who signs up day one."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1320750",
+    "platform": "producthunt",
+    "title": "Microsoft IQ",
+    "author": "Shivam Kushwaha",
+    "url": "https://www.producthunt.com/products/microsoft-365",
+    "updated": "2026-11-17T11:34:13-08:00",
+    "body": "Give AI agents a shared understanding of your business",
+    "score": 2.3,
+    "ageHours": 24.4,
+    "hits": [
+      "agents",
+      "business"
+    ],
+    "draft": {
+      "why": "Big-name AI launch with wide visibility; commenting early gets Ryan's name in front of founder and product-literate readers even if Microsoft itself won't hire him.",
+      "potential": 4,
+      "options": [
+        "Congrats on the launch! Curious who you see as the first team to adopt this inside a company: is it the ops folks defining the business context, or the engineering teams wiring up the agents?",
+        "Congrats! My read is this could be positioned as an internal knowledge layer for enterprises, but I wonder if the sharper wedge is mid-size companies drowning in tribal knowledge. Is that the audience you're aiming at first?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1321152",
+    "platform": "producthunt",
+    "title": "worldinmotion",
+    "author": "Sean Dean",
+    "url": "https://www.producthunt.com/products/worldinmotion",
+    "updated": "2026-11-17T21:53:41-08:00",
+    "body": "Encrypted messages between AI agents, across vendors",
+    "score": 1.2,
+    "ageHours": 14.1,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "Launch-day comment on an AI infra product; some founders reading PH run B2B SaaS, but this is dev tooling with no obvious design surface Ryan fixes.",
+      "potential": 4,
+      "options": [
+        "Congrats on the launch! Who's the first user you built this for: AI agent frameworks themselves, or the teams building products on top of them? Curious how a first-time user actually wires up their first encrypted handshake.",
+        "Congrats on launching! Genuinely wondering about positioning here: is the pitch closer to 'TLS for agents' (pure infra) or more like a trust/identity layer? Those land pretty differently depending on whether your buyer is a dev or a platform team."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1321222",
+    "platform": "producthunt",
+    "title": "AssemblyAI-STT-3.7",
+    "author": "Harnoor Singh",
+    "url": "https://www.producthunt.com/products/assemblyai",
+    "updated": "2026-11-17T22:50:37-08:00",
+    "body": "Speech-to-Text for live calls, voice agents, and recordings",
+    "score": 1.2,
+    "ageHours": 13.1,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "Developer tool launch, not a design buyer, but a visible thread where a sharp question still fits Ryan's voice.",
+      "potential": 2,
+      "options": [
+        "Congrats on the launch! Curious who you're seeing get the most value first, contact centers doing QA on recordings, or teams building real-time voice agents where latency is the whole game?",
+        "Nice launch! My read is that 'works for live calls AND recordings' could blur the pitch, since buyers for each have very different checklists. Are you leading with one use case on the landing page, or keeping it broad on purpose?"
+      ]
+    }
+  }
+]
