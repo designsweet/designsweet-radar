@@ -1,0 +1,116 @@
+[
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1322288",
+    "platform": "producthunt",
+    "title": "Adside",
+    "author": "Garry Tan",
+    "url": "https://www.producthunt.com/products/adside",
+    "updated": "2026-11-18T16:52:42-08:00",
+    "body": "A team of specialized AI agents that manage paid ads for you",
+    "score": 2.6,
+    "ageHours": 19.1,
+    "hits": [
+      "agents",
+      "team"
+    ],
+    "draft": {
+      "why": "AI-for-ads tools target B2B founders with budget, and PH launch threads attract exactly the SaaS audience Ryan serves.",
+      "potential": 6,
+      "options": [
+        "Congrats on the launch! Curious who you had in mind as the first user: a founder running their own first ads, or a team replacing an agency? The onboarding for those two is completely different.",
+        "Happy launch day! My read is the strongest positioning here might be 'agency replacement for teams spending 5-50k a month' rather than a tool for beginners, since trust is the hard sell with automated spend. Is that the wedge you're aiming for?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1322382",
+    "platform": "producthunt",
+    "title": "ToolJet",
+    "author": "Navaneeth Padanna Kalathil",
+    "url": "https://www.producthunt.com/products/tooljet",
+    "updated": "2026-11-18T19:07:11-08:00",
+    "body": "Vibe-coded business apps that pass the security review",
+    "score": 1.5,
+    "ageHours": 16.9,
+    "hits": [
+      "business"
+    ],
+    "draft": {
+      "why": "ToolJet is a B2B dev tool with real funding and a big PH audience of founders, and the security angle suggests they're selling to enterprises where design credibility matters.",
+      "potential": 6,
+      "options": [
+        "Congrats on the launch! Curious who you're picturing as the first user: the ops person who builds the app, or the IT/security team that approves it? That first-run experience probably needs to speak to both, and those are very different onboarding flows.",
+        "Congrats! Quick positioning question: does 'vibe-coded' read as a plus to the security reviewers you're trying to win over, or is the real buyer the business team and security is just the gate you clear? Wondering if the tagline is aimed at the person with the budget or the person with the checklist."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1322251",
+    "platform": "producthunt",
+    "title": "Rezora IO",
+    "author": "Garry Tan",
+    "url": "https://www.producthunt.com/products/rezora-io-ai-calling-assistant",
+    "updated": "2026-11-18T15:23:32-08:00",
+    "body": "Shopify for AI voice agents: live in 10 minutes",
+    "score": 1.1,
+    "ageHours": 20.6,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "Founder launching an AI voice agent platform on PH, likely a B2B SaaS with budget who will need onboarding and landing page design help as they grow.",
+      "potential": 6,
+      "options": [
+        "Congrats on the launch. 'Live in 10 minutes' is a bold promise, curious what the first-time experience looks like: does a non-technical founder actually get a working agent on a call inside that window, or is 10 minutes to the test sandbox?",
+        "Happy launch day! Wondering about positioning here: are you targeting Shopify-style SMB owners who want a plug-and-play phone agent, or ops teams at bigger companies? The messaging feels SMB-friendly but voice AI buyers with real budgets often sit in support and sales teams.",
+        "question"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1321837",
+    "platform": "producthunt",
+    "title": "Noteshell",
+    "author": "Quang Nguyen",
+    "url": "https://www.producthunt.com/products/noteshell",
+    "updated": "2026-11-18T07:28:16-08:00",
+    "body": "AI teammates that build and run your workspace",
+    "score": 2.4,
+    "ageHours": 28.5,
+    "hits": [
+      "workspace",
+      "team"
+    ],
+    "draft": {
+      "why": "PH launch for an AI workspace tool, likely targeting teams and founders, which overlaps with Ryan's B2B SaaS audience.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch! Curious who you're building for first: is the ideal first user a solo founder automating their own ops, or a team lead trying to offload coordination work? Those two want pretty different first-run experiences.",
+        "Congrats on shipping! My hunch is \"teammates\" lands better than \"tools\" if the onboarding shows one agent doing a real task end to end in the first five minutes, rather than asking me to configure a workspace. Is that the first-time experience you're going for?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1319789",
+    "platform": "producthunt",
+    "title": "CodeDesign v3",
+    "author": "hakhil nizeem",
+    "url": "https://www.producthunt.com/products/codedesign",
+    "updated": "2026-11-16T21:24:17-08:00",
+    "body": "Run your website and business apps from ChatGPT or Claude",
+    "score": 1.2,
+    "ageHours": 62.6,
+    "hits": [
+      "business",
+      "your website"
+    ],
+    "draft": {
+      "why": "Launching an AI-built website/app tool aimed at people running businesses from ChatGPT or Claude; founders watching this launch are exactly Ryan's audience and the positioning overlap with design services is real.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch! Who's the first user you had in mind: a solo founder replacing their whole site, or a team that just wants quick internal tools? That answer changes a lot about how people will judge v3.",
+        "Big day, congrats! My guess is people will read this as a website builder, but the business apps angle might be the stronger wedge since website builders are crowded. Are you positioning it more for internal tooling than for marketing sites?"
+      ]
+    }
+  }
+]
