@@ -1,0 +1,113 @@
+[
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1323362",
+    "platform": "producthunt",
+    "title": "Conversaflex",
+    "author": "Séraphin Hochart",
+    "url": "https://www.producthunt.com/products/conversaflex",
+    "updated": "2026-11-19T10:59:59-08:00",
+    "body": "AI speaking practice for multilingual teams",
+    "score": 2.6,
+    "ageHours": 24.6,
+    "hits": [
+      "teams",
+      "team"
+    ],
+    "draft": {
+      "why": "B2B SaaS launch targeting multilingual teams, founders likely to engage with commenters and could need design help.",
+      "potential": 6,
+      "options": [
+        "Congrats on the launch! Curious who your first users are: is this aimed at team leads buying for their whole org, or individuals who want to level up their English at work? That changes a lot about the onboarding flow.",
+        "Happy launch day! I'm wondering about the positioning: are you competing with consumer apps like Duolingo, or is this more like an L&D tool that HR buys? Guessing the team angle pushes you toward the second, and that'd be a different pitch on the landing page."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1323414",
+    "platform": "producthunt",
+    "title": "Nova by Vybe",
+    "author": "Jean-Baptiste Coger",
+    "url": "https://www.producthunt.com/products/vybe-4",
+    "updated": "2026-11-19T11:54:06-08:00",
+    "body": "Nova audits your website free, then fixes what it finds",
+    "score": 1.3,
+    "ageHours": 23.7,
+    "hits": [
+      "your website"
+    ],
+    "draft": {
+      "why": "Launching a website audit and auto-fix tool likely attracts SaaS founders worried about conversion, an audience adjacent to Ryan's ideal clients.",
+      "potential": 6,
+      "options": [
+        "Congrats on the launch! Curious who you built this for first: indie founders auditing their own landing pages, or agencies running audits for clients? The onboarding for those two would be pretty different.",
+        "Fun concept, happy launch day. Quick question on positioning: are you pitching Nova as the audit tool that also fixes, or as a fixer that happens to audit first? I'd guess leading with the fix converts better, since audits alone can feel like homework."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1322985",
+    "platform": "producthunt",
+    "title": "Stormi",
+    "author": "ibrokhim abdivokhidov",
+    "url": "https://www.producthunt.com/products/stormi",
+    "updated": "2026-11-19T04:24:03-08:00",
+    "body": "An AI team on your iPhone that does real work",
+    "score": 1.1,
+    "ageHours": 31.2,
+    "hits": [
+      "team"
+    ],
+    "draft": {
+      "why": "AI assistant launches on PH attract founder readers, and a sharp question about the first-run experience can surface an onboarding design problem Ryan fixes.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch! 'Does real work' is a big promise, so I'm curious what the first thing is you have a new user actually accomplish with Stormi. That first completed task usually decides whether they come back.",
+        "Happy launch day! The tagline reads like it is aimed at busy solo operators rather than teams inside companies. Is that the bet, and if so does the pricing follow the solo user too?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1323494",
+    "platform": "producthunt",
+    "title": "Veryfi Thinking Mode",
+    "author": "Marianna Babayan",
+    "url": "https://www.producthunt.com/products/veryfi",
+    "updated": "2026-11-19T13:30:01-08:00",
+    "body": "AI agents review and correct receipt and invoice data.",
+    "score": 1,
+    "ageHours": 22.1,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "B2B SaaS in the expense/accounting automation space with a likely budget, and launch-day visibility puts Ryan's comment in front of other fintech founders.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch! Curious how the review-and-correct flow works the first time an agent flags something wrong: does the user get a simple approve/reject, or do they have to dig into the raw receipt data? That first trust moment is usually what makes or breaks adoption.",
+        "Interesting direction. Is the target user here the AP/bookkeeping team doing cleanup at scale, or the end user snapping receipts? Reading the tagline I'd guess finance ops, and if so it might be worth leading with accuracy rates and time saved rather than the AI agents angle, since that crowd buys on error reduction."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1323379",
+    "platform": "producthunt",
+    "title": "UndoGuard",
+    "author": "jort dockx",
+    "url": "https://www.producthunt.com/products/undoguard",
+    "updated": "2026-11-19T11:15:42-08:00",
+    "body": "The Ctrl+Z button for autonomous AI agents",
+    "score": 1,
+    "ageHours": 24.4,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "Launch-day comment on a dev-tool product; other founders read these threads, and undo/rollback UX is a real design problem Ryan could solve if the maker needs help.",
+      "potential": 4,
+      "options": [
+        "Congrats on the launch. When an agent takes a bad action, what does the actual undo flow look like for the user - one click to roll back, or do they see a diff of what it's about to reverse first?",
+        "Curious who you're picturing as the first users here: teams building agents who need this as infrastructure, or end users who want a safety net on tools they're already using? Feels like the positioning would be pretty different for each."
+      ]
+    }
+  }
+]
