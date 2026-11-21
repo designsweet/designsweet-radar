@@ -1,0 +1,46 @@
+[
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1322508",
+    "platform": "producthunt",
+    "title": "InteraOne",
+    "author": "Abhishek Kumbhar",
+    "url": "https://www.producthunt.com/products/interaone",
+    "updated": "2026-11-18T22:13:43-08:00",
+    "body": "Open-source Intercom & Zendesk alternative with AI agents",
+    "score": 0.5,
+    "ageHours": 60.5,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "Open-source support tool launching on PH; founders of dev-tool SaaS often become design clients, and open-source projects frequently need help with docs and onboarding UX.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch! Curious who you're targeting first: teams self-hosting for data control, or folks mainly looking to escape Intercom pricing? The answer probably changes what your landing page should lead with.",
+        "Congrats on shipping! My guess is the AI agents are the hook and open-source is the trust signal, so I'd expect the first-run experience to show an AI-resolved conversation within minutes of signup. Is that the onboarding flow today, or does setup get in the way?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1324299",
+    "platform": "producthunt",
+    "title": "gitroots",
+    "author": "Shawki Aladdin",
+    "url": "https://www.producthunt.com/products/gitroots",
+    "updated": "2026-11-20T05:22:16-08:00",
+    "body": "Path-level GitHub access for developers and AI agents",
+    "score": 0.9,
+    "ageHours": 29.3,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "Developer tool launching on PH; founder likely technical, but the AI-agent angle is hot and a good launch comment could open a relationship if their docs/onboarding need design help.",
+      "potential": 4,
+      "options": [
+        "Congrats on the launch! Curious about the first-time experience: when a developer connects a repo, what's the moment they see why path-level access beats a full-repo token?",
+        "Congrats on shipping! Wondering how you're positioning this: is the main buyer a dev securing their own repos, or teams building AI agents that need scoped access? Feels like those are two pretty different pitches."
+      ]
+    }
+  }
+]
