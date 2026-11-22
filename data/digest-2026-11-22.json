@@ -1,0 +1,46 @@
+[
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1325665",
+    "platform": "producthunt",
+    "title": "oovi",
+    "author": "Brahimi Oussama",
+    "url": "https://www.producthunt.com/products/oovi",
+    "updated": "2026-11-21T12:02:03-08:00",
+    "body": "Your own team of AI on your desktop",
+    "score": 1.4,
+    "ageHours": 23,
+    "hits": [
+      "team"
+    ],
+    "draft": {
+      "why": "Launch day thread with founder engagement; desktop AI team positioning could serve B2B SaaS users, and a sharp question can surface who the product targets.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch! Curious who you picture as the first user here: is this aimed at solo founders juggling multiple roles, or small teams augmenting what they already have? The answer changes a lot about how the first-run experience should introduce each AI 'teammate'.",
+        "Big milestone, well done. Reading 'your own team of AI on your desktop' I wonder if the strongest positioning is actually the desktop part rather than the team part, since privacy and local control are a sharper hook than another multi-agent pitch. Have you tested which framing resonates more with early signups?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1325043",
+    "platform": "producthunt",
+    "title": "Omi CLI",
+    "author": "Om Prakash Sahoo",
+    "url": "https://www.producthunt.com/products/omi-cli",
+    "updated": "2026-11-21T00:05:31-08:00",
+    "body": "AI coding agents that work while you're away.",
+    "score": 0.8,
+    "ageHours": 35,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "PH launch in the hot dev tools space; founders here often need landing page and onboarding design help soon after launch.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch! Curious who you built this for first: solo devs who want to queue up tasks overnight, or teams that want agents picking up backlog tickets? The answer changes a lot about how I'd expect the first-run experience to work.",
+        "Nice launch. Quick question on positioning: are you framing Omi as a replacement for pairing with an agent live, or as a second shift that hands you PRs to review in the morning? The tagline suggests the latter, and that seems like the stronger story if the review handoff is smooth."
+      ]
+    }
+  }
+]
