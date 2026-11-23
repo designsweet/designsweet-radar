@@ -1,0 +1,116 @@
+[
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1326090",
+    "platform": "producthunt",
+    "title": "Omi Work",
+    "author": "Om Prakash Sahoo",
+    "url": "https://www.producthunt.com/products/omi-work",
+    "updated": "2026-11-22T00:35:25-08:00",
+    "body": "Omi can build anything. Now it finds your next 100 customers",
+    "score": 1.8,
+    "ageHours": 38.8,
+    "hits": [
+      "customers",
+      "customer"
+    ],
+    "draft": {
+      "why": "Launch-day visibility on a customer-finding tool means the audience is full of B2B SaaS founders, many of whom have landing page and conversion problems Ryan fixes.",
+      "potential": 6,
+      "options": [
+        "Congrats on the launch! Curious who you've seen get the most value so far: is this aimed at founders doing their first outbound ever, or teams that already have a motion and want to scale it? The answer changes a lot about how the first session should feel.",
+        "Congrats! My guess is the positioning leans on 'finds your next 100 customers' as the hook, but I'd wonder if the sharper wedge is the 'how' (signal sources, personalization) since every founder has been burned by a lead list before. Which objection have you had to answer most today?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1326572",
+    "platform": "producthunt",
+    "title": "Replit Missions",
+    "author": "Shivam Kushwaha",
+    "url": "https://www.producthunt.com/products/replit",
+    "updated": "2026-11-22T09:13:25-08:00",
+    "body": "Set a budget, coordinate teams of AI agents,",
+    "score": 3.2,
+    "ageHours": 30.1,
+    "hits": [
+      "teams",
+      "agents",
+      "team"
+    ],
+    "draft": {
+      "why": "High-visibility launch from a known company, lots of founders reading, and agent-team products live or die on onboarding clarity, which is Ryan's territory.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch. Curious who you see as the first power user here: a solo founder spinning up agents to ship a side project, or a team lead delegating real product work? The answer changes a lot about what the first-run experience should show.",
+        "Congrats on shipping. My hunch is the budget angle is your strongest hook, since cost anxiety is what stops people from trusting agent swarms, so are you positioning this more as a control tool or as an automation tool?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1326030",
+    "platform": "producthunt",
+    "title": "Letter Visitors",
+    "author": "Garry Tan",
+    "url": "https://www.producthunt.com/products/visitors",
+    "updated": "2026-11-21T23:39:42-08:00",
+    "body": "See website visitors on your website itself",
+    "score": 1.8,
+    "ageHours": 39.7,
+    "hits": [
+      "visitors",
+      "your website"
+    ],
+    "draft": {
+      "why": "Founder launching a visitor analytics product, likely a SaaS with budget and ongoing design needs if it gains traction.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch! Curious about the first-time experience: when someone adds this to their site, what's the moment they see their first live visitor? That instant is usually what decides if they stick around.",
+        "Interesting concept. Is the positioning aimed at solo site owners who find Google Analytics overwhelming, or at teams who want a lightweight alternative to tools like Plausible? Feels like the answer changes a lot about how you'd present it."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1326568",
+    "platform": "producthunt",
+    "title": "Plango",
+    "author": "Rich Stureborg, PhD",
+    "url": "https://www.producthunt.com/products/plango",
+    "updated": "2026-11-22T09:08:26-08:00",
+    "body": "Plango lets your AI agents work all night - safely",
+    "score": 0.9,
+    "ageHours": 30.2,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "AI agent tooling launch with possible B2B buyers watching; good spot for a sharp question that shows product sense.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch! Curious who you built this for first: solo devs running side projects overnight, or teams that need audit trails when an agent goes off script?",
+        "Interesting framing. Are you positioning Plango as a safety layer for existing agent setups, or as the place people run their agents in the first place? Feels like those attract pretty different buyers."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1326513",
+    "platform": "producthunt",
+    "title": "Mobile Agent Testers",
+    "author": "Pierre Raffalli",
+    "url": "https://www.producthunt.com/products/mobile-agent-testers",
+    "updated": "2026-11-22T08:08:46-08:00",
+    "body": "Free open-source AI agents that beta-test your app on phones",
+    "score": 0.9,
+    "ageHours": 31.2,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "Open-source dev tool aimed at app builders, so the audience skews technical rather than SaaS founders with design budgets, but launch threads still attract builders who may need design help later.",
+      "potential": 4,
+      "options": [
+        "Congrats on the launch! Curious who you see getting the most value first: indie devs who can't afford a QA pass, or teams that already have testers and want more coverage? The answer probably changes how you explain the setup.",
+        "Launching an open-source agent as a 'beta tester' is interesting positioning. My guess is teams will read that as 'replacement for human testers' and get skeptical. Have you thought about framing it as catching the boring regressions so humans can focus on feel?"
+      ]
+    }
+  }
+]
