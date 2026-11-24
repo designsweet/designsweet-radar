@@ -1,0 +1,117 @@
+[
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1327983",
+    "platform": "producthunt",
+    "title": "Finseo",
+    "author": "David Mühlenweg",
+    "url": "https://www.producthunt.com/products/finseo-ai",
+    "updated": "2026-11-23T08:47:25-08:00",
+    "body": "Company brain + outreach to get your brand mentioned by AI",
+    "score": 4.5,
+    "ageHours": 29.2,
+    "hits": [
+      "company",
+      "seo",
+      "outreach",
+      "brand"
+    ],
+    "draft": {
+      "why": "AI visibility for brands is a hot niche with founder budget, and PH launches put Ryan in front of many B2B SaaS readers.",
+      "potential": 6,
+      "options": [
+        "Congrats on the launch! Curious who you see as the first user: is this for founders doing their own outreach, or for marketing teams at companies that already show up in AI answers and want to defend that?",
+        "Congrats on launching! Reading the tagline, I'd guess you're positioning against traditional SEO tools, as in 'SEO but for ChatGPT.' Is that the framing you want people to land on in the first 10 seconds, or are you aiming at PR and comms teams instead?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1327970",
+    "platform": "producthunt",
+    "title": "Viktor Code",
+    "author": "Matt Swulinski",
+    "url": "https://www.producthunt.com/products/viktor",
+    "updated": "2026-11-23T08:35:13-08:00",
+    "body": "Coding agents know your repo. Viktor knows your company.",
+    "score": 2.1,
+    "ageHours": 29.4,
+    "hits": [
+      "agents",
+      "company"
+    ],
+    "draft": {
+      "why": "Product Hunt launch for an AI coding/company-context tool; founder likely B2B SaaS, and PH threads get founder eyes.",
+      "potential": 6,
+      "options": [
+        "Congrats on the launch! Curious who you built this for first: eng leads at bigger teams, or founders at small startups where 'company context' lives in a few people's heads?",
+        "Congrats on shipping! Positioning guess: you're not competing with coding agents, you're competing with onboarding docs and Slack archaeology. Is that the wedge you're leading with?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1327369",
+    "platform": "producthunt",
+    "title": "Clam AI",
+    "author": "Stratos Pavlakis",
+    "url": "https://www.producthunt.com/products/clam-ai",
+    "updated": "2026-11-23T00:44:25-08:00",
+    "body": "Your inbox, safely shared with AI agents",
+    "score": 0.7,
+    "ageHours": 37.2,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "Launch-day comment on an AI email tool; founders launching on PH often need landing page and onboarding design help soon after.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch! Quick question: when someone connects their inbox for the first time, how do you show them what an agent can and can't touch? That first-run trust moment seems like the make-or-break for a product like this.",
+        "Happy launch day! Curious who you're aiming at first: busy founders drowning in email, or teams that want shared agent access to a support inbox? The tagline reads personal, but the 'shared' part makes me think team use case, and those are pretty different products to position."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1328122",
+    "platform": "producthunt",
+    "title": "Even G2 Enterprise SDK",
+    "author": "Shivam Kushwaha",
+    "url": "https://www.producthunt.com/products/even-g2",
+    "updated": "2026-11-23T10:57:21-08:00",
+    "body": "Build custom business apps for Even G2 smart glasses",
+    "score": 1.2,
+    "ageHours": 27,
+    "hits": [
+      "business"
+    ],
+    "draft": {
+      "why": "Hardware SDK launch with enterprise angle; the team behind it will be reading comments closely on day one, and enterprise tooling companies often need design help for docs, dashboards, and onboarding.",
+      "potential": 4,
+      "options": [
+        "Congrats on the launch! Curious who you're picturing as the first wave of builders here: is it developers inside companies that already deployed G2s, or agencies and indie devs looking to pitch glasses apps to clients?",
+        "Congrats on shipping this! I'm guessing the wedge is field and logistics teams rather than general enterprise, since hands-free is the obvious win there. Is that the positioning you're leading with, or are you keeping it broad?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1327943",
+    "platform": "producthunt",
+    "title": "Fleetify",
+    "author": "Doruk",
+    "url": "https://www.producthunt.com/products/fleetify",
+    "updated": "2026-11-23T08:11:52-08:00",
+    "body": "Open-source command center for your AI coding agents",
+    "score": 0.9,
+    "ageHours": 29.8,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "Launch-day comment on a dev tool; the founder likely isn't a design buyer, but visible PH threads can put Ryan in front of other SaaS founders watching the launch.",
+      "potential": 3,
+      "options": [
+        "Congrats on the launch! Curious about the first five minutes: when someone spins Fleetify up with their agents for the first time, what's the moment where it clicks and they go 'ok, I needed this'?",
+        "Congrats on launching! The word 'command center' sets a pretty broad expectation. Are you aiming at solo devs juggling a few agents, or teams coordinating lots of them? Feels like those are two different products under one roof.",
+        "Nice launch! With so many agent tools right now, the open-source angle is a strong differentiator. Is the long-term play a hosted/team version on top, or is the community the whole point?"
+      ]
+    }
+  }
+]
