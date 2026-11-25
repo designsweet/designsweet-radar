@@ -1,0 +1,113 @@
+[
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1329703",
+    "platform": "producthunt",
+    "title": "MemoryWorks",
+    "author": "Sanket Bhangale",
+    "url": "https://www.producthunt.com/products/memoryworks",
+    "updated": "2026-11-24T12:30:45-08:00",
+    "body": "Company memory for people and AI agents",
+    "score": 2.3,
+    "ageHours": 24.6,
+    "hits": [
+      "agents",
+      "company"
+    ],
+    "draft": {
+      "why": "Founder launching a B2B knowledge tool on PH; if it gains traction they'll need landing page and onboarding design help soon.",
+      "potential": 6,
+      "options": [
+        "Congrats on the launch! Curious who you see adopting this first: teams onboarding new hires, or support/sales folks who need instant context? That first user shapes the whole first-run experience.",
+        "Happy launch day! My read from the tagline is you're really selling 'stop losing decisions to Slack history', with agents as the hook. Is that the positioning you're leading with, or is the AI agent angle the primary story?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1329374",
+    "platform": "producthunt",
+    "title": "MyClaw 3.0",
+    "author": "Amy",
+    "url": "https://www.producthunt.com/products/myclaw-3-0",
+    "updated": "2026-11-24T07:39:09-08:00",
+    "body": "Build an always-on AI team with shared memory",
+    "score": 1.2,
+    "ageHours": 29.4,
+    "hits": [
+      "team"
+    ],
+    "draft": {
+      "why": "AI agent products attract founder and early-adopter attention on PH; a sharp question can start a conversation with a team that likely needs design help as they scale.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch! Quick question: when someone sets up their first AI teammate, what does the first 10 minutes look like? Onboarding is where agent tools usually lose people, so curious how you've made shared memory feel tangible right away.",
+        "Interesting positioning question: are you aiming this at solo founders replacing their first hires, or at teams adding AI alongside existing staff? 'AI team with shared memory' could land very differently for each, and I'm curious which user you designed the first-run experience around."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1330145",
+    "platform": "producthunt",
+    "title": "OpenEight",
+    "author": "Vasu Dokala",
+    "url": "https://www.producthunt.com/products/openeight",
+    "updated": "2026-11-24T22:58:59-08:00",
+    "body": "The deterministic control layer for AI agents",
+    "score": 1.2,
+    "ageHours": 14.1,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "AI dev tooling launch with likely VC backing; founder could need marketing site work later, and PH threads get founder eyeballs.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch. Curious who you picture as the first user: the ML engineer building agents in-house, or the platform team that has to keep them from going off the rails? Asking because those two buy very differently.",
+        "Happy launch day! Quick hypothesis: 'deterministic control layer' sounds like infra, but your real buyer might be someone with a compliance problem, like fintech or health teams scared to ship agents. Is that who you're seeing sign up, or is it more general dev tooling?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1329880",
+    "platform": "producthunt",
+    "title": "Statefold",
+    "author": "Mohammed Farmaan",
+    "url": "https://www.producthunt.com/products/statefold-2",
+    "updated": "2026-11-24T17:45:57-08:00",
+    "body": "Coding agents that keep working while you're away",
+    "score": 1.1,
+    "ageHours": 19.3,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "AI dev tools launches pull big founder audiences on PH, so a good comment gets seen even if the maker isn't a direct client fit.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch! Curious how you handle the moment someone comes back to 3 finished tasks: is there a review queue, or do they just land in one stream? That first 'catch up' experience feels like the make-or-break part of async agents.",
+        "Congrats on shipping! Wondering about positioning: are you going after solo devs who want a second pair of hands, or teams trying to clear backlog? The tagline reads consumer-friendly, but 'keep working while you're away' could sell hard to eng leads with budget."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1329956",
+    "platform": "producthunt",
+    "title": "Hiring Right Now",
+    "author": "Kevin William David",
+    "url": "https://www.producthunt.com/products/hiring-right-now",
+    "updated": "2026-11-24T19:54:59-08:00",
+    "body": "Which startups would hire you?",
+    "score": 1.5,
+    "ageHours": 17.2,
+    "hits": [
+      "startup"
+    ],
+    "draft": {
+      "why": "Launch-day comment on a hiring/matching tool; founders reading PH comments here could include B2B SaaS builders, but the product itself is consumer/jobs-focused.",
+      "potential": 3,
+      "options": [
+        "Congrats on the launch! Curious who you're building for first: candidates browsing anonymously, or startups trying to surface warm matches? That choice changes the whole first-run experience.",
+        "Congrats! My guess is the 'would hire you' framing pulls more signups than a plain job board, since it flatters the candidate. Is that the wedge, or is the real differentiation on the startup side?"
+      ]
+    }
+  }
+]
