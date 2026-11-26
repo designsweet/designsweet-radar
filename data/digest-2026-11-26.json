@@ -1,0 +1,114 @@
+[
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1329325",
+    "platform": "producthunt",
+    "title": "Bifura",
+    "author": "Konrad Pacula",
+    "url": "https://www.producthunt.com/products/bifura",
+    "updated": "2026-11-24T07:04:58-08:00",
+    "body": "See your website the way AI agents do",
+    "score": 1.1,
+    "ageHours": 53.8,
+    "hits": [
+      "agents",
+      "your website"
+    ],
+    "draft": {
+      "why": "Founder launching an AI-agent-focused tool; likely a B2B SaaS play with budget, and launch threads get read by other founders thinking about AI-driven traffic to their sites.",
+      "potential": 6,
+      "options": [
+        "Congrats on the launch. The pitch is clear, but who is this built for first, SEO teams, devs, or marketers? The onboarding probably needs to speak to one of them hard before the others.",
+        "Interesting angle. My hypothesis as a question: is the real wedge teams watching AI crawlers hit their site today, or people prepping for agentic shopping later? Whichever it is, I'd make the landing page pick one, because 'see your site like AI does' can read as either."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1330907",
+    "platform": "producthunt",
+    "title": "DeskFleet",
+    "author": "Delton",
+    "url": "https://www.producthunt.com/products/deskfleet",
+    "updated": "2026-11-25T09:17:28-08:00",
+    "body": "Run coding agents together across your team’s machines",
+    "score": 2.2,
+    "ageHours": 27.6,
+    "hits": [
+      "agents",
+      "team"
+    ],
+    "draft": {
+      "why": "Dev-tool launch in the hot coding-agent space; team-oriented pricing means budget, and founders of infra tools often need help making their site and onboarding comprehensible to non-dev buyers.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch! Who's the first person on a team to set this up, the eng lead managing the fleet or the individual dev who just wants more agents running? That answer changes a lot about your onboarding flow.",
+        "Happy launch day! Curious how you're positioning this against just giving everyone their own cloud agents. Is the pitch cost (use machines you already own) or keeping code off third-party infra? Feels like those attract pretty different buyers."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1331389",
+    "platform": "producthunt",
+    "title": "AgentDE",
+    "author": "Andrey Kurenkov",
+    "url": "https://www.producthunt.com/products/agentde",
+    "updated": "2026-11-25T19:15:08-08:00",
+    "body": "Put all your coding agents in one native Mac window",
+    "score": 1.1,
+    "ageHours": 17.7,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "Dev tool launch with paying potential if the founder builds more products, plus high founder traffic on PH",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch! Curious who you're picturing as the core user here: someone running multiple agents in parallel on one project, or someone juggling agents across several different codebases? That changes what the first screen should lead with.",
+        "Congrats! My guess is the strongest positioning isn't 'one window for agents' but 'the mission control for parallel agent work,' since the pain people feel is losing track of what each agent is doing, not having too many windows. Does that match what you're seeing from early users?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1331155",
+    "platform": "producthunt",
+    "title": "WhipDesk",
+    "author": "Binary",
+    "url": "https://www.producthunt.com/products/whipdesk",
+    "updated": "2026-11-25T13:44:16-08:00",
+    "body": "Control AI coding agents from your phone",
+    "score": 1,
+    "ageHours": 23.2,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "Launch-day visibility on a dev tool with founder engagement; PH threads attract SaaS builders who could be design clients.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch. Curious who you picture using this most: solo devs checking on long-running agents from the couch, or teams where someone needs to approve agent actions away from their desk?",
+        "Nice launch. My guess is the killer use case is unblocking agents that pause for approval, not full coding from a phone. Is that the workflow you're positioning around, or are you seeing people do more than that?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1331659",
+    "platform": "producthunt",
+    "title": "Claude-Mem Cloud Sync",
+    "author": "Alex Newman",
+    "url": "https://www.producthunt.com/products/claude-mem",
+    "updated": "2026-11-25T23:58:18-08:00",
+    "body": "Switch devices. Keep your AI agents' memory.",
+    "score": 1.2,
+    "ageHours": 13,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "PH launch for a dev tool with a clear hook; maker is likely technical and engaged, low odds of a design client but a good question can still start a conversation.",
+      "potential": 3,
+      "options": [
+        "Congrats on the launch. When someone sets this up for the first time, what's the moment they actually feel the value: the first device switch, or when an agent picks up an old thread correctly?",
+        "Happy launch day. Curious who you see as the core user here: solo devs bouncing between laptop and desktop, or teams sharing agent context across a whole org? The positioning feels like it could go either way."
+      ]
+    }
+  }
+]
