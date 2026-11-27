@@ -1,0 +1,112 @@
+[
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1332760",
+    "platform": "producthunt",
+    "title": "Depost AI",
+    "author": "Aleksandar Blazhev",
+    "url": "https://www.producthunt.com/products/depost-ai",
+    "updated": "2026-11-26T19:17:55-08:00",
+    "body": "The LinkedIn AI agent that learns what works for your brand",
+    "score": 1.1,
+    "ageHours": 17.4,
+    "hits": [
+      "brand"
+    ],
+    "draft": {
+      "why": "Founder launching a LinkedIn AI agent on PH; LinkedIn growth tools often target B2B founders, who are Ryan's exact client pool.",
+      "potential": 6,
+      "options": [
+        "Congrats on the launch! Curious how the learning loop works on day one: does someone need a decent post history before Depost figures out what works for their brand, or do you seed it from their industry?",
+        "Congrats on launching! I wonder if the strongest positioning is founders building in public rather than brands in general, since they post most and have the clearest voice to learn. Was that a deliberate choice?"
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1330977",
+    "platform": "producthunt",
+    "title": "Remora",
+    "author": "Prasanna P. Singh",
+    "url": "https://www.producthunt.com/products/remora-6",
+    "updated": "2026-11-25T10:28:50-08:00",
+    "body": "The long-term memory layer for AI agents",
+    "score": 0.5,
+    "ageHours": 50.2,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "AI dev tools attract a founder-heavy PH audience, and a launch-day reply can surface the maker plus other B2B founders reading the thread.",
+      "potential": 6,
+      "options": [
+        "Congrats on the launch! Quick question on positioning: who's the first user you picture for this, a solo dev wiring up a personal agent, or teams running agents in production? I think the answer changes how you frame the whole page.",
+        "Happy launch day! I'm curious about the first-run experience: when someone plugs Remora into an existing agent, how long until they actually see the memory pay off? That 'time to aha' is usually the thing that makes or breaks infra tools like this."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1332536",
+    "platform": "producthunt",
+    "title": "Ploid",
+    "author": "Nico Lumma",
+    "url": "https://www.producthunt.com/products/ploid",
+    "updated": "2026-11-26T13:06:26-08:00",
+    "body": "People search for AI agents, across 2B+ profiles",
+    "score": 1,
+    "ageHours": 23.6,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "Early-stage SaaS launch with a B2B angle; founder is active today and a sharp question could open a conversation about their positioning and onboarding.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch! Curious who you see as the first power user here: recruiters, sales teams, or founders hunting for a specific kind of agent? The answer would shape a lot about how the search flow should work.",
+        "Happy launch day! Quick hypothesis as a question: are you positioning this more as a search engine for agents or as a hiring tool? Those feel like two very different first-time experiences, and I'm curious which one you're betting on."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1331479",
+    "platform": "producthunt",
+    "title": "Periscope",
+    "author": "Rayan Saleh",
+    "url": "https://www.producthunt.com/products/periscope-4",
+    "updated": "2026-11-25T21:10:12-08:00",
+    "body": "Turn any work into an API",
+    "score": 0.5,
+    "ageHours": 39.5,
+    "hits": [
+      "api"
+    ],
+    "draft": {
+      "why": "B2B dev-tool launch where the tagline is vague, so sharp questions about audience and first-use experience could surface positioning work Ryan does.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch! 'Any work into an API' is a big promise. Who's the first user you had in mind, ops folks automating spreadsheets or developers wrapping internal tools? Curious what the very first run feels like for someone with zero setup.",
+        "Happy launch day! Honest question on positioning: are you pitching this as a replacement for internal tooling teams build themselves, or as a way for non-engineers to ship automations? The tagline reads like it could be either, and those are pretty different buyers."
+      ]
+    }
+  },
+  {
+    "id": "tag:www.producthunt.com,2005:Post/1330765",
+    "platform": "producthunt",
+    "title": "Ottante",
+    "author": "Gian Luca Partengo",
+    "url": "https://www.producthunt.com/products/ottante",
+    "updated": "2026-11-25T07:15:16-08:00",
+    "body": "Checks the work your AI agents did, right on your Mac",
+    "score": 0.5,
+    "ageHours": 53.4,
+    "hits": [
+      "agents"
+    ],
+    "draft": {
+      "why": "Early-stage dev tool launch on PH; founder may have budget and visibility is decent, though it's a niche Mac utility rather than B2B SaaS with an obvious design problem.",
+      "potential": 5,
+      "options": [
+        "Congrats on the launch! Quick question on the first-time experience: after an agent finishes a task, what does Ottante actually show me, a diff view, a checklist, or something closer to a review summary?",
+        "Curious who you picture as the core user here. Is this for solo devs running agents daily, or are you positioning it as a team tool where a lead reviews agent output before it ships?"
+      ]
+    }
+  }
+]
